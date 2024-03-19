@@ -1,0 +1,1919 @@
+saanchaa:java platforms Sun has defined and supported four versions of Java targeting various application environments and fragmented their apis so that they could be related to one platform
+ plateform nimnlikhit hai: Classes in Java apis are organized into separate groups called packages
+ har package main sambandhit antarfalak, claason, exsepshan ke set sammilit hote hai
+ For details of available packages, refer to the description of different platforms
+ san ne personlajava naam kaa sanskaran bhi pradaan kiya, jo baad vaale maanakta-aadhaarit java ME vinyas-profil parings dwaara pradaan kiya gaya
+ Java is used extensively for the development of opensource software
+ iske kuch kaaran iskaa muft hona, cross praletform hona, unicode sakasham hona aadi hai
+ Java Indic fully supports Unicode, so is very useful for software development for Indian languages
+ saanchaa:java saanchaa:sun Microsystems Windows Mobile is an operating system developed by Microsoft for smartphones and other mobile devices
+ yah microsoft windos kaa mobile sanskaran he
+ It is based on Windows CE
+ isamen windos epiai aadhaarit kai mul aplication shaamil hai
+ It is designed like a desktop version of Windows based on properties and interfaces
+ iske atirikt iske liye third party software uplabdh hai
+ These software can be purchased from Windows Mobile Market Place
+ iskaa naveenatam sanskaran windos mobile profeshnal 6
+5
+3 he
+ Version 7 - Windows Phone 7 Series is in development stage
+ windos mobile yukt phone nirmaataaon main muchatisi, imet aadi pramukh hai
+ Apart from this, models of other companies like Sony Ericsson, Alji, Spice etc
+ are also available
+ windos mobile main difolt rup se hindi samarthan nahin hota parantu iske liye yrons hindi saport naamak ek aujaar uplabdh he jo ki phone main hindi taxt kaa pradarshan evam input sakasham kar detaa he
+ It adds a virtual keyboard to the phone so that you can write Hindi anywhere in the phone
+ yadhyapi yah software keval windos mobile ke sanskaran paanch or chah profeshnal par hi kaam karegaa or phone tach screen vaala hona chahie
+ See full process information here
+ saanchaa:microsoft windos parivaar [ hasya premakahani ek filmi vidha he jisamen ek athwa adhik bhavuk prem kahaniyaan dikhai jaati hai jo prasannchit kare, vinodpurn vinamrata ho or premparak vichaar prastut kare or sabhi baadhaon ko aasaani se aage badhane den
+ 
+
+
+ ek shabdkosh paribhaasha is prakaar he- "ek hasyajanak chalchitr, khel athwa ek televijan program jo ek prem katha ho or jiskaa ant khushi purvak ho
+ According to another definition - "the primary characteristic is the love story in which the union and union of two loveable and sympathetic lovers of each other
+ yah uttar america mahadweep main caribbean kshetra main ek desh he
+ The term nervous nineties is commonly used in the game of cricket
+ yah shabd samikshatmak rup main us samay kaam main lee jaati he jab koi ballebaaj kisi match main apana score 90 ran se upar bana letaa he lekin shatak banane main safal nahin ho paata
+ Hence, due to impatience of the batsman's condition and the number of runs scored ninety it is called nervous nineties
+ narula main bharat ke bihar rajya ke antargat magadh mandal ke aurangabad jile kaa ek gaanv he
+ Pramod Muthalik is the national president of Shri Ram Sena Salt Hinduist Organization
+ uttar karnataka ke bagalkot main janme muthalik ne apane shuruaati din hindu dakshinpanthi sanghathan rashtriya swayamsevak sangh ke saath gujaarey
+ ve 13 saal kii umr se hi shakha jane lage the
+ In 1996, his seniors in the RSS sent Muthalik to his associate organization Bajrang Dal
+ dal kaa dakshin bharat kaa sanyojak banane main muthalik ko ek saal se bhi kam samay laga
+ Those who know Muthalik are called ambitious, devoted and sharp speakers
+ aresas or iske duusare sanghathanon ke saath apane 23 saal ke judaav main muthalik kaa kai baar kanoon se aamanaa-saamana hua or apane upar lage bhadakaau bhaashan dene ke aaropon ke chalate inako kai baar jail bhi janaa padaa
+ When he did not get any political benefit from his so-called dedication to Hindutva, he broke his ties with the RSS in 2004
+ inhone daawa kiya ki aresas or isse jude anya sanghathan paryaapt sakhti na apanaakar hindu hiton se gaddari kar rahe hai
+ After this it was expected that since the establishment in 2007, the politics of very radical Hindutva became the identity of Shri Ram Sena
+ muthalik kehete hai ki hinsa hi aage badhane kaa ekmaatr rasta he
+ In 2008, Muthalik formed the Rashtriya Hindutva Sena, which is the political wing of the Sri Ram Sena, in an attempt to come to the central stage of politics
+ lekin yah buree tarah se naakaam rahi
+ None of its candidates who contested the election could register their presence
+ tahalaka naamak samachar patr se baat karte hue muthalik ne camere ke saamne yah sweekaar kiya ki uske ummidavaar rajya chunaav isliye haar gaye kyonki 'hamen kaamyaab hone ke liye paisa, dharm or thagon kii jarurat he
+ We did not know this
+ aaj kii raajnneetik sthiti badtar ho gai he
+ ' chunavi raajnneeti main phir se lautne kii koshish ke pher main muthalik or shri ram sena ne or adhik kattar rukh apanaate hue 'hindu' pahchaan ko majbootee dene kii yojanaon ke ek silsile kii shuruyaat kii
+ Though this organization has a strong base in coastal and some areas of North Karnataka, its activities are not limited to these areas
+ 24 agast 2008 ko dilli main shri ram sena ke kuch sadsy sahamat naamak enjio dwaara yojit ek kala pradarshnee main ghus gaye or emef hossain kii anek tasaveeron ko nasht kar diya
+ a month later in September, speaking at a public meeting in Mangalore, Muthalik referred to the Bangalore bombings, and announced that 700 members of the army were training to carry out suicide attacks
+ usne ghoshnaa kii, 'ab hamaare paas or dhairya nahin he
+ To save Hinduism, the only mantra of tit is left with us
+ agar hinduon ke dharmik mahatv ke sthalon ko nishaanaa banaaya gaya to virodhiyon ko kuchal diya jayega
+ If Hindu girls are used by boys of other religions, then twice as many girls of other religions will be targeted
+ ' In 2014, he was associated with a political party named Bharatiya Janata Party, but was expelled from that party soon after
+ padmaprabh ji vartmaan avasarpini kaal ke chathe tirthankar he
+ Kalachakra has two parts - Utsarpini and Awasarpini
+ ek kalchakra ke donon bhaagon main 24-24 tirthankarasn kaa janm hota he
+ Rishabhdev i and Lord Mahavira were the last Tirthankaras of the Chabasi of the present Avasarpini period
+ guuruuvaar saptaah kaa paanchava din he
+ It is also called Thursday, Thursday or Beef
+ yah buudhvaar ke baad or shuukravaar se pehle aata he
+ Muslims call it Zumarat because it comes one day before Jumma
+ hindu dharm main is din kaa vishesh mahatv he
+ This day is dedicated to Lord Vishnu
+ is din bal nahin katwanaa chaiye
+ Soap and oil should not be used
+ dhan or vidya ki haani hoti he
+ There is a saying in Awadhi language: - dhana dhan se adrani, to bife ko tel nahaani
+ Meaning if you feel that you have got a lot of money then start applying oil on Thursday
+ is din kele kii puja kerani chahie
+ The house should be dung with cow dung
+ kalavati kanya or leelavati kanya kii katha sunne chahie
+ Yellow food should be taken
+ shiksha main gyaan, uchit aacharan or takneekee dakshata, shikshan or vidya prapti aadi samavisht hai
+ In this way it focuses on skills, trades or occupations and the growth of mental, moral and aesthetic
+ shiksha, samaaj kii ek peedi dwaara apane se nichali peedi ko apane gyaan ke hastantaran kaa prayaas he
+ In this view, education works as an institution, which plays an important role in connecting the individual with the society and maintains the continuity of the culture of the society
+ baccha shiksha dwaara samaaj ke aadharbhoot niyamon, vyavasthaaon, samaaj ke pratimaanon evam mulyon ko sikhta he
+ a child is able to connect with the society only when he is oriented with the history of that particular society
+ shiksha vyakti kii antarnihit kshamta tathaa uske vyaktitva kaa viksit karne vaali prakriya he
+ This process socializes him to play the role of an adult in the society and provides the necessary knowledge and skills for a person to become a member of the society and a responsible citizen
+ shiksha shabd sanskrit bhashaa kii ‘shiksh’ dhaatu main ‘a’ pratyay lagane se bana he
+ 'shiksh' means to learn and teach
+ ‘shiksha’ shabd kaa arth hua seekhney-sikhaane kii kriya
+ When we look at the use of the word education, it is broadly used in two forms, in broad and narrow form
+ vyapak arth main shiksha kisi samaaj main sadaiv chalane vaali soddeshy saamaajik prakriya he jiske dwaara manushya kii janmajaat shaktiyon kaa vikaas, uske gyaan evam kaushal main vruddhi evam vyavhaar main parivartan kiya jaataa he or is prakaar use sabhy, susanskrit evam yogya naagarik banaaya jaataa he
+ a man receives and gets new experiences every minute, which affects his day-to-day behavior
+ uskaa yah siikhnaa-sikhaanaa vibhinn samoohon, utsavon, patr-patrikaon, doordarshan aadi se anaupchaarik rup se hota he
+ This learning and teaching come in a wide and elaborate form of education
+ sankuchit arth main shiksha kisi samaaj main ek nishchit samay tathaa nishchit sthanon main suniyojit dhang se chalane vaali ek soddeshy saamaajik prakriya he jiske dwaara chaatr nishchit paathyakram ko padhakar anek parikshaon ko uteern karnaa sikhta he
+ Education is a dynamic process Nikhil , samajashastriyon, manovaigyanikon va nitikaron ne shiksha ke sambandh main apane vichaar die hai
+ These ideas also help us understand the meaning of education
+ kuch shiksha sambandhi mukhya vichaar yahan prastut kiye ja rahe hai - The main objective of education in ancient India is the desire for 'mukti'
+ baad main samay ke rup badalane se shiksha ne bhi usee tarah uddeshy badal liye
+ From the point of view of system, there are three forms of education - aupchaarik shiksha niraupchaarik shiksha anaupchaarik shiksha The education that goes on in schools, colleges and universities is called formal education
+ is shiksha ke uddeshy, paathyacharya or shikshan vidhiyaan, sabhi nishchit hote hai
+ It is planned and has a rigorous plan
+ isamen seekhney waalon ko vidhyalay, mahavidhyalay athwa vishvavidhyalay kii samay sarini ke anusaar kaary karnaa hota he
+ It has a system of taking exams and providing certificates
+ is shiksha kii sabase badi visheshta yah he ki yah vyakti, samaaj or raashtra kii aavashyaktaaon kii purti karti he
+ It develops knowledge and skills in a person and makes him / her eligible for any business or industry
+ parantu yah shiksha badi vyay-saadhy hoti he
+ With this, money, time and energy all have to be spent
+ vah shiksha jo aupchaarik shiksha kii bhanti vidhyalay, mahavidhyalay, or vishvavidhyalayon kii seemaa main nahin baandhi jaati he
+ But like formal education, its purpose and curriculum are fixed, the only difference is in its planning which is very flexible
+ iskaa mukhya uddeshy saamaanya shiksha kaa prasar or shiksha kii vyavastha karnaa hota he
+ Its curriculum has been fixed keeping in mind the needs of the learners
+ shikshanvidhiyon va seekhney ke sthanon va samay aadi seekhney waalon kii suvidhananusaar nishchit hota he
+ Adult education, continuing education, open education and distance education are all different forms of non-formal education
+ is shiksha kii sabase badi visheshta yah he ki iske dwaara un bacchon / vyaktiyon ko shikshit kiya jaataa he jo aupchaarik shiksha kaa laabh nahin uthaa paae jaise - This education also imparts continuity to the education of the individual, he is introduced to the new inventions of his field and trained to meet the needs of the time
+ vah shiksha jisaki koi yojana nahin banaai jaati he; jiske na uddeshy nishchit hote hai na paathyacharya or na shikshan vidhiyaan or jo aakasmik rup se sadaiv chalati rahati he, use anaupchaarik shiksha kehete hai
+ This education goes on throughout the life of a human being and it has the most impact on him
+ manushya jivan ke prayek kshan main is shiksha ko letaa rahata he, prayek kshan vah apane sampark main aae vyaktiyon va vaataavaran se sikhta rahata he
+ The child's first education is completed by living in a home in an informal environment
+ jab vah vidhyalay main aupchaarik shiksha grahan karne aata he to ek vyaktitva ke saath aata he jo ki uski anaupchaarik shiksha kaa pratifal he
+ In order to give proper direction to the language and conduct of a person, to organize his experiences, to train him in any task according to his interest, tendency and ability, and for the promotion and propagation of public education, we are required to legislate formal and non-formal education
+ 
+ shiksha pranaaliyon shiksha or prashikshan pradaan karne ke liye, aksar bacchon or yuvaaon ke liye sthapit kii jaati he ek paathyakram chaatro ko kya pataa hona chahie, bodh or shiksha ke parinaam ke rup main karne ke laayak samaj ko paribhaashit karata he
+ The profession of teaching provides learning that enables a system of learning and policy, rules, examinations, structures and financing, and financing helps teachers teach their talents to the utmost potential
+ kabhi kabhi shiksha pranali siddhanton yaa aadarshon evam gyaan ko badhaava dene ke liye prayog kii jaati he jise saamaajik abhiyantriki kaha jaataa he visheshtah adhinayakawadi rajyon or sarkaar main yah vayavastha ke raajnneetik durupyog ko badhaava de saktaa he
+ Google Wave is a synchronous conferencing means of communication by computer
+ beyrut lebanon kii rajdhani or sabase bada shahar he
+ However, no recent census has been done here
+ isaki san 2007 kii aabaadi kaa anumaan 10 or 20 lakh ke bich lagaaya jaataa he
+ It is situated on a small peninsula approximately in the middle of the coast along the Mediterranean Sea of lebanon and is also the main port of Lebanon
+ raashtra kii rajdhani hone ke saath-saath yah lebanon kaa saanskrithik, rajnatik, saamaajik or aarthik centre bhi he
+ The city was known for its cultural vivacity for a long time but it suffered a lot in the Lebanese civil war lasting 15 years in the 1975–1990 period
+ grih yuddh samaapt hone ke baad yahan punarnirmaan hua he or ab yahan sailaani phir se badi maatra main aane lage hai
+ About 50% of Beirut people are Christian, 25% Shia, and 25% Sunni
+ paramparanusaar is shahar kaa mahayor hameshaa sunni muslim hota he jabaki iskaa prantiy rajyapal hameshaa unani parmparik isai sampradaay kaa hota he
+ The amplifier made of bipolar transistors has to be fitted properly, only then it can function as expected otherwise a variety of problems may occur
+ bijetti ko abhinath karne ke liye kai tarah ke network prayog kiye jate hai, jinaki apni-apane gundosh hai
+ Amplifiers constructed from different bjts are often characterized with the help of different configurations of resistors, whereas integrated circuits use a more advanced inductance than this
+ abhinati kii dizin main is baat ko sunishchit kiya jaataa he ki transistor kaa taap badalane par, transistor kaa β badalane par yaa thodaa alag β vaala transistor lagane par, yaa disi supplai ke voltage main thodaa parivartan hone par bhi transistor kaa sanchaalan bindu utana adhik na badale taaki transistor apane sakriy kshetra main hi bana rahe or apekshit dhang se kaary kar sake
+ The 'operating point' of a transistor means the DC collector-emitter voltage and collector current of the transistor when the input signal is not in place
+ ise 'bis-bindu', 'quicent bindu' yaa 'kyuu-bindu' bhi kehete hai
+ The following inductance circuits are mainly used to introduce transistor amplifiers into class-a
+ is abhinati ko 'base bis' athwa 'phixd registeens bis' bhi kehete hai
+ The front diagram uses the same DC supply for both the collector and the base, but two different supplies can also be used
+ is chitra ke sandarbh main- Hence, For a given transistor, Vbe does not vary significantly during use
+ As Vcc is of fixed value, on selection of Rb, the base current Ib is fixed
+ Therefore, this type is called fixed bias type of circuit
+ Also for given circuit, Therefore, The common-emitter current gain of a transistor is an important parameter in circuit design, and is specified on the data sheet for a particular transistor
+ It is denoted as β on this page
+ atah we can obtain Ic as well
+ In this manner, the operating point given as can be set for given transistor
+ laabh: Advantage: upyog: Due to the above inherent drawbacks, fixed bias is rarely used in linear circuits
+ Instead, it is often used in circuits where transistor is used as a switch
+ However, one application of fixed bias is to achieve crude automatic gain control in the transistor by feeding the base resistor from a DC signal derived from the AC output of a later stage
+ This configuration employs negative feedback to prevent thermal runaway and stabilize the operating point
+ In this form of biasing, the base resistor r b { \ displaystyle R_{ \ text{b}}} is connected to the collector instead of connecting it to the DC source v cc { \ displaystyle V_{ \ text{cc}}} 
+ So any thermal runaway will induce a voltage drop across the r c { \ displaystyle R_{ \ text{c}}} resistor that will throttle the transistor's base current
+ From Kirchhoff's voltage law, the voltage VR b { \ displaystyle v _ {{ \ text {R}} _ { \ text {b xxrep 4 } across the base resistor r b { \ displaystyle r _ { \ text {b}}} is By the ebers–moll model, i c = β i b { \ displaystyle I_{ \ text{c}}= \ beta I_{ \ text{b}}}, and so From Ohm's law, the base current i b = VR b / r b { \ displaystyle i _ { \ text {b}} = v _ {{ \ text {R}} _ { \ text {b}}} / r _ { \ text {b}}}, and so Hence, the base current i b { \ displaystyle I_{ \ text{b}}} is If v be { \ displaystyle v _ { \ text {be}}} is held constant and temperature increases, then the collector current i c { \ displaystyle i _ { \ text {c}}} increases
+ However, a larger i c { \ displaystyle i _ { \ text {c}}} causes the voltage drop across resistor r c { \ displaystyle r _ { \ text {c}}} to increase, which in turn reduces the voltage VR b { \ displaystyle v _ {{ \ text {R}} _ { \ text {b xxrep 4 } across the base resistor r b { \ displaystyle r _ { \ text {b}}}
+ a lower base-resistor voltage drop reduces the base current i b { \ displaystyle i _ { \ text {b}}}, which results in less collector current i c { \ displaystyle i _ { \ text {c}}}
+ Because an increase in collector current with temperature is opposed, the operating point is kept stable
+ laabh: Advantage: which is the case when Usage: The negative feedback also increases the input impedance of the amplifier as seen from the base, which can be advantageous
+ Due to the gain reduction from feedback, this biasing form is used only when the trade-off for stability is warranted
+ The fixed bias circuit is modified by attaching an external resistor to the emitter
+ This resistor introduces negative feedback that stabilizes the Q-point
+ From Kirchhoff's voltage law, the voltage across the base resistor is From Ohm's law, the base current is The way feedback controls the bias point is as follows
+ If Vbe is held constant and temperature increases, emitter current increases
+ However, a larger Ie increases the emitter voltage Ve = iere, which in turn reduces the voltage vrb across the base resistor
+ a lower base-resistor voltage drop reduces the base current, which results in less collector current because Ic = β Ib
+ Collector current and emitter current are related by Ic = α Ie with α ≈ 1, so the increase in emitter current with temperature is opposed, and the operating point is kept stable
+ Like, if the transistor is replaced by another, there may be a change in Ic
+ By similar process as above, the change is negated and operating point kept stable
+ For the given circuit, Advantages: The circuit has the tendency to stabilize operating point against changes in temperature and β-value
+ Disadvantages: which is approximately the case if Use: The feedback also increases the input impedance of the amplifier when seen from the base, which can be advantageous
+ Due to the above disadvantages, this type of biasing circuit is used only with careful consideration of the trade-offs involved
+ collector-stabilized Biasing The voltage divider is formed using external resistors R1 and R2
+ The voltage across R2 forward biases the emitter junction
+ By proper selection of resistors R1 and R2, the operating point of the transistor can be made independent of β
+ In this circuit, the voltage divider holds the base voltage fixed independent of base current provided the divider current is large compared to the base current
+ However, even with a fixed base voltage, collector current varies with temperature so an emitter resistor is added to stabilize the Q-point, similar to the above circuits with emitter resistor
+ The voltage divider configuration achieves the correct voltages by the use of resistors in certain patterns
+ By manipulating the resistors in certain ways you can achieve more stable current levels without having β value affect it too much
+ In this circuit the base voltage is given by: v b = { \ displaystyle V_{B}= \ } voltage across r 2 { \ displaystyle R_{2} \ } = v c c r 2 − i b r 1 r 2 { \ displaystyle =v_{cc}{ \ frac {r_{2}}{}}-i_{b}{ \ frac {R_{1}R_{2}}{}}} Also VB = v be + i e r e { \ displaystyle V_ {B} = V_ {be} + I_ {e} R_ {e} \ } For the given circuit, Benefit: alaabh: which is approximately the case if where R1 || R2 denotes the equivalent resistance of R1 and R2 connected in parallel
+ Use: The circuit's stability and merits as above make it widely used for linear circuits
+ The standard voltage divider circuit discussed above faces a drawback - AC feedback caused by resistor RE reduces the gain
+ This can be avoided by placing a capacitor in parallel with Re, as shown in circuit diagram
+ The result is that the DC operating point is well controlled, while the ac-gain is much higher, rather than the much lower value of r c / r e { \ displaystyle r _ { \ text {c}} / r _ { \ text { e}}} without the capacitor
+ When a split supply is available, this biasing circuit is the most effective, and provides zero bias voltage at the emitter or collector for load
+ The negative supply Vee is used to forward-bias the emitter junction through Re
+ The positive supply Vcc is used to reverse-bias the collector junction
+ Only two resistors are necessary for the common collector stage and four resistors for the common emitter or common base stage
+ We know that Vb − Ve = Vbe If Rb is small enough, base voltage will be approximately zero
+ Therefore, emitter current is, Ie = / Re The operating point is independent of β if Re >> Rb / β Advantages: Disadvantages: This type can only be used when a split power supply is available
+ Class b and AB amplifiers employ 2 active devices to cover the complete 360 deg of input signal flow
+ Each transistor is therefore biased to perform over approximately 180 deg of the input signal
+ Class b bias is when the collector current Ic with no signal is just organized
+ class-ab bias is when the collector current Ic is about 1 / 4 of maximum possible value
+the class-ab push – pull output amplifier circuit below could be the basis for a moderate-power audio amplifier
+ Q3 is a common emitter stage that provides amplification of the signal and the DC bias current through D1 and D2 to generate a bias voltage for the output devices
+ The output pair are arranged in class-ab push–pull, also called a complementary pair
+ The diodes D1 and D2 provide a small amount of constant voltage bias for the output pair, just biasing them into the conducting state so that crossover distortion is minimized
+ That is, the diodes push the output stage into class-ab mode 
+ This design automatically stabilizes its operating point, since overall feedback internally operates from DC up through the audio range and beyond
+ The use of fixed diode bias requires the diodes to be both electrically and thermally matched to the output transistors
+ If the output transistors conduct too much, they can easily overheat and destroy themselves, as the full current from the power supply is not limited at this stage
+ a common solution to help stabilize the output device operating point is to include some emitter resistors, typically an ohm or so
+ Calculating the values of the circuit's resistors and capacitors is done based on the components employed and the intended use of the amplifier
+ IB = VBB - 0
+7 VRB { \ displaystyle I_ {B} = { \ frac {V_ {BB} -0
+7V} {R_ {B xxrep 5 } isamen maan rakhane par, IB = 5 v - 0
+7 v 500 k ω = 8, 6 μ a { \ displaystyle I_ {B} = { \ frac {5V-0
+7V} {500k \ Omega}} = 8,6 \ mu A} ab, IC = β ∗ IB = 100 ∗ 8, 6 μ a = 0, 86 m a { \ displaystyle I_ {C} = \ beta * I_ {B} = 100 * 8,6 \ , \ mu a = 0,86 \ , ma} ab output paripath main lagane par, VCE = VCC - RC ∗ IC = 12 - 0, 86 m a ∗ 2 k ω = 10, 28 v { \ displaystyle { \ begin {aligned} V_ {CE} & = V_ {CC} -R_ {C} * I_ {C} \ \ & = 12-0,86 \ , ma * 2K \ Omega \ \ & = 10,28V \ end {aligned}}} dhaka premier divijan cricket lig main bhi dhaka premier lig ke rup main janaa jaataa he, ek club list e cricket bangladesh main toornament he
+ Since its inauguration in 1974–75, the league has been the Bangladesh Premier Club cricket competition
+ yah 2013-14 toornament kii shuruyaat ke saath ek sthiti suchi praapt kii he, is prakaar nashnal cricket lig vanade bangladesh kii mukhya suchi ke rup main ek pratiyogita adhikramit
+ In the years 1974–75 to 2011–12, Abahani Limited won the championship 17 times
+ anya vijetaon the mohammaden sporting club nau baar, bimaan bangladesh airlines paanch baar, victoria sporting club chaar baar, old dohas sports club do baar or bros union ek baar
+ There were no tournaments in the year 2012-13
+ gandharva veda chaar upavedon main se ek upved he
+ The other three Upvedas are - Ayurveda, Shilpaveda and Dhanurveda
+ gandharvaveda ke antargat bhartiya sangeet, shastreey sangeet, raag, sur, gayan tathaa vaadya yantra aate hai
+ The origin of Indian classical music is believed to be from the Vedas
+ samaveda main sangeet ke bare main gaharaai se charchaa kii gai he
+ Indian classical music has been deeply influenced by spirituality, so it began as a means of attaining salvation, the ultimate goal of human life
+ sangeet kii mahatta is baat se bhi spasht he ki bhartiya aacharyon ne ise 'pancham veda' yaa gandharva veda kii sangya di he
+ The Natyashastra of Bharata Muni was the first such text to depict the basic principles of drama, dance and music
+ } Coordinates: 25 ° 27′N 81 ° 51′E / 25
+45 ° n 81
+85 ° e / 25
+45; 81
+85 chak abdulkarim urf puure mulai phulpur, elahabaad, uttar pradesh sthit ek gaanv he
+ Kasam is a Hindi language film made in 1988
+ === box offis ===8 Coordinates: 27 ° 53′N 78 ° 04′E / 27
+89 ° n 78
+06 ° e / 27
+89; 78
+06 sidhauli koil, aligarh, uttar pradesh sthit ek gaanv he
+ Yttrium is a chemical element
+ yah ek chaandi-jaise rang kii sankraman dhaatu he jiske gun lanthanide samooh se milte-julate hone ke kaaran ise bhi kabhi-kabhi usee durlabh mrudaa tatv samooh kaa bhaag mana jaataa he
+ In nature also, the atrium is always found in minerals along with them
+ yah prakruti main kabhi bhi shuddh rup main nahin miltaa
+ The atrium is used to make phosphors, especially for red phosphors inserted into cathode ray tubes and light-emitting diodes
+ yttrium ke yogic maanav-sharir ke liye hanikaarak hote hai or unase shaareerik sampark se shwasan tantra ke rog ho jate hai
+ In 1787, the Swedish chemist Karl Arrhenius found a new mineral near a village called Eutyrbi in Sweden, which he named 'itterbait' above the village
+ 1789 main finni rasayanshastri yohan gadolin ne is khanij namoonay se yttrium oxide praapt kiya or is rasinic yogic kaa naam 'itria' rakhaa gaya
+ In 1828 German chemist Friedrich Wöhler acquired the first pure etrium element
+ vaidic dharmapar ek shrenee kaa bhaag Salvation dhyaan yoga Dashamavidya means Goddess of great learning
+ mahavidhya, devi durga ke das rup hai, jo adhikansh tantrik saadhakon dwaara puuje jate hai, parantu saadhaaran bhakton ko bhi achook siddhi pradaan karne vaali he
+ They are also known as the Ten Mahavidyas
+ mahavidhya vichaar kaa vikaas shaktvaad ke itihaas main ek nayaa adhyay bana jisane is vishwaas ko poshit kiya ki sarv shaktiman ek nari he
+ The word Mahavidya is derived from the Sanskrit words "maha" and "vidya" - "maha" means great, vast, vast; And "knowledge" means knowledge
+ shakt bhakton ke anusaar "das roopon main samahit ek satya kii vyakhya he - mahavidhya" jisase jagadamba ke das loukik vyaktitvon kii vyakhya hoti he
+ Mahavidyas are considered to be of tantric nature which are as follows- shakt darshan, das mahavidhyaon ko bhagwaan vishnu ke das avtaron se sambaddh karata he or yah vyakhya karata he ki mahavidhyaayein ve strot hai jinase bhagwaan vishnu ke das avatar utpann hue the
+ These ten forms of Mahavidyas, whether they are terrible or gentle, are worshiped as Jagjjanani
+ shri devibhagwat puraana ke anusaar mahavidhyaon kii utpatti bhagwaan shiv or unki patni sati, jo ki parvati kaa purvajanm thim, ke bich ek vivaad ke kaaran hui
+ When Shiva and Sati were married, Sati's father Daksha Prajapati was not happy with the marriage of both
+ unhone shiv kaa apmaan karne ke uddeshy se ek vishaal yajna kaa aayojan kiya, jisamen unhone sabhi devi-devataaon ko aamantrit kiya lekin dweshvash unhone apane jamata bhagwaan shankar or apni putree sati ko nimantrit nahin kiya
+ Sati insisted on going to the yagna organized by the father which was unheard of by Shiva, on which Sati transformed herself into a terrible form
+ jise dekh bhagwaan shiv bhaagane ko udyat hue
+ Knowing that her husband was scared, Mother Sati started stopping them, then Shiva appeared in the direction in which direction another mother's Deity appears and stops them
+ is prakaar dason dishaao main maan ne ve das rup liye the ve hi das mahavidhyaayein kahalaain
+ In this way, the goddess was divided into ten forms, from which she went to participate in the yagna after defeating Shiva's opposition
+ vahaan pahunchne ke baad mata sati evam unke pita ke bich vivaad hua
+ Daksha Prajapati condemned Shiva and Sati sacrificed his life in the sacrificial fire
+ ayaanat khan unnisvin sadi ke ek pramukh sangitajna the jo pashchimi duniya main soofivaad ke vichaaron ko sthapit karne ke liye prasiddh hai
+ Educated in Vadodara, Gujarat, the Nizam of Hyderabad was given the title of Tansen
+ saanchaa:soofivaad-aadhaar Coordinates: 24 ° 49′N 85 ° 00′E / 24
+81 ° n 85 ° e / 24
+81; 85 satvansh khizirsarai, gaya, bihar sthit ek gaanv he
+ Even when there is no sound outside, hearing something in the ear is called ringing or ear-ringing
+ tinitus sharir ke baahar se nahin, balki sir main anubhoot / sunai dene vaale shor ko varnit karne ke liye prayukt chikitsa shabd he
+ They are often ringing or sobering sounds, but they can also be deeply resonant, rattling, chopping, pulsating noises, rhythmic, intermediate, or permanent
+ ve ek kaan main, baayein yaa daayen, yaa donon main ho sakati hai
+ Their volume also varies
+ prabhavit logon ke liye, dhvaniyaan kaafii apriy ho sakati hai or unki sunne kii kshamta ko bigaad sakati he
+ About 40% of the population may experience an unpleasant sound in their ears at the same point of their lifetimes and 10 to 20% may experience chronic tinnitus
+ ye lakshan saamanytah 40 yaa adhik umr vaale logon main dekhe ja sakate hai
+ However, individuals of all ages may face this
+ 1
+ lakshan 2
+ Diagnosis 3
+ tinitus or sunne kii pareshaaniyaan 4
+ Tinnitus and Hearing Aids 5
+ chikitsa ke anya rup 6
+ Types of tinnitus 7
+ uske ubharne ke kaaran 8
+ Tinnitus in old age 9
+ tinitus kii rokthaam diwan-i-aam was the principal auditorium of the Mughal emperor located in the Agra Fort
+ icemen mayur singhaasana yaa takhte touse sthapit tha is sabhaagaar kaa prayog aam janata se baat karne or unki faryaad sunne ke liye hota tha
+ This structure was originally constructed from wood but later gave it its present form from Shah Jahan
+ isapar shahjahan style ke prabhaav ko spasht rup se dekha ja saktaa he jo sangemarmar par kii gai phulon kii nakkashi se pataa chalati he
+ In this room, the king used to listen to the pleas of the general public and meet the officials
+ dewan-e-aam se ek rasta nagina masjid or mahila bazaar kii ore jaataa he jahaan keval mahilaayein hi mughal auraton ko saamaan bech sakati thim
+ The off break makes the rhymer spin with the help of fingers
+ of brake gend daahine haath ke ballebaaj ke of stump se leg stump kii ore turn hoti he
+ Alappur has a village in Anantapur district under the state of Andhra Pradesh, India
+ nainsingh,bharat ke uttar pradesh kii teesri vidhansabha sabha main vidhayak rahe
+ In the 1962 Uttar Pradesh Legislative Assembly election, he participated in the election on behalf of Praja Socialist Party from 415 - Baghra Charathawal Legislative Assembly constituency of Muzaffarnagar district of Uttar Pradesh
+ shrunkhlaa kii kadiyaan mahadevi verma ke samasya mulak nibandhon kaa sangrah he
+ Female discussions are prominent among them
+ dow hriday narayan upaadhyaay ke shabdon main, "aaj stri-vimarsh kii charchaa har ore sunai pad rahi he
+ Mahadevi had prepared the background for this long ago
+ san 1942 main prakashit unki kriti shrunkhlaa kii kadiyaan sahi arthon main stri-vimarsh kii prastaavna he, jisamen tatkaaleen saamaajik paristhitiyon main nari kii dasha, disha evam sangharshon par mahadevi ne apni lekhnee chalaayi he
+ "it has compiled essays in which an attempt has been made to look at the odd situation of the Indian woman from many points of view
+ yuddh or nari naamak lekh main unhone yuddh stri or purush ke manovigyaan par gambhir, vaishvik or moulik chintan vyakt kiya he
+ Similarly, in femininity and curse, she describes the reasons for the modern woman being powerless while giving a description of mythological themes
+ pustak se kuch panktiyaan- ‘‘bhartiya nari jis din apane sampoorn praan-aaveg se jaag sake, us din uski gati rokna kisi ke liye sambhav nahin
+ In relation to his rights, it is true that he has not met, or will not meet, beggars, because his position is different from that of exchangeable goods
+ samaaj main vyakti kaa sahyog or vikaas kii disha main uskaa upyog hi uske adhikaar nishchit karata rahata he
+ But a person desirous of authority should also be an officer
+ saamanytah bhartiya nari main isi visheshta kaa abhaav milegaa
+ Somewhere he has simple pity and extraordinary rebellion, but his life is not familiar with the balance
+ 
+
+
+" It is translated into English by Sohni Neera Kukreja under the name Links in the Chain
+ ve ek pakistani rajaneta evam pakistan ke praant balochistan ke purv mukhyamantri the
+ According to the Vishnu Purana in Hinduism, the Krita Trilokya - Bh भूःa, Bhuvaः and Svā --a - these three folk together are called the Kritak Trilokya
+ suryamandal se ek lakh yojan upar chandramandal he
+ Refraction defect of the eye means - 'the eyes are not able to focus the light on the retina but rather before or after the retina'
+ iske kaaran chizon ko dekhne main pareshaani hoti he
+ The eyesight with refraction defect is called anomalous vision
+ visham drushti nimna prakaar kii hoti he : Long-sighted - This is a type of anomalous vision in which the main axis of the eye becomes short, or the refractive power of the eye is reduced
+ at: samaantar prakashakirane retina ke parshv main sangamit ho jaati hai
+ Myopia - This is a type of anomalous vision in which the main axis of the eye becomes long, or the refractive power of the eye is increased
+ at: samaantar prakashakirane retina ke samaksh sangamit ho jaati hai
+ Visibility - This is the type of contrasting vision in which refraction of light is different in eye circles
+ drushtivaishamy do prakaar kaa hota he : Regular aniyamit Irregular astigmatism is caused by fundamental defects, such as keratonous, or acquired conditions, such as opacity of the cornea
+ saadhaaran deergh drushti drushtivaishamy, yogic deergh drushti drushtivaishamy, saadhaaran nikat drushti drushtivaishamy, yogic nikat drushti drushtivaishamy tathaa mishrit drushtivaishamy, jisamen ek vrittakar deergh drushtivaishamy, jisamen ek vrittakar deergh drushti evam anya nikat drushti hoti he
+ Category view nirdeshaank: 30°13′N 78°47′E / 30
+22°N 78
+78°E / 30
+22; 78
+78 Srinagar Assembly Constituency is one of the 70 constituencies of Uttarakhand
+ gadhwal jile main sthit yah nirvachan kshetra anarakshit he
+ There were a total of 92,823 voters in the region in 2012
+ 2012 ke vidhansabha chunaav main ganesh godiyal is kshetra ke vidhayak chune gaye
+ The term morphology or morphology is used for all those studies within botany and zoology
+ jinka mukhya vishay jeevpind kaa aakaar or rachana he
+ Plant morphology considers the shape and composition of plants and the relationship between their organs and these organs and the relationship of the whole plant to its organs
+ aakaar vigyaan kaa adhyayan janan tathaa parivartan ke vibhinn staron par jeevpind ke itihaas ke tathyon kaa keval nirdhaaran maatr ho saktaa he
+ But nowadays, as it is generally understood, the basis of morphology is more extensive
+ iskaa uddeshy vibhinn padpawargo ke aakaar main nihit samaantaaon kaa pataa lagaana he
+ It is therefore a comparative study done from the point of view of evolutionary changes and additions
+ is prakaar aakaariki padpon ke vargeekaran kii sthapana or unke vikasaatmak athwa jatigat itihaas ke punarnirmaan main sahaayak he
+ The following are the methods of morphological study: jivit padpon ke praudh aakaaron kii tulana, Comparison of living plants with primitive, extinct, fixed sizes based on the study of residuals of organisms, prayek padap ke parivardhan kaa nirikshan
+ There are usually two subdivisions of morphology - external morphology, which is concerned with the relative location and external shape of plant organs and anatomy, which is the study of the external and internal structure of plants
+ kushiki athwa koshadhyayan, jiskaa sambandh aantarik rachana se he, aakaar vigyaan ke upavibhag ke rup main viksit hua, kintu ab yah jeevigyaan kii hi ek swatantra shakha mana jaataa he
+ The study of morphology can also take some specific forms; For example, it may be related to the early development of the plant, to the decisive reasons for the size and structure, or to the parts of the plant which are thought to perform certain functions
+ aakaar vigyaan ke in khandon ko krmanusaar bhrun vigyaan, akaarajnan tathaa angavarnana kehete hai
+ The action of the generation of generations is such a prominent and important feature of plant morphology that for many years it remained the primary goal of the study of morphology
+ sharirarachana kaa sambandh sthool or sookshm bahm or aantarik banaavat se he
+ a special topic of anatomy is physics which deals with the microscopic composition of the organism
+ praani aakaariki-yadhyapi aakaar vigyaan main tathaa sharirarachana main bhed kiya ja saktaa he, to bhi vaastavik vyavhaar main pranishastri in donon shabdon kaa prayog paryaayavachi rup main karte hai
+ Therefore, in the practical sense of the term philosopher, science also covers all the studies related to anatomy
+ praaniyon ke aakaar ke vibhinn prakaar or unke roopaantar praani aakaariki ke adhyayan ke vishay hai
+ Size is mainly dependent on the symmetry of the body
+ samamiti ke prakaaron ke adhyayan se pataa chalata he ki sheershapraadhanya, jo agr tantrikaon tathaa samvedi rachanaaon kii saghanta ke kaaran sir kaa uttarottar bhedakaran he, sharir kii dwiparshvik samamiti ke saath saath hota he
+ As we climb higher in the order of the composition of the composition, the action of the head of the mind becomes more and more clear and with great additions to the brain, it reaches perfection by reaching the apes and sages
+ samamiti main antar parivardhan ke samay anya akshon kii apeksha ek aksh ke anudish adhik vruddhi hone se hota he
+ Variations of shape have the characteristic of adapting to the situation
+ rachana sambandhi samanta ke liye sadharmata shabd kaa vyavhaar hota he or kaary sambandhi yaa daihik samanta ke liye kaarysadrishy kaa
+ Conformity is the underlying anatomy of the anatomy
+ jisase samaan vikasaatmak utpatti gyaat hoti he, parantu kaarysadrishy main is tarah kii koi visheshta nahin he
+ Experimental embryology tries to answer the question of whether the final shape or composition of the body of a creature already exists in the egg in the same form or they are dependent on the elements of the environment at the time of growth and by these elements these two Can be changed ispaat, loha, carbon tathaa kuch anya tatwon kaa mishratu he
+ Its tensile strength is high whereas it is used in the construction of buildings, infrastructure, tools, ships, vehicles, and machines due to its low per tonne price
+ 'ispaat' shabd itane vividh prakaar ke paraspar atyadhik bhinn gunonvale padaartho ke liye prayukt hota he ki is shabd kii thik-thik paribhaasha karnaa vastut: asambhav he
+ But in practice, an alloy of iron and carbon with steel is considered
+ isamen carbon kii maatra saadharantaya 0
+002% se 2
+14% tak hoti he
+ Carbon affects iron's properties more than any other element; This gives various properties in unique detail
+ wese to kai anya saadhaaran tatv bhi milaae jane par lohe tathaa ispaat ke gunon ko bahut badal dete hai, parantu inamen carbon hi pradhan mishradhatukari tatv he
+ It increases the hardness and strength of iron in proportionate amounts, especially after proper heat treatment
+ ispaat ek mishran he jisamen adhikansh hissaa loha kaa hota he
+ Steel contains between 0
+2 percent and 2
+14 percent carbon
+ loha ke saath carbon sabase kifayat mishrak hota he, lekin jarurat ke anusaar, isamen mangneej, chromium, vainadium or tangston bhi milaae jate hai
+ Carbon and other materials provide hardness to the alloy
+ louhe ke saath, uchit maatra main mishrak milakar lohe ko aavashyak kathorta, tanyata or sughatyata pradaan kiya jaataa he
+ The more carbon added to the iron, the harder the steel becomes, its brittleness increases as the hardness increases
+ 1149 degree celsius par louhe main carbon kii adhiktam ghulyata 2
+14 pratishat he
+ If there is a lot of carbon in the iron at low temperature, this will create cementite
+ louhe main agar isse zyada carbon ho to yah cast aayran kehalaata he, kyonki iskaa galanaak kam ho jaataa he
+ Steel is also different from cast iron because the amount of other elements in it is very less i
+e
+ around 1 to 3 percent
+ Steel is corrosion resistant and can be welded easily
+ aajkal, grih-nirmaan, baandh, pul, sadak aadi main ispaat kaa bade paimaane par istemaal hota he or bazaar alag alag gunvattta vaale ispaat alag-alag daamon par uplabdh hai
+ Steel has a lot of influence in our lives - the car we drive, the building in which we work, the house in which we live and innumerable other aspects come into it
+ vidyut power line tower, prakritik gas pipe line, mashin upkaran aadi main ispaat kaa prayog hota he jisaki suchi kaaphi lambi he
+ At home, steel has an important place in keeping our families safe, facilitating our lives
+ iskaa phayda nisandeh spasht he
+ Steel is the most important, multi-functional and most adaptable
+ yadi ispaat nahin hota to maanav jati kaa vikaas sambhav nahin hota
+ The foundation of the economy was laid on the strength of steel and developed with ease of use
+ ispaat kaa vividh prayog kramshah ispaat kaa anukoolneey maapdand he jinhe ispaat ke nimnlikhit visheshtaon se aanka ja saktaa he - Compared to other materials, the cost of production is low
+ aluminium ko banane main jitna urja lagati he uskaa lagbhag 25% urja se loh ayask se loha banataa he
+ Steel is eco-friendly, it can be recycled
+ bhugarbha main 5
+6% louh tatv vidyaman he at: iskaa kaccha maal kaa aadhaar bhi majboot he
+ Steel production is 20 times more than the total production of all other non-ferrous materials
+ sab milakar ispaat ke lagbhag 2000 kismon kaa vikaas hua he jisamen 1500 prakaar ke ispaat ucch grad ke hai
+ However, there are infinite possibilities for the development of new grades of steel with various properties
+ hamaare jivan main ispaat ke upyog kaa mahatvapurn sthaan he or aane vaale varshon main iskaa upyog hota rahegaa
+ In ordinary steel, irrespective of the method produced, carbon and manganese are present in 0
+10 to 1
+50 percent, silicon 0
+20 to 0
+25 percent, sulfur and phosphorus 0
+01 to 0
+10 percent and copper, aluminum and arsenic in small quantities
+ praaia: hydrogen, oxygen tathaa nitrogen bhi alp maatra main rahete hai
+ Steel of this caste is used in many types
+ yadhyapi sabhi ispaat mishradhatu hi hai, tathaapi saadhaaran bolchaal main ispaat ko ek saral dhaatu hi mana jaataa he
+ If the quantity of an element is greater than the analysis given above, or other elements in the steel, such as nickel, chromium, vanadium, tungsten, molybdenum, titanium, etc
+ which are not normally in steel, then special or alloy metal will be formed
+ is
+ yantric gunon kii vruddhi ke liye hi saamanyat: yah milawat kii jaati he
+ Some of the characteristics of steel, which are affected by alloying elements, are: taiyaar ispaat kii pushtataa main vruddhi Increase of sponginess or compressibility at any lower hardness or cleft
+ us adhiktam motaai main vruddhi jise bujhaakar vaanchit seemaa tak kadaa kiya ja saktaa ho
+ Reduced calorific capacity
+ thandhi reeti se kathorikaran kii dar main vruddhi
+ With the idea of being able to do the operation of the lathe easily, reducing the purity by keeping the kadai safe
+ ghisaav-pratirodh athwa kaatane ke samathrya main vruddhi
+ Reduction in twitching or cracking while achieving the desired stiffness
+ unche yaa nimna taap par bhautik gunon main unnati
+ Increase in initial magnetization and maximum induction
+ prasahi bal, mandayan tathaa vidyut haani main kami 
+ Increased thrust force and magnetic stability
+ sabhi prakaar ke chubnkeey gunon main kami
+ Reduction in collocation in humid environment
+ ucch taap par bhi rasinic kriyasheeltaa main kami
+ Reduction of invasion by chemical substances
+ loha do prakaar ke ati upyogi sammapiya ravon ke rup main rahata he : elfaa loha, jiske thos ghol ko "ferite" kehete hai or gamma loha, jiskaa thos ghol "ostenite" he
+ Alpha form of pure iron is about 910 degrees Celsius
+ Stays at a lower temperature than; Gamma forms at higher temperatures
+ in donon roopon ke lohon main vividh mishradhatukari tatwon ko ghulanshiltaa ati bhinn he
+ Commercial carbon-steel, metal-personnel considerations, is a deflection of iron carbide into ferrite, in which the ratio of iron carbide depends on the amount of carbon
+ carbon ispaat ke mote tukdon ko aisi vidhiyon tathaa daron se ek seemaa tak thandha kiya ja saktaa he ki pherite main cementite ke sambhav vitaranon main se koi bhi vitaran uplabdh ho jaae
+ With the consideration of structure and heat treatment, relatively small samples of carbon steel can be easily selected, which usually have excellent mechanical properties at ordinary temperatures
+ akthorikrut ispaat ke do avyavon main doosraa karbaide kala he
+ The amount of carbide, which depends on the proportion of carbon, changes the properties of the steel
+ vikshepan main karbaide ke kanon ke rup tathaa uski sookshmata se yah or bhi adhik badalati he
+ The presence of an alloying element can drastically change the material obtained at the end when hardening steel and watering it
+ falat: sanrachana or isliye ispaat ke gun, jo isi par atyadhik aadhaarit hai, austenite kii sanrachana tathaa dane ke pariman par nirbhar hai
+ Quenched steel is of different hardness according to carbon content
+ kathorta ke liye keval carbon par hi nirbhar hone main ispaat ko ekaek bujhaana padataa he
+ Due to this, other evils may arise or there is no internalization
+ kuch ucch mishradhatviya ispaton main saadhaaran taap par hi apekshaakrit dhire dhire thanda kar, yah kathorikaran kuch anshon main praapt kiya ja saktaa he
+ Quenched and hardened steel has internal stress, which is reheated and removed
+ is kriya ko pani chadhaanaa kehete hai
+ In austenite conversion, other alloying elements in addition to carbon usually cause sluggishness
+ coblt chhod anya tatwon kii upasthiti main bujhane par adhik gaharaai tak kathorikaran hota he
+ Generally, a good combination of desired properties in all alloy steel and many carbon-steel is obtained by proper heat treatment
+ carbon - sade carbon-ispaat main, carbon kii maatra ko 0
+1 pratishat se 1
+0 pratishat tak yaa adhik badhaane par tanaav pushtataa badhati he
+ In quenched carbon steel, the stress strength increases greatly, such as up to 150 tonnes of square inch at 1 percent carbon
+ bujhaae hue tathaa pani chadaaye ispaat kii shakti pani chadhaane ke tapakram par nirbhar rahati he
+ Aluminum - a small amount of aluminum, up to 3 pounds per ton, is added to molten steel to control the quantity of metal grains
+ sataha kii atyadhik kathoratavaale bhaagon main 1
+3 pratishat tak aluminium rahata he
+ Boron - Boron steel is a modern development
+ kuch nimna mishradhatviya ispaton main 0
+003 pratishat jaisi kam maatra main boran milaae jane par kathor ho jane kii kshamta badhati he tathaa yantric gunon kii unnati hoti he
+ Chromium - Chromium, alone or combined with other alloying elements, increases steel's ability to resist friction and harden
+ adhik maatra main, 12 se 14 pratishat tak, hone par yah aklush ispaat kaa aavashyak tatv he
+ With this or greater amount of chromium, nickel and sometimes mixed with other elements, various types of heat resistant steel and a variety of austenite steel are formed which are known to have great inhibition against the action of acids and acids
+ 
+ chromium gharshan-avrodh kii unnati karata he; isliye 2 pratishat carbon ke saath 12 pratishat tak chromium kuch vishesh tarah ke yantron tathaa thappon ke liye ispaat banane main upyukt hota he
+ Chromium in steel is usually less than 2 percent for surface hardening and nitriding
+ sidhe kathorikrut chharro tathaa kuchalane kii mashinavaale golon ke ispaat main chromium kii maatra adhik hoti he
+ Cobalt - With cobalt, some high-velocity mechanical steels increase their cutting capacity
+ kuch ushma pratirohak ispaton main, jaise gas terbin ingine ke dhale hue bladon main, yah prayukt hota he
+ In large quantities, it is an essential part of steel that is made to withstand the extremely difficult conditions in which the blades of gas turbines work
+ in upyaagon main coblt milaane se ispaat ko ushma avarohak gun, sataha par chippad na banane dene tathaa dhire-dhire maap main swat: parivartan ko rokane kii kshamta milti he
+ Cobalt also remains in sufficient quantities in alloys of permanent magnets
+ tanba - bina tanba ke ispaat kii tulana main tanba kii thodi bhi matraavaale ispaat main sanksharan-avrodh adhik hota he
+ About 0
+6 percent of copper is used for home construction or other types of soft steel
+ mangneej - ispaat kaa thospan badhaane ke liye tathaa bachi hui gandhak se milakar, sulphide ke kaaran, bhurabhuraapan rokane ke liye 0
+5 se 1
+0 pratishat tak mangneej milaayaa jaataa he
+ From 1
+0 percent to 1
+8 percent, manganese increases the strength and hardness of the steel
+ 13 pratishat mangneej-ispaat kaa ek alag hi varg he
+ This is hardened by banging steel, that is, it is hardened on its own under stress
+ kisi saadhaaran ushma upachaar dwaara iskaa kathorikaran nahin hota
+ It is mostly used for casting
+ jhaam ke oshth, chattan todanevaali mashiinon ke jabade, rail kii patariyon kii sanghi tathaa anya vishesh maarg sambandhi kaaryo main, jahaan ghisaai kii vishesh ashanka rahati he, iskaa upyog hota he
+ Malibdinum - Malibdinum in steel increases strength, hardenability and gradually inhibits automatic conversion
+ ucch tapakram par kaary karne ke liye ispaat kii kathorta surakshit rakhane main bhi malibdinum sahaayak he
+ Therefore in some high velocity steel this is used instead of a fraction of tungsten
+ udhaaharan ke liye 5
+5 pratishat malibdinum or 6 pratishat tungsten kaa ek ucchveg ispaat he, jo pramanik 18 pratishat tungsten kii tulana main upyogi or sasta hota he
+ Nickel - This is most commonly used for mixing in steel
+ pighale hue lohe main yah sabhi anupaaton main ghul jaataa he tathaa thanda hone par thos ghol banaata he
+ At 5 percent, it increases the steel's hardness and stress strength
+ yah kathor ho sakane kii kshamta ko bhi badhaata he, jisase pani main bujhane kii jagah tel main bujhaakar kathorikaran sambhav he
+ It also reduces the tendency to burst and crack, so that such steel of large size can also be hardened well
+ kuch prishth-kathorikaran ispaton main 1
+0 se 5
+0 pratishat tak nikal rahata he
+ The amount of nickel in nitriding steel is generally limited to a maximum of 0
+4 percent
+ bahut se sanksharan-avarohak tathaa "steneles" austenitamay ispaton main nikal kaa ansh 8 pratishat tathaa isse adhik hota he
+ The famous 18: 8 chromium-nickel-steel and similar steel are also included in this category
+ kuch ati naveen prakaar ke ispaton main nikal kii maatra adhik hoti hai, jaise 20 pratishat yaa isse bhi adhik
+ They are suitable for working in conditions of high temperature and extreme pressure; For example, the static pan and blade of the gas turbine
+ 36 pratishat nikal kaa, ispaat, jo "invaar" naam se prasiddh he, apane ati nimna-prasar-gunank ke kaaran yatharthadarshi ghadiyon, swaritra tathaa bahut se vaigyanik upkaran banane main upyukt hota he
+ Columbium - 1 percent or similar amount is used to stabilize chromium steel or 18: 8 chromium-nickel type steel
+ yah titanium ke sadrush hi kaary karata he
+ Silicon - Like manganese, silicon is present in all steel from the very beginning, or due to adulteration when making steel
+ isaki upasthiti se ispaat kaa anaksikaran hona praaia: nishchit sa ho jaataa he
+ Silicon has a tendency to increase the strength and hardness of the steel and decrease the internal tensile, when in greater quantities
+ silicon manganeez ke kamaani vaale ispaat main isaki maatra 1
+5 pratishat se 2 pratishat tak rahati he, jisamen manganeez kii maatra lagbhag 0
+6-1
+0 pratishat hoti he
+ Silicon - The silicon in the steel of the valves of engines made of chromium is 3
+75 percent
+ nikal-chromium-tungsten vaalvon ke ispaat main isaki maatra 1
+0-2
+5 pratishat hoti he
+ Sulfur - As is known, smelting in steel is generally misleading
+ mishradhatukari tatv ke rup main iskaa upyog keval svachhndatha se katanevaale ispaat main hota he
+ Silenium- This element acts like sulfur
+ titanium - thodi maatra main milaane se yah ispaat kii sthirataa badhaata he or kehete hai, iske kaaran dane kaa pariman adhik sookshm hota he
+ Tungsten - Tungsten is an essential component of high-grade steel in quantities up to 20 percent; This is because it gives the steel extreme hardness after heat treatment, which remains stable even at high temperatures
+ garm-thappa-ispaat tathaa duusare garm kaary ke liye upyukt ispaat main bhi iskaa upyog hota he
+ Its volume ranges from 2 percent to about 10 percent
+ vanadium - ispaat main vanadium, fero-vanadium ke rup main milaayaa jaataa he
+ It is a powerful hygienic object
+ isse ispaat kii sthirataa tathaa safai badhati he tathaa ushma upachaarit carbonamay or mishradhatviya ispaat ke yantric gun unnat hote hai
+ Vanadium is used in high-mechanical mechanical steel up to 1 per cent to increase the hardening properties and cutting capacity in the air
+ ek prakaar ke prasiddh ucchveg ispaat main vanadium 4
+5 jaise unche anupaat main rahata he
+ Zirconium - In some high chromium-nickel and austenite-like 18: 8 types of steel, a small amount of this element is used with sulfur to give free cutting properties
+ pramanik byore ke anusaar in ispaton kii antim tanaav-pushtataa 37-43 ton prati varg inch he, tathaa trotanvindu 
+ For thick rods is 23 tons per square inch
+ ye ispaat mote taur par nimnlikhit virgo main rakhe ja sakate hai: Silicon steel, manganeez ispaat, Manganese steel with a small amount of copper
+ manganeez, chromium tathaa taanbe kii milawat kaa ispaat, Class 1: Silicon steel, whose origin is American, has a final stress strength of 37
+7–42
+4 tonnes per square inch and lowest trough point of 20
+1 tonnes per square inch
+ isaki tanaavpushtataa carbon kii unchi maatra ke kaaran utpann hoti he 
+ Class 2: Steel in this group is mostly dependent on the amount of manganese
+ varg 3 : saamanyat: 0
+25% se 0
+5% tak taanbe kii milawat hone par varg ke samaan hi is varg kii bhi saadhaaran prakruti hoti he
+ Copper content with manganese increases corrosion resistance, which is 30–40% higher than soft steel
+ varg 4 : is varg ke ispaat main manganeez, chromium tathaa tanba mishrit rahata he
+ It has a high trophic point as well as enhanced corrosion resistance
+ motargadiyon kii crank dhuree sadaiv petakar hi taiyaar kii jaati he tathaa 45-65 ton prati varg inch kii saadhaaran seemaa tak tanaav-pushtataa praapt karne ke liye ushmaupachaarit hoti he
+ The choice of steel is dependent on the primary thickness of the parts
+ choti crank dhuree ke liye 0
+40% carbon ispaat, bina nikal ke yaa 1
+0% nikal sahit, athwa nimna mishradhatviya manganeez-malibdinum ispaat ko praathamikta di jaati he
+ The heavy crank axles are made of nickel-chromium-malibedinum steel, which is heat-treated to 55–65 tons per square inch of tension strength
+ nikal-chromium ispaat main, jo pani chadhaai hui avasthaa main upyukt hota he, pani chadhaane par bhurabhuraapan bachaane ke liye malibdinum kii milawat ek maanak prachlan he
+ The use of nitriding steel for the crank axle of the aero engine is prevalent
+ ye chromium malibdinum ispaat hote hai jo 60-70 ton prati varg inch tanaav-pushtataa tak ushma-upachaarit kiye jate hai
+ Connector punches in the motor are beaten with medium carbon or manganese-malibedinum steel, which are heat-treated to 45–65 tonnes per square inch of tension-strength
+ hawaii ingine ke sambandhak dand ke liye 3
+5% nikal ispaat, 55-65 ton prati varg inch tanaav-pushtataa dene ke liye upachaarit, tathaa nikal-chromium-malibdinum ispaat, 65-70 ton prati varg inch tanaav-pushtataa tak upachaarit, anukool hai
+ The valves of the motor use 3
+5% silicon and 8
+5% chromium steel and sometimes austenite steel, containing 13% chromium, 13% nickel, 2
+5% tungsten and 0
+4% carbon, is used for the removal valve
+ is
+ crank dhuree tathaa tapat prishthkathorikrut ispaat ke banaae jate hai, jisamen 5% nikal ispaat athwa 4% nikal or 1
+3% chromiumvaale ispaat kaa prayog hota he
+ The destruction of serrated circles is not as much as wear due to fatigue
+ ye adhiktar prishthkathorikrut ispaat se banaae jate he; jaise 0
+20-0
+28% carbon sahit 2 pratishat nikal molibdinum ispaat, 3% nikal ispaat athwa 5% nikal ispaat
+ The material used in this work can be broadly divided into three categories
+ inamen se pehla feritic yaa an-astenitamay varg kaha ja saktaa he, jisamen ve mishra dhaatuen hai jo udhaahrant: 600 degree sein
+ adhiktam taap tak kaary ke liye anukool hai
+ The second category consists of alloys developed primarily for their high ability to prevent chipping and whose weight handling capacity has not been given much attention
+ is varg main aanevaale ispaton kii rasinic sanrachana main adhik antar he
+ Both ferritic and austenite alloys are in this
+ kam shakti ke antardah ingine main valve-ispaat ke rup main prayukt honevaale sade 6% chromium ispaat se lekar dhaale athwa petakar banaae gaye 65% nikal or 18% chromiumavaali mishra dhaatuon tak, jo namak ke gholwale ushmakon main tathaa anya sanksharak paristhitiyon main ucch taap par prayog ke liye upyukt hoti hai, is varg main sammilit hai
+ In the third category are those alloyed alloys which are 600 ° C
+ Are designed for high resistance power against the gradual automatic changes at temperatures above
+ is sthiti main morcha tathaa chippad na banane dene kii acchhee kshamta bhi aavashyak he
+ The basic material of this third class is the famous 18% chromium and 8% nickel "stainless" steel, but some of the newer and better alloys are of very complex nature
+ inamen loha keval alp maatra main hi ek ashuddhi ke rup main rahata he
+ Modern steam turbines are made of precision machined parts that have to bear extreme stress and often difficult corrosion conditions at high temperatures and which are continuously engaged for long periods
+ terbin kii dhuree petakar banaae gaye, tel main bujhaakar kathor kiye gaye tathaa kuch pani utaare hue carbon ispaat kii hoti he, jisamen carbon lagbhag 0
+4% tathaa manganeez 0
+5 se 1
+0% tak hota he
+ The axis of the high-pressure turbine is made of internal stemless and water-logged carbon-malibedinium-vanadium steel
+ terbin ke silinder ke liye praaia: sada kaa rabanavaale athwa carbon-manganeez-vaale ispaat kaa upyog hota he
+ Only those cylinders that work at very high temperatures require 0
+5% Malibedinum steel
+ blade ke liye vividh steneles ispaat tathaa unchi nikal mishradhatuen prayukt hui hai
+ Nowadays the most commonly used material is 13% chromium-low-carbon steel
+ aajkal ke byler 6000 sein
+ tak taap tathaa 3,200 pound prati varg inch se adhik daab par kaary karte hai
+ Drums are made from simple carbon-steel, or steel with 3% nickel, 0
+7% chromium, and 0
+6% molybdenum, or by welding, or by beating hot
+ byler kii naliyaan praaia: carbon-ispaat, athwa chromium-malibdinum ispaat kii thos khinchi hui hoti hai
+ Modern chemical industry requires pressurized utensils to conduct chemical reactions and to contain various gases
+ in baratanon ke liye upyukt padaarth teen varg ke hote hai: carbon ispaat, mishradhatu ispaat tathaa steneles ispaat
+ Generally medium stress-reinforcing steel, containing 1
+5 to 1
+8% of manganese and 0
+25% of carbon and whose stress strength ranges from 37 to 45 tons per square inch, in moderate to high pressure working pressure Are appropriate
+ sadaiv viksit hoti hui nai rasinic vidhiyon ke kaaran tathaa un vishesh, naveen paristhitiyon kaa saamana karne ke liye jo in vidhiyon main upasthit hoti he, vibhinn prakaar ke ispaat tathaa anya dhaatuon kaa upyog hota he
+ In the chemical industry, soft steel is highly used for warehousing, many machines and many types of construction vessels and tubes etc
+ chromium tathaa chromium-nikal astenitamay sanksharan avarohak ispaat kaa upyog rasinic udyog main bahut hai
+ The chemical composition of the prevailing steel consists of 18% chromium, 8% nickel and about 0
+18% carbon and is stabilized with the help of titanium or neobium
+ parantu aise ispaat kaa sanksharan-avrodh 2
+5-3% malbdinum milaane se atydhik bad jaataa he
+ In the chemical industry, 25% chromium and 20% nickel steel are used for high temperature work
+ aadhunik utpaadan-vidhiyon kaa vikaas aujaar banane main kaam aanevaale aise ispaat kii unnati par hi bahut kuch nirbhar rahaa he jo uttarottar kathin paristhitiyon main bhi kaary kar sake
+ Although the tools are of uncountable type, they can be conveniently divided into seven groups: sade carbon aujaari ispaat, Low alloy tool steel, tel main bujhaakar kathor kiya janevaala aujaari manganeez ispaat, Shock resistant tool steel, ucchkarban ucchkromium mishradhatu, High velocity steel and hot stamp steel, nikal-chromium-malibdinum ispaat
+ One or more of the above fundamental properties are found in each of these groups to a greater degree
+ ek baar pani main bujhaakar iskaa prishth kathor, komal tathaa saadhaaran kathorta kaa banaaya ja saktaa he
+ The presence of vanadium in carbonated steel tools by 0
+2 to 0
+5% prevents granulation and increases the efficiency of scouring to a profitable extent
+ 1
+5% chromium milaane se kathorikaran kii kshamta tathaa gharshan-avrodh badhata he or yadi manganeez 0
+5 tathaa 0
+75% ke bich main sthir rakhaa jaae to yah tel main bujhaakar kathorikaran yogya ispaat ho jaataa he
+ a good example of this is 1
+2% carbon and 1
+3% tungsten steel, which is often used for the fruit of metal saws
+ tel main bujhaakar kathorikrut pramanik ispaat main 0
+8-1
+0% carbon tathaa 1
+0-2
+0% manganeez rahata he
+ Of this type of steel, the simplest steel contains 0
+6% carbon, 0
+6% manganese and 0
+4-1
+4% chromium
+ jisamen adhik chromium rahata he vah mote yantron ke liye upyukt hota he
+ The authentic alloy contains 2
+2–2
+4% carbon and 12–14% chromium
+ isamen ucch gharshan-avrodh tathaa ucch sanksharan-avrodh kaa gun hota he
+ It can be hardened by quenching in oil, but adulteration of 1% Malibedinum makes it a hard-to-mix alloy in air
+ unche taap par kaary karte samay acchhee kathorta tathaa kaatane kaa dhar surakshit rakhane kii kshamta hi ucchveg ispaat kaa mukhya gun he
+ This type of steel which is more in use has about 0
+75% carbon, 1
+8% tungsten, 4% chromium and 1
+5% vanadium
+ 0
+3-0
+6% carbon, 4% nikal, 1
+3% chromium tathaa 0
+3% malibdinum sahit ispaton main atyadhik chimdaapan hota he
+ Permanent magnets are successfully used in many works of magnetized devices where earlier only electromagnets were used
+ chumbak ispaat do virgo main vibhajit kiya ja saktaa he - vah jo mortencyttic ispaat hota he tathaa vah jisamen avakshepan kii vidhi dwaara chumbakeey kathorta utpann kii jaati he
+ Martensitic steel is made by mixing chromium steel, tungsten steel and cobalt steel
+ avakshepan dwaara kathorikrut mishradhaatuon main aluminium, nikal, coblt tathaa tanba, kuch titanium, niabyam yaa malibdinum ke saath rahete hai
+ By 1900, iron was the only "soft" ferromagnetic object in general use
+ tatpashchaat anek mishradhaatuon kaa pravesh hua, jinamein samuchit ushma upachaar se unchi praarambhik chubksheeltaa tathaa nimna mandayan haani utpann hoti he! inhen paar-mishradhatu kehete hai
+ Many alloys of nickel-iron, in which only a small percentage of other metals are adulterated, are very superior in this area
+ in mishradhaatuon main 35-90% nikal rahata he tathaa inamen milaai janevaali pradhan dhaatuen malibdinum, chromium tathaa tanba he
+ There are many uses of steel and alloys in engineering that can withstand or support mechanical stress, but do not increase the magnetic field in the vicinity
+ inaki chumbak-pravriti ko lagbhag shunya tathaa chubnkshiltaa ko lagbhag ikai tak pahunchnaa chahie
+ The materials used in this work are the following: Austenite alloy alloy cast iron and steel, thermosaccharide alloy consisting mainly of nickel and iron, and sometimes manganese or chromium, and magnetized steel
+ yah mishradhaatuon ke un samoohon kaa pratinidhi he jo vayumandal tathaa carbonic or acarbonic amlon se kalushit nahin hote hai
+ They can also bear more heat than ordinary steel
+ ispaat main ye gun chromium milaane se utpann hote hai
+ Chromium deactivates the outer surface of the steel
+ pratirodhi shakti kii vruddhi ke liye isamen nikal bhi milaayaa jaataa he
+ Partial or complete manganese is also used in place of nickel
+ aklush ispaat ke nirmaan main lohe main kabhi-kabhi tamra, cobalt, titanium, niobium, tentalium, colombium, gandhak or nitrogen bhi milaayaa jaataa he
+ With the help of these, intact steel of various chemical, mechanical and physical properties can be made
+ vistrut vivaran ke liye dekhen - steneles steel Dina Wadia was the daughter and sole child of Muhammad Ali Jinnah
+ unki maan ratanbai petit mumbai ke do sambhrant pariwaron kii sadasya thim
+ In 1938, he married Navil Wadia, but the marriage did not last long and soon the relationship was severed
+ jab 1947 main bharat kaa vibhaajan hua to dina ne bharat kaa naagarik bananaa sweekaar kiya
+ People are surprised to know why his daughter, whose father was a founder of Pakistan, decided to stay in India
+ dina kaa janm 15 agast 1919 ko landan main hua tha
+ Jinnah's wife died after a serious illness in 1929, after which Jinnah remained very unhappy
+ aise main unhen apni bahan fatima jinna kaa sahyog mila
+ Fatima raised Jinnah's daughter
+ jinna se dina ke sambandh us samay kharaab ho gaye jab unhen 17 saal kii umr main ek bhartiya parsi nevilly wadiya se pyaar ho gaya
+ It did not hurt Jinnah at all, but Dina chose Neville Wadia
+ jinna ko unke parsi hone se dikkat thi, jabaki unki patni or dina kii maa rati ek parsi thim or khule vichaaron vaali thim
+ After the partition of India, Dina remained with her family in India, while Jinnah moved to Pakistan
+ dina or nevilly wadiya donon mumbai main rahete the
+ Later, they too got divorced
+ 1948 main jinna kii mrityu ke baad dina pehali baar pakistan gayi or uske baad 2004 main bhi gayi
+ He was accompanied by his son Nusli Wadia and grandson
+ karachi main apane pita ke makbare par jane ke baad dina ne ek kitaab bhi likhi thi or use apni jindagi kaa sabase katu anubhav bataaya tha
+ Mumbai Asansol Express 2362 is a mail express train operated by Indian Railways
+ yah train mumbai chha
+ shivaji terminus railway stesan se 11:05AM baje chhootati he or asanasol jankshan railway stesan par 11:15PM baje pahunchati he
+ Its travel duration is 36 hours 10 minutes
+ stephen roger wa purv australian cricketer or mark wa ke judawaan bhai he
+ He was a right-handed batsman who also bowled medium fast
+ unhone 1984 main apana pratham shrenee cricket kariyar shuru kiya tha
+ On 26 December 1985, he played the first Test in which he scored 18 runs in both innings
+ 1987 cricket vishwa cap kii vijayi team main wo khelen
+ Early in his career he was considered a "moderately talented" player
+ ek baar 1991 main unhone apane bhai mark se test team main jagah kho di thi
+ He received the captaincy in 1999 from Mark Taylor
+ unki captaini main australia ne 1999 cricket vishwa cap jeeta or lagaataar 16 test jeetne kaa bhi record banaaya
+ One-day captaincy was given to Ricky Ponting in 2002, but he remained captain of the Test team until he retired in 2004
+ wa ne 1985 se 2004 tak 168 test khelen jisamen unhone 51
+06 kii ausat se 32 shatak kii madad se 10,927 ran banaae or saath hi 92 wicket bhi liye
+ Under his captaincy, Australia won 41 of 57 Tests
+ 1986 se lekar 2002 tak chale ek divasiy antarrashtriya kariyar main unhone 325 match main 7,569 ran banaae or saath hi 195 wicket liye
+ Platanista gangetica gangetica ganga nadi dolphin and sindhu nadi dolphin mithe pani kii dolphin kii do prajatiyaan hai
+ They are found in India, Bangladesh, Nepal and Pakistan
+ ganga nadi dolphin sabhi deshon ke nadiyon ke jal, mukhyatah ganga nadi main tathaa sindhu nadi dolphin, pakistan ke sindhu nadi ke jal main pai jaati he
+ The central government has declared Ganges dolphin as the national aquatic animal of India on 05 October 2009
+ ganga nadi main pai jane vaali ganga dolphin ek netraheen jaleey jeev he jisaki ghran shakti atyant teevr hoti he
+ The extinction of this creature is currently less than 2000 in India, mainly due to increasing pollution of Ganga, construction of dams and hunting
+ inkaa shikaar mukhyatah tel ke liye kiya jaataa he jise anya machhliyon ko pakadney ke liye chaare ke rup main prayog kiya jaataa he
+ At this time Ganga dolphins survived in Narora in Uttar Pradesh and very few areas of Patna Sahib in Bihar
+ bihar va uttar pradesh main ise 'sons' jabaki asami bhashaa main 'shihu' ke naam se janaa jaataa he
+ It seeks its prey and food with immense capabilities of echolocation and sniffing
+ yah maansaahaari jaleey jeev he
+ This ancient creature has been present in India for about 100 million years
+ yah machhlee nahin darasal ek standhari jeev he
+ The average length of the female is longer than the male dolphin
+ isaki ausat aayu 28 varsh ricard kii gayi he
+ Emperor Ashoka took steps several centuries ago to protect the dolphin, who is called the 'son of the River'
+ centre sarkaar ne 1972 ke bhartiya vanya jeev sangrakshan kanoon ke daayre main bhi ganga dolphin ko shaamil lauya tha, lekin antat rashtriya jalive jeev ghoshit karne se vanya ji sangrakshan kanoon ke daayre main swatah aa gaya
+ In 1996, the International Union of Conservation of Nature had also declared these dolphins as extinct creatures
+ ganga main dolphinon kii sankhya main vruddhi 'mishan clin ganga' ke pramukh aadhaar stambh hoga, kyonki kendriya paryaavaran evam van mantri jairam ramesh ke anusaar jis tarah baagh jangal kii sehat kaa pratik he usee prakaar dolphin ganga nadi ke swasthya kii nishaani he
+ Sahasra - is an SI prefix, prefixed to units which means 103
+ iskaa chihn sr hota he
+ The aorta is the largest and main artery of the body, which starts from the left ventricle of the heart and from which oxygenated blood transmits oxygen to the tissues of the entire body
+ yah dhamni daihik evam phuffusiya rakt parivahan karti he tathaa daihik koshikaon or shiratantron se hoti hui, pun: hriday ke daahine alind main waapas jaati he
+ From the left ventricle, where its diameter is usually three centimeters, the nickel and some climbing up, turning arched, enters the abdominal cavity from the left side of the vertebrae in the thorax and divides into the right and left iliac arteries near the fourth lumbar vertebrae
+ She goes
+ saralata ke liye ise adhirohi mahadhamani, mahadhamani kii chaap tathaa avarohi vakshiya or udariy mahadhamani main vibhajit karte hai
+ At the aperture of the aortic origin, there are three spheroid and pocket-shaped valves, called trivalon valves
+ in vaalvon kaa natodar bhaag hriday kii ore rahata he
+ At the time of hemorrhage from the left ventricle, the main opening of these valves is due to blood pressure, which causes blood to circulate from the heart to the aorta, but in the opposite case when there is diastasis in the left ventricular, due to the positional reflex of the aorta, the blood pressure from the aorta to the heart Turns towards is kaaran teenon valve raktchaap se phulakar band ho jate hai, jisase rakt sancharan kii disha vipareet nahin hoti or rakt mahadhamani se baayein nilay main waapas nahin aa saktaa he
+ Yes, when inflammation occurs due to disease in the capillaries, in that case the valves do not work properly and blood circulation is in the opposite direction due to their opening
+ isse rakt pun: mahadhamani se baayein nilay main pravesh karata he, jiske kaaran rakt sanchaalan main vikruti hoti he tathaa rog utpann hone lagata he
+ 1
+ inner lumbar, 2
+ bahya greeva, 3
+ Backburn, 4
+ dakshin aantar greeva, 5
+ Posterior cranial, 6
+ dakshin saarv greeva, 7
+ South vertebrates, 8
+ dakshin adhojatruk, 9
+ Anonymous, 10
+ phuffus shakhaayen, 11
+ Aortic arch, 12
+ phuffus prakand, 13
+ Ophthalmic, 14
+ uttal shankh, 15
+ Outer cervix, 16
+ paschkarna, 17
+ Posterior cranial 18
+ balm aantar greeva, 19
+ balm universal cervix, 20
+ balm kasheruki, 21
+ Balm Adjotruk, 22
+ mahadhamani chaap, 23
+ ductus arteriosus, 24
+ phuffus shakhaayen tathaa 25
+ Obturator aorta golgaav-kand03, paudi tehsil main bharat ke uttrakhand rajya ke antargat gadhwal mandal ke paudi jile kaa ek gaanv he
+ Shapeja Cricket League, also known as Classical and SCL, is a cricket tournament organized each year by the Afghanistan Cricket Board at the Alokozhe Kabul International Cricket Ground, Kabul, Afghanistan
+ asibi ne chah frenchiji ke saath shempeja toornament kii sthapana kii, jisamen rashtriya team ke khilaadiyon, videshi, khilaadiyon ko 'e' team se khilaayaa gaya or 19 tiimon ke khilaadiyon ke saath-saath is toornament main bhaag lene vaale sambandhit kshetron se vishisht kalakaar bhi shaamil the
+ In addition, ACB has provided league recognition by franchise to all teams while players will be selected for each team through the draft
+ is 12-divasiy toornament kaa antim lakshya afghanistan main cricket or khel ko badhaava dene or khel ke madhyam se shanti sthapit karnaa he
+ The tournament is broadcast live on Afghanistan's major TV channel using HD quality production standards, and the tournament is commercialized as franchising and marketing each team to the company / organization
+ is toornament ke dizin or prasaaran ke madhyam se, afghanistan apane ghar ke maidan main apane rashtriya khilaadiyon ko dekhne ke liye pehle se pahunch paaenge
+ The league was established in 2013 as the Shuzeja Cricket Tournament
+ paanch kshetreey tiimon ne is ghatana main hissaa liya or yah afghanistan cricket board ke ek safal pahal thi
+ The champions of the first league for the inaugural edition of the tournament were Champagne Tigers
+ match shamashaad tivi se prasaarit kiye gaye
+ The second edition was held with the same number for each team representing the five regions of the country
+ miss-e-ainaak nits ne khitaab championships jeeta gulabadin nib ko main of da toornament kaa naam diya gaya; nur ali sabase acha ballebaaj the or rokhaan berketti ko is sanskaran kaa sarvshereshth gendbaaj kaa naam diya gaya tha
+ The matches were broadcast on 1TV
+ 2017 sizan se shuru karte hue, isisi ne twanti 20 gharelu pratiyogita ke liye suchi e darja di he
+ In May 2017, the ICC recognized Afghanistan's 50-over Ghazi Amanullah Khan regional one-day tournament by providing List a status and in 2017 the Szejha Cricket League match is classified as a Twenty20 position
+ shapaaneja cricket lig ko afghanistan ke 5 kshetron main khelaa gaya tha lekin aadhikarik taur par 2015 main atiff mashaal dwaara pryojit ek chhathi team kabul eagles ko joda gaya tha
+ The following teams participate in the Shapeja T20 tournament: punia uttari bharat main paae jane vaale jat logon ki ek gautra he
+ asian khel 2018 main bharat ke liye pehla swarna padak lene kaa gaurav bajrang punia ko jaataa he
+ The World Cricket League Africa Region or Africa World Cricket League is a one-day cricket tournament organized by the African Cricket Association for non-test countries cricket teams in Africa
+ saath hi ek samaan maanak ke anya logon ke khilaaf antarrashtriya match khilne ke liye rashtriya tiimon ke liye avasar pradaan karne ke rup main, yah bhi isisi vishwa cricket lig main yogyata pradaan karata he
+ The league comprises three divisions once played every two years, with promotion taking place between divisions
+ abhi tak, vahaan nahin kiya gaya he ek prabhag ek toornament khelaa or to koi maujuuda champion hai
+ Currently, there is no set date for this to take place
+ do divijanon tiimon 2004 asie championships ke antim sthanon ke anusaar vitarit kiya ja rahaa ke saath khelaa gaya
+ The higher division, designated as Division Two, contained the allied African countries at the time with the exception of Kenya, Namibia and Uganda, which were already embedded in the World Cricket League
+ yah mana jaataa he ki in teen tiimon ke divijan do se padonnat tiimon ke saath africa divijan ek main bhaag lene kii sambhaavna he
+ The division was composed of three to eight affiliated African countries
+ vartmaan main, vahaan divijanon main neeche parishkaran haalanki yah agar first divijan bhavishya main khelaa jaataa he, badal saktaa he tiimon ke liye koi nirvaasan kiya gaya he
+ The 2006 Division Three tournament featured eight African affiliate members of the International Cricket Council
+ pool 1 gambia, ghana, lesotho or malawi jo suchi pool 2 rup se morocco, mozambik, rwanda or sierra leone chitrit kiya
+ It was held at the Willowmoor Park cricket complex in Benoni, South Africa and won by Mozambique, who qualified for the division two years later
+ 2006 divijan do toornament main daar-es-salaam main khelaa gaya tha tanzania
+ It was a round robin tournament featuring Botswana, Nigeria, Tanzania and Zambia which were linked to the Division Three tournament from Mozambique
+ tanzania ank talika main sabase upar he, is prakaar vishwa cricket lig divijan teen ke liye yogyata
+ Botswana runners-up and Raza Mozambique qualified for the World Cricket League Division Five, with the third being invited to join them later
+ april 2008 main, divijan teen toornament phir benoni, dakshin africa main villaumur park cricket parisar main yojit kiya gaya tha
+ The tournament featured seven African affiliate members of the International Cricket Council and a South African Invitation Team due to Morocco's late withdrawal
+ pool 1 lesotho, malawi, rwanda or sierra leone chitrit kiya
+ Which featured Pool 2 Gambia, Ghana, Swaziland and South Africa Invitation XI
+ haalanki ese nimantran ekadash ek match haarane ke bina pool 2 jeeta, toornament ke niyam unhen semifinal main bhaag lene kii anumati nahin di or unki jagah swaziland dwaara liya gaya tha
+ After Ghana easily accounted for Rwanda in the first semi-finals, they beat the finalists to win the Swaziland tournament
+ oktober 2008 main, divijan do toornament benoni, dakshin africa main villaumur park cricket parisar main yojit kiya gaya tha
+ The tournament was originally scheduled to be held in September 2008, just before the original tournament started due to the death of the President of Zambia before Lusaka, Zambia but was rescheduled to South Africa
+ toornament isisi ke teen africa sahyogi sadsy chitrit kiya; botswana, nigeria or jambia or teen sambaddh sadasyon; ghana, mozambik or swaziland ek round robin praaroop main
+ The three associate members proved stronger than their three affiliate competitors, with the final group table reflecting the affiliate / affiliate division
+ botswana toornament nigeria ke duusare sabase acha ke rup main ubhar rahaa he or donon tiimon africa divijan van ko badhaava dene ke saath puraskrit kiya gaya he saath aparajit ke madhyam se jane ke baad samgr vijeta rahe the
+ Due to his performance in the tournament, Nigeria qualified for the World Cricket League Division Seven
+ 2009 africa divijan teen malawi main 1-7 oktober se khelaa gaya
+ The host team was joined by four other teams who remained from the previous year of play
+ morocco ke rup main acchhee tarah se bhaag lene ke liye icchhuk the, lekin baahar khinchne ke liye ke rup main unke vija sweekaar nahin kiya gaya tha
+ The winners were promoted to Africa Division Two with Malawi who finished runner-up Sierra Leone
+ africa divijan do 24-29 april 2010 se jagah le lee
+ The competition was held in Benoni, South Africa and included Ghana, Malawi, Mozambique, Sierra Leone, Swaziland and Zambia
+ vijetaon, zambia 2010 dablusiel divijan aath main pravesh praapt kii
+ The division was a tournament held in 2010 which included Botswana, Kenya, Namibia, Nigeria, Tanzania and Uganda
+ haalanki vyast kaarykram ke kaaran toornament ko sthagit kar diya gaya tha
+ Nothing will happen in future division three 2011 dilli express 4205 bhartiya rail dwaara sanchalit ek mail express train he
+ This train leaves from Faizabad Junction railway station at 06:30 PM and arrives at Old Delhi railway station at 06:40 AM
+ isaki yatra avadhi he 12 ghante 10 minute
+ 1464 BC refers to the years before the birth of Christ
+ isa ke janm ko adhaar maanakar uske janm se 1464 isa purv yaa varsh purv ke varsh ko is prakaar pradarshit kiya jaataa he
+ It is considered a collective year based on the Julian calendar
+ adhikansh vishwa main isi paddati ke aadhaar par puraane varshon kii gananaa kii jaati he
+ In India, there are many famous Panchagas like Vikram Samvat which begins 57 or 58 years before the birth of Jesus
+ iske alaava shaq samvath bhi prasiddh he
+ Shaka Samvat is the ancient era of India which begins 78 years after the birth of Jesus
+ shaq samvath bharat kaa rashtriya calendar he
+ Some other ancient era prevalent in India are as follows- uparokt antar ke aadhaar par 1464 isa purv ke anusaar vikrami samvath, saptarshi samvath, kaliyug samvath or pracheen saptarshi aadi main varsh aadi nikaale ja sakate he
+ The Commonwealth, or Commonwealth country, is a federation of 53 independent states in which all states were part of the English state
+ iskaa mukhyalay landan main sthit he
+ Its main objective is to promote democracy, literacy, human rights, better administration, free trade and world peace
+ england kii maharani elizabeth dwitiya prayek chaar varsh main hone vaale rashtramandal khelon or baithak main bhaag leti hai
+ It was founded in 1931, but its modern form was decided after India and Pakistan became independent in 1947
+ rashtramandal yaa rashtrakul deshon kaa koi samvidhan yaa charter nahin he
+ Its chiefs meet once every two years
+ bharat sahit antigua, australia, bangladesh, bruneii, canada, cyprus, ghana aadi iske sadsy hai
+ Zimbabwe was removed from membership of the Commonwealth in 2002 and in 2003 the ban was extended indefinitely
+ rashtrakul samooh ke deshon kii kul jansankhya 1
+9 arab he, jo vishwa kii jansankhya kii ek-tihaai bhaag he
+ Fiji was banned from the Commonwealth Group in 2000–01, then again in 2006
+ nigeria ko 1995 se 1999 tak pratibandhit kiya gaya
+ Pakistan was banned in 1999
+ landan ghoshnaa ke tahat britain kii maharani elizabeth dwitiya rashtramandal deshon ke samooh kii pramukh hoti hai
+ The Commonwealth Secretariat was established in 1965
+ iske mahasachiv mukhya kaaryakari ke taur par kaam karte hai
+ Currently Kamlesh Sharma is its general secretary
+ unka chayan november, 2007 ko hua
+ Its first general secretary was Canada's Arnold Smith
+ desh jinaki sadsyta abhi nilambit he ve tede likhe gayi hai
+ Yerkad Express 6669 is a mail express train operated by Indian Railways
+ yah train chennai central railway stesan se 10:30PM baje chhootati he or erod jankshan railway stesan par 06:25AM baje pahunchati he
+ Its travel duration is 7 hours 55 minutes
+ android google dwaara viksit ek mukt strot mobile prachaalan tantra he jo linaks par aadhaarit he
+ Android was developed primarily for touch screen mobiles, often called smartphones, but is also used in tablet computers and now cars, tvs, wrist watches, notebooks, gaming consoles, digital cameras, etc
+ Android is also being used
+ is prachaalan tantra main sab kuch sparsh aadhaarit he jaise virtual kii–board, swiping, tanping, pinching ityadi jo dainik prayog kii bhangimaaon se kaafii milte julate hai
+ It has many features like mobile games, cameras, etc
+, due to which Android has become the most used operating system at the present time
+ android tantra ke sorce code ko google ne mukt strot license ke antargat release kiya tha kintu adhikansh android aadhaarit yuktiyaan nickshulk, mukt evam swaamitv software saamagree ke sangyojan main aati hai
+ Android is mostly used in phones, TV etc
+ android kaa letest varjan google pixles main aane laga he
+ The user interface of Android is based on touch and with the help of actions like swiping, tapping, pinching, the user can control the objects on the screen
+ iske alaava game controlar yaa purna rup ke bade keybords, ityadi ko bluetooth, yuasabi yaa vaai faai kii sahaayta se joda ja saktaa he
+ He gets instant feedback on every order of the user, which makes his experience comfortable and gives the intention
+ is aadesh kii pratiksha taral sparsh intervalak karata he va aadesh milte hi apane software pratikriya swaroop uchit karrwai uplabdh karaata he
+ For this, accelerometer, gyroscope, proximity sensor etc
+ are also used
+ android upkaran armbh hote samay ek grihasthaan main boot hota he, jo ki upkaran kaa praathmik sanchaalan or soochna centre hota he
+ Android's homescreen is usually full of applications and widgets
+ isamen sabase upar ek states baar bhi hoti he, jo upkaran ke bare main va uski connactivity sambandhit suchanaaen uplabdh karaati he
+ Applications running on Android are increasing day by day
+ inhen google play yaa anya uplabdh bahut si maanak evam amanak anuprayog bhandar ke madhyam se aplicoshan file downlod karke praapt kiya ja saktaa he
+ Applications are developed in Java programming language with the help of Android software development kit
+ android kii pahchaan ban chukaa hare rang kaa android logo kii rachana graphic diziner irina blok dwaara 2007 main google ke liye kii gai thi kyonki android or uskaa logo mukt strot license ke antargat aata he, uske mul hare logo kii anginat vibhinn roopon main punarvyakhya kii ja chuki he
+ Google provides significant updates to Android every six to nine months, which are incremental and which most devices are able to access via the Internet
+ android kaa sabase naveenatam pramukh adhyatan android 7
+1
+2 he
+ It can also be used to convert its old Android to the new version through the droidflare
+ apane mukhya pratidwandvi mobile prachaalan tantra arthath ioes kii tulana main android ke apadet aamtaur par vaastavik upkarnon tak dhimi gati se pahonchte hai
+ Free platforms such as Android were created by an organization called Open Hand Aliens, although Google is a survey service, it has a total of 84 organizations and all of them have made their own special contribution to develop the Android platform, of which 34 members are different mobile Companies are semi-conductor companies such as En Video Kualakam etc
+ kuch handset nirmaataa companiyaan jaise:-samsung, ech 0 tii0 si0, soni, el0 ji0, motorola aadi software companiyaan bhi isaki sadsy hai
+ With the joint efforts of companies mostly associated with the electronic and telecom sector, the Android platform is growing day by day
+ iske teevr vikaas main in companiyon ke bich hue samjhaute kaa bhi vishesh yogadan he
+ According to this agreement, "she will always support this community and will produce only devices compatible with the Android platform
+" ” isane na keval is platform ke vikaas ko bal mila balki is platform se sambadhit jo bhi khoj kii gai uske pramukh ghatakon / tatwon ko mukhya dhara ko prayog hetu uplabdh karaayaa jaataa rahaa
+ In October 2003, in the city of Palo Alto in the state of California, United States, Andy Rubin, Rich Minor, Nick Sears and Chris White Android Corporation were established
+ andi rubin ke shabdon main unka uddeshy tha -- Later, on August 17, 2005, it was acquired by Google and placed as a company under Google, and Andy Rubin, Rich Minor, and Chris White of parent company Android Corporation continued to work as employees of the company
+ google dwaara bazaar main aane ke bare main sochane ke baad rubin ke netritv main lines karnel par aadhaarit mobile upkaran platform ko viksit kiya gaya
+ Google marketed the platform with the agreement that the handset would keep this plate farm flexible between manufacturers and communications companies and continue to upgrade
+ ’ varsh 2008 main iskaa pratham sanskaran nikaala gaya
+ Since then, these versions have been upgraded many times and each time they have been named after a rough food dessert - cupcakes, donut eclairs, gingerbread, ice cream sandwiches, honeycombs, jelly bean
+ 2008 ke cap kek sanskaran kii visheshta thi–screen ko ghumaane kii suvidha, screen par kunjeepatal tathaa text kaa anumaan lagane kii suvidha
+ After this, more features were provided in donut, froyo eclair etc
+ iname se sabase mahatvapurn suvidha–lekh ko aawaaj main badalane ke suvidha,cloud se mobile yaa tablet main dianlod kii suvidha, memory card par anuprayogon ko downlod kar istemaal karne kii suvidha thi
+ The Honeycomb version was then developed for use on tablets and the deficiencies found in it were corrected in the next version ice cream sandwich
+ iske baad ke sanskaran jelly been ke dwaara you 
+es 
+bi 
+audio out put kii suvidha pradaan kii gayi
+ Currently the latest version is Android 7
+1
+2
+ android software ke paanch bhaag yaa avyav he jiske aadhaar par puraa android platform kaary karata he
+ In fact, it has been developed to make full use of limited memory devices like mobile
+ linaks karnel ke upyog ke kaaran yah or adhik shaktishaalee ban kar ubhara he or praayah kisi bhi anya upkaran par chalaaya ja saktaa he
+ According to the Java Virtual Machine, this system can run any 'app' on any mobile or tablet without worry or difficulty due to the Dalvik virtual machine
+ isi kaaran se isaki sahaayta se koi bhi upkaran jaise ghadi, refricrator chalaaya ja saktaa he
+ Android is a Linux kernel-based system that connects directly to mobile hardware and provides a variety of processes by ordering the driver regularly by memory power, network, and various other applications
+ karnel open sorce hone ke kaaran haikaron tathaa computer prograamon main ruchi rakhane waalon ko apane program banane main badhaava detaa he
+ For this reason many times such examples are found that mobile devices which do not have legitimate Android are also being run on them
+ karnel hardware ke str par kii jane vaali vaastavik data processing tathaa anuprayog ke bich sethu kaa kaary karata he
+ Its main function is to establish communication between software and hardware and use all the sources of the system as required
+ jisase aavashyak prakriya kaa paalan kar kaary sucharu rup se kiya ja sake
+ The kernel application provides the functionality to be performed by the software
+ vibhinn oparating systams main dizin tathaa aavashyaktaanusaar kaary sampaadan vibhinn prakaar ke karnel dwaara kiya jaataa he
+ But in the monolith kernel, the operating system code works in one place, so that more work can be done even when there is less space
+ android main anuprayog ko chalaane ke liye sabase mahatvapurn avyav yaa ang dailavik he
+ Those who are familiar with the language of computer programming can understand that it is also a short form of Java virtual machine
+ isko is prakaar samajha ja saktaa he ki pehle java code main likhe program ko bite code main badla jaataa he or fir use dailavik excuteble se arthath dex tul dwaara dailavik rup me badal kar prayog kiya jaataa he
+ Android's source code is released by Google under a free source license, and its open nature has encouraged a large community of developers and technology enthusiasts to use open-source code for community-driven projects , Which provides updates to older devices, new features for advanced users or with other operating systems Can be operated Android operating system sent devices to
+ ye saamudayik-viksit release aksar aadhikarik nirmaanon kii tulana main gunvattta ke saath tulanaatmak str pe nae visheshtaon or adyatanon ko lekar aate hai; puraani divison ke liye nirantar samarthan pradaan karte hai jo nirmaan ke kuch saal baad aadhikarik adhyatan nahin praapt karte; yaa un upkarnon ko android se jorte he jo aadhikarik taur par anya oparating system chalaa rahe the, jaise echpi tachpad saamudayik relies aksar moolbhoot rup se aate hai or mul vikreta dwaara pradaan kiye gaye sanshodhano main shaamil nahin hoti he, jaise ki divaais ke procesar ko overclock yaa over / overvallt karne kii kshamta
+ Synogenemode was the most widely used community firmware
+ aitihaasik rup se, divaais nirmaataaon or mobile vaahak aam taur par tisare paksh ke farmaware vikaas kaa samarthan nahin karte hai
+ Manufacturers express concern about improper functioning of devices running unauthorized software and consequently support costs
+ iske alaava, sanshodhit formaware jaise ki siyanogemod kabhi-kabhi vishesh rup se fitures pradaan karte hai, jaise tithuring, jiske liye vaahak premium kaa bhugtan nahin karnaa chaahate 
+ As a result, technical constraints including lock bootloaders and limited access to root permissions are common in many devices
+ haalanki, chunki saamudayik viksit software adhik lokapriy ho gaye hai or sanyukt rajya america main congress ne mobile divaais ke "jailbraking" permit dene ke ek bayaan ke baad,nirmaataaon or vaahak ne tisare paksh ke vikaas ke bare main unki manosthiti ko naram kar diya he, achatisi, motorola, samsung or soni, sahit kai or companiya vikaas or sahyog ko protsaahit kar rahi he 
+ As a result, over time, the need to circumvent hardware restrictions to install unauthorized firmware has diminished
+ ye upkarnon kii praathmik gati vidhiyon ko niyantrit karne ke liye nichle str ke software hai,jo sataha par hone vaali gatividhiyon jaise–thri-di hardware gati tathaa disple,sab system tathaa software anuprayogon ke prabandhon ko niyantrit karte he
+ The SQL database is used as an important component in sorting information
+ aplication, jo upkarnon kii kaaryakshmata ko badhaate hai, ise android software deveopment kit or aksar java programing bhashaa kaa upyog karte hue likhaa jaataa he
+ [java can be combined with c / c ++, together with the option of non-default runtime, which allows better c ++ support
+ haalanki java programing bhashaa bhi simit programing interfes ke saath samarthit he 
+ In May 2017, Google announced support for Android app development in the Kotline programming language
+ esadike main deveopment tuls kaa ek vyapak set shaamil he, jisamen dibgar, software librari, kuiamyu, dastavezikaran, namoona code or tutorial par aadhaarit handset emulator shaamil hai
+ Initially, Google's integrated development environment was Eclipse using the Android Development Tools plugin
+ In December 2014, Google released Android Studio, which is based on intelj IDEA, as it is the primary IDE for Android application development
+ si yaa si ++, google ap develper, nausikhia programmer ke liye ek drishy vaataavaran or vibhinn cross plateform mobile web aplicoshan fremwork ke anek prayogon yaa ekstansion ke liye mul vikaas kit sahit anya vikaas upkaran uplabdh hai
+ In January 2014, Google unveiled a framework based on Apache Cordova to portfolio Chrome HTML5 web application Android, which is wrapped in a native application shell
+ android ke paas tisare paksh ke anuprayogon kii badhati chayan he, jo upyogkartaaon dwaara aplication ke apike file ko downlod karke yaa aplication store program kaa upyog karke downlod karne kii anumati detaa he apane divaais se aplication google play store praathmik aplication store he jo android divaais par install kiya gaya he jo google kii sangatta aavashyaktaaon kaa anupaalan karata he or google mobile seva software ko license detaa he
+ The Google Play Store allows users to browse, download and update applications published by Google and third-party developers; As of July 2013, the Play Store had over 1 lakh applications available for Android
+ july 2013 tak 50 arab aavedan sthapit kiye gaye hai
+ Some provide direct carrier billing to purchase Google Play applications, where the cost of the application is added to the user's monthly bill
+ may 2017 tak, jimail, android, krom, google play or maps ke liye prati maah ek arab se zyada sakriy yugers hai
+ Currently, Android is emerging as a popular operating system for mobile phones and tablets
+ android main abhi tak hindi samarthan uplabdh he
+ Francis i King of France who was the son of Charles of Valoi
+ san 1498 main looyee barahawein ke singhasanarudh hone par francis rajya kaa sambhavit uttaradhikari maan liya gaya
+ In 1519, he became a candidate for the throne of the Roman Empire
+ is pad par charles pancham ke chun liye jane par donon nareshon main jo pratidwandvita prarambh hui, uske parinamswaroop 1521-29, 1536-38 or 1542-44 ke yuddh hue
+ After fighting bravely in the Italian expedition of 1525, he had to face a deep defeat in a place called Pavia
+ vah bandi bana liya gaya or apmanjanak sandhi par hastakshar hone ke baad hi use chhutkaaraa mila
+ He was a man of wavering policy and unstable thoughts
+ uske shashan kaal main rajya ke adhikaron or shakti main vruddhi hui
+ The meeting of the States General was not called and opposition to the 'parliament' was not bothered
+ uske kharchilepan par koi niyantran na tha or apni premicaon tathaa kripapatro ko uphaar tathaa pension aadi dekar vah manamaana dravya udaaya karata tha jisase praja par shashan kaa bhaar badhata jaataa tha
+ He was a literary lover and respected scholar who lacked his admirers
+ kunwar krishna verma,bharat ke uttar pradesh kii duusari vidhansabha sabha main vidhayak rahe
+ In the 1957 Uttar Pradesh Legislative Assembly election, he participated in the election on behalf of the Congress from 298 - Sultanpur Legislative Assembly constituency of Sultanpur district of Uttar Pradesh
+ shri bhadreshwar mahadev kaa mandir bhatund se 4 kilometre dur tha lekin 50- 60 varsh purv jawai band banane ke kaaran yah mandir pani main chalaa gaya tha
+ Then a new temple was established in Dudni village
+ ab yah 13 kilometre dur he
+ It is the Ist Dev of Shri Adorji Maharaj
+ bharat kii antahkalin sarkaar bhartiya rashtravaadiyon dwaara 1 disambar 1915 ko kabul main asthaayee rup se sthapit ek sarkaar thi
+ Amarnath is a major pilgrimage center for Hindus
+ yah kashmir rajya ke srinagar shahar ke uttar-purv main 135 sahastrameter dur samudratal se 13,600 foot kii oonchaai par sthit he
+ The length of this cave is 19 meters and width is 16 meters
+ gupha 11 meter unchi he
+ The Amarnath cave is one of the major shrines of Lord Shiva
+ amarnath ko tirthon kaa tirth kaha jaataa he kyon ki yaheen par bhagwaan shiv ne maan parvati ko amartv kaa rahasy bataaya tha
+ The main feature of this place is the formation of natural Shivling in the cave in the snow
+ prakritik him se nirmit hone ke kaaran ise swayambhu himani shivlinga bhi kehete hai
+ Starting from Ashada Purnima till Rakshabandhan, lakhs of people come here for the holy Himling Darshan to be held throughout the month of Sawan
+ gupha kii paridhi lagbhag dedh sau foot he or isamen upar se barf ke pani kii boonden jagah-jagah tapakati rahati hai
+ There is a place here, in which a ten feet long Shivling is formed by dripping snow droplets
+ chandramaa ke ghatane-badhane ke saath-saath is barf kaa aakaar bhi ghatata-badhata rahata he
+ On Shravan Purnima it comes in its full size and gradually becomes smaller till Amavasya
+ aashcharya kii baat yahi he ki yah shivlinga thos barf kaa bana hota he, jabaki gupha main aamtaur par kachi barf hi hoti he jo haath main lete hi bhurabhura jaae
+ Ganesh, Bhairav and Parvati have similar icebergs several feet away from the original Amarnath Shivling
+ janashruti prachlit he ki isi gupha main mata parvati ko bhagwaan shiv ne amarkatha sunai thi, jise sunakar sadyojaat shuk-shishu shukdev rishi ke rup main amar ho gayi the
+ Even today, a pair of pigeons are seen in the cave, which the devotees call immortal birds
+ ve bhi amarkatha sunakar amar hue hai
+ There is also a belief that Shiva Parvati, who sees devotees who are associated with pigeons, provides salvation to that creature by taking a direct view of their visions
+ yah bhi mana jaataa he ki bhagwaan shiv ne adrdhagini parvati ko is gupha main ek aisi katha sunai thi, jisamen amarnath kii yatra or uske maarg main aane vaale anek sthalon kaa varnan tha
+ This story later became known as Amarkatha
+ kuch vidwaanon kaa mat he ki bhagwaan shankar jab parvati ko amar katha sunaane le ja rahe the, to unhone chote-chote anant naagon ko anantnag main choda, maathe ke chandan ko chandanbari main utaara, anya pissuon ko pissu top par or gale ke sheshnag ko sheshnag naamak sthal par choda tha
+ All these places still visit the Amarnath Yatra
+ amarnath gupha kaa sabase pehle pataa solahavin shatabdi ke purvaadh main ek musalmaan gaderiye ko chalaa tha
+ Even today a fourth offering is made to the descendants of that Muslim shepherd
+ aashcharya kii baat yah he ki amarnath gupha ek nahin he
+ While proceeding on the path of the river Amravati, many other small and large caves are seen
+ ve sabhi barf se dhaki hai
+ There are two ways to go on Amar Nath Yatra
+ ek pahalgam hokar or doosraa sonmarg baltaal se
+ That is, to reach Pahalman and Baltal by any ride, you have to use your feet to go further from here
+ ashakt yaa vridhon ke liye savaariyon kaa prabandh kiya ja saktaa he
+ The route from Pahalgam is considered to be simple and convenient
+ baltaal se amarnath gupha kii duuri keval 14 kilometre he or yah bahut hi durgam rasta he or suraksha kii drushti se bhi sandigdh he
+ That is why the government does not consider this route safe and motivates most of the travelers to go to Amarnath via Pahalgam
+ lekin romaanch or jokhim lene kaa shauk rakhane vaale log is maarg se yatra karnaa pasand karte hai
+ People traveling through this route travel at their own risk
+ raste main kisi anhoni ke liye bharat sarkaar jimmedaari nahin leti he
+ Pahalgam is 315 km from Jammu
+ yah vikhyath paryaton sthal bhi he or yahan kaa naiysargik saundarya dekhte hi banataa he
+ Government bus is available from Jammu and Kashmir tourism center to reach Pahalgam
+ pahalgam main gaiyr sarkari sansthaaon kii ore se lungar kii vyavastha kii jaati he
+ The pilgrimage walk begins from here
+ pahalgam ke baad pehla padaav chandanbari he, jo pahalgam se aath kilometre kii duuri par he
+ The pilgrims spend the first night here
+ yahan raatri nivas ke liye camp lagaae jate hai
+ The climb of the Pisu Valley begins on the second day
+ kaha jaataa he ki pissu ghati par devataaon or rakshason ke bich ghamaasan ladaai hui jisamen rakshason kii haar hui
+ This journey of the first phase along the banks of the river Lidder is not difficult
+ chandanbari se aage isi nadi par barf kaa yah pul salaamat rahata he
+ The next stop is at Sheshnag, 14 kilometers from Chandanbadi
+ yah maarg khadi chadhaai vaala or khatarnaak he
+ This is where flea basins are seen
+ amarnath yatra main pissu ghati kaaphi jokhim bharaa sthal he
+ The flea valley is 11,120 feet above sea level
+ yatri sheshnag pahunch kar tazaadam hote hai
+ There is a beautiful blue water lake between the ranges
+ is jhil main jhankkar yah bhram ho uthta he ki kahin aasmaan to is jhil main nahin utar aayaa
+ This lake is spread over one and a half kilometers in length
+ kinvadantiyon ke mutabik sheshnag jhil main sheshnag kaa vaas he or choubees ghanton ke andar sheshnag ek baar jhil ke baahar darshan dete hai, lekin yah darshan khushnaseebon ko hi naseeb hote hai
+ Pilgrims stay here for the night and start the third day journey from here
+ sheshnag se panchatarani aath mile ke faasale par he
+ The route has to cross the Beauvel Top and Mahagunas Pass, which are 13,500 feet and 14,500 feet in height respectively
+ mahagunas chotii se panchatarani tak kaa sara rasta utraai kaa he
+ This place is named Panchtarni due to five small streams flowing here
+ yah sthaan chaaron taraf se pahaado kii oonchi-oonchi chotiyon se dhakaa he
+ The cold is also more due to the height
+ oxigen kii kami kii vajah se tirthayatriyon ko yahan suraksha ke intjaam karne padate hai
+ Amarnath's cave remains only eight kilometers away from here and snow remains frozen on the way
+ isi din gupha ke najadik pahunch kar padaav daal raat bitaa sakate hai or duusare din subah puja archana kar panchatarani lautaa ja saktaa he
+ Some travelers reach Sheshnag by evening
+ yah rasta kaaphi kathin he, lekin amarnath kii pavitra gupha main pahonchte hi safar kii sari thakaan pal bhar main chhu-mantar ho jaati he or adbhut atmik anand kii anubhuti hoti he
+ The distance from Baltal to Amarnath - Jammu to Baltal is 400 km
+ jammu se udhampur ke raste baltaal ke liye jammu kashmir paryatak swaagat centre kii basen aasaani se mil jaati hai
+ Pilgrims from the Baltal Camp can return to the camp in one day after visiting the Amarnath cave
+ yttrium ek rasinic tatv he
+ It is a silver-colored transition metal whose properties are similar to those of the lanthanide group and are sometimes considered part of the same rare earth element group
+ prakruti main bhi yttrium hameshaa unheen ke saath khanijon main paaya jaataa he
+ It is never found in pure form in nature
+ yttrium ko fosfar banane ke kaam main laayaa jaataa he, visheshkar cathod kiran nalika or prakaash utsarjak diod main dalane vaale laal fosfar ke liye
+ Yttrium compounds are harmful to the human body and physical contact with them causes diseases of the respiratory system
+ san 1787 main swidi rasayanashastri karl aranius ko sweden ke ek iyuttarabi naamak gaanv ke paas ek nayaa khanij mila jiskaa naam unhone gaanv ke upar 'itterbite' rakhaa
+ In 1789, the Finnish chemist Yohan Gadolin obtained etrium oxide from this mineral sample and the chemical compound was named 'itria'
+ 1828 main german rasayanshastri freederikh vohalar ne sarvapratham shuddh yttrium tatv praapt kiya
+ George Cunningham, a British administrator, was the former acting governor of Khyber Pakhtunkhwa, a British Indian province
+ tatpurv, ve ek vishisht rugby khilaadi evam, scottish rashtriya rugby team ke sadsy va captain bhi rah chuke the
+ Coordinates: 27 ° 11′N 78 ° 01′E / 27
+18 ° n 78
+02 ° e / 27
+18; 78
+02 chitrahaat bah, agra, uttar pradesh sthit ek gaanv he
+ · Ambedkar Nagar District · Agra District · Aligarh District · Azamgarh District · Allahabad District · Unnao District · Etawah District · Etah District · Auraiya District · Kannauj District · Kaushambi District · Kushinagar District · Kanpur Nagar District · Kanpur Dehat District · Khair · Ghaziabad District · Gorakhpur District · Gonda District · Gautam Budh Nagar District · Chitrakoot District · Jalaun District · Chandauli District · Jyotiba Phule Nagar District · Jhansi District · Jaunpur District · Deoria District · Pilibh District District · Pratapgarh District · Fatehpur District · Farrukhabad District · Firozabad District · Faizabad District · Balrampur District · Bareilly District · Ballia District · Basti District · Badoun District · Bahraich District · Bulandshahar District · Baghpat District · Bijnor District · Barabanki District · Banda District · Mainpuri District · Mahamayanagar District · Mau District · Mathura District · Mahoba District · Maharajganj District · Mirzapur District · Muzaffarnagar District · Meerut District · Moradabad District Rampur district · Raebareli district · Lucknow district · Lalitpur bhartiya mahila cricket team jo viman in blue ke naam se bhi jaani jaati he ek bhartiya rashtriya mahila cricket team he
+ Which is operated by BCCI
+ bhartiya mahila cricket team ne pehla test cricket match 31 aktubar 1976 ko bangalore main westeindies mahila cricket team ke khilaaf khelaa tha jabaki pehla ek divasiy antarrashtriya 1 janvari 1978 ko kalakatta main england mahila cricket team ke khilaaf khelaa tha or pehla tinti-tinti match 5 agast 2006 ko darbi main england ke khilaaf khelaa tha
+ Green yah lekh hare rang ke prasiddh tint evam chhaayaon ke bare main he
+ This article refers to a color
+ For the English football team of the same name, see Forest Green Rovers FC harlequeen ek visheshan bhi he, jise ki kisi vastu ko bataane hetu prayog kiya jaataa he, jo ki kisi khaas style main rangi ho, praayah heere kii akruti kii style
+ Sea green is the shade of green that reflects the color of the ocean floor, which is seen from the surface
+ varant haraa Spring bud paramparaagat chartrius Web color chartreuse yaa chartrius Pear is a desaturated chartreuse yellow that resembles the color of Anjou or Bartlett pears
+ The color pear is used to advertise cans or bottles of pear nectar
+ Displayed at right is the color pistachio, also called pistachio green, a representation of the color of the interior meat of a pistachio nut
+ It is also a representation of the color of pistachio ice cream, and of pistachio pudding
+ The first recorded use of pistachio green as a color name in English was in 1789
+ Source of color: ISCC-NBS Dictionary of Color Names --color Sample of Pistachio Green
+ Displayed at right is the web color apple green, a representation of the color of the outer skin of a granny smith apple
+ The first recorded use of apple green as a color name in English was in 1648
+ Source of color: ISCC-NBS Dictionary of Color Names --color Sample of Apple Green 
+ The purpose of the color comparison chart is, by arranging the tints and shades of a particular color in approximate order from lightest at the top to the most saturated in the middle to darkest at the bottom, to allow the Wikipedia user to more easily choose a color they may need for a particular use
+ Having the colors arranged by shade rather than alphabetically makes it easier to do this
+ krishna-caspian stapi yaa pontic-caspian stapi krishna sagar ke uttar se caspian sagar ke purv ke kshetron tak vistrut vishaal stapi maidani kshetra ko kehete hai
+ In the modern era, it is an area extending from western Ukraine to the southern federal region of Russia and then through the Volga federal region of Russia to western Kazakhstan
+ pracheen kaal main yah skithi logon or saramati logon kaa kshetra hua karata tha
+ Many cavalry tribes have been living in this region for centuries, who have changed the history of castes and countries by periodically invading Europe, West Asia and the Indian subcontinent
+ bahut itihaaskaar maanate hai ki yah vishwa kaa pehla ilaaka tha jahaan ghodon ko paaltu banaaya gaya
+ In the 16th to 18th centuries, the Russian Empire finally took control of the region and for the first time the inhabitants of this area became subject to a non-nomadic system
+ 'pontic' pracheen unani bhashaa ke 'pontos' shabd se aayaa he jiskaa arth 'samudr' he
+ In ancient times the Greeks used to call Krishna Sagar with this name, hence the meaning of 'pontic-caspian' is 'from the ocean of Krishna to the Caspian Sea'
+ dasvin putali prabhavati ne jo katha sunai vah is prakaar he- ek baar raja vikramaditya shikaar khelte-khelte apane sainikon kii toli se kaaphi aage nikalakar jangal main bhatak gaye
+ He searched a lot here and there, but his soldiers could not see him
+ usee samay unhone dekha ki ek sudarshan yuvak ek ped par chadha or ek shakha se usne ek rassi baandhi
+ The noose was made in the rope, and put its head in the loop and swung
+ vikram samaj gaye ki yuvak aatmahatya kar rahaa he
+ He pulled the noose from his neck by supporting him from below and scolded him that suicide is not only sin and cowardice, but also crime
+ is aparaadh ke liye raja hone ke naate ve use dandit bhi kar sakate hai
+ The young man understood that he was the king by his robes and his costumes and became afraid
+ raja ne uski gardan sahalaate hue kaha ki vah ek swasth or balashaali yuvak he phir jivan se niraash kyon ho gaya
+ On the strength of his hard work he can seek livelihood
+ us yuvak ne unhen bataaya ki uski niraashaa kaa kaaran jivicoparjan nahin he or vah vipannataa se niraash hokar aatmahatya kaa prayaas nahin kar rahaa tha
+ The king wanted to know which is the compulsion which is motivating him to commit suicide
+ usne jo bataaya vah is prakaar he- usne kaha ki vah kaalin kaa rahane vaala he tathaa uskaa naam vasu he
+ One day he was passing through the forest that he saw a very beautiful girl
+ vah uske rup par itnaa mohit hua ki usne usase usee samay pranay nivedan kar daalaa
+ The girl laughed at his proposal and he told her that she could not love anyone because that is the fate of her
+ darasal vah ek abhaagi rajkumaari he jiskaa janm aise nakshatra main hua ki uskaa pita hi use kabhi nahin dekh saktaa agar uske pita ne use dekha, to tatkshan uski mrityu ho jaaegi
+ His births sent his father away from the city to a monk's hut and he was raised in that hut
+ uskaa vivaah bhi usee yuvak se sambhav he jo asambhav ko sambhav karke dikhaa de
+ That young man has to jump out of the boiling oil into a cauldron and show his life
+ uski baat sunakar vasu us kutiyaa main gaya jahaan uske nivas tha
+ On going there, he saw many bones that had lost their lives by jumping into the boiling Kadah oil in an attempt to marry the princess
+ vasu kii himmat jawaab de gai
+ Frustrated, he returned from there
+ usne use bhulane kii lakh koshish kii, par uskaa rup sote-jaagate, uthte-baithte- har aankhon ke saamne aa jaataa he
+ He has lost sleep
+ use khaanaa-pinaa nahin acha lagata he
+ Now he has no choice but to make a proclamation
+ vikram ne use samajhaana chaha ki us rajkumaari ko paanaa sachmuch asambhav he, isliye vah use bhuulakar kisi or ko jivan sangini bana le, lekin yuvak nahin mana
+ He said that Vikram saved him in vain
+ unhone use mar jane diya hota, to acha hota
+ Vikram told him that suicide is a sin and he could not see this sin happening in front of him
+ unhone use vachan diya ki ve rajkumaari se uskaa vivaah karaane kaa har sambhav prayaas karenge
+ Then he remembered both the hospitals provided by Maa Kali
+ donon vetaal palak jhapakate hi upasthit hue tathaa kuch hi der main un donon ko lekar us kutiyaa main aae jahaan rajkumaari rahati thi
+ She was simply a hut to say
+ rajkumaari kii sari suvidhaon kaa khyaal rakhaa gaya tha
+ There were servants
+ rajkumaari kaa man lagane ke liye sakhi-saholiyaan thim
+ Vikramaditya, meeting the ascetic, sought the princess's hand for Vasu
+ tapasvi ne raja vikramaditya kaa parichay paakar kaha ki apane praan vah raja ko saralata se arpit kar saktaa he, par rajkumaari kaa haath usee yuvak ko degaa jo khaulate tel se sakushal nikal aae, to kisi anya ke liye rajkumaari kaa haath maang saktaa he yaa nahin
+ The ascetic said that this condition should be fulfilled
+ vah apane liye haath maang rahaa he yaa kisi anya ke liye, yah baat myne nahin rakhti he
+ He tried to convince the king that this princess would have to remain a virgin
+ jab vikram ne use bataaya ki ve khud hi is yuvak ke hetu kadaah main kudane ko taiyaar hai to tapasvi kaa munh vismay se khulaa rahaa gaya
+ They were talking that the princess came there with her friends
+ vah sachmuch apsaraon se bhi zayaada sundar thi
+ If the youths lost their lives by jumping in a boiling cauldron, then they did nothing wrong
+ vikram ne tapasvi se kahkar kadaah bhar tel kii vyavastha karwaai
+ When the oil started simmering, Vikram jumped into the oil remembering mother Kali
+ khaulate tel main kudate hi unke praan nikal gaye or sharir bhunakar syah ho gaya
+ Mother Kali took pity on him and ordered the hospitals to bring Vikram alive
+ betaalon ne amrit kii boondein unke munh main daalkar unhen zindaa kar diya
+ As soon as he was alive, he asked for the princess's hand for Vasu
+ rajkumaari ke pita ko khabar bhej di gai or donon kaa vivaah dhooma-dham se sampann hua
+ Ratnmnjri • Chitralekha • Chandrakala • Kamkandla • Lilavati • Rvibama • moon • Pushpwati • madhumalati • Prabhabati • trilochana • Padmavati • Kirthymti • Sunaina • Sunderwati • Satyavathy • Vidyawati • Tarawati • framework • Knowledgeable • Cndrajyoti • Anurodwati • Dharmwati • Krunawati • Trinetri • Mrignayani • Malayavati • Vaidehi • Manavati • Jayalakshmi • Kaushalya • Rani Rupavati • See: Throne Battisi • Raj Food • nutan comics main hansi or tahaakon se bhare anek charitra hue hai, jiname chhutki kaa naam sabase upar aata he
+ Like cartoonist Pran's cute and bubbly Pinky, Chutki managed to make an identity in the world of Indian comics with her short but funny stories
+ chhutki kaa charitra ek choti si natkhat ladki kaa he, jise hameshaa hi pile bade bade binduon vaali laal rang kii fraq pahane chitrit kiya gaya he
+ According to the Indian character, he has been made a blonde in a very strange way
+ khayr jo bhi ho, charitra or uski kahaniyaan hai bahut mjedaar
+ The character of Chutki was designed by the Pammi group, mostly named as Pammi Bhai, later joined by the Dhammi Group
+ jahaan tak rahi baat kahaniyon kii to unhen likhaa tha premnath sharma ji ne
+ chhutki kii comics main kai choti-badi kahaniyaan hua karti thi - jinka koi nishchit vistaar nahin hota tha
+ The first published comics of Chutki were titled - Chutki gyaat prakashit comixon kii suchi - Rantgenium, whose chemical symbol is Rg, is a chemical element
+ iskaa parmaanu kramank 111 he
+ Copernium is not found in nature and is only artificially manufactured in the laboratory
+ iskaa nabhik bahut asthai he jiske karanvash yah atyant radiodharmee he or iske sabase sthai rup - rentgenium-281 - kaa ardhayu kaal keval 26 sekkind he
+ It was first built in 1994
+ yah yah aavart sarini ke di khand main aata he or ek paractenide tatv he
+ According to the census of India, this village is located in Tehsil Moradabad, District Moradabad, Uttar Pradesh
+ sambandhit janaganana code: rajya code :09 jila code :135 tehsil code : 00719 Districts of Uttar Pradesh ajvayan ek jhadinuma vanaspati he jo masala evam aushadhi ke rup main prayukt hoti he
+ It is cultivated on a small scale
+ ajvayan ke bahut se gun hai
+ It can also be kept on a journey with you
+ iskaa prayog rogon ke anusaar kai prakaar se hota he
+ It is also used in the form of spices, powders, decoction, decoction, and extracts
+ iskaa churna banaakar va aathvaan hissaa sendha namak milakar 2 gram kii maatra main jal ke saath seven kiya jaye to pet main dard, mandagni, apach, afra, ajeern tathaa dast main laabhakaari hoti he
+ It should be consumed thrice a day
+ ajvayan ko raat main chabaakar garam pani pine se savere pet saaf ho jaataa he
+ If the powder of bishops is given to children 2 to 4 rattis and two grams to the elders, mixed with jaggery three to four times a day, then the stomach worms go out
+ raat ko peshaab aane par bhi iske seven se laabh hota he
+ Taking parsley with sugar three to four times in water cures the urticaria
+ ajvayan ko senk kar churna banaakar sharir kii garmi kam hone yaa pasinaa aane par pair ke talvon or sharir par maalish karne se ushnata aati he
+ Massaging the body in cholera or typhus brings warmth
+ ajvayan ke 4 ratti phool, 4 ratti giloi satv ke saath milakar charm rogon main oongliyon ke kaam na karne par, vaayu ke dard, raktchaap or bladpressure main laabhprad siddh hota he
+ If the thyme is mixed with honey, phlegm stops
+ khaansi yaa kaph kii durgandh khatm hoti he
+ a Chhatok extract of this is beneficial in chronic cough, big cough and phlegm
+ iskaa arq yaa tel 10-15 buund baraabar lete rahane se dast band hote hai
+ Taking two grams of its powder thrice a day calms the cold fever
+ ajwine motaape kam karne main bhi upyogi hoti he
+ Soak a spoonful of celery in a glass of water at night
+ subah chaan kar ek chammach shahad ke saath milakar pine se laabh hota he
+ Its regular intake reduces obesity
+ 100 tole pani main ajvayan ke phool kaa churna milakar us ghol se dhone par ghaav, daad, khujali, fusiyaan aadi charmrog nasht hote hai
+ Parsley is helpful in destroying the air and increasing the force
+ iske tel kii maalish se sharir dard rahit hota he
+ By taking its powder with hot water or by drinking lukewarm extracts, its outbreak is peaceful
+ iskaa prayog prasav ke baad agni kii pradeept karne or bhojan ko pachaane, vaayu evam garbhashay ko shuddh karne ke nimitt kiya jaataa he
+ At the time of using it, 2 to 4 grams of powder, if there is oil, 4 grams of drops, if flowers are 1 ratti and extracts, then quantity should be kept up to 50 grams
+ ajvayan kaa mishran- ajvayan ek tola, choti harad kaa churna aadha tola, sendha namak pav tola, hing pav tola kaa churna banaakar rakhen or 3-3 gram kii maatra main jal ke saath len to pet dard, jalan, afra or malmutra kii rukawat dur hoti he
+ Make equal quantity of powder of Ajwai, dry ginger, black pepper and small cardamom and take it three to four times in the morning, the digestive process is cured and stomach pain is also cured
+ nai ajvayan kaa ek chhatok, nibun kaa ras ek chhatok, paancho namak 2 tola, inhen milakar kisi baratan main rakhkar kapade se uskaa mukh band kar den or din main dhoop main senke
+ Taking 2 to 4 grams of it on dryness kills all stomach diseases
+ sindh, pakistan kaa ek nagar
+ Coordinates: 21 ° 23′27 ′′ n 71 ° 13′02 ′′ e / 21
+390726 ° n 71
+217349 ° e / 21
+390726; 71
+217349 Kerala is an important village in Dhari tehsil, one of the 11 tehsils of Amreli district in Saurashtra and Kathiawar provinces of the state of Gujarat in the country of India
+ kerala gaanv ke logon kaa mukhya vyavsaay kheti, khetmazdooree, pashupaalan or ratnakala kaarigari he
+ Wheat, groundnut, ground, millet, cumin, grains, beans, vegetables, alfalfa etc
+ are cultivated here
+ gaanv main vidhyalay, panchayat ghar jaisi suvidhaayen hai
+ The nearest town to the village is Amreli
+ yahan pe sher, tendua jaise hinsak vanya praani bhi paae jate hai
+ Chamlekh is a village in Pithoragarh district of Kumaon division under Uttarakhand state of India in Gangolihat tehsil
+ halson, kaladhugi tehsil main bharat ke uttrakhand rajya ke antargat kumaun mandal ke nainital jile kaa ek gaanv he
+ 2327 BCE represents the years before the birth of Christ
+ isa ke janm ko adhaar maanakar uske janm se 2327 isa purv yaa varsh purv ke varsh ko is prakaar pradarshit kiya jaataa he
+ It is considered a collective year based on the Julian calendar
+ adhikansh vishwa main isi paddati ke aadhaar par puraane varshon kii gananaa kii jaati he
+ In India, there are many famous Panchagas like Vikram Samvat which begins 57 or 58 years before the birth of Jesus
+ iske alaava shaq samvath bhi prasiddh he
+ Shaka Samvat is the ancient era of India which begins 78 years after the birth of Jesus
+ shaq samvath bharat kaa rashtriya calendar he
+ Some other ancient era prevalent in India are as follows- uparokt antar ke aadhaar par 2327 isa purv ke anusaar vikrami samvath, saptarshi samvath, kaliyug samvath or pracheen saptarshi aadi main varsh aadi nikaale ja sakate he
+ Mumbai Matinee is a 2003 Hindi language film
+ yah tehsil gorakhpur jila, uttar pradesh main sthit he
+ According to the 2011 Census of India, there are 549 villages in this tehsil
+ hind irani hind arya romani The Romani language belongs to the indo-european linguistic family
+ ye hind irani shakha ke hind arya upashakha ke antargat vargeekrut he
+ indo-aryan languages are languages that originated from Sanskrit
+ hindi, urdu, kashmiri, bengali, oriya, punjabi, marathi jaisi bhashaayen hind-arya bhashaayen hai
+ Romani is spoken by the Banjars of Europe
+ ye baari maatra main anya europea bhashaaon se mishrit he
+ Analysis of the Romani language has shown that it is related to the languages spoken in the central and northern Indian subcontinent
+ is bhashaai sambandh ko romani logon ke bhugolic mul kaa sanket mana jaataa he
+ They originally came from the Indian subcontinent or now parts of northern India and Pakistan
+ romani bhashaa ko aamtaur par madhya hind-arya bhashaaon main shaamil kiya jaataa he
+ The Romani language is sometimes considered to be a set of dialects or a collection of related languages, which includes all members of a genetic subgroup
+ romani bhashaa kisi bhi raashtra kii adhikarik bhashaa nahin he, par kai deshon main ise alpsankhyak bhashaa kaa darja diya jaataa he
+ In those countries where the Romani population is more, various dialects of Romani language are now in the process of being codified
+ ghan avasthaa lager' vah lager he jiskaa labdhi-madhyam thos ho, na ki gas yaa drav
+ Lasers based on semiconductors are also solid state lasers but they are often placed in a different category
+ kanoon main, grahanadhikaar yaa lian kisi sampatti ke evaj main die gaye rin shodhan yaa kisi anya daayitv ke nirvaah ke badale main bhugtan ko surakshit karne ke liye hit suraksha kii manjuuri kaa ek prakaar he
+ The owner of the property, who grants the lien or lien, is called the liener and the person who gets the benefit of the lien
+ anglo-french lian, loyen "bond", "ristrent", latin ligamen se, ligare se "tu bind" shabd vyutpatti kaa mul he
+ In the United States, the term lien usually denotes a wide range of fee weights and includes other types of mortgages or fees
+ sanyukt rajya america main, lian vilakshan rup se gaiyr-swaamitvkaari suraksha hiton yaa byaaj pratibhutiyon ke liye sanderbhit he 
+ In other similar law countries, the term lien refers to a very specific type of interest securities; Under it, a passive right of retention on the property is obtained until it is free from debt or other liability
+ anya deshon main vishuddh rup se pratibhuti byaaj kaa swatv sambandhi rup kehalaata he; iske vipareet USA main is shabd kaa upyog nishchit taur par us samay hota he, jab sampatti par dakhal nahin rahata or tab lian arthath grahanadhikaar nirmukt hota he
+ However, in countries with similar laws, it is also identified as a slightly inconsistent type of securities interest, called an "equitable lien", which occurs in some rare cases
+ shabdaawalee or iske amal main antaron ke baavjood, USA or saamaan kanoon vaale deshon ke vibhinn grahanadhikaron ke bich anek prakaar kii samanthaayen hai
+ Lien may be consensual or non-consensual; Consensual lien is imposed by a contract between the lender and the debtor: asahmatijnya grahanadhikaar khaas taur par adhinium dwaara yaa saamaan kanoon kii kaarywahi se saamne aate hai
+ Those laws give the lender the right to impose a lien on an item of real property or movable property by maintaining the relationship between the lender and the debtor
+ un grahanadhikaron main shaamil hai Liens are also "flawless" or "defective"
+ Flawless liens are those liens for which a lender establishes a priority right over the encumbered property, respecting third-party lenders
+ saadharantaya tisare paksh ko lian kii notice bhejkar kanoon dwaara apekshit kadam uthaakar purnataa pramanit hoti he
+ The fact is that if a part or part of the property is in the hands of the lender, then perfection is usually established
+ jab sampatti rini ke hi haathon main rahati he, tab upyukt karyaalay main byaaj pratibhuti kii notice kii recording jaisi kuch karrwai kar lee jaani chahie
+ The perfection of a lien is an important part of the job of securing the lender's interest in the property
+ sampatti ke asli khariddaar ke liye doshahin lian vaid he or yahaan tak ki diwalia hue nyaasi ke maamle main bhi, jabaki doshapurn lian nahin bhi ho saktaa he
+ An equitable lien in the United States is a right that applies only to equity and that satisfies the demand for a particular or a particular asset without capturing the fund or property
+ U
+S
+ kanoon main, aise grahanadhikaar chaar paristhitiyon main vishesh rup se saamne aate hai: Outside the USA, a common law lien is defined in general terms as a passive right to hold movable property conferred by law
+ aadhunik paristhitiyon main lagu karne ke liye bagaiyr kisi vaastavik prayaas ke jab koi maamla aitihaasik taur par sthapit ho, tab aadhunik kanoon aamtaur par kanoonee grahanadhikaar ko chhod detaa he
+ Tappenden v
+ Artus 2 QB 185 Diplock LJ refers to the lien of a "self-service" remedy, such as "other earlier measures such as termination of nuisance, self-protection or eviction of trespassers from the ground"
+ Equitable liens are an unusual type of property right, commonly considered sui generis
+ vishesh grahanadhikaar or saamaanya grahanadhikaar main vibhajit hai ek samaan kanoon grahanadhikaar
+ ek vishesh grahanadhikaar, jo bahut hi saamaanya prakaar kaa hota he, ko sampatti or pradaan kii jane vaali seva ke bich ek ghanishtha sambandh kii aavashyaktaa hoti he
+ Only a special lien or lien can be exercised in connection with fees related to the instant transaction; Also, leni or debtor cannot use the property withheld as security of old debts
+ a general lien affects all of the property of the debtor that is in the possession of the lender and guarantees the security of all debts owed by the lender to the debtor
+ ek vishesh grahanadhikaar ko anubandh dwaara aam grahanadhikaar main vistaarit kiya ja saktaa he or yah aam taur par kariers ke maamle main kiya jaataa he
+ a common law lien gives only a passive right of retention; The same law does not give the right to sell, although some statutes also provide additional rights to sell, and it is possible to confer a separate right through contract
+ samaan kanoon grahanadhikaar ghanishtha rup se tathakthith "kaaman collings" ke saath sanrekhit hote hai, lekin ve aapas main sah-vistari nahin hote hai
+ a common law lien is a very limited type of securities interest
+ is sach ke baavjood ki yah kabje kaa sirf niskriy adhikaar detaa he, ek grahanadhikaar hastantarit nahin kiya ja saktaa he; kisi tisare paksh dwaara is par adhikaar nahin jataayaa ja saktaa, jiske kabje main maal he un sevaaon ke liye jise mul paksh dwaara kiya janaa chahie;; or agar chal-sampatti rindaata ko adhyarpit kar di jaati he to lian kii hakdaari hardam ke liye samaapt ho jaati he 
+ koi rini jo avaidh rup se chal-sampatti ko bechata he, vah roopantaran kaa jimmedaar ho saktaa he, saath hi lian ke samarpan kaa bhi
+ Equitable lien or equitable liens in countries with similar laws have increased unique and difficult issues
+ ek nyaaysangat grahanadhikaar kanoon kii kaarywahi dwaara pradutt ek gaiyr-swaamitv vaala suraksha adhikaar he, jo prabhaav main ek samyik prabhaar ke samaan he
+ It differs from any charge when it is non-consensual
+ yah bahut hi simit paristhitiyon main pradutt hota he, inamen sabase aam he bhoomi kii bikri ke sambandh main; ek abhukt vikreta kaa kharid keemat ke liye bhoomi par ek nyaaysangat grahanadhikaar hota he, baavjood iske ki kreta kaa sampatti par kabja ho chukaa ho
+ ise equitable niyam par ek pratibhaar ke rup main dekha jaataa he, jo kharidgi ke anubandhon ke vinimay ke baad khariddaar ko bhoomi par ek laabhakaari hit pradaan karata he
+ It is a matter of speculation as to how much of the equitable lien can be extended outside the impregnated seller's lien
+ kriyasheel chizon ke shaamil rahe anek maamalon main nyaaysangat grahanadhikaar ko roak rakhaa gaya he, lekin chal-sampatti ke sambandh main ab tak nahin
+ australian adaalatein vyaktigat sampatti se sambandhit nyaaysangat grahanadhikaar ke maamalon main sabase adhik grahanshil hai 57 ALJR 211 dekhen), lekin ek nyaaysangat grahanadhikaar kis par lagaaya jaay isse sambandhit siddhanton kii spashtataa kii kami maamalon kii samiksha main dekhi gayi
+ But overall, there is still a lack of central synergy
+ haalanki charchaa kiye gaye grahanadhikaar ke rup main tark saadhy na bhi ho, lekin rin bhaar ke do anya roopon kaa bhi kabhi-kabhi grahanadhikaar ke rup main ullekh hota he
+ Some statutes provide a passive right to retain property against its owner as a security for obligations
+ udhaaharan ke liye, united kingdom ke civil aviation act 1982 kii dhara 88 hawaii adde ko abhukt hawaii adda shulk or vimaanan eendhan ke liye kisi vimaan ko rokane kii anumati pradaan karti he
+ Although this right is treated as a lien under UK insolvency law, it is argued that such statutory rights are not actually liens, but these rights are in line with the lien; However some people may say that this is a distinction without any difference
+ aisa kaha jaataa he ki ek samjhaute ke dwaara kiya gaya anubandh grahanadhikaar nahin he, jisamen ek paksh duusare paksh ke maal ko tab tak roke rakh saktaa he jab tak ki bhugtan nahin ho jaae, kyonki ek samaan kanoon ke tahat grahanadhikaar gaiyr-sahmatijnya grahanadhikaar nahin ho saktaa
+ haalanki, aisa prathit hota he ki diwalia kanoon ke tahat, aise adhikaron ko grahanadhikaar kii tarah hi liya jaayegaa, bhale hi vah grahanadhikaar kii tarah nahin vyakt kiye jaaen
+ Maritime lien is a lien that is awarded on a vessel to ensure the claim of a lender who provides maritime services on the vessel or is injured in using the vessel
+ The maritime lien is also sometimes referred to as an informed sight mortgage
+ samudri grahanadhikaar anya grahanadhikaron ke kanoonon ke tahat zyaadaatar adhikaar kshetron main ek jaise hai
+ The maritime lien is known as "one of the peculiarities of very unique naval law"
+ ek samudri grahanadhikaar jahaajon par is prakruti ke pratibhuti byaaj kaa nirmaan karata he jo ek samaan kanoon yaa equity ke liye agyaat he
+ This arises purely from the proceeding of the law and exists as a claim on the property concerned, both secret and invisible, which is often preferred over other forms of interest protection registered by the statute
+ haalanki ye visheshtaayen vibhinn deshon ke kanoonon ke tahat alag-alag hai, jinhen is tarah varnit kiya ja saktaa he: Around the world, there are a large number of different types of liens and many subdivisions of it
+ nimnlikhit sabhi prakaar ke liens sabhi vaidhanik pranali main maujuud nahin hote hai jisase grahanadhikaar kii avadharana ko pahachaanaa jaae
+ neeche jo vivaran die ja rahe hai jaruri nahin ki ve paraspar anany hon
+ grahanadhikaar ke prakaaron main shaamil hai Norah Jones is an American singer-songwriter, pianist and actress
+ yah sitar vadak ravi shankar or su jones kii putree he
+ She is Anushka Shankar's half-sister
+ norah ne apane ekal sangeet kariyar kaa udghaatan 2002 main kam awe wyeth me naamak album ke saath kiya
+ The album is a fusion of jazz, pop and country music that has been commercially successful and also received critical acclaim
+ is album ko 2002 main hirak ghoshit kiya gaya tha
+ The album has sold over 26 million formats
+ is album ne jones ko 5 grami puraskaar dilaae
+ She released Feel Like Home in 2004, Not to Let in 2007, The Fool in 2009, which was declared platinum and in 2012 Little Broken Hearts
+ norah ne 9 grami puraskaar jite hai
+ Billboard magazine ranked him first on the list of jazz artist of the decade 2000–2009 and 60th on the list of best-selling musicians
+ norah ne apane kariyar ke dauraan anek puraskaar jite he or 5 karod se bhi adhik album beche hai
+ Norah Jones was born in Brooklyn, New York
+ unke pita pramukh sitarvadak pandit ravi shankar or unki mata america concert nirmaataa su jones he
+ After her parents separated in 1986, she spent her childhood in Grapevine, Texas
+ unhone apni shiksha collivil madhyamik vidhyalay or greshwine ucch vidhyalay main grahan kii
+ She then joined Booker T
+ Washington High School, Dallas, for performance and visual arts
+ jones apane vidhyalay kii gayak-mandali main gaati thim
+ She attended the school band and played alto-saxophone
+ 16 saal ke umr main unhone apane mata-pita kii anumati se apane naam badal kar norah jones rakh liya
+ Norah Jones was heavily interested in the music of Bill Evans and Billy Holiday
+ unhone ekbar kaha, "meri mata ke paas billy holiday kii aath album kaa set tha; maine uname se ek discs nikaali or mujhe vah mujhe itani pasand ai kii maine use baar baar suna
+ " jones bachapan se hi carch kii gayak mandali main gaya karti thi or piano siikhaa karti thim
+ She still goes to church
+ vah khud ko aadhyatmik maanati he or carch ke rition ko pasand karti he par phir bhi khud ko dharmik nahin maanati he
+ She went to the Interlochenn Arts Center in the summer
+ vidhyalay main unhone 1996 or 1997 main sarvshereshth jaaj gayika hone ke liye downbit student museward' jeeta or 1996 main sarvshereshth mul sanrachana kaa puraskaar jeeta
+ Jones received his major in jazz piano from the North Texas High School and was a U
+N
+T
+ Sang with jazz singers
+ During this time she met her future colleague Jassi Herris
+ unhone apane vishvavidhyalay ke ek bend main shaamil ho gayi jo kii ittefaq se herris ke doston kii thi
+ During his road trip he
+ norah se milane ke baad, herris unhen apane gaanon kii pramukh sangeet-patr bhejne lage
+ Norah left New York City in 1999
+ kareeb ek saal ke andar hi unhone herris ke saath apana bend banaaya or prasiddhi praapt kii
+ Jones moved to live in New York City and she did EMI
+ Work began with the group's label Blue Note Records
+ yah gayika-geetkaar victoria williams ke liye prishthbhumi gayan kaa ek apratyaksh parinaam tha
+ William's producer J
+C
+ Hopkins' wife, Shel White, worked with Blue Records' royalty department and sent three of Jones' songs to label president Bruce Lundvall and the label's A&R Bachoos
+ un gaano main do gane jaiz ke or ek gaanaa haris kaa tha
+ Lundwall immediately decided to take Norah after listening to the songs
+ bacchus ne hit quarters namak antarrashtriya sangeet udyog prakaashan ko kaha, "ham unhen apni disha khud chunane kaa mauka dete he
+ 
+
+
+ We are confident that if she writes her own songs, we will get to hear a lot of good songs 
+
+
+ "norah first worked with an experienced producer and engineer, Jay Newland
+ unhone saath main kul aath gane pradarshan hetu banaaye jiname se chah gane blue nots ke saath nikaale gaye norah ke pehle namune album first seshans main daale gaye or baaki unke mukhya album main gaye
+ On February 9, 2004, Jones released his second album, Feels Like Home
+ yah album desh sangeet se prabhavit tha
+ The album sold over a million copies within just a week of its release
+ sanyukt rajya america main isaki 4 lakh pratiyaan biki or yah chauguni platinum str tak pahunch gaya, or 12 lakh se adhik pratiyaan duniya bhar main bechaa
+ To promote the album, Jones traveled the world with the band, promoting singer Daru Oda
+ time patrika ne jones ko time 100 suchi main shaamil kiya jo ki 2004 ke sabase prabhaavshaalee logon kii suchi thi
+ The album debuted in first place in at least 16 countries worldwide
+ 2005 main, 47wein grami awards main ,‘‘ feels like home’’ teen gramis ke liye namankit kiya gaya
+ It won the Best Female Pop Vocal Performance Award for "sunrise", and was nominated for the Best Contribution Collaboration with Vocals Award for Best Pop Vocal Album and a song composed in collaboration with Doli Parton
+ us varsh jones ko teen or grami awards mili
+ Jones received "record of the Year" and "best Pop Collaboration with Vocals" for her first song "here We Go Again" from Ray Charles' last album, "genius Loves Company"
+ is album ko “album of da year” kaa puraskaar bhi mila
+ Salna is a village in Chamoli district of Garhwal division under the state of Uttarakhand in Joshimath tehsil
+ lao-su, lao-si yaa lao-se pracheen china ke ek prasiddh darshanik the, jo tao te ching naam ke mashhoor upadesh le lekhak ke rup main jane jate hai
+ Religion based on their ideologies is called Taoism
+ lao-su ek sammaan jatalane vaali oopaadhi he, jisamen 'lao' kaa arth 'aadarneey vruddh' or 'su' kaa arth 'guru' he
+ According to Chinese tradition, Lao-su lived in the sixth century BC during the Zhou dynasty
+ itihaaskaaron main inaki jeevani ko lekar vivaad he
+ Some say that he is a fictional person, some say that he is represented by many great people together in one personality and some say that he actually lived in another part of the Zhou period of China during the period of quarreling states
+ 
+ farsi-arabi lipi yaa sirf farsi lipi arabi lipi par aadhaarit ek lipi he jiskaa prayog farsi, urdu, sindhi, punjabi or anya bhashaaon ko likhane ke liye kiya jaataa he
+ This was mainly because Persian has some sounds that are not in the Arabic language, so some new letters had to be added to the Arabic script to represent them
+ arabi bhashaa main 'pa', 'c', 'ga' or 'ji' kii dhvaniyaan nahin milteen jo farsi main maujuud hai
+ Pay attention to the pronunciation of 'jh' as it is different from 'jh', 'J' and 'Z'
+ inke liye binduon or chote chinhon ke zariye chaar nae akshar jode gaye - پ , چ , گ or ژ 
+ Apart from these Persian sounds, urdu-hindi also had some additional sounds that needed to be represented - 't', 'd', 'e'
+ inke liye ٹ , ڈ or ڑ aksharon kaa izaad kiya gaya
+ In Pashto, there is a sound of 'sh' which is not found in these other languages
+ dhyaan dijiye ki pashto main 'sha' kaa uccharan vaisaa hota he jaisaa mul sanskrit main hota tha or yah 'sha' se bhinn he
+ For this, 4 letters were added to the script
+ pi
+ kashyap ek bhartiya badminton khiladi he
+ At the Commonwealth Games 2014 held in Glasgow, P
+ Kashyap won the gold medal in Badminton Men's Singles
+ kashyap ne singapore ke di
+ vong ko 21-14, 11-21, 21-19 se haraaya
+ P
+ Kashyap also had the privilege of winning gold in the Commonwealth Games badminton men's singles after 32 years
+ bharat sarkaar dwaara 2012 main arjuna puraskaar se sammanit kiya gaya
+ Amarna Miller is a world-renowned adult actress, producer, director and writer from Spain
+ kumari amorna madrid ke europea vishvavidhyalay se lalit kala main snaatak hai
+ At the age of 19, she not only acted as an actress in her first film, but she was also the producer and guide of the film itself
+ 2015 ke barsilona antarrashtriya kaamuk chalchitr mahotsav main unhen sarvshereshth abhinetri paritoshik se sammanit kiya gaya
+ She has been nominated for Best Foreign Female Artist Award at the Adult Video News Awards held in Las Vegas on January 23, 2016
+ saura bhautikee khagol bhautikee kii vah shakha he jisame surya kaa vistaar se adhyayan kiya jaataa he
+ In this, all possible and detailed observations on our nearest star Sun are studied
+ hamaari dharti kaa sabase najadik kaa tara he
+ The study of solar physics also becomes important because it is believed that activities on the Sun will have an impact on our Earth
+ nirdeshaank: 25°09′N 87°01′E / 25
+15°N 87
+02°E / 25
+15; 87
+02 Diwakarakita is a village in Sahakund, Bhagalpur, Bihar
+ dravid bhashaa-parivaar dakshin bharat kii kai sambandhit bhashaaon kaa samooh he
+ It mainly consists of Tamil, Telugu, Kannada and Malayalam
+ uttar bharat kii kuch kabaili bhashaayen bhi aati hai jaise brahui 
+ All these languages are ashlishta-yogic and there are many words from Sanskrit
+ inamen se tamil sabase puraani he or use shastreey bhashaa mana jaataa he
+ The script of these languages originated from the Brahmi script itself
+ in bhashaaon main t, na, l, d aadi dhvaniyaan bahut adhik paayi jaati hai
+ Munshi Naval Kishore was an entrepreneur, journalist and litterateur of India during the British rule
+ inaki jindagi kaa safar kamyaabiyon kii daastaan hai
+ He succeeded in the fields of education, literature to industry and what was most notable was that he always respected human values
+ munshi naval kishor kaa janm aligarh jile ke vistoi gram ek kuleen brahman parivaar main san 1836 ko hua tha
+ From the beginning there was interest in newspapers and business
+ kuch samay tak 'kohinoor' main kaam karne ke baad 1858 main 22 saal kii umr main lakhanu aa gaye
+ As soon as he came here, he established Naval Kishore Press
+ dekhte hi dekhte is press kii khyaati itani badi ki ise paris ke elpine press ke baad doosraa darja diya jane laga
+ This press published all the books of religion and more than one, the works of litterateurs
+ kul prakaashan kaa 65 pratishat urdu, arabi or farsi tathaa shesh sanskrit, hindi, bengali, gurumukhi, marathi, pashto or angreji main he
+ His books are found in big libraries all over the world
+ japan main munshi naval kishor ke naam kaa pustkaalay he to germany ke hidilberg or america ke harvard vishavidhyalay main unki prakashit saamagree ke vishesh kaksh hai
+ He also has his own contribution in the field of industry
+ 1871 main unhone lakhanu main apper india coupon paper mil kii sthapana kii thi jo uttar bharat main kaagaj banane kaa pehla kaarkaana tha
+ Shah Iran told journalists in Calcutta in 1888 that 'I have two objectives of coming to India, one is to meet the Viceroy and the other to Munshi Naval Kishore'
+ kuch aise hi khayalaat ludhiana darbar main afghanistan ke shah abdul rahamaan ne 1885 main jaahir kiye the
+ Munshi Naval Kishore, who embodied the multifaceted personality and multi-faceted successes, was assimilated forever on 19 February 1895 by the cruel hands of Kaal
+ agulas dhara, dakshin-pashchimi hind mahaasaagar kii ek pashchimi seemaa dhara he
+ It flows from 27 ° south to 40 ° south of Africa's eastern coastline
+ yah ek sankeern, tej or shaktishaalee dhara he
+ It is also said that the Agulus is the largest stream in the western border of the world
+ yah garm jaldhara he! Sichuan) is a province in the southern part of the People's Republic of China
+ is praant kii rajdhani changdu he
+ Before Sichuan gained control of Tibet, some areas of Sichuan used to be part of Tibet and historically the province has been a stretch of territory between China and Tibet
+ sichuaan praant ke do bahut bhinn bhaag hai: purvi bhaag upjaau sichuaan droni ke maidan main sthit he jabaki pashchimi bhaag bahut pahari he or tibet ke pathaar kaa sudur purvi bhaag he
+ Gongan Shan is the highest mountain of the province in the western region
+ sichuaan kaa khaanaa vishwa prasiddh he or isamen mirch ke prayog par jor diya jaataa he
+ The central part of this region is called the Red Basin Plateau
+ yah praaia: chaaron ore se pahaado dwaara ghira hua he
+ Most of this province is mountainous
+ chengtu maidan ekmaatr samtal evam upjau maidan he
+ This field is irrigated by the canals of the Min River and paddy is the main produce
+ yahan jansankhya kaa ghanatv 2,392 vyakti prati varg mile he, jabaki shikang praant kii seemaa par yah ghanatv keval 11 vyakti prati varg mile he
+ Sachwan means 'four rivers'
+ min, to, phu ore kyaoling nadiyon ke milane se yangtsikyang, banati he or uttar se dakshin laal basin main bahati he
+ Due to being surrounded by mountains all around, the temperature here is not high
+ laal basin ke chungking nagar kaa disambar, janvari kaa taap 9
+5 degree sein
+ evam july jagast kaa ausat taap 20 degree se 28degree sein
+ rahata he
+ The annual rainfall is 40 inches
+ sam yaa mridu jalwaayu ke kaaran sachvaan praant main anek prakaar kii krishi hoti he
+ On hill slopes, in staircase fields, two to three crops are grown in a year
+ jaade main gehun, jau, rai, jowar, bajra, soyabean or matar tathaa garmi main dhan, ganna, san, til, dalhan, makka, aalu, tambaakoo, shahatut or naarangi kii upaj hoti he
+ The main minerals found here are coal, iron, copper, gold, silver, lead, salt and antimony, which are dug and extracted in various parts of the province
+ petrol evam prakritik gas udyog dazakung yaa dajaljing main viksit he
+ The industrial development of this province has been taking place since the sino-japanese War of 1937 AD
+ yahan louh, ispaat, sharaab, vastra, dawa, ranjak, vidyut evam mashin yantra tathaa ghaman bhattiyon or audyogic mashin yantron ke nirmaan ke kaarkaane hai
+ The province exports wool, leather, tung oil, silk, ramie, tea, tambaku and herbs called Revat Chinese
+ yangtsikyang evam uski sahaayak nadiyon dwaara gamnaagaman hota he
+ Roads and railways from Chungqing port to Chengtu City remain
+ sachvaan ko sameepvarti praanton se jodne ke liye hazaron mile pakki sadaken banaai gai hai
+ Jiuzhaigou Valley gaarze tibeti vibhaag Zitong district rajdhani changdu Anhui · Fujian · Gansu · Guangdong · Guizhou · Hainan · Hebei · Heilongjiang · Henan · Hubei · Hunan · Jiangsu · Jiangxi · Jilin · Liaoning · Chinghai · Shanxi · Shandong, Shanxi · Sichuan · Yunnan · Zhejiang guangshi · bhitari mongolia · ningshia · tibet · shinjiyang Beijing · Chongqing · Shanghai · Tianjin honkong · macau Betel nut is the seed of the fruit of the plant called Areca catechu which is produced in southern Asia, southeast Asia and many parts of Africa
+ nirdeshaank: 27°11′N 78°01′E / 27
+18°N 78
+02°E / 27
+18; 78
+02 Taharpur is a village in Khairagarh, Agra, Uttar Pradesh
+ is gaanv main kai adarsh sthal he yahan par pracheen shiv mandir he jain dharm mandir he · Ambedkar Nagar District · Agra District · Aligarh District · Azamgarh District · Allahabad District · Unnao District · Etawah District · Etah District · Auraiya District · Kannauj District · Kaushambi District · Kushinagar District · Kanpur Nagar District · Kanpur Dehat District · Khair · Ghaziabad District · Gorakhpur District · Gonda District · Gautam Budh Nagar District · Chitrakoot District · Jalaun District · Chandauli District · Jyotiba Phule Nagar District · Jhansi District · Jaunpur District · Deoria District · Pilibh District District · Pratapgarh District · Fatehpur District · Farrukhabad District · Firozabad District · Faizabad District · Balrampur District · Bareilly District · Ballia District · Basti District · Badoun District · Bahraich District · Bulandshahar District · Baghpat District · Bijnor District · Barabanki District · Banda District · Mainpuri District · Mahamayanagar District · Mau District · Mathura District · Mahoba District · Maharajganj District · Mirzapur District · Muzaffarnagar District · Meerut District · Moradabad District Rampur district · Raebareli district · Lucknow district · Lalitpur bharat kaa rashtriya maanavadhikaar ayog ) ek swytt vidhik sanstha he
+ It was established on 12 October 1993
+ isaki sthapana maanavadhikaar sarakshan adhinium 1993 ke tahat kii gai
+ This commission is the watchdog of human rights in the country, it is the patron of individual rights created by constitution and in international treaties
+ yah ek bahu sadasiy nikaay he
+ It is a multi-member organization
+ isamen ek adhyach va chaar anya sadsy hote he
+ The Chairman of the Commission is a retired Chief Justice of India
+ vaidic dharmapar ek shrenee kaa bhaag Salvation dhyaan yoga In Hinduism; Marriage rites of young men and women are performed when they come to the physical, mental maturity to take responsibility of building a family
+ samaaj ke sambhrant vyaktiyon kii, gurujanon kii, kutumbi-sambandhiyon kii, devataaon kii upasthiti isiilie is dharmanushthan ke avasar par aavashyak maani jaati he ki donon main se koi is kattarvy-bandhan kii upeksha kare, to use roke or pratadit karen
+ Husbands and wives declare their determination in front of these elated persons, vows and bondage
+ yah pratigya samaaroh hi vivaah sanskaar he
+ In marriage ceremony, all arrangements related to Dev Pujan, Yajna etc
+ should be made in advance
+ vivaah sanskaar main dev pujan, yajna aadi se sambandhit sabhi vyavasthaayen pehle se banaakar rakhni chahie
+ If there is a mass marriage, each couple must have the necessary material at each altar, according to the rituals, they should also appoint one knowledgeable person at each altar
+ ek hi vivaah he, to acharya swayan hi dekh-rekh rakh sakate hai
+ With the general system, the things that are needed in a particular task should be looked at in the beginning
+ uske sutara is prakaar hai
+ For the groom, keep a plate with the material so that water does not spread in the hands and feet
+ madhupark paan ke baad haath dhulaakar use hataa diya jaae
+ For Yajnopaveet, a yellow colored Yajnopaveet should be added
+ vivaah ghoshnaa ke liye var-vadhoo paksh kii puri jaankaree pehle se hi note kar lee jaae
+ Clothing and garlands of garlands and wreaths should be ready
+ kanyadan main haath pile karne kii haldi, guptadan ke liye guntha hua aataa rakhen
+ Turmeric, flower, Akshata, Durva and Dravya should be used for granting
+ shilarohan ke liye pathar kii shila yaa samtal pathar kaa ek tukdaa rakhaa jaae
+ Laja should be kept in addition to Havan material
+ var-vadhoo ke pad prakshalan ke liye paraat yaa thali rakhe jaae
+ Beforehand, the atmosphere should be made such that at the time of samskara, more and more relatives of bride and girl side should be present affectionately
+ sabake bhav sanyog se camercand ke uddeshy main rachanaatmak sahyog miltaa he
+ This can be requested both individually and collectively
+ vivaah ke purv yagyopavit sanskaar ho chuktaa he
+ There is a rule to give unmarried couples a yagyopaveet and married ones
+ yadi yagyopavit na hua ho, to nayaa yagyopavit or ho gaya ho, to ek ke sthaan par joda pehanaane kaa sanskaar vidhiwat kiya janaa chahie
+ It is good that the order of holding Yajnopavit in the morning should be arranged in an orderly manner on the auspicious day on which the marriage ceremony is to be held
+ vivaah-sanskaar ke liye saje hue var ke vastra aadi utaravakar yagyopavit pehanaanaa atapata-sa lagata he
+ That is why it should be completed before
+ yadi vah sambhav na ho, to swaagat ke baad yagyopavit dhaaran kara diya jaataa he
+ It should be worn only on clothes, which are taken inside after the rites
+ jahaan paariwarik str ke paramparaagat vivaah aayojanon main mukhya sanskaar se purv dwarchaar kii rasm hoti he, vahaan yadi ho-hallaa ke vaataavaran ko sanskaar ke upyukt bananaa sambhav lage, to swaagat tathaa vastra evam pushpopahar vaale prakaran us samay bhi puure karaaye ja sakate hai vishesh asana par bithakar var kaa satkar kiya jaae
+ Then the girl should be called and mutual clothes and flowers should be done
+ paramparaagat dhang se diye jane vaale abhinandan-patr aadi bhi usee avasar par diye ja sakate hai
+ The indication of its rituals is done later
+ paariwarik str par sampanan kiye jane vaale vivaah sanskaron ke samay kai baar var-kanya paksh vaale kinhin loukik ritiyon ke liye aagrah karte hai
+ If there is such a request, then it should be noted beforehand
+ paariwarik str par vivaah-prakarnon main varechha, tilak, haridra lepan tathaa dwarpujan aadi ke aagrah ubharate hai
+ They are being given briefly so that they can be disposed of in time
+ isi sanskaar kaa ashtum charan he hastpitakaran
+ The donors apply turmeric to the girl's hands
+ haridramangalsuchak he
+ Till now this girl has been there as a girl
+ ab yah grihalakshmika uttardaayitv vahan karegi, isliye uske haathon ko pitvarna-mangalamay banayajata he
+ Her parents pampered her dearly, not assigning any harsh duties to her hands
+ ab use apane haathon ko nav-nimarn ke anekuttardaayitv sanbhaalane ko taiyaar karnaa he, atev unhen pitavarnmanglik-lakshmi kaa pratik-srujanaatmak hona chahie
+ With yellow hands, the people of the Kanya family teach the girl the silence that she has to manifest herself as a reproductive power and to make these gentle hands more responsive, strong and demanding
+ kanya donon hatheliyaan saamne kar de
+ Rub the turmeric wet turmeric with a mantra on it
+ bhaavana karen ki dev saannnidhya main in haathon ko swatharparata kekusanskaron se mukt karaate hue tyaag parmarth ke sanskaar jaagrath kiye jaarhe hai
+ ॐ Ahiriv Bhogai: Peyarti Bahu, Jiya Haitin Paribadhamana
+ hastaano vishwa vaunani vidvan, puman puma san paripatu vishwatah
+ -29
+51 isse aglaa kaarykram yaa charan he kanyadan
+ Likewise, there are 22 stages of Hindu marriage
+ in sabhi charnon ke baad hindu vivaah purna hota he
+ From Gayatri Shantikunj] pakyong vimaanashetra sikkim kii rajdhani gangtok ke nikat bana ek greenfield hawaii adda he
+ This airport is about 400 km south of Gangtok at 400 ha
+ 4,500 feet kii oonchai par sthit yah bharat ke paanch sarvocch oonchai par sthit vimaanakshetron main se ek he
+ It is the first greenfield airport to be built in the Northeast region of India and also the 100th operational enclosed airport in India
+ yah sikkim rajya kaa pratham hawaii adda he
+ The airport was inaugurated by Prime Minister of India, Narendra Modi on September 24, 2018
+ haalanki pehle yahaan se pratham udaan spisjet dwaara 4 aktubar ko honi tay thi, kintu baad main ise 8 aktubar ko hona nirdhaarit kiya gaya
+ Druk Air also plans to start a flight from Pakyong to Paro from 1 January 2019
+ is prakaar yah anterrashacotreey vimaanashetra bhi banane vaala niojit he
+ Prior to the construction of Pakyong Airport, Sikkim was the only state in India that did not have a single operating airport
+ tab sikkim gaman hetu gangtok se 124 kimi paanch ghante kii yatra kar padosi rajya pashchim bengal sthit bagdogra yaa padosi desh bhutan main paro hawaii adde se janaa hota tha
+ The Pakyong Airport was approved by the Cabinet Committee on Economic Affairs in October 2008
+ tab janvari 2009 ko is greenfield hawaii adde ke liye punj loyad samooh ke saath ₹2,640 karod2,640 million kaa anubandh hawaii pattee or teximarg ke nirmaan, epran jal nikasi vyavastha, or bijli ke kaam ke liye kiya gaya tha
+ The foundation stone of this aircraft was then laid on February 2009 by the then Civil Aviation Minister Praful Patel
+ pariyojna shuru hone par puure hone kii aashaa 2012 tak kii thi, kintu sthaneey gramvaasiyon dwaara paryaapt pratipurti evam punarsthaapan yojana kii maang kiye jane va iske liye nyaayalay jane ke kaaran yah yojana janvari 2014 tak rukii rahi
+ The work was then resumed in October 2014 by the Airports Authority of India by mediation and partial reimbursement to the villagers, but was again disrupted in January 2015 due to opposition from the villagers
+ july 2015 ko bhavipra ke saath rajya sarkaar dwaara ek emoyu hastakshrit kiya gaya jisase bhavipra apana kaary aktubar 2015 main ek baar punah armbh kar paayi
+ The work was again interrupted due to lack of unavailable electric power and landslide, increasing its cost from ₹ 3,090 crore to 3,090 million to ₹ 6,050 crore 6,050 million
+ tab yahaan kii bhuskhalan kii samasya se nibatane hetu adhiktam paristhitik dhalaan-sthirikaran takneekon kaa prayog kar sthiti ko niyantran main liya gaya tathaa kaary aage badha
+ On 5 March 2018, Dornier of the Indian Air Force landed for the first time at the completed airstrip of 228 Pakyong
+ iske baad spisjet company ko pakyong se kolkata kshetra main udaan sanchalit karne kaa karyadesh diya gaya
+ This was determined after the second round of bidding under the Government's Flight regional-connectivity Scheme
+ tab spisjet ne pakyong main 10 march 2018 ko kyuu400 vimaan kaa safal avataran prayaas kiya
+ The airport received its commercial operation license from the Directorate General of Civil Aviation on 5 May 2018
+ ahmedabad →sardaar vallabhbhai patel antarrashtriya hawaii adda · amritsar →raja saansi antarrashtriya vimaanashetra* · bengalooru → devanhalli antarrashtriya vimaanashetra · kalikat→ kalikat antarrashtriya vimaanashetra * · chennai → chennai antarrashtriya hawaii adda · coimbatore→ coimbatore vimaanashetra * · guwahati → lokapriy gopinath bardoloi · gaya→gaya vimaanashetra * · goa →dabolim vimaanashetra * · hyderabad →rajeev gandhi · indore →devi ahilyabai holkar* · jaipur →sanganer hawaii adda)* · cochin antarrashtriya vimaanashetra, nedumbassri · kolkata→netaji sebhaash chandra bose hawaii adda damdam · lakhanu→amausi antarrashtriya vimaanashetra* · mangalore→mangalore antarrashtriya vimaanashetra * · mumbai→chhatrapati shivaji antarrashtriya vimaanashetra, sahar · nagpur → dow babasaheb ambedkar antarrashtriya vimaanashetra * · nai dilli→ indira gandhi anterrashtriya hawaii adda palam · patna→lokanayak jaiprakash vimaanashetra* · pune→pune vimaanashetra * · tiruvanantpuram →trivendrum antarrashtriya vimaanashetra · tiruchirapalli →tiruchirapalli vimaanashetra* · varanasi →varanasi vimaanashetra * Kudappa · donkond · Sri Sathya Sai, Puttaparthi · Rajahmundry · Tirupati · Vijayawada · Warangal along · daporijo · pasighat · tezu · ziro Dibrugarh · Jorhat · Lilabari · Silchar · Tezpur mujffarpur · purnia · raksol Bilaspur · Jagdalpur · Raipur bhavnagar · bhuj · kandala · jamnagarporbandar · rajkot · surat · vadodara Karnal Flying Club gaggal · bhuntar · shimla Jammu · Leh Kushok Bakula Rimpochi · Srinagar jamshedpur · birsa munda Jakkur · Belgaum · Bellary · Hubli · Mandakali bhopal · gwalior · jabalpurpur · khajuraho · khandwa vimaanashetra Aurangabad · Kolhapur · Juhu imphal Shillong lengphui Dimapur biju patnayak Sahniwal · Patiala Aviation Club jaisalmer · jodhpur · maharana pratap, udaipur Madurai · Tutikudi agartala Joligrant bagdogra Agati · Chandigarh · Daman · Diu · Safdarjung, New Delhi · Veer Savarkar arkonam · ambala · bagdogra · bhuj rudra mata · car nicobar · chabua · chandigarh · dimapur · dindigal · guwahati · halwara · hashimara · hindon · kumbhirgram · palam · safadarajang · thanjore · yalhanka Begumpet · HAL Bangalore International · Bikaner · Bamrauli · Gorakhpur havan bhartiya hindi dharawahik he, jiskaa prasaaran colors par 26 sitambar 2011 se shuru hua or 30 march 2012 tak chalaa
+ It was broadcast on Monday to Friday evenings
+ iskaa nirmaan rajan shahi ne kiya he
+ They are a leading publisher of Hindi books
+ mukt lekhan ek purvalekhan takanic he jisamen ek vyakti vartanee, vyakaran, yaa vishay ke sambandh ke bina ek nirdhaarit avadhi ke liye lagaataar likhata he
+ It produces raw, often unusable material, but helps writers overcome the barriers of apathy and self-criticism
+ yah mukhya rup se gadhy lekhakon or lekhan shikshakon dwaara prayog kiya jaataa he
+ Some authors use this technique to gather initial ideas and tips on a topic, often as an early form of formal writing
+ mukt lekhan swachaalit lekhan ke samaan nahin he
+ Unlike brainstorming where ideas are only listed, free writing writes sentences to make a paragraph about something that comes to mind
+ mukt lekhan is anumaan par aadhaarit he ki bhale sabhi ke paas kehane ke liye kuch na kuch hota he or kehane kii kshamta bhi hoti hai, par maansik strot udaseenta, aatm-aalochana, asantosh, samay seemaa ke bare main chintaa, asafalataa yaa ninda ke dar yaa pratirodh ke anya roopon ke dwaara avarodhit ho saktaa hai
+ The Indian cricket team toured England from 5 May to 13 July 1982 as part of the Prudential Trophy for two one-day internationals and toured the three-match Test series
+ england ne donon vanade main bharat ko haraaya
+ Alan Lamb, who made his ODI debut for England in the series, and scored 134 runs, was named the player of the series along with Kapil Dev of India, who scored 102 runs in two matches
+ iske baad test series main, england ne bharat ko 1-0 se haraaya
+ Dev was named the player of the series, scoring 292 runs at an average of 73 and taking 10 wickets
+ iske alaava daure ke ek bhaag ke rup main, bharat ne das anya pratham shrenee ke khel khelte hue, ek jeet liya or nau drawing kiya, or teen simit overon ke khel, jeetne or ek-duusare ko haraaya
+ The 1982 Prudential Trophy edition was a one-day international tournament held in England
+ england or bharat ke bich do ekadivasiy maichon main, purv main donon game jeet gaye
+ The forms 0 / 0, ∞ / ∞, 0 × ∞, ∞ - ∞, 00, 1∞ and ∞0 etc
+ are called undefined forms or indeterminate forms
+ inke maan kaa nirdhaaran bina kisi anya soochna ke nahin kiya ja saktaa
+ But the limits of such forms can be removed
+ banaaskantha bhartiya rajya gujarat kaa ek jila he
+ The district headquarters is Palanpur
+ kshetrafal - varg kimi Population - sakshartaa - STD Code - 02737 District Magistrate - samudr tal se uchai - Latitude - Answer deshaantar - purv Average Rainfall - mm nirdeshaank: 25°27′N 81°51′E / 25
+45°N 81
+85°E / 25
+45; 81
+85 Junedpur is a village in Phulpur, Allahabad, Uttar Pradesh
+ on palms Internaut is an adjective given to people deeply connected to the Internet world
+ koi bhi internot varsho ke anubhav ke baad takneekee rup se daksh aise vyakti search ingine, search strings, internet resorcej, forum, newsgrups or chat rums ke prayog main vishesh taur par paarangat hote hai
+ Thus, the more knowledge a person has about the history and politics of the Internet, the larger the Internet is called
+ iske vipareet, jis vyakti kaa internet gyaan kuch kam hota he, aise vyaktiyon ke liye anya visheshan prayog kiye jate hai
+ People with special knowledge about the online world ie Internet are also called cybernot
+ lekin internot internet kii samast jaankaree rakhane waalon ko kaha jaataa he or internot online jagat se judaa ek academik shabd bhi he
+ In contrast, cybernauts specialize in online games, virtual worlds, or other online fantasy worlds
+ internet kii duniya main yah keval shabd maatr nahin he
+ It would be fair to say that cybernotes are individuals who develop along with the Internet, but internets are those who interfere with the entire development process of the Internet, that is, they can participate in the development of the Internet
+ isi tarah aam netijan bhi internet se judi jaankaree rakhata he
+ But unlike Internet or Cybernauts, netizens do not know the Internet in depth
+ iskaa arth ye hua, ki aavashyak nahin ki use internet kii sthapana yaa gaming aadi se judi koi vishesh jaankaree ho hi
+ Although names such as Internet, cybernot, and Netizen are given only to Internet-related experts, they are specifically taken apart from common web surfers
+ kyonki aam web sarfars main internet par apane kaam kaa data khojane vaale lagbhag sabhi log aate hai
+ Mithilesh Katiyar was an MLA in the 15th Assembly of Uttar Pradesh, India
+ 2007 uttar pradesh vidhaan sabha chunaav main inhone uttar pradesh ke kanpur dehaat jile ke raajpur vidhaan sabha nirvachan kshetra se basapa kii ore se chunaav main bhaag liya
+ Guriya or bead are such tied grains which are made of threaded garlands or made from which the frills are put in garments for decoration
+ 'guria' shabd kaa mul sanskrit kaa 'gutica' shabd he or 'manakaa' kaa mul sanskrit hi kaa 'manika' shabd he
+ It has been difficult to say how long man has been making guriya
+ jeevashmon se nirmitt purapashan kaal ke kuch aise dane praapt hue hai jinke sambandh main vishwaas kiya jaataa he ki ve us kaal main manushyon dwaara guriyon kii bhanti prayukt hote the
+ As time passed, man began to use other substances to fulfill his desire for decoration
+ 6,000 varsh purv kii, haddiyon tathaa durlabh pattharon ityadi kii bani guriyaan bhi anek sangrahalayon main dekhi ja sakati hai
+ In modern times, beads are made from various materials
+ bhartiya gramin melon main biknevaali bacchon kii malas bahudhaa chatak rangon main range matar ke daanon se banati hai, kintu bahumoolya malas muunge or maniyon ko bedhakar tathaa sone ke taar main pirokar banaai jaati hai
+ The Gablonz region of the Czechoslovakia country in Europe is famous for Guria production
+ yahan se sari duniya main manake bheje jate hai
+ Once upon a time, only celluloid-like corals were made, but now they are made of plastic, glass, wood, horns, turtle shells, etc
+ china or japan main hathidaant or haddiyon ke nakkashidaar manake banate hai
+ In Europe and other countries, the fashion of gurus varies from time to time and accordingly different types of beads are consumed
+ ab plastic kii guriyon kaa prachlan adhik ho gaya he
+ Coordinates: 27 ° 53′N 78 ° 04′E / 27
+89 ° n 78
+06 ° e / 27
+89; 78
+06 shebaajpur koil, aligarh, uttar pradesh sthit ek gaanv he
+ Banful or forest flower is called a flower that has grown and blossomed on its own without any human care
+ mausam, barish or dharti ke anusaar alag-alag sthanon par alag-alag jatiyon ke banphool milte hai
+ It is not necessary that the flower that blooms in the forest itself is called Banful - this name is also used for wild flowers growing in urban areas
+ quran kaa adhyay 
+ 1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666767686970717273747576777879808182811101011101011101029101029101029101029101029101029101029101029101029101029101029101029101029101029101029101029101029101010291010101029101029101029101010101029101010291010109109101091041091010910910910910910429529529575575575575590530575575975938, 
+
+
+ moldova ganraajya ne pehali baar olympic khelon main 1994 main ek swatantra raashtra ke rup main bhaag liya, or tab se athleates ne har game main pratispardhaa karne ke liye bheja he
+ Previously, Moldovan athletes competed in the Olympics from 1952 to 1988 as part of the Soviet Union, and after the dissolution of the Soviet Union, Moldova was part of the unified team in 1992
+ raashtra ne sheetakaaleen olympic khelon main koi padak nahin jeeta he
+ The National Olympic Committee for Moldova was formed in 1991 and was recognized by the International Olympic Committee in 1993
+ colorado evaalanch, ek prasiddh aais hockey team he, jo danwar main aadhaarit he
+ He plays in the National Hockey League
+ betaar kaa matlab bina kisi taar ke soochna sanketon ke sthaanantaran se he
+ Before the advent of information technology wireless meant radio
+ aajkal betaar kaa upyog kai jagahon pe hota he or iske kai abhipraay ho sakate hai
+ Such as cordless-wireless lans - wireless phones - wireless wires - bhoj panvar yaa parmaar vansh ke nawein raja the
+ Parmar dynastic kings ruled from Malwa's capital Dharanagri from the eighth century to the first half of the fourteenth century
+ bhoj ne bahut se yuddh kiye or apni pratishtha sthapit kii jisase siddh hota he ki unamem asaadhaaran yogyata thi
+ Although most of his life was spent on the battlefield, he did not allow any kind of hindrance in the progress of his kingdom
+ unhone malwa ke nagaron va graamon main bahut se mandir banawaye, yadhyapi unamem se ab bahut kam kaa pataa chalata he
+ It is said that the capital of present-day Madhya Pradesh was settled by Raja Bhoj, then its name was Bhojpal Nagar, which later became Bhupal and then Bhopal
+ raja bhoj ne bhopal nagar ke paas hi ek samudr ke samaan vishaal talab kaa nirmaan karaayaa tha, jo purv or dakshin main bhojpur ke vishaal shiv mandir tak jaataa tha
+ Even today, on the way to Bhojpur, near the Shiv temple, a huge sail made of stones of that pond is seen
+ us samay us talab kaa pani bahut pavitra or bimariyon ko thik karne vaala mana jaataa tha
+ It is said that Raja Bhoj had a skin disease when a sage or a Vaidya advised him to bathe and drink in the water of this pond, which cured his skin
+ us vishaal talab ke pani se shivmandir main sthapit vishaal shivlinga kaa abhishek bhi kiya jaataa tha
+ Raja Bhoj himself was a very great scholar and he is said to have written books on various subjects such as religion, astronomy, art, lexicography, building construction, poetry, pharmacology etc
+ which still exist
+ inke samay main kaviyon ko rajya se aashray mila tha
+ He ruled from 1000 AD to 1055 AD
+ inaki vidwata ke kaaran janamanas main ek kahawat prachlit hui kahan raja bhoj kahan gangu taili
+ Bhoja was very brave, majestic, and virtuous
+ inhone anek deshon par vijay praapt kii thi or kai vishyon ke anek granthon kaa nirmaan kiya tha
+ He was a very good poet, philosopher and astrologer
+ saraswatikanthabharan, shringarmanjari, champuramayana, charucharya, tatvaprakash, vyavaharasamucchy aadi anek granth inke likhe hue batalaaye jate hai
+ His meeting was always decorated with great priests
+ inaki patni kaa naam leelavati tha jo bahut badi vidhushi thi
+ When the banquet was alive it was said- he; saraswati ko sadaa aalamb mila hua he; sabhi pandit aadrut hai
+ ) jab unka dehant hua to kaha gaya - Raja Bhoj was the son of Munj's younger brother Sindhuraj
+ rohak inkaa pradhan mantri or bhuvanpaal mantri tha
+ Kulachandra, Sadi and Taraditya were his commanders, with whose help Bhoja handled the operations smoothly
+ apane chachaa munj kii hi bhanti yah bhi pashchimi bharat main ek samrajya sthapit karnaa chaahate the or is ichha kii purti ke liye inhen apane padosi rajyon se har disha main yuddh karnaa padaa
+ Parmar was very agitated after Munj died in a mourning situation and hence Parmar was inspired by the Bhoj Chalukyas to march south with the idea of revenge lane
+ unhone ne daahal ke kalburi gangeyadev tathaa thanjore ke rajendra chol se sandhi kii ore saath hi saath dakshin par akraman bhi kar diya, parantu tatkaaleen raja chalukya jaisingh dwitiya ne bahaduree se saamana kiya or apana rajya bachaa liya
+ Sometime after 1044 AD, Someshwar II, the son of Jai Singh again turned hostile to the Paramaras and attacked the Malwa kingdom and forced Bhoja to flee
+ dharanagari par adhikaar kar lene ke baad usne aag laga di, parantu kuch hi dinon baad someshwar ne maalav chhod diya or bhoj ne rajdhani main lotakar phir sattadhikaar praapt kar liya
+ Shortly before 1018 AD, Bhoja defeated a person named Indaratha, possibly a feudatory of the Gang kings of Kalinga
+ jaisingh dwitiya tathaa indrarath ke saath yuddh samaapt kar lene par bhoj ne apni sena bharat kii pashchimi seemaa se lage hue deshon kii ore badhaai or pehle laat naamak rajya par, jiskaa vistaar dakshin main bombai rajya ke antargat surat tak tha, akraman kar diya
+ King Chalukya Kirtiraj surrendered there and Bhoja held the authority for some time
+ iske baad lagbhag san 1020 i
+ main bhoj ne laat ke dakshin main sthit tathaa thana jile se lekar malagaar samudratat tak vistrut konkan par akraman kiya or shilaharon ke arikeshari naamak raja ko haraaya
+ The Konkan were annexed into the kingdom of Paramaras and the Shilahars as their feudatories reigned here for some time
+ san 1008 i
+ main jab mahmud gazanabi ne punjabe shahi naamak rajya par akraman kiya, bhoj ne bharat ke anya rajyon ke saath apni sena bhi akramanakari kaa virodh karne tathaa shahi anandapal kii sahaayta karne ke hetu bheji parantu hindu raajaaon ke is mail kaa koi fal na niklaa or is avasar par unki haar ho gai
+ In 1043 AD, Bhoja sent his fellow soldiers to the king of Delhi to fight against the Muslims of Punjab
+ us samay punjab gazani samrajya kaa hi ek bhaag tha or mahmud ke vanshaj hi vahaan rajya kar rahe the
+ The Raja of Delhi got help from other parts of India and he traveled towards Punjab and defeated the Muslims and occupied some part of that country for a few days but in the end the king of Ghazni defeated him and lost the lost part again in his empire
+ Got it
+ bhoj ne ek baar daahal ke kalchuri gangeyadev ke viruddh bhi chadhaai kar di jisane dakshin par akraman karne ke samay uskaa saath diya tha
+ Ganga Deva lost but did not have to surrender
+ san 1055 i
+ ke kuch hi pehle gangey ke putr karn ne gujarat ke chaulukya bhim pratham ke saath ek sandhi kar lee or maalav par purv tathaa pashchim kii ore se akraman kar diya
+ Bhoja was making arrangements to save his kingdom that he died suddenly due to illness and the state easily went to the invaders
+ uttar main bhoj ne chandelon ke desh par bhi akraman kiya tha jahaan vidyadhar naamak raja rajya karata tha
+ But there was no benefit from it
+ bhoj ke gwalior par vijay praapt karne ke praytn kaa bhi koi acha fal na hua kyonki vahaan ke raja kachchapaghat kirtiraj ne uske akraman kaa datakar saamana kiya
+ It is believed that Bhoja had also conquered Kannauj for some time during the post-transformation period of the decline of Pratiharas
+ bhoj ne rajasthan main shakambhari ke chaahamanon ke viruddh bhi yuddh kii ghoshnaa kii or tatkaaleen raja chaahmaan veeryaram ko haraaya
+ He then threatened to win a kingdom called Shalit Nadul by the Anhil of the family of Chahmanas, but Parmar was defeated in the war and his chief commander-in-law, Sadi, lost his life
+ bhoj ne gujarat ke chaulukyon se bhi, jinhone apni rajdhani anhilapattan main banaai thi, bahut dinon tak yuddh kiya
+ Chamudaraja, son of Chalukya Solanki King Moolraj I, had to be humiliated by the arms of Parmar Bhoja in Malwa while going to Varanasi
+ uske putr evam uttaradhikari ballabhraj ko isapar bada krodh aayaa or usne is apmaan kaa badla lene kii sochi
+ He prepared a large army against Bhoja and attacked Bhoja, but unfortunately he died of smallpox on the way
+ iske baad vallabhraj ke chote bhai durlabhraj ne satta kii bagdor apan haathon main lee
+ After some time, the BJP also defeated him in the war
+ durlabhraj ke uttaradhikari bhim ke rajyakaal main bhoj ne apane senapati kulchandra ko gujarat ke viruddh yuddh karne ke liye bheja
+ Kulchandra conquered the entire region and looted his capital Anhilapattan
+ bhim ne ek baar abu par akraman kar uske raja parmaar dhandu ko haraaya tha, jab use bhagkar chitrakoot main bhoj kii sharan leni padi thi
+ As mentioned above, shortly before 1055 AD, Bhima attacked Malwa by entering into a treaty with Kalachuri Karna, but he could not get possession of that region during the banquet
+ raja bhoj bahut bade vir or pratapi hone ke saath-saath prakand pandit or gungrahi bhi the
+ He produced many texts of many subjects
+ ye bahut achche kavi, darshanik or jyotishi the
+ Many texts like Saraswati Kantabharan, Shringaramanjari, Champuramayan, Charuchara, Tattvaprakash, Behavansamuchya etc
+ are written in this
+ inaki sabha sadaa bade bade panditon se sushobhit rahati thi
+ His wife's name was Lilavati, who was a great student
+ raja bhoj ne gyaan ke sabhi kshetron main rachanaayen kii hai
+ He has composed some 84 books
+ unamem se pramukh hai- Dr
+ Mahesh Singh has classified his creations under different subjects- jaiki shroff hindi filmon ke ek prasiddh abhinayta hai
+ Jackie Shroff was born on 1 February 1957 in a Gujarati family! His real name is Jaikishan Katubhai Shroff, his father's name is Katubhai and mother's name is Rita Shroff! He used to live in a trick of three lights in Valkeshwar area of mumbai! Before appearing in films, she worked as a model in some commercials! He first got a small role in Dev Anand Sahab's film Swami Dada! In 1983, producer director Subhash Ghai gave him the lead role in one of his films, Hero! Luckily, his film became very successful and he became a big star overnight! He married his girlfriend Ayesha Dutt in the 80s! Ayesha who later also became a film producer! The two also run a media company called Jackie Shroff Entertainment Limited! He held 10% shares in Sony TV, which he sold in 2012! naanaa sahib san 1857 ke bhartiya swatantrata ke pratham sangram ke shilpkaar the
+ His original name was 'dhondupant'
+ swatantraaa sangram main naanaa sahib ne kanpur main angrejon ke viruddh vidrohiyon kaa netritv kiya
+ 
+ naanaa sahab ne san 1824 main venugram nivasee madhavnarayan raav ke ghar janm liya tha
+ His father Peshwa was the real brother of Bajirao II
+ peshwa ne balak nanarav ko apana dattak putr sweekaar kiya or unki shiksha diksha kaa yathesht prabandh kiya
+ He was taught the method of riding elephants, swords and guns and also made good knowledge of many languages
+ 28 janvari san 1851 ko peshwa kaa swargvaas ho gaya
+ Nanarao cremated the Peshwa with great pride
+ divangat peshwa ke uttaradhikaar kaa prashn uthaa
+ The company's government ordered the Bithur-based commissioner to inform Nanarao that the government considered him to be the heir of the Peshwa Dhan wealth and not the title of Peshwa or the political and personal facilities attached to it
+ etdarth peshwa kii gaddi praapt karne ke sambandh main va koi samaaroh yaa pradarshan na karen
+ But the ambitious Nanarao took all the property in his hand and took possession of the Peshwa's armory
+ thode hi dinon main nanarav ne peshwa kii sabhi oopaadhiyon ko dhaaran kar liya
+ Immediately he gave the application to the British Government and demanded a justification for the introduction of the Peshwai pension
+ saath hi unhone apane vakil ke saath kharita aadi bhi bheja jo kanpur ke colector ne waapas kar diya tathaa unhen suchit karaayaa ki sarkaar unki peshwai oopaadhiyon ko sweekaar nahin karti
+ Nanarao Dhupandant suffered a lot because he had to take care of many dependents
+ naanaa sahab ne pension paane ke liye lard dalhousie se likhapadhi kii, kintu jab usne bhi inkaar kar diya to unhone ajimullah khan ko apana vakil niyukt kar maharani victoria ke paas bheja
+ Azimulla made many efforts but failed
+ lautate samay unhone france, italy tathaa rus aadi kii yatra kii
+ After coming back, Azimullah made Nana Saheb aware of his failure, the real situation of the British and the freedom movements of Europe
+ nanarav dhoondhupant ko angrej sarkaar ke rukh se bada ksht hua
+ They were not silent
+ unhone isi samay tirthayatra prarambh kii
+ Nana Saheb's departure on a pilgrimage in this age seems somewhat mysterious
+ san 1857 main vah kalpi, dilli tathaa lakhanu gaye
+ In Kalpi, you met the famous Kunwar Singh of Bihar and imagined a future revolution
+ jab meerut main kranti kaa shriganesh hua to naanaa sahab ne badi veerta or dakshata se kranti kii senaaon kaa kabhi gupt rup se or kabhi prakat rup se netritv kiya
+ As soon as the revolution started, his followers received eight and a half lakh rupees and some war material from the English treasury
+ kanpur ke angrej ek garh main kaid ho gaye or krantikariyon ne vahaan par bhartiya dhwaja fahraai
+ All the revolutionaries gathered in Kanpur to go to Delhi
+ naanaa sahab ne unka netritv kiya or dilli jane se unhen roak liya kyonki vahaan jaakar ve or khatra hi mol lete
+ Nana Saheb declared war from Kalyanpur
+ apane sainikon kaa unhone kai tukadiyon main baanta
+ When all the British were going on boats from Satichora Ghat in Kanpur, the revolutionaries opened fire on them and many of them were killed
+ angrej itihaaskaar iske liye naanaa ke hi doshi maanate hai parantu uske paksh main yathesht pramaan nahin miltaa
+ 
+ 1 july 1857 ko jab kanpur se angrejon ne prasthaan kiya to naanaa sahab ne purn swatantraaa kii ghoshnaa kii tathaa peshwa kii oopaadhi bhi dhaaran kii
+ Nana Saheb's indomitable courage never waned and he led the revolutionary armies equally
+ fatehpur tathaa ang aadi ke sthanon main naanaa ke dal se or angrejon main bheeshan yuddh hue
+ Sometimes the revolutionaries won and sometimes the British won
+ tathaapi angrej badhate aa rahe the
+ After this, Nana Saheb saw the rise of British forces and crossed the river Ganges and departed to Lucknow
+ naanaa sahab ek baar phir kanpur laute or vahaan aakar unhone angreji sena ne kanpur va lakhanu ke bich ke maarg ko apane adhikaar main kar liya to naanaa sahab avadh chhodkar ruhelkhand kii ore chale gaye
+ On reaching Ruhelkhand, he supported Khan Bahadur Khan
+ ab tak angrejon ne yah samaj liya tha ki jab tak naanaa sahab pakade nahin jate, viplav nahin dabaaya ja saktaa
+ When the revolutionaries were defeated in Bareilly, then Nana Saheb suffered a lot like Maharana Pratap but he did not surrender before the Firangi and his friends
+ angrej sarkaar ne naanaa sahab ko pakadvane ke nimitt bade bade inaam ghoshit kiye kintu ve nishphal rahe
+ Truly Nana Saheb's renunciation and independence, his valor and military ability place him on the seat of a prominent figure in Indian history
+ 
+ Talin is a community in Armenia
+ yah aragasotn marz main aata he
+ It was established in 1995
+ yahan kii jansankhya 5,371 he
+ Politics gateway 1962 kaa pakistani samvidhan ek kanoonee dastavej tha, jise june 1962 main lagu kiya gaya tha
+ It was Pakistan's highest law code from June 1962 to March 1969
+ 1956 ke samvidhan kii tarah ise 1969 main nilambit kar diya gaya tha
+ It was eventually replaced by the 1973 Constitution, which is still in force
+ 1950 main bharat main samvidhan ke parvartan ke baad, pakistan ke saansadon ne apane samvidhan ko gathit karne ke prayaas tej kar die
+ Prime Minister Mohammad Ali and his government officials worked with the support of opposition parties in the country to prepare a constitution for Pakistan
+ ant main, is sanyukt kaary ke kaaran, samvidhan ke pehle samoocchy ko lagu kiya gaya
+ The incident took place on 23 March 1956, to this day still celebrates Republic Day on the occasion of the enforcement of the Constitution of Pakistan
+ is samvidhan ne pakistan ko "ekasadaneey vidhayika" ke saath sarkaar kii sansadeey pranali pradaan kii
+ Also, it officially declared Pakistan an Islamic republic
+ iske alaava, isamen, samta ke siddhant ko bhi pehali baar pesh kiya gaya tha
+ By constitution, Iskandar Mirza assumed the office of president, but due to his continued unconstitutional involvement in national affairs, the four elected Prime Ministers were dismissed in just two years
+ janata ke dabaav ke tahat, raashtrapati iskundar mirza ne 1958 main takhtapalat ko vaid tehraaya; or is prakaar yah samvidhan lagbhag nilambit ho gaya
+ Shortly afterwards General Ayub Khan deposed Iskandar Mirza and declared himself President
+ or isliye is yah samvidhan keval 3 saal ke liye hi chal paaya
+ On 17 February 1960, Ayub Khan appointed a commission to report on the future political structure of the country
+ ayog pakistan ke purv mukhya nyaayadhish, mohammad shahabuddin kii adhyakshata main das anya sadasyon ke saath gathit kii gai thi
+ It had five members from East Pakistan and five from West Pakistan
+ yah purnatah sevanivrutt nyaayadhishon, vakeelon, udyogpatiyon or jameendaaron se bana tha
+ The report of this Constitution Commission was presented to President Ayub on 6 May 1961 and after an investigation by the President and his Cabinet, in January 1962, the Cabinet finally approved the original text of the new Constitution
+ ise raashtrapati ayub dwaara 1 march 1962 ko lagu kiya gaya tha or ant main 8 june 1962 ko yah prabhaav main aayaa
+ This constitution contained 250 articles divided into twelve parts and three programs
+ pichley samvidhan kii tarah hi isamen bhi pakistan ko islamic mulyon par banane kii baat kii gai thi or ekasadaneey vidhayika ko tathst rakhaa gaya tha
+ But according to the projects of this constitution, as compared to the constitution of 1956, the President of Pakistan was given many rights, and basically a presidential system was formed
+ 1) likhit samvidhan1962 kaa samvidhan ek likhit dastavej tha
+ It had five programs and 250 articles published
+ 2) drudh samvidhanyah ek drudh samvidhan tha, or keval ek vishesh prakriya ke madhyam se hi sanshodhan kiya ja saktaa he
+ Amendments to the constitution were passed by at least two-thirds majority of the Parliament, and thereafter, this amendment could become part of the law only after certification by the President
+ 3) sangheey pranali iske dwaara sangheey pranali desh main pesh kiya gaya tha
+ It consisted of the central government and the provincial governments of both East and West Pakistan
+ 4) adhyakshiya prakaar kii shashan pranalirashtrapati desh kaa mukhya kaaryakari evam rashtradhyaksh the
+ He was empowered to nominate the ministers of his cabinet
+ 5) ekasadaneey vidhanmandal 6) Indirect Law Election The Presidential Election College in which 80,000 were elected by the Basic Democrats, equally distributed between the two provinces
+ 7) prantiy sarkarenkeval do prantiy sarkaron kaa praavdhaan tha, ek purv pakistan ke liye or ek pashchimi pakistan ke liye
+ The Governor was appointed as the head of each of them
+ rajyapal ko pakistan ke raashtrapati kii manjuuri ke saath hi prantiy mantriyon kii niyukti kaa adhikaar diya gaya tha
+ 8) Provincial Legislature: a legislature was conferred in each province
+ isamen mul rup se 150 sadsy shaamil the
+ However, there was later an increase of 218 on this score
+ 9) raashtrapati kii shaktiyaan1962 ke samvidhan ke praavdhanatah raashtrapati 5 varsh kii avadhi ke liye chunaa jeega or saath hi use ek muslim hona chahie
+ They were empowered to promulgate ordinances and vetoes against laws that could only be disabled by a two / thirds majority of the National Assembly
+ haalanki, raashtrapati ne apane karyaalay kii laagat ko chhodkar vidhayika bhang karne kaa adhikaar nahin tha
+ 10) Ban on the President The President was not allowed to hold any office of profit in the service of Pakistan, but it was not prevented from holding private property by the management
+ 11) islamic kanoonkoi bhi kanoon quran or sunnat ke shikshan ke khilaaf paarit nahin kiya jayega or maujuuda kanoonon kaa islamickaran kiya jayega
+ 12) Fundamental Rights The Constitution of 1962 laid down the claim of religion under the fundamental right to freedom of expression and freedom of expression
+ naagarik adhikaron ke sambandh ke saath, is tarah ke jivan, poshaak or sampatti ke adhikaar ke rup main parichit kaa adhikaar diya gaya tha
+ 13) The judiciary's judiciary was responsible for the interpretation of laws and executive orders in the light of the principles embodied in a written constitution
+ 14) sarvocch nyaayik parishaducch nyaayalayon ke do nyaayadhish, sarvocch nyaayalay ke mukhya nyaayadhish evam or do varisht nyaayadhishon se milakar ek sarvocch nyaayik parishad kii sthapana kii jaani thi
+ Like the constitution of 1956, the constitution of 1962 did not last long
+ pakistan main doosraa marshall lau, 26 march 1969 ko lagaaya gaya tha jab raashtrapati ayub khan ne 1962 main samvidhan niraakrit kiya or sena ke commander-in-chif general aagaa mohammad yahya khan ko satta saunp diya
+ Upon assuming the presidency, General Yahya Khan overthrew the one-unit system on popular demand in West Pakistan and ordered a general election on the principle of one man one vote
+ hanuman bahuk goswami tulsidas dwaara rachit strot he
+ According to Janashruti, when Kali Yuga's outbreak caused severe pain in his arm, Tulsidas ji created this source for his relief
+ hanuman bahuk Om Shree Ganeshaya Namaha shrijanakivallabho vijayate Shrimad-goswami-tulsidas-krit hanuman bahuk Featured sindhu-taran, siy-soch-haran, rabi-bal-baran tanu
+ Bhuj Bisal, Murti Karal Kalhuko Kaal Janu
+ 
+ Intense-combustion-smokeless lank is infrequent, Bunk-bhuva
+ jatudhan-balavaan-maan-mad-davan pavansuv
+ 
+ kah tulasidaas sevat sulabh sevak hit santat nikat
+ gun-ganat, Namat, Sumirat, Japat Saman gross-crisis-critical
+ 
+ 1
+ 
+ Bhaarthar - whose body color is like that of the sun of the Udayakas, which transcend the sea to defeat the mourning of Srijanakiji, aajanu-bahu, a coward of Surat, and as if it were a period of time
+ lanka-rupi gambheer van ko, jo jalaane yogya nahin tha, use jinhone ningsank jalaayaa or jo tedi bhunho vaale tathaa balvan rakshason ke maan or garv kaa naash karne vaale hai, tulsidas ji kehete hai – ve shripavankumar seva karne par badi sugamawa se praapt hone vaale, apane sevakon kii bhalaai karne ke liye sadaa sameep rahane vaale tathaa gun gane, pranaam karne evam samaran or naam japane se sab bhayanak sankaton ko naash karne vaale hai
+ 
+ 1
+ 
+ swarn-sell-sankas koti-rabi-tarun-tej-ghan
+ Ur Bisal bhuj-dand Chand nakh-bajra bajra-tan
+ 
+ Ping Nayan, Bhrikuti Karal Rasna Dasananan
+ kapis cese, karkas langur, khal-dal bal bhaanan
+ 
+ kah tulasidaas bas jasu ur marutsut moorati bikat
+ Sorrow sin, your men first dreams are not very near
+ 
+ 2
+ 
+ Bhartharth - They are of the same body as the suvarna-parvat -, like the sun of crores of meridians, everlasting radiance, huge-hearted, very strong arms and like the thunderbolt, having a fingernail and body, the eyebrows, the tongue, the teeth and the mouth are sparse, the hair is brown
+ k and the tail are going to destroy the strength of the hard and evil group
+ tulsidasji kehete hai – shripavankumar kii daraavnee murti jiske hriday main nivas karti he, us purush ke sameep dukh or paap swapn main bhi nahin aate
+ 
+ 2
+ 
+ jhulanapanchmukh-chhamukh-bhrigu mukhya bhat asur sur, sarv-sari-samar samaratth suro
+ Bankuro Bir Birudait Birudavali, Bedi Bandi Badat Paazpuro
+ 
+ Jasu Gungath Raghunath Kah, Jasbal, bipul-water-filled jag-zalidhi Jhuro
+ duvan-dal-damanko koun tulsis he, pawan ko put rajput ruro
+ 
+ 3
+ 
+ bhavarth - shiv, swaami-karthik, parashuram, daitya or devtaa-vrund sabake yuddh rupi nadi se paar jane main yogya yoddha hai
+ Vedrupi Vandijan says - You are a clever warrior with great promise, a great record and a legend
+ jinke gunon kii katha ko raghunatha ji ne shrimukh se kaha tathaa jinke atishay parakram se apaar jal se bharaa hua sansar-samudr suukh gaya
+ Sundar Rajput, the lord of Tulsi - who is the second to destroy a group of demons without? 
+ 
+ 3
+ 
+ Cuboid bhanuson padhan hanuman gayi bhanu man-anumaani sisu-keli kiyo pherfr so
+ The last leg, the gum, the sky, the mind, the mind, don't confuse the order, the little boy Bihar is asleep
+ 
+ Curious as Lokpal Hari Hara Bidhi, Lochanni glitzy Chittani Khabhar So
+ bal candhun bir-ras dhiraj kai, saahas kai, tulsi sareer dhare sabani ko saar so
+ 
+ 4
+ 
+ bhavarth – surya bhagwaan ke sameep main hanuman ji vidya padhane ke liye gayi, suryadev ne man main baalkon kaa khel samajhakar bahaanaa kiya 
+ Hanuman ji, facing towards Bhaskar, was pleased with his legs towards his back, like a boy playing in the sky-path and there was no confusion in the course
+ is achraj ke khel ko dekhakar indradi lokapal, vishnu, rudra or brahma kii ankhen chaundhiya gayin tathaa chitt main khalabali-si utpann ho gayi
+ Tulsidas ji says - Everyone started thinking that it is not known, no heroic, no patience, no courage or no idea, the body of all of them has taken its essence
+ 
+ 4
+ 
+ Chariot Keithu Kapiraj, Gajyo Suni Kururaj Dal plow force in India
+ kahyo dron bhisham samir sut mahabir, bir-ras-baari-nidhi jako bal jal bho
+ 
+ banar subhay bal keli bhoomi bhanu laagi, falng fallong hoontein ghati nabhtal bho
+ Nai-nai maath jori-jori hai jodha jo hai, see Hanuman, give fruits to Jagjivan
+ 
+ 5
+ 
+ Bhaartarth - In the Mahabharata, the flag of Arjuna's chariot roared by Kapiraj Hanumanji, which caused panic in Duryodhana's army
+ dronacharya or bhishma-pitamah ne kaha ki ye mahabali pavankumar he
+ Whose force is the water of the heroic sea-rupee
+ inke swaabhaavik hi baalkon ke khel ke samaan dharti se surya tak ke kudan ne akaash-mandal ko ek pag se bhi kam kar diya tha
+ All warriors see nawak-nawakar and hands jointly
+ is prakaar hanuman ji kaa darshan paane se unhen sansar main jeene kaa fal mil gaya
+ 
+ 5
+ 
+ go-pad payodhi kari holikaa jyon laai lank, nipat nisank parpur galabal bho
+ Drones - so watch the Leo Leo, cherish the kanduk, as it is, play the bell caso fruit
+ 
+ Sons of society are confused, Ramraj, Kaj Jug Pujni should have a great moment
+ saahsee samatth tulsi ko naah jaki baanh, lokapal paalan ko phir thir thal bho
+ 
+ 6

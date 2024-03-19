@@ -1,0 +1,1961 @@
+ Rust Cai brings modern instrument systems to the world of programming
+ ke lakshan pura karata he, jaise kong likhte hue usko automatic pura karna, or galatiyon ko likhte hue hi dikhaanaa
+ By using these solutions, programmers can quickly write code
+ rast chhatron or aise janon ke liye he, jo computor system ke bare me sikhna chaahtehain
+ For example, with the help of RUST, people have taught about the process of building the operating system
+ rast programmeron kii samaj nae chaatr or rastapahali baar sikhane vaale logon ko swaagat karta he, or madad karne ke liye khush he
+ Through several mediums in this book, Rust is trying to get the concept of programming to reach as many people as possible, especially those who are learning to program for the first time
+ kai sau companiyaan, bani or chhoti, rast ko utpadan me proyog kartin hai
+ "fyrafoxbrouzar" jaisi kai utpaadanon me rast kaa prayog he
+ Rust is especially for those who want help in creating Rust language, understanding, tools of Rust programmer, and "library"
+ hame bahut khushi hogi agaraap rast bhashaa me kisi bhi taur par yogdan karnaa chahen
+ Rust is for those who like speed and stability
+ raftaar se hamaramtlab he, aapke rast program ke chalne kaa raftaar or aap jist raftaar se rast caprogram likh pate hai
+ The Rust Compiler ensures that you maintain your programmability when you change more features, or change your planning principles
+ iske vipareet, or bhashaon me, programmer kong badalne se darte hai,kii kahin program "tut" na jaae
+ Rust provides zero-cost facilities, so that you can write to others, which can be compiled in a fast-moving program
+ vahausi raftaar se chal saktaa he, jaise kii aapane bina rast ke suvidhaon ko prayog kare khudkong likhaa ho
+ Rust and many people also wish to be used
+ uparyukt jin upyogkartaaon keecharcha kii gai he, wo sirf pramukh hitdharak hai
+ With Rust, it is our hope that the programmers who have been switching between convenience and speed have been accepting the programmers for so many days, they do not have to do it any further
+ kripaya rast kaa istemaal karen or dekhen kii vah aapke jaruratonko puraa karta he, kii nahi
+ The Chandogya Upanishad is the ceremonial part of the Samvediya Chandogya Brahmana, which is the ninth and largest of the oldest ten Upanishads
+ iske aath prapathkon main prayek main ek adhyay he
+ In the tradition of Chandogya Upanishad, famous for Brahm Gyan
+ According to 8
+15, it was preached by Brahma to Prajapati, Prajapati to Manu and Manu to his sons from whom it expanded into the world
+ yah nirupan bahudhaa brahmavidon ne sanvadatmak rup main kiya
+ The communicative representations of Svetaketu and Uddālaka, केvetaketu and Pravānala Jaibli, Satyakam Jābal and Haridrumat Gautama, Kamalayan Upakosal and Satyakam Jābal, Aupamanyavadi and पतिvapatī Kaikeya, Narada and Santakumar, Indra and Prajapati are indicative examples
+ sanyas pradhan is upanishad kaa vishay 8-7-15main ullikhit indra ko die gaye prajapati ke upadeshaanusaar, apaap, jaraa-mrityu-shokarahit, visidhits, pipasarahit, satyakam, sathyasankalp aatma kii khoj tathaa samyak gyaan he
+ In brief, the main beliefs of the Chandogya Upanishad are as follows: bharat kii janaganana anusaar yah gaanv, tehsil sanbhal, jila muradabad, uttar pradesh main sthit he
+ Related Census Code: State Code: 09 District Code: 135 Tehsil Code: 00721 uttar pradesh ke jile This is the 15th date of Shukla Paksha of Pausha, the tenth month of Vikram Samvat
+ jain dharmavalanviyon dwaara is din ko shakambhari jayanti ke rup main manaaya jaataa he
+ The tribes living in rural areas of Chhattisgarh celebrate Chherata festival with great pomp on the full moon day of Paush month
+ sabhi ke gharon main naye chaaval kaa chiwda gud tathaa tili ke vyanjan banaakar khaaya jaataa he
+ The children of the village children go door-to-door, as per the customary words, and they speak a paddy-haw lurika of Chher Chherata Kathi and ask for a handful of grains
+ raatri main gramin balaayein toli banaakar ghar main jaakar lokdi naamak geet gaati hai
+ According to the census of India, this village is located in Tehsil Thakurdwara, District Moradabad, Uttar Pradesh
+ sambandhit janaganana code: Kanchrapara is an area of kolkata
+ yah kolkata metropolitan dawalpment athurity ke adheen aata he
+ Andhra Pradesh, abbreviated AP, is a state located on the southeast coast of India
+ kshetra ke anusaar yah bharat kaa chauthaa sabase bada or jansankhya kii drushti se aathvaan sabase bada rajya he
+ Hyderabad is it's Capita & also the largest city
+ bharat ke sabhi rajyon main sabase lanbaa samudr tat gujarat main hote hue, duusare sthaan par is rajya kaa samudr tat he
+ Hyderabad will remain the capital for ten years only, till then the city of Amravati will be given the capital
+ andhra pradesh 12°41' tathaa 22°u akshansh or 77° tathaa 84°40'pus deshaantar rekhaansh ke bich he or uttar main maharashtra, chhattisgarh or urisa, purv main bengal kii khadi, dakshin main tamil nadu or pashchim main karnataka se ghira hua he
+ Historically, Andhra Pradesh has been called the "rice bowl of India"
+ yahan kii fasal kaa 77% se zyaada hissaa chaaval he
+ Two major rivers, the Godavari and the Krishna flow in this state
+ puducheri rajya ke yaanam jile kaa chota antahkshetra ) is rajya ke uttari-purv main sthit godavari delta main he
+ Historically, the area covered by the state was known as Andhrapath, Andhrades, Andhravani and Andhra subjects
+ andhra rajya se andhra pradesh kaa gathan 1 navambar 1956 ko kiya gaya
+ On February 2014, the Indian Parliament approved a separate Telangana state
+ telugana rajya main das jile tathaa shesh andhra pradesh main 13 jile honge
+ Hyderabad will be the joint capital of the two states for ten years
+ nayaa rajya simandhra do-teen maheene main astitv main aajaaega ab loksabhaa / rajyasabha kaa 25 / 12sit andhra main or loksabhaa / rajyasabha17 / 8 sit telugana main hoga
+ In the same month, President's rule also came into force in Andhra Pradesh, which will continue till the partition of the state
+ aitarey brahman or mahabharat jaise sanskrit mahakavyon main andhra shashan kaa ullekh kiya gaya tha
+ Bharata's Natyashastra also mentions the "andhra" caste
+ bhattiprolu main paae gaye shilalekhon main telugu bhashaa kii jaden khoji gai hai
+ Megasthanis, who visited the court of Chandragupta Maurya, has mentioned that there were 3 fortified cities in Andhra country and 100,000 infantry, 200 cavalry and 1000 elephants
+ buddha pustakon se prakat hota he ki us samay andhravaasiyon ne godavari kshetra main apane rajyon kii sthapana kii thi
+ In his 13th inscription Ashoka mentions that the Andhras were his subordinates
+ shilalekhiy pramaan darshaate hai ki tatavarti andhra main kuberaka dwaara shasit ek praarambhik rajya tha, jisaki rajdhani pratipalpura thi
+ It is probably the oldest state in India
+ lagata he isi samay dhanyktakam / dharnikota mahatvapurn sthaan rahe hai, jiskaa gautam buddha ne bhi daura kiya tha
+ According to the ancient Tibetan scholar Taranath: "on the full moon of Chaitra month the next year of his enlightenment, the Buddha initiated the 'great constellation' circles near the great stupa of Dhanyakataka
+ " The Mauryans took the BC In the fourth century, he extended his rule to Andhra
+ maury vansh ke patan ke baad i
+pus
+ teesri shatabdi main andhra shatvahan swatantra hue
+ 220 i
+sadi main shatvahan ke hraas ke baad, ikshvaku rajvansh, pallav, anand gotrika, vishnukundina, purvi chalukya or chola ne telugu bhoomi par shashan kiya
+ The inscription evidence of the Telugu language was found during the reign of Renati Chola in the 5th century CE
+ is avadhi main telugu, praakrit or sanskrit ke aadhipaty ko kam karte hue ek lokapriy madhyam ke rup main ubhari
+ apni rajdhani vinukonda se shashan karne vaale vishnukundin raajaaon ne telugu ko rajbhasha banaaya
+ After the fall of the Vishnukundinas, the Eastern Chalukyas ruled for a long time from their capital Vengi
+ pehali isvi sadi main hi chalukyon ke bare main ullekh kiya gaya ki ve shatvahan or baad main ikshvakuon ke adheen jagirdaar or mukhiya ke rup main kaam karte the
+ Around 1022 AD, the Chalukya ruler Rajaraja Narendra ruled over Rajahmundry
+ palnadu kii ladaai ke parinamswaroop purvi chalukyon kii shakti ksheen ho gai or 12veen or 13veen sadi main kakatiya rajvansh kaa udai hua
+ The Kakatiyas were the first feudatories of the Rashtrakutas to rule the small region of Warangal
+ sabhi telugu bhoomi ko kakatiyon ne ekajute kiya
+ In 1323 AD, Sultan of Delhi Ghiyas-ud-din Tughlaq sent a large army under Ulagh Khan to conquer the Telugu country and capture Warangal
+ King Prataparudra was taken captive
+ 1326 i
+ main musunuri nayakon ne dilli sultanate se warangal ko chhudaa kar us par punah qabja kiya or pachaas varshon tak shashan kiya
+ Inspired by their success, the Kakatiyas of Warangal had Harihar and Bukka working as treasury officers to establish the Vijayanagara Empire, the largest empire in the history of Andhra Pradesh and India
+ 1347 i
+ main dilli sultanate ke kilaaf vidroh karte hue alaa-ud-deen hasan gangu dwaara dakshin bharat main ek swatantra muslim raashtra, bahamani rajya kii sthapana kii gai
+ For almost two hundred years from the beginning of the 16th century to the end of the 17th century, the Qutb Shahi dynasty dominated the Andhra country
+ aupniveshik bharat main, uttari sarkaar british madras presidency kaa hissaa ban gaye
+ The region eventually emerged as coastal Andhra Pradesh
+ The Nizam later ceded five territories to the British, which eventually emerged as the Rayalaseema region
+ The Nizam retained control of the inner provinces as the vast state of Hyderabad, accepting British rule in return for local autonomy
+ is bich francoisiyon ne godavari delta main yaanam par qabja kiya or 1954 tak use apane adheen rakhaa
+ India became independent from the British Empire in 1947
+ The Nizam of Hyderabad wanted to maintain his independence from India, but the people of the region started a movement to join the Indian Union
+ 5 dinon tak chalane vaale oparation polo ke baad, jisko hyderabad rajya kii janata kaa puraa samarthan praapt tha, 1948 main hyderabad rajya ko bharat ganraajya kaa hissaa banane ke liye majaboor kiya gaya
+ In an effort to achieve an independent state and to protect the interests of the Telugu people of Madras State, Amarajeevi Potti Sriramulu fasted fast
+ unki maut ke baad saarvajanik duhai or naagarik ashaanti ne sarkaar ko majaboor kiya ki telugu bhashi logon ke liye ek nae rajya ke gathan kii ghoshnaa karen
+ On 1 October 1953, Andhra gained statehood with its capital at Kurnool
+ 1 navambar 1956 ko andhra pradesh rajya ke nirmaan ke liye andhra rajya kaa vilay hyderabad rajya ke telugana praant se kiya gaya
+ Hyderabad, the previous capital of the Hyderabad state, was made the capital of the new state of Andhra Pradesh
+ 1954 main francoisiyon ne yaanam par adhikaar tyaag diya, lekin sandhi kii ek shart yah thi ki jile kii alag or spasht pahchaan ko kaayam rakhen, jo ki vartmaan puducheri rajya kaa gathan karne vaale anya dakshin bhartiya parikshetron ke liye bhi lagu tha
+ The climate of Andhra Pradesh is generally hot and humid
+ rajya kii jalwaayu kaa nirdhaaran karne main dakshin pashchim monsoon kii pramukh bhoomika he
+ But winters are pleasant in Andhra Pradesh
+ yah vah samay he jab rajya kai paryatakon ko aakarshith karata he
+ Summer in Andhra Pradesh runs from March to June
+ in maheenon main taapmaana kaafii ooncha rahata he
+ Summer temperatures in the coastal plains are generally higher than in the rest of the state
+ garmiyon main, aam taur par taapmaana 20 degree celsius or 40 degree celsius ke bich rahata he
+ During summer, temperatures in some places reach as high as 45 degrees
+ andhra pradesh main july se sitambar ushnkaribandheey barish kaa mausam hota he
+ The state receives heavy rainfall during these months
+ andhra pradesh main kul varsha kaa lagbhag ek tihaai ansh purvottar monsoon kii vajah se hota he
+ The winter season falls in the state around October
+ andhra pradesh main oktober, november, disambar, janvari or farvari sardi ke maheene hai
+ The weather is not very cold in winter due to the long coastal area of the state
+ sardiyon main taapmaana kaa vistaar aam taur par 13 degree celsius se 30 degree celsius ke bich rahata he
+ To visit the state during the summer months, you will need to prepare well for summer clothes
+ Cotton clothes are suitable to withstand the weather well
+ chunki varsh ke adhikansh bhaag ke dauraan andhrapradesh kii jalwaayu anukool nahin he, rajya kaa daura karne ke liye oktober se farvari ke bich kaa samay acha he
+ After the bifurcation of Andhra Pradesh, there are two regions divided into it, namely coastal Andhra and Rayalaseema
+ andhra pradesh main 13 jile hai: anantpur, chitoor, kadpa, purv godavari, guntur, krishna, karnul, shri potti shriramulu nellur, prakasham, shrikakulam, vishakhapatnam, vijayangaram, or pashchim godavari
+ Each district is divided into several mandals and each mandal is a cluster of a few villages
+ hyderabad rajdhani he
+ After the separation of the states of Andhra Pradesh and Telangana, the capital of Andhra Pradesh will remain Hyderabad for ten years, and the new capital city of Vijayawada has been declared
+ andhra pradesh kaa mukhya bandargah vishakhapatnam, rajya kaa doosraa sabase bada shahar he or bhartiya nausena ke purvi nausena kaman kaa ghar he
+ Vijayawada is a major trading center and the third largest city in the state due to its location and proximity to major rail and roadways
+ anya mahatvapurn shahar or kasben hai: kakinada, guntur, tirupati, rajmandri, nellur, ongol, karnul, anantpur, or aluru
+ Telugu is the official language of the state, spoken by 88
+5% of the population
+ bharat kii atyadhik boli jane vaali bhashaaon main telugu kaa teesraa sthaan he
+ Major linguistic minority groups in the state include Urdu 8
+63%) and Hindi and Tamil speakers
+ bharat sarkaar ne 1 navambar 2008 ko ek shastreey or pracheen bhashaa ke rup main telugu ko namit kiya
+ Other languages spoken in Andhra Pradesh less than 1% are Kannada, Marathi, Oriya, Gondi and Malayalam
+ rajya nivaasiyon dwaara 0
+1% se kam boli jane vaali bhashaaon main gujarati, saawaraa, koya, jatpu, punjabi, kolmi, konda, ghadba, sindhi, gorkhali / nepali or khond / kondh shaamil hai
+ The main ethnic group of Andhra Pradesh is the Telugu people, who mainly belong to the mixed caste of Aryans and Dravidians
+ rajya kii arthvyavastha ke liye aay kaa mukhya strot krishi rahi he
+ Four important rivers of India, namely Godavari, Krishna, Penna and Tungabhadra flow into the state providing irrigation
+ chaaval, ganna, kapaas, mirchi, aam or tambaaku sthaneey fasal hai
+ More recently, crops used for the production of vegetable oil, such as sunflower and peanuts have found support
+ godavari nadi ghati sinchai pariyojna or duniya main sarvocch, pattharon se bane nagarjun sagar baandh sahit, kai bahu rajya sinchai pariyojnaayen vikasadhin hai
+ The state has also started focusing on the areas of information technology and biotechnology
+ 2004-2005 main andhra pradesh bharat ke sarvocch IT niryaatkon kii suchi main paanchave sthaan par rahaa tha
+ During 2004–2005, 2004–2005 exports from the state stood at Rs
+82,700 million
+ prati varsh 52
+3% kii dar se IT kshetra kaa vistaar ho rahaa he
+ IT exports reached Rs
+190,000 million in 2006–2007 and ranked fourth in India, contributing 14 percent to the nation's total IT exports
+ pehle se hi sakal rajya gharelu utpaada main rajya ke seva kshetra kaa yogadan 43% he or 20% kaary bal niojit he
+ Hyderabad, the capital of this state, is considered the wholesale drug capital of the country
+ pharmaceutical kshetra ke sheershasth 10 companiyon kaa 50% is rajya se hai
+ The state has acquired a very important position in terms of infrastructure as well, with many companies of this state already being in the forefront
+ andhra pradesh ek khanij samrudh rajya he, jo khanij sampada ke maamle main bharat main duusare sthaan par he
+ The state has one-third of India's limestone reserves, including estimates of 30 billion tonnes
+ krishna godavari ghati main prakritik gas or petroleum ke vishaal bhandar hai
+ The state is also rich in large amount of coal reserves
+ rashtriya bazaar main 11% kii hissedari ke saath, desh bhar main jal vidyut utpaadan ke maamle main rajya pehle sthaan par he
+ Andhra Pradesh's GSDP for 2005 was estimated at $ 62 billion according to current prices
+ sankhyikee or kaarykram karyanvayan mantralay dwaara bhartiya rupayon ke million main aankadon ke saath anumaanit bazaar kii keemton ke liye andhra pradesh ke GSDP kii pravriti suchak talika he
+ Accordingly, state status ranks fourth among the major states of India in terms of overall GSDP and also fourth per capita
+ ek anya maap-siddhant ke anusaar, bhartiya sangh ke sabhi rajyon main sakal utpaada ke maamle main rajya tisare sthaan par he
+ Agriculture is the primary sector of Andhra Pradesh's economy involved in food production
+ andhra pradesh desh ke pramukh dhan utpaadan rajyon main se ek he or bharat main varjeenia tambaakoo kaa lagbhag 4 / 5 bhaag kaa utpaadan bhi yaheen hota he
+ The rivers of the state, especially Godavari and Krishna, are important for agriculture
+ lambey samay tak inke laabh andhra pradesh ke tateey kshetron tak simit the, jinhen sarvottam sinchai suvidhaayen uplabdh thim
+ After independence, efforts have been made to collect water from two other rivers other than these two rivers for dry interior areas
+ naharon dwaara sinchai karne se telugana or roilseema kshetron main tateey andhra pradesh kii krishi-audyogic ikaayiyon se hode leti ikaayiyon kii sankhya bad gai he
+ Agriculture is the main occupation of citizens in Andhra Pradesh, about 62 percent of it is cultivated
+ andhra pradesh kii mukhya fasal chaaval he or yahan ke logon kaa mukhya aahaar bhi chaaval hi he
+ 77 percent of the total grain production of the state is rice
+ yahan kii anya pramukh fasalen - jowar, tambaakoo, kapaas or ganna hai
+ Andhra Pradesh is the most peanut-growing state in India
+ rajya ke kshetrafal ke 23 pratishat hisse main saghan ghaney van hai
+ Among the forest products are teak, eucalyptus, cashew, casuarina and timber
+ andhra pradesh main 175 siton kii vidhaan sabha he
+ The state has 25 members in the Parliament of India; Upper house, 12 in Rajya Sabha and lower house, 42 in Lok Sabha
+ 1982 tak andhra pradesh main bhartiya rashtriya congress party ke netritv kii sarkaron kaa silsilaa tha
+ Kasu Brahmananda Reddy maintained the long-serving Chief Minister's record, which was founded in 1983 by N
+T
+ Rama Rao broke
+ PV Narasimha Rao also served as the Chief Minister of the state, who became the Prime Minister of India in 1991
+ rajya ke pramukh mukhyamantriyon main shaamil hai andhra rajya ke mukhyamantri tanguturi prakasham,, anya hai kasu brahmanand reddy, marry chenna reddy, jalgam vengal raav, nedurumalli janardan reddy, nadendla bhaskar raav, kotla vijay bhaskar reddy, en
+tii
+ ramarao, naaraa chandrababu naidu or vai
+es
+ rajasekhar reddy
+ In 1983, the Telugu Desam Party won the state elections and NT Ramarao became the Chief Minister of the state and for the first time introduced another formidable political party in the politics of Andhra Pradesh and thus a party in the politics of Andhra Pradesh Broke the monopoly
+ After a few months, when NTR went away for treatment in the United States, Nandendla Bhaskar Rao unjustly seized power
+ waapas aane ke baad, NTR ne rajya ke rajyapal ko safaltaapurvak vidhansabha bhang karne or dubaara chunaav ke liye manaaya
+ TDP ne baari bahumat se chunaav jeeta
+ The collective elections in 1989 ended the ntr's 7-year rule, with the INC party returning to power with Dr
+ Marri Chenna taking the helm of affairs
+ unhen en
+ janardhan reddy ne pratisthapit kiya, jab ki baad main kotla vijay bhaskar reddy ne unki jagah lee
+ In 1994, Andhra Pradesh again gave mandate to TDP and again became NTR Chief Minister
+ NTR ke damaad chandrababu naidu ne raajnneetik tikadam bhida kar, peeth peeche waar karte hue unase satta chin lee
+ Unable to digest this betrayal, NTR later died of a heart attack
+ TDP ne 1999 main chunaav jeeta, par may 2004 ke chunaavon main vai
+es
+ rajasekhar reddy ke netritv vaali INC pradhan gathbandhan se uski haar hui
+ The Praja Rajyam Party was formed by film actor Chiranjeevi in 2008 and triggered a triangular conflict in the 2009 elections
+ vishaal media prachaar or apekshaaon ke baavjood, vah parivartak khel nahin khel paaya or keval 18 siten jeetne main safal rahaa
+ The ray of hope is that it managed to win 17 percent of the total votes, compared to 36 percent of the Congress and 25 percent of the Telugu Desam
+ praja rajyam party or TDP, TRS, CPI or CPM ke vrihat gathbandhan ko pare rakhte hue vai
+es
+ rajasekhar raddi dubaara mukhyamantri bane
+ YSR Reddy, AP He became the first Chief Minister in the history of the country to complete a full 5 years as a CM
+ andhra pradesh main kai sangrahalay hai, jinamein shaamil he- guntur shahar ke paas amravati main sthit puraatatv sangrahalay, jisamen aas-paas ke pracheen sthalon ke avshesh surakshit hai, hyderabad kaa salarang sangrahalay, jisamen sthapaty, chitrakala or dharmik vastuon kaa vividh sangrah he, vishakhapatnam main sthit vishakha sangrahalay he, jahaan dach punarvaas bangale main swatantraaa purv madras presidency kaa itihaas pradarshit he
+ The Victoria Jubilee Museum located in Vijayawada has a good collection of ancient sculptures, paintings, idols, weapons, knives, spoon etc
+ and inscriptions
+ andhra pradesh ke vyanjan, sabhi bhartiya vyanjanon main sabase zyaada masaaledaar ke rup main vikhyath hai
+ There are many variations in Andhra cuisine depending on geographical region, caste, traditions
+ bhartiya achaar or chatnee, jise telugu main pacchdi kaha jaataa he, andhra pradesh main vishesh rup se lokapriy he or kai qism ke achaar or chatnee is rajya kii khaasiyat he
+ Chutney is made from practically every vegetable including tomato, brinjal and ambada
+ aam ke achaaron main sambhawatah aavkaay andhra ke achaaron main sabase zyaada prasiddh he
+ Rice is a staple food and is used in a variety of ways
+ aam taur par, chaaval ko yaa to ubala jaataa he or sabji ke saath khaaya jaataa he, yaa phir lapsi bana lee jaati he, jo patali parat jaisaa pakwaan attu yaa dosa banane ke liye prayukt hota he
+ a variety of aromatic savory dishes are prepared from meat, vegetables and greens with various spices
+ hyderaabadi paak-style musalamaanon se prabhavit he, jo 14veen sadi main telugana main aae the
+ Most of the dishes revolve around meat
+ mohak masaalon or ghi ke zyaada istemaal se bane ye vyanjan swaadisht or khushboodaar hote hai
+ Lamb, poultry and fish meat are the most widely used in non-vegetarian dishes
+ hyderaabadi vyanjanon main sabase vishisht or lokapriy vyanjan shaayad biryani he
+ The Jayapa fighter is the first to write about the dances prevalent in Andhra Pradesh
+ nrity ke donon, desi or margi roopon ko sanskrit pustak 'nrity ratnavali' main shaamil kiya gaya he
+ It has eight chapters
+ lok-nrity ke rup yatha perni, prerankhana, shuddh nartan, sarkari, raaska, dand raaska, shiv priya, kanduk nartan, bhandika nritym, charan nritym, chindu, gondli or kolatom kaa varnan kiya gaya he
+ In the first chapter the author discusses the differences between Marga and Desi, Tandava and Lasya, Natya and Nritya
+ duusare or tisare adhyay main angik-abhinay, chaaris, sthand or mandalon kii charchaa kii he
+ Karan, Angahar and Laxha are described in the fourth chapter
+ baad ke adhyyon main unhone sthaneey nrity roopon arthath desi nrity kaa varnan kiya he
+ In the last chapter he describes the practice of art and dance
+ andhra main shastreey nrity, purush or mahilaon, donon dwaara kiya ja saktaa he; lekin adhikanshtah mahilaayein hi ise sikhti hai
+ Kuchipudi is the most famous classical dance form of the state
+ rajya ke itihaas main vidyaman vibhinn nrity rup hai chenchu bhagotam, kuchipudi, bhamakalapam, burrakatha, virnatyam, butt bommalu, dappu, tappet gullu, lambaadi, bonalu, dhimsa, colattem or chindu
+ Nannayya, Tikanna and Yerrapragada are the trinity who translated the great Sanskrit epic Mahabharata into Telugu
+ ek or kavi hai bommera potna, jinhone veda vyas dwaara sanskrit main likhe gaye shrimadbhagwatam kaa telugu main anuwaad karte hue shreshth granth shrimad andhra mahabhagwatamu kii rachana kii
+ Nannayya is called Adikavi, patronized by King Rajarajanarendra, who ruled Rajamahendravaram
+ vijaynagar ke samraat krishnadev raay ne aamuktamalyada kii rachana kii
+ Telugu poet Vemana, a resident of Kadapa, is also famous for philosophical poems
+ kandukuri veereshlingam ke baad ke telugu sahitya ko aadhunik sahitya kaha jaataa he, gadhy tikanna kahe jane vaale veereshlingam, telugu-bhashaa ke saamaajik upanyaas satyavati charitam ke lekhak hai
+ Other modern writers include Jnanpith Award winner Mr
+ Vishwanath Satya Narayan and Dr
+ C
+ Narayan Reddy
+ Sri Sri, a native and revolutionary poet of Andhra Pradesh, introduced new forms of expression in Telugu literature
+ shri puttaparti narayanacharyulu bhi telugu sahitya ke vidwaan kaviyon main se ek hai
+ He was a contemporary of Shri Vishwanath Satyanarayana
+ shri puttaparti narayanacharyulu ne dwipadakavy shivatandavam or pandurang mahatyam jaisi prasiddh pustaken likhin
+ Other notable writers from Andhra Pradesh include Srirangam Srinivasa Rao, Gurram Jashuva, Chinnaiya Suri, Vishwanath Satyanarayana and Vaddera Chandidas
+ andhra pradesh bharat ke sabase adhik cinema haul vaala rajya he, jahaan lagbhag 2700 cinema-ghar hai
+ The state produces about 200 films in a year
+ bharat ke dolbi digital theatreon main lagbhag 40% yahaan sthit hai
+ Now it also has an imax theater with a large 3D screen and 3-5 multiplexes
+ tollywood, bharat main sabase adhik sankhya main filmon kaa nirmaan karata he
+ NTR, the uncommon star of Tollywood, created history by becoming the Chief Minister in 9 months after the formation of his party, which is also a world record and has not been able to achieve any more
+ rajya ke paas sangeet kii bahumoolya viraasat he
+ Many great personalities of Carnatic music, including Trinity Tyagaraja, Annamacharya, Kshetrayya of Bhadrachal Ramdas, were Telugu dynasties
+ mahaan mandolin vadak, mandolin shrinivas bhi andhra pradesh se hai
+ Folk songs are also popular in the rural areas of the state
+ mahaan karnataka gayak, shri mangalampalli balmurlikrishna bhi telugu vansh se hai, jinhone karnataka sangeet ke kuch or raagon kaa avishkaar kiya
+ Andhra Pradesh is home to Hindu saints of all castes
+ ek mahatvapurn pichhadi jati kii hasti, sant yogi shri potuluri vir brahmendra swami vishvabrahman jati main paidaa hue the, jinke shishyon main brahman, harijan or muslim shaamil the
+ The fisherman Raghu was also a Shudra
+ sant kakyya chura harijan sant the
+ Many important modern Hindu saints are from Andhra Pradesh
+ inamen shaamil hai nimbark, jinhone dwaitadvait kii sthapana kii, arvind mishan kii maa mira jinhone bhartiya swatantraaa kaa samarthan kiya, shri satya sai baba jo puja main dharmik ekta kaa samarthan karte hai, swami sundar chaitanyanandji
+ Tirupati or Tirumala is a very important pilgrimage place for Hindus throughout India
+ yah shahar duniya main sabase sampann tirth-sthaan he
+ Its main temple is dedicated to Lord Venkateswara
+ tirupati chitoor jile main sthit he
+ The temple of Satyanarayana Swamy is famous in Annavaram in East Godavari district
+ rashtriya mahatv kaa ek or atyant lokapriy tirth-sthal he singhachalam
+ puranic kathaon main singhachalam ko nandak-pita hiranyakashyap se prahlaad ko bachaane vaale uddharak bhagwaan narsingh kaa nivas mana gaya he
+ Kanak Durga Temple located in Vijayawada city is one of the famous temples of Andhra Pradesh
+ shri kalahasti ek mahatvapurn pracheen shiv mandir he or vah chitoor jile ke swarnmukhi nadi ke kinare par sthit he
+ Sinhachalam is a hill temple, located 16 km from Visakhapatnam, on the other side of the mountain in the northern direction of the city
+ andhra pradesh ke ati utkrisht taraashe gaye mandiron main se ek, yah ghaney jaganlon se ghire pahadiyon ke bich sthit he
+ The beautifully carved 16-pillared Natya Mandapa and the 96-pillared Kalyan Mandapa bear testimony to the masterful architectural craft of the temple
+ ishtdev shri lakshminarsingh swami bhagwaan kii chhavi ko chandan kii moti parat se dhakaa jaataa he
+ This temple dedicated to Lord Narasimha, an incarnation of Vishnu, is the oldest temple in India, built in the 11th century by a Chola king Kollutunga
+ ek vijay stambh kaa nirmaan, urisa ke gajpati raajaaon par vijay praapt karne ke baad shri krishna dev raay dwaara kiya gaya
+ Ancient Telugu inscriptions will be found in this temple
+ This temple is one of the most famous temples in India
+ isaki vaastukala dravid he
+ There is a general belief that God is protecting Vizag from natural disasters such as floods, cyclones, earthquakes and tsunamis
+ aaj tak prakritik vipadaaon se ek bhi maut nahin hui he
+ Couples of bride and groom go to this temple before marriage as a ritual
+ yah mandir andhra pradesh ke sabase bheed vaale mandiron main se ek he
+ Srisailam is another major temple of national importance located in Andhra Pradesh
+ yah bhagwaan shiv ko samarpit he
+ One of the various Jyotirlingas is located here
+ skandapurana main ek adhyay "shrishail kandam" ise samarpit he, jo isaki pracheenta kii ore sanket karata he
+ This is also confirmed by the fact that Tamil saints of the last millennium have also sung hymns praising this temple
+ kaha jaataa he ki aadi shankar ne bhi is mandir kaa daura kiya or usee samay "shivanand lahari" kii rachana kii
+ It is believed that Shiva's holy bull Taurus also did penance in the temple of Mahakali until Shiva and Parvati appeared before him as Mallikarjuna and Bhramamba
+ The temple is one of the 12 sacred jyotirlingas; Lord Rama himself established the Sahasralinga, while the Pandavas established the Panchapandava lingas in the temple courtyard
+ shrisailam karnul jile main sthit he
+ Bhadrachalam is known for the Sri Rama Temple and the Godavari River
+ yah vahi jagah he jahaan prasiddh bhakt ramdaas ne bhagwaan ram ko samarpit apane bhaktiparak geeton kii rachana kii
+ It is believed that in Tretayug, Lord Rama spent some years here on the banks of the Godavari river
+ Legend has it that Bhadra demanded Rama to make a permanent residence here after severe penance
+ kehete hai bhagwaan ram apni patni sita or bhai lakshmana ke saath bhadragiri main bas gaye
+ Bhadrachalam is located in Khammam district
+ gopanna ne 17veen sadi main tanisha ke shashan kaal main logon se dhan juta kar, ram mandir kaa nirmaan kiya
+ He started celebrating the marriage of Lord Rama and Sita
+ tab se prati varsh shri ram navami manaaya jaataa he
+ The Andhra Pradesh government sends pearls to Bhadrachalam every year for this ceremony
+ basar - saraswati mandir, vidya kii devi saraswati kaa ek or prasiddh mandir he
+ Basra is located in Adilabad district
+ yaganti gufaaen bhi andhra pradesh ke mahatvapurn tirth kendron main ek he
+ Apart from Mahanandi, the lush Kurnool district is another pilgrimage center
+ prasidgh hindu birla mandir or ramppa mandir, muslim makka masjid or charminar, saath hi hossain sagar jhil par buddha kii pratimaa andhra pradesh ke adbhut dharmik smarakon main shaamil hai
+ Kanakadurga Temple is a famous temple in Andhra Pradesh, India
+ yah krishna nadi ke tat par vijaywada shahar ke indrakiladri pahari par sthit he
+ According to a legend, the present lush Vijayawada was once a rocky region, where the hills were scattered, stopping the flow of Krishna river
+ is prakaar bhoomi, nivas ke liye yaa kheti ke yogya nahin thi
+ On praying to Lord Shiva, he instructed the hills to make way for the Krishna River
+ or chamatkaar! nadi bhagwaan shiv dwaara pahadiyon main kiye gaye chhed "bejjam" yaa surangon ke madhyam se bina roak-tok ke puure josh main bahane lagi
+ Thus the place was named Bezwada
+ is sthaan se judi hui puranic kathaon main ek yah he ki arjuna ne bhagwaan shiv kaa anugrah praapt karne ke liye indrakila pahari kii chotii par prarthana kii or unki vijay ke baad is shahar kaa naam "vijaywada" padaa
+ ek or lokapriy dantakatha rakshas raja mahisasur par devi kanakadurga kii vijay se judi he
+ It is said that at one time the growing atrocities of demons became unbearable for the people of this region
+ sadhu indrakila ne ghor tapasya kii or jab devi prakat huin, to sadhu ne unase apane sir par nivas karne or dusht rakshason par nigaraanee rakhane kaa aagrah kiya
+ According to his wish, after killing the demons, Goddess Durga made Indrakila her permanent abode
+ baad main unhone rakshason ke changul se vijaybada ke nivaasiyon ko mukt karte hue rakshas raja mahisasur kaa vadh kiya
+ Special puja is organized during Navaratri called Dussehra
+ sabase mahatvapurn hai saraswati puja or teppotsavam
+ yahaan prati varsh devi durga ke liye dashahra manaaya jaataa he
+ a large number of devotees participate in this colorful ceremony and take a holy bath in the Krishna River
+ baapu kii chitrakaari, nanduri subbarao ke yenki patlu, shararti budugu, annamayya ke geet, aavkaay, gongura atlataddi, godavari nadi kaa tat, dudu basavanna telugu samskruti main varnit he
+ Durgi village is known for sculpting stone sculptures in soft stones, which are required to be displayed in the shade to avoid the risk of weathering
+ 'kalankaari' ek pracheen kala rup he, jiskaa sambandh hadappa kii sabhyataa se he
+ Andhra is also famous for doll making
+ gudiyon ko lakdi, mitti, sukhi ghaas or halke vazan vaali mishra dhaatuon se banaaya jaataa he
+ Tirupati is famous for red wood carvings
+ kondpalli gahare rangon vaale mitti ke khilaunon ke liye prasiddh he
+ Etikoppakka located in Vizag is famous for toys
+ nirmal chitra bahut hi arthpurna hai or aam taur par inhen kaale rang kii prishthbhumi main chitrit kiya jaataa he
+ Story telling is also an art form of Andhra
+ 'yaksha gaanam', 'burr katha', 'jangam kathalu', 'hari kathalu', 'chekk bhajan', 'urumal natyam', 'ghat natyam' sabhi vishakha main andhrapradesh palumamb tyohaar se judaa adwitiya lok-nrity he
+ There are more than 20 institutes of higher education in Andhra Pradesh
+ sabhi pramukh kala, manviki, vigyaan, ejineering, kanoon, chikitsa, vyapaar or pashu chikitsa vigyaan sambandhi vishay uplabdh hai, jisamen snaatak se snatakottar str tak kii padhai ho sakati he
+ Advanced research is being conducted in all major areas
+ andhra pradesh main 1330 kala, vigyaan or vaanijya mahavidhyalay; 1000 MBA or MCA college; 500 ejineering college or 53 medical college hai
+ The ratio of students to teachers in higher education is 19: 1
+ 2001 kii janaganana ke anusaar, andhra pradesh main samgr sakshartaa dar 60
+5% he
+ While the male literacy rate is 70
+3%, the female literacy rate is at a worrisome level with only 50
+4%
+ rajya main kai sansthaanon kii sthapana dwaara haal hi main ullekhneey pragati hui he
+ Andhra Pradesh has the prestigious Birla Institute of Technology and Science, and IIT Hyderabad
+ anterrashtriya soochna praudyogiki santhaan, hyderabad, hyderabad vishvavidhyalay or indian skool of bijnes apane maanakon ke liye rashtriya dhyaan aakarshith kar rahe hai
+ The National Institute of Fashion Technology and The Institute of Hotel Management, Catering Technology and Applied Nutrition are also based in Hyderabad
+ pratishthit osmania vishvavidhyalay hyderabad main sthit he
+ The Government of Andhra Pradesh has achieved the distinction of establishing the first University of Health Sciences by fulfilling the recommendations of several committees
+ is prakaar andhra pradesh vidhansabha ke adhinium san
+6 dwaara "andhra pradesh swasthya vigyaan vishvavidhyalay" sthapit kiya gaya tha or 9-4-1986 ko andhra pradesh ke tatkaaleen mukhyamantri swargeey shri en
+tii
+ramarao dwaara iskaa udghaatan kiya gaya tha
+ This Health Sciences University started functioning in Vijayawada from 01-11-1986
+ iske sansthaapak shri en
+tii
+ramarao kii mrityu ke baad unke naam par 1998 ke adhinium san
+4 ke zarie 2
+2
+98 se vishvavidhyalay kaa naam badal kar NTR swasthya vigyaan vishvavidhyalay rakhaa gaya
+ There are many Telugu language newspapers in Andhra Pradesh
+ inadu, andhra jyoti, sakshi telegu dainik, prajashkti, vaarta, andhra bhoomi, vishalandhra, surya or andhra prabhaa rajya ke pramukh telugu-bhashaa ke samachar patr hai
+ Urdu language newspapers of Andhra Pradesh include Siyasat Daily, Munsif Daily, rahnuma-e-deccan, Etemad Urdu Daily, Awam and The Milap Daily
+ andhra pradesh main deccan chronical, da hindu, da times of india, da new indian express, da iconomic times, da bijness line sahit kai angrezi bhashaa ke samachar patr hai
+ Andhra Pradesh is also home to several Hindi-language newspapers
+ inamen hai swatantra vaarta, vishakhpatnam nizamabad or hindi milaap, jo ki hyderabad se prakashit sabase purana hindi samachar patr he
+ The tourism department is promoting Andhra Pradesh as "kohinoor of India"
+ andhra pradesh kai dharmik tirth kendron kaa ghar he
+ Tirupati, the abode of Lord Venkateswara, is the most visited religious center in the world
+ nallamala pahadiyon main basaa shrisailam, shri mallikarjun kaa nivas he or bharat ke baarah jyotirlingon main ek he
+ The Shiva temple of Amravati is one of the Pancharamams, in the same way Yadagirigutta is the abode of Lord Lakshmi Narasimha, the incarnation of Vishnu
+ mandir kii nakkashiyon ke liye varangal main sthit ramppa mandir or hazaar stambhon kaa mandir prasiddh he
+ The state has several Buddhist centers in Amaravati, Nagarjuna Konda, Bhattiprolu, Ghantasala, Nelakondapalli, Dhulikatta, Bavikonda, Totlakonda, Shaligundem, Pavuralakonda, Shankaram, Phanigiri and Kolanpaka
+ 6veen shatabdi main badami chalukyon ne alampur ke brahma mandir kaa nirmaan kiya, jo chalukya kala or shilp-kala kaa ek utkrisht udhaaharan he
+ The Vijayanagara Empire built innumerable monuments, Srisailam temples and Lepakshi temples
+ vishakhapatnam main golden bich, borra main ek lakh varsh puraane chuunaa-pathar kii gufaaen, suramya arku ghati, harseli pahadiyon ke hill-resort, paapi kondlu ke sankare raste se godavari nadi main nauka-daud, ittipotla, kuntala ke jharne or talkona main samrudh jaev-vividhta, is rajya ke kuch prakritik aakarshanon main shaamil hai
+ Kailashgiri is near the sea in Visakhapatnam
+ kailashgiri pahari kii chotii par ek baghichaa he
+ Visakhapatnam is home to many tourist attractions such as INS Karasura Submarine Museum, India's longest seaside road, Yarda Beach, Araku Valley, VUDA Park and Indira Gandhi Zoo
+ borra gufaaen bharat ke andhra pradesh rajya main vishakhapatnam ke sameep purvi ghat ke anantgiri pahadiyon main sthit he
+ They are at an altitude of about 800 to 1300 meters above mean sea level and are famous for millions of years of ascending and descending deposits
+ varsh 1807 main british bhuvigyaani wiliam king jorge dwaara inaki khoj kii gai
+ The cave derives its name from a formation inside the cave, which looks like a human brain, called Burra in the local language Telugu
+ isi tarah, belam gufaaon kaa gathan karodon saal pehle chitravati nadi dwaara chuunaa-pathar sangrahon ke kataav dwaara hua
+ These limestone caves have formed as a result of the reaction between carbonic acid - or mild acidic groundwater due to the reaction between limestone and water
+ belam gufaaen bhartiya up mahadweep main duusari sabase badi gupha-pranali he
+ The name of Belam Caves is derived from the Sanskrit word for the cave, Balam
+ telugu main ye gufaaen belam guhalu naam se jaani jaati hai
+ The length of the Belum Caves is 3229 meters, making it the second largest natural cave in the Indian subcontinent
+ belam gufaaon main lambey galiyare, vishaal kothriyaan, mithe pani ke surang or naaliyaan hai
+ The deepest point of the cave is 120 feet from the entrance and is known as Patalganga
+ harseli pahari kii oonchai 1265 meter he or yah andhra pradesh kaa prasiddh garmiyon kaa pahari sairgah he, jo bangalore se lagbhag 160 kimi dur or tirupati se 144 kimi kii duuri par he
+ Near it is the city of Madanapalli
+ pramukh paryatakon ke liye aakarshanon main mallammaa mandir or rishi vaili skool shaamil hai
+ Horsley Hill, at a distance of 87 km, is the departure point for Kaundinya Wildlife Sanctuary
+ charminar, golconda kila, chandragiri kila, choumuhalla pales or falaknuma pales rajya ke kuch smarak hai
+ Kanakadurga Temple in Vijayawada in Krishna District, Venkateswara Temple in Dwarkatirumala, West Godavari District, Sun Temple in Arasavelli in Srikakulam District are also places to see in Andhra Pradesh
+ annvaram satyanarayan swami kaa mandir purvi godavari jile main he a total of 1,46,944 km of roads are maintained by the state, including State Highways 42,511 km, National Highways 2949 km and District Roads 1,01,484 km
+ andhra pradesh main vaahan ke vikaas kii dar 16% hote hue desh main sabase adhik he
+ Andhra Pradesh State Road Transport Corporation is the main public transport corporation owned by the Government of Andhra Pradesh, which connects all cities and villages
+ sabase bada vaahanon kaa bedaa rakhane or pratidin sabase adhik kshetra aavruth karne / awajahi ke liye APSRTC ko gineez book of world record kaa bhi gaurav hasil he
+ Apart from these, many private operators run thousands of buses connecting major cities and towns of the state
+ car, motoryukt scooter or cycle kii tarah nijee vaahanon ne bhi shahar or aasapaas ke gaanvon main sthaneey parivahan ke ek bade hisse ko gher rakhaa he
+ The state has five airports: Hyderabad, Visakhapatnam, Vijayawada, Rajahmundry and Tirupati
+ The government plans to start airports in six other cities: Nellore, Warangal, Kadapa, Tadepalligudem, Ramagundem and Ongole
+ andhra pradesh ke paas vishakhapatnam or kakinada main bharat ke do pramukh bandargah hai or machhlipatnam, nizampatnam or krishnapatnam main teen chote bandargah hai
+ Another private port is being developed at Gangavaram near Visakhapatnam
+ yah gaharaa samudr pattan, bade samudri jahaajon ko bhartiya tat main pravesh anumat karte hue, 200,000-250,000 DWT tak ke samudri jahaajon ko jagah de saktaa he
+ Des Pardes is a 1978 Hindi film produced and directed by Dev Anand
+ The main characters of this family story are played by Dev Anand and Tina Munim
+ This is Tina Munim's first film
+ His supporting artists are Ajit, Pran, Amzad Khan, Shriram Lagoo, Tom Alter, Bindu, Prem Chopra, AK Hangal, Sujit Kumar, Mehmood and Pental and composer Rajesh Roshan
+ is katha main kuch samakaleen logon main videsh jaae dhan kamaane kii ichha or dallalon dwaara bhole logon kaa chal se vahaan liye jaae sataana dikhaaya gaya he| a farmer named Sameer Sahni lives with his father, mother, wife Rama, daughter and younger brother Veer
+ Sameer gets a proposal to work in England which he adopts
+ After some time he wants to take everyone there
+ Sameer keeps contact with his family through letters
+ After a few years, his letter suddenly stops coming
+ His family sends worried Veer to England to find him
+ To go there he sees many thousands of Indians living worse lives, such as his fake passport, working on a low salary, giving half of it to the brokers who have brought him there fraudulently, fear of deportation etc
+ He does not get to know his brother and finds the net of dishonesty and murders
+ How far he is successful in tracing his brother is shown in the following story
+ domria jagadishpur, bhagalpur, bihar sthit ek gaanv he
+ Sandhwalia is a Jat tribe
+ singapore ke raashtrapati The New York Times is a US daily newspaper
+ kaaraqalpaustan, jiskaa aupchaarik naam kaaraqalpaustan ganatantr he, madhya asia main sthit uzbekistan desh kaa ek swashasit praant he
+ The entire western part of Uzbekistan comes under this province
+ kaaraqalpaustan kaa kul kshetrafal 1,60,000 varg kimi he or 2007 main isaki anumaanit aabaadi 15,71,800 thi
+ Of these, about 5,00,000 belong to the Karakalpak caste, after whom the province is named
+ inke alawa yahan lagbhag 4,00,000 uzbek nasl ke or 3,00,000 kazakh nasl ke hai
+ The city of Nukus is the capital of Karakalpakstan
+ 'kaaraqalpaustan' main 'qa' akshar ke uccharan par dhyaan den kyonki yah bina bindu vaale 'k' se miltaa-julata lekin zaraa bhinn he
+ It is pronounced 'qimat' and 'qurbani' with 'Q'
+ andithan · bukhaaraa · faraghna · jizaakh · namangan · navoi · qashkaadariyaa · samarkand · sirdariyaa · surakhandariyaa · tashkent · khorasm · swashasit ganatantr: kaaraqalpaustan · rajdhani: tashkent Coordinates: 24 ° 50′N 85 ° 25′E / 24
+83 ° n 85
+42 ° e / 24
+83; 85
+42 hisua bharat ke bihar praant kaa ek shahar he
+ South Dakota is a state in the mid-western region of the United States
+ 2 november, 1898 ko south dakota north dakota ke saath ek rajya ban gaya
+ South Dakota is surrounded by these states: North Dakota, Minnesota, Iowa, Nebraska, Wyoming, and Montana
+ rajya ko misori nadi ne purv or pashchim bhaagon main vibhajit kiya he
+ East South Dakota is home to much of the population and the fertile soil of the region is used to grow various crops
+ mizori ke pashchim main pashupaalan pramukh krishi gatividhi he or arthvyavastha paryaton or raksha kharch par adhik nirbhar he
+ According to 2016 estimates, the state has a population of 8,65,454
+ isse iskaa sabhi rajyon main sthaan 46waan hua
+ It is the 17th largest state by region
+ angrezi adhikarik bhashaa he
+ Chilki is a village in Aurangabad district of Magadh division under Bihar state of India
+ punjabi • uttar pradesh • rajasthani • mughlai -pahari • bihari • bengali • kashmiri Kerala • Tamil • Andhra Pradesh • Karnataka • Hyderabad urisa • chhattisgarh • adivasee-jharkhand, urisa Sikkim • Assamese • Tripuri • Naga goa • gujarati • marathi • malwani / konkani • parsi indo-chinese • Fast-food · Nepali • Continental food mithaiyaan evam desert Chatni Chaat of Chandni Chowk of Delhi is very famous and now it is sold in many parts of India as Delhi Chaat
+ yah chaat mirch masaale se bharpoor hoti he
+ The history of this chaat is as delicious as it is equally interesting
+ aaj jahaan chandani chowk sthit he, vahaan kisi samay ek nahar baha karti thi
+ Sultan Shah Jahan of Delhi built this canal to enhance the beauty of the capital
+ yah nahar us samay aamod pramod kii pramukh jagah hua karti thi
+ It used to gather huge crowds of people and Sultan Shah Jahan himself used to boating in this canal
+ lekin jaise jaise samay bitta gaya vaise vaise is nahar main bhi gandagi failane lagi
+ The water of this canal was blocked from all sides and there was no good drainage system
+ dhire dhire is nahar ke pradooshit pani kii vajah se logon main bimaariyaan badhane lagi
+ The Chief Hakim of Shah Jahan discovered that the dirty water of this canal is the main reason for the spread of diseases
+ hakim chaahakar bhi shahjahan ko nahar mitti se bharva deni kii salaah nahin de saktaa tha kyonki shahjahan ko yah nahar bahut pyaari thi
+ So Hakim thought up a different tactic
+ He started advising the people of the city to eat dishes full of chili spices
+ uskaa maananaa tha ki mirch ek upyogi rog pratirohak he isliye mirch kaa adhik se adhik seven logon ko bimariyon se bachaayegaa
+ uske baad nahar ke kinare chatpati chizon kaa vikray shuru hua
+ With the passage of time, the canal was erased and a market was established there which is now known as Chandni Chowk
+ un bimariyon kii vajah chaahe jo rahi ho lekin dilliwasi uske baad chatpati chizon ko khaane ke shaukeen jarur ho gaye
+ How much truth behind its story is unknown, but it is definitely true that Delhi Chaat is so hot that it brings water to the eyes
+ devdas sharathchandra chattopadhyaay ke upanyaas devdas par aadhaarit chalchitr he
+ This is the third and first color film made under the same name
+ is chalchitr main shahrukh khan, aishwarya raay or maadhuri dikshit pramukh bhumika main hai or iskaa nirdesan sanjay lila bhansaali ne kiya he
+ When the film was released, it was Bollywood's highest budgeted film with a budget of Rs 50 crore
+ hindi ke atirikt ise chah anya bhashaaon main pradarshit kiya gaya tha: angreji, gujarati, francisi, mandarin, thai or punjabi
+ The novel chalchitr Mothali is a village in Raigarh district under the Chhattisgarh state of India in the Sarangarh division
+ astivi ek aane vaala tivi channel he
+ This is Telgu language channel
+ pashchimi varjeenia yaa west varjeenia, sanyukt rajya america ke dakshin main apalachia kshetra main sthit ek america rajya he
+ It is bordered by Virginia to the southeast, Kentucky to the southwest, Ohio to the northeast, Pennsylvania to the north, and Maryland to the northwest
+ pashchimi varjeenia sanyukt rajya america kaa 38 waan sabase adhik aabaadi vaala or kshetrafal ke hisaab se 41 waan sabase bada rajya he
+ Its capital and largest city is Charleston
+ sanyukt rajya america main iskaa vilay 20 june 1863 ko 35wein rajya ke rup main hua
+ Lua error Module: at line 389 in location_map: Minutes can only be provided with DMS degrees for longitude
+ abalos kaa girjaghar ek girjaghar he jo spain ke abalos main sthit he
+ It was included in the category of Bien de Interes Cultural in 1973
+ rajendranath lahidi bharat ke swatantraaa sangram ke mahatvapurn swatantraaa senaanee the
+ The young revolutionary Lahiri is famous for being a prominent accused in the Kakori case
+ bengal main pabana jile ke antargat madyaan gaanv main 29 june 1901 ke din kshiti mohan lahidi ke ghar rajendranath lahidi kaa janm hua
+ His mother's name was Basant Kumari
+ unke janm ke samay pita krantikari kshiti mohan lahidi va bade bhai bengal main chal rahi anushilan dal kii gupt gatividhiyon main yogadan dene ke aarope main karawas kii salaakhon ke peeche kaid the
+ He reached Varanasi from Bengal at his maternal uncle's home only at the age of nine, with the spark of love for the nation
+ varanasi main hi unki shiksha diksha sampann hui
+ During the Kakori incident, Lahiri was an MA student in history in Kashi Hindu University
+ 17 disambar 1927 ko gonda ke jila karagaar main apane saathiyon se do din pehle unhen phaansi de di gayi
+ Rajendranath Lahiri inherited the spirit of patriotism and boldness
+ rajendranath kaashi kii dharmik nagari main padhai karne gayi the kintu sanyogvash vahaan pehle se hi nivas kar rahe suprasiddh krantikari shachindranath sanyaal ke sampark main aa gayi
+ Recognizing the virtues of Rajendra's steely perseverance, love for the country and his passion for freedom, Shachin da kept him with him and gave him the responsibility of editing the magazine Bang Vani originating from Banaras, in charge of the armed department of Varanasi branch of Anushilan Samiti
+ Also handed over
+ unki kaary kushalta ko dekhte hue unhen hindustan republican association kii gupt baithkon main aamantrit bhi kiya jane laga
+ Lahiri, along with her brothers and a natural love for Bengali literature, along with her brothers, had established a family library named Basantkumari in memory of her mother
+ kakori kand main giraftaar ke samay ye kaashi hindu vishvavidhyalay kii bangla sahitya parishad ke mantri the
+ His articles were printed in letters like Bangwani and Shankh of Bangla
+ lahidi hi banaras ke krantikariyon ke hastlikhit patr agradoot ke pravartak the
+ It was his constant endeavor that every member of the revolutionary party should record his ideas in the form of an article
+ krantikariyon dwaara chalaaye ja rahe swatantrata-aandolan ko gati dene ke liye dhan kii tatkaal vyavastha ko dekhte hue shahjahanpur main dal ke samrik vibhaag ke pramukh pandit ram prasad 'bismil' ke nivas par hui baithak main rajendranath lahidi bhi sammilit hue jisamen sabhi krantikariyon ne ekamat se angreji sarkaar kaa khajaana luutane kii yojana ko antim rup diya tha
+ Lahiri had an important role in this plan as he had rejected Ashfaq Ulla Khan's proposal not to rob the train, which resulted in Ashfaq withdrawing his proposal
+ is yojana ko anjaam dene ke liye lahidi ne kakori se train chhutate hi janzir khinch kar use roak liya or 9 agast 1925 kii shaam saharanpur se chalakar lakhanu pahunchne vaali aath down train par krantikari pandit ram prasad 'bismil' ne ashfak ulla khan or chandrasekhar aaazaad va 6 anya sahyogiyon kii madad se dhaava bol diya
+ a total of 10 young men looted the government treasury going on the train
+ maje kii baat yah ki usee train main safar kar rahe angrej sainikon tak kii himmat na hui ki ve muqabla karne ko aage aate
+ After the Kakori incident, Bismil sent Lahiri to Bengal for training in bomb making
+ rajendra babu kalakatta gayi or vahaan se kuch dur sthit dakshineshwar main unhone bam banane kaa saamaan ikattha kiya
+ They were not yet fully trained that a bomb exploded due to the inadvertence of a partner and the police came to hear the bomb blast
+ kul 9 saathiyon ke saath rajendra bhi giraftaar ho gayi
+ He was sued and sentenced to 10 years, which was reduced to 5 years on appeal
+ baad main british raaj ne dal ke sabhi pramukh krantikariyon par kakori kand ke naam se mukadmaa daayar karte hue sabhi par samraat ke viruddh sashastr yuddh chhedane tathaa khajaana luutane kaa na keval aarope lagaaya balki juthi gavaahiyaan va mangadhant pramaan pesh kar use sahi sabit bhi kar dikhaaya
+ Rajendra Lahiri was brought from Bengal to Lucknow to be included in the Kakori incident
+ tamaam apilon va daleelon ke baavjood sarkaar tus se mas na hui or antat: rajendranath lahidi, pandit ram prasad bismil,ashfak ulla khan tathaa thakur roshan singh- ek saath chaar vyaktiyon ko phaansi kii sajaa suna di gayi
+ Lahiri was hanged on December 17, two days before other revolutionaries
+ aazaadee ke is diwane ne hanste-hanste phaansi kaa fanda chuumane se pehle vande maataram kii hunkaar bharte hue kaha tha- "main mar nahin rahaa hoon, balki swatantra bharat main punarjanm lene ja rahaa hoon
+ " rajendranath lahidi ko uttar pradesh ke gonda jile main ek krantikari mahanayake kaa sthaan praapt he
+ Every year 17 December is a day of state importance for the local district administration
+ is din jile ke samast vidyalayon evam prashasnic pratishthanon main rajkeey utsav kaa maahaul rahata he
+ Cultural programs are held in honor of Shaheed Lahiri in all the affiliated establishments
+ in samast saanskrithik aayojanon kaa kendra bindu gonda kaa jila karagaar hota he
+ a yajna is organized in front of the statue of Lahiri installed in the prison's gallows
+ phaansi ke din bhi subah subah lahidi vyaayaam kar rahe the
+ The jailer asked what is the purpose of the exercise before dying? Lahiri replied with a sentiment - "jailor Saab! Since i am a Hindu and i have unwavering faith in rebirth, so in the next life i want to be born with a healthy body so that i can complete my unfinished tasks and make the country independent
+" 
+ isiilie main roj subah vyaayaam karata hoon
+ Today is the most glorious day in my life, so how can i break this sequence? "lahiri's last message to the jailer is inscribed on a stone slab on the side of the yagna ceremony -" i am not going to die, but to make India independent Going to take rebirth " iske atirikt in samast ghatnaon kaa ullekh bhi gonda jila karagaar ke phaansigrih main sthapit lahidi jeevanavrutt shilapatt par ankit he
+ This tradition of honoring Lahiri's last wish by rising above the religion community, continues till today
+ lahidi kii krantikari mahanayake chhavi ko pusht karti kavita shahid lahidi ke prati bhi jila karagaar ke phaansigrih main sthapit ek anya shilapatt par ankit he
+ Coordinates: 27 ° 53′N 78 ° 04′E / 27
+89 ° n 78
+06 ° e / 27
+89; 78
+06 barla atarauli, aligarh, uttar pradesh sthit ek gaanv he
+ Jabalpur Delhi Superfast Express 2192 is a mail express train operated by Indian Railways
+ yah train jabalpur railway stesan se 05:45PM baje chhootati he or nai dilli railway stesan par 11:40AM baje pahunchati he
+ Its travel duration is 17 hours 55 minutes
+ akhil bhartiya graahak panchayat kii sthapana 1974 main puna main hui
+ The basic objective of this organization is to make the customer aware of his rights and get him good quality, right size, after sales service and good behavior at a reasonable price
+ is sanghathan kii sabase badi uplabdhi upabhokta sangrakshan adhinium, 1986 lagu karwaanaa rahi he
+ In other areas like petroleum products, less quantity, adulteration, taking more money, not providing facility to the customer on time
+ Similarly, cases of charging arbitrary charges from telephone, mobile, internet consumers and not providing proper service, exploitation of electricity consumers
+ Seminars were organized on subjects and its results came in the interest of customers
+ ab bas, auto main yatriyon se durvyavhaar, kiraanaa vyapaariyon dwaara chillahar ke sthaan par chocolate yaa anya utpaada dena, dawa vyavsaayiyon dwaara kam standard kii davaaiyaan bechnaa in vishyon ko lekar sanghathan upabhoktaaon ko jaagruk karne ke liye janajagran abhiyaan chhattisgarh main bhi prarambh karne ja rahaa he
+ Every customer has the right to security, selection, hearing, compensation
+ iske liye upabhokta adaalaton ko gathan kiya gaya he
+ a customer can file a complaint with the District Consumer Forum for purchases up to Rs 20 lakh
+ rajya stareey upabhokta forum main 1 karod tak kii khariddaari par shikaayat kii ja sakati he
+ National Commission has been constituted for more than this amount
+ miss univars 2000 miss univars kaa 49vaan sanskaran tha jise bharat kii lara datta ne jeeta
+ shibpur-logain haveli-kharagpur is a village in Munger, Bihar
+ abusaydpur ; bharat kii janaganana anusaar abusaydpur gaanv, tehsil bilari, jila muradabad, uttar pradesh main sthit he
+ State Code: 09 District Code: 135 Tehsil Code: 00720 This village has a total of 101 houses and population is 727, of which 411 are males and 316 females
+ sashtriya sakshartaa mishan kii sthapana san 1988 main 15 se 35 varsh kii aayu ke bich ke niraksharon ko kaamkaaji taur par sakshar banane ke liye hui thi
+ Aleksandr Sergeyevich Pushkin was one of the Russian-language poetical poets who is considered the best poet of Russian
+ unhen aadhunik roosi kavita kaa sansthaapak bhi mana jaataa he
+ We can understand Pushkin's short life span of 38 years by dividing it into 5 sections
+ 26 may 1799 ko unke janm se 1820 tak kaa samay balykaal or praarambhik sahitya rachana ko sametataa he
+ The period from 1820 to 1824 is the exile period
+ 1824 se 1826 ke bich ve mikhayelovscoye main rahe
+ He reached the peak of fame in 1826–1831, approaching the Tsar
+ 1831 se unki mrityu tak kaa kaal unke liye bada duhkhadaayi rahaa
+ At the age of twelve, Pushkin was sent to study at Tsarskoyeselow's boarding school
+ san 1817 main pushkin padhai puri kar saint petersburg aa gaye or videsh mantralay ke kaaryon ke atirikt unka sara samay kavita karne or mouj udaane main beetaa, isi dauraan sena ke noujvaan afasaron dwaara banaai gai saahitiyik sanstha greenlamp main bhi unhone janaa shuru kar diya tha, jahaan unki kavita kaa swaagat hua
+ Using the freedom to express his views in a free environment, Pushkin wrote poems like Odd to Liberty, Chadayev and in the country
+ dakshin main yekaterinoslav, kakeshas or kreemia kii apni yatraaon ke dauraan unhone khub padhaa or khub likhaa, isi bich ve biimaar bhi pade or general rayevski ke parivaar ke saath kakeshas or kreemia gaye
+ This journey became memorable in Pushkin's life
+ kakeshas kii khubasurat vaadiyon main ve romantic kavi byran kii kavita se parichit hue
+ In 1823, he was sent to Odessa
+ oddesa main jin do striyon se unki najdikiyaan raheen unamem ek thi ek sarb vyapaaree kii italian patni emilia rigenich or duusari thi praant ke governor general kii patni countes vorontsov
+ These two women made a deep impression in Pushkin's life
+ pushkin ne bhi donon se samaan bhav se prem kiya or apni kavitaayen bhi unhen samarpit kin
+ But on the other hand, the increased proximity to the Countess was not in his interest
+ unhen apni maan kii jaagir mikhayelovscoye main nirvasit kar diya gaya
+ In the two years that Pushkin spent in this remote northern corner of Russia, he was mostly alone
+ par yahi samay tha jab unhone yevgeni anegin or boris godunov jaisi vikhyath rachanaayen puri kin tathaa anek sundar kavitaayen likhin
+ Finally, in 1826, at the age of 27, Pushkin was recalled from exile by Tsar Nicholas to St
+ Petersburg
+ mulaakaat ke dauraan jaar ne pushkin se us kathith shadyantr kii babat poocha bhi jisaki badaulat unhen nirvaasan bhogana padaa tha
+ He remained suspicious in the eyes of power and his creations had to fall prey to the censors, but Pushkin's love for freedom always persisted
+ san 1828 main masco main ek nrity ke dauraan pushkin kii bhent nathalya goncharova se hui
+ In the spring of 1829 he proposed marriage to Natalya
+ anek baadhaon ke baavjood san 1831 main pushkin kaa vivaah nathalya ke saath ho gaya
+ Pushkin's married life was not happy
+ isaki jhalak unke likhe patron main milti he, pushkin kaa takaraav nathalya goncharova ke ek diwane francisi da'antes se hua jo jaar nicholas kaa darbari tha
+ It is said that d'antes had fallen in love with Natalya
+ da'antes ne nathalya kii bahan catherine se vivaah kaa prastaav rakhaa
+ He and Natalya then met in hiding, and the conditions worsened
+ yah pushkin ko sahan nahin hui or vah da'antes ko dwandv yuddh kaa nimantran de baitha
+ In a duel war on 27 January 1837, Pushkin was badly wounded by d'antes' bullets and died two days later on 29 January 1837 at the age of 38
+ pushkin kii achaanak hui maut se sansani fail gai
+ a crowd of around fifty thousand people, including students, workers and intellectuals, had gathered in St
+ Petersburg to pay tribute to the poet, leaving the so-called nobles of erstwhile Russian society
+ keval 37 saal jikar pushkin ne sansar main apana aisa sthaan bana liya jise unhone apane shabdon main kuch is tarah vyakt kiya he: i have installed apana alokik smarak Can't ignore him jansamanya kii koi bhi raah
+
+
+ Dignity will continue mujhe is dharaa par Live as long as rachanashil kavi ek bhi! Bhupendra Singh Hooda is a leader of the Indian National Congress
+ ve march 2005 se oktober 2014 tak haryana ke mukhyamantri rahe
+ He again started the second innings after the Congress won again in October 2009, the first time since 1972 in Haryana's history
+ 2014 ke haryana vidhaan sabha chunaav main congress kii haar ke baad 19 oktober 2014 ko unhone pad se istipha de diya
+ His father Ranveer Singh Hooda was a member of the Constituent Assembly of India
+ andria jang canadai mul kii ek america kaaryakari or mahilaon se jude muddon kii pramukh samarthak hai
+ Mangroves are usually trees and plants found in coastal areas in saltwater
+ ye ushnkaribandheey or uposhnkatibandheey kshetron main milte hai
+ This word is used in three meanings: - 1
+ purna ped yaa paudhe ke awaas ke liye 'mengrove swamps' yaa 'mengrove van' prayog kiya jaataa he
+ 2
+ For all the trees and plants of Mars, 3
+ jo risoforoci parivaar se hote hai, yaa risofora vansh se kisi bhi padap ke liye, Mars deposits are found in coastal areas, where fine particles, which have high organic amounts, accumulate under the influence of high energy waves
+ kannur, kerala main Salt crystals on mangrove leaves mengrove kii harith surang, taiwan Coordinates: 25 ° 36′40 ′′ n 85 ° 08′38 ′′ e / 25
+611 ° n 85
+144 ° e / 25
+611; 85
+144 mughalchak barh, patna, bihar sthit ek gaanv he
+ The Atomic Energy Commission of the Government of India is an important governing body under the Department of Atomic Energy
+ iskaa prabhaar sidhe pradhanmantri ke paas hota he
+ Craftsmanship is a form of art that is three-dimensional
+ yah kathor padaarth, mridu padaarth evam prakaash aadi se banaaye ja sakate hai
+ Sculpture is an ancient art
+ bharat ke vaastushilp, murtikla, kala or shilp kii jade bhartiya sabhyataa ke itihaas main bahut dur gahari prathit hoti hai
+ Indian sculpture has taken shape from the beginning, in which human figures often portray a thin waist, flexible limbs and a youthful and sensitive form
+ bhartiya murtiyon main ped-paudhon or jeev jantuon se lekar asankhya devi devataaon ko chitrit kiya gaya he
+ The large water reservoirs of Mohenjodaro of Indus Valley Civilization of India are an excellent example of ancient sculpture
+ dakshin ke mandiron jaise ki kanchipuram, madurai, shrirangam or rameswaram tathaa uttar main varanasi ke mandiron kii nakkashi kii us utkrisht kala ke chir-prachlit udhaaharan he jo bharat main samrudh hui
+ Not only this, the Khajuraho Temple in Madhya Pradesh and the Sun Temple of Orissa have a living look of this exquisite art
+ sanchi stupa kii murtikla bhi bahut bhavy he jo teesri sadi i
+pus
+ se hi iske aas-paas banaae gaye jangalon or torana dwaaron ko alankrita kar rahi hai
+ Temple of Mamallapuram; The sculpture of the Morya stone in the Lion Capital of the Sarnath Museum, Amaravati depicting the events of the life of Mahatma Buddha and the architectural sculptures of Nagarjunagonda are other examples
+ hindu gupha vaastushilp kii paraakaashtha mumbai ke nikat elephanta gufaaon me dekhi ja sakati he or isi prakaar ellora ke hindu or jain shail mandir vishesh rup se aathvin shatabdi kaa kailash mandir vaastushilp kaa yah rup dekha ja saktaa he
+ The rich evidences of the art pieces of history indicate that Indian craft art once held the highest position in the whole world
+ monson aragon, spain ke swytt samudaay main ek chota sa shahar he
+ Its population is 17,176 as of 2014 and it adjoins the rivers Cinca and Sosa
+ udbhaar yaa lod se vibhinn sandarbhon main bhinn-bhinn arth nikal sakate hai, jaise- Tiranodon is an extinct animal of the pterosaur species
+ ye puchhvihin the
+ More important are the fossils of tiranodon found in the rocks of the Criticism in Kansas, west of the United States
+ vilupt tirenodon ke paksh kii sarvaadhik lambaai 27 foot tak pai gai he
+ Therefore, their size seems to be larger than all flying animals
+ phir bhi inkaa bhaar adhik nahin tha, kyonki bhujaaon kii asthiyaan khokhli tathaa bahut patali deevaaron vaali thim
+ His beak was toothless and there was a raised part of the bone above the head
+ in brihatkaay pakshisrat jantuon kaa mastishk asaamaanya prakaar se pakshiyon ke mastishk ke sadrush tha
+ Due to not being more advanced, the dhankendra had to depend exclusively on his vision to take food
+ tiranodon tathaa inaki prajati ke anya jantu udanevaale antim sarisrup the
+ By this time, the development of birds had increased considerably, which soon took the place of aerial animals
+ jis dhang se shikshak shikshaarthi ko gyaan pradaan karata he use shikshan vidhi kehete hai
+ The term "teaching method" is used in a very wide sense
+ ek ore to iske antargat anek pranaliyaan evam yojanaayen sammilit kii jaati hai, duusari ore shikshan kii bahut si prakriyaayein bhi sammilit kar lee jaati hai
+ Sometimes people accept tips as a method; But it is a mistake to do so
+ yuktiyaan kisi vidhi kaa ang ho sakati hai, sampurna vidhi nahin
+ The same device can be used in many methods
+ paathyavishay ko prastut karne ke do dhang ho sakate hai
+ In one, students are given several examples to test or confirm a general principle
+ duusare main pehle anek udhaaharan dekar chaatro se koi saamaanya niyam nikalvaaya jaataa he
+ The first method is called deductive method and the second method is inductive method
+ ye vidhi vyakaran shikshan ke liye sabase upyukt maani jaati he
+ From the other point of view there can be two other types of teaching method
+ pathyavastu ko upasthit karne kaa dhang yadi aisa hai ki pehle angon kaa gyaan dekar tab purna vastu kaa gyaan karaayaa jaataa he to use sanshleshnatmak vidhi kehete hai
+ For example, in teaching Hindi, first the alphabet is taught and then words are taught
+ tatpashchaat shabdon se vaakya banawaye jate hai
+ But if the first sentence is taught and then the word and the letter are taught at the end, it will be called analytical method because it moves from the complete to the organs
+ shikshan kaa ek prasiddh sutara hai - "moort se amoort kii ore"
+ In fact, we have knowledge of the outer world through our senses, in which the eyes are prominent
+ kisi vastu par drushti padate hi hamen uskaa saamaanya parichay mil jaataa he
+ Therefore, tangible object is the simplest means of imparting knowledge
+ isiliye aarambh se vastuvidhi kaa sahaara liya jaataa he arthath bacchon ko padhaane ke liye vastuon kaa pradarshan karke unke vishay main gyaan pradaan kiya jaataa he
+ Even the abstract is tried to be made tangible
+ jaise, teen or do paanch ko samajhane ke liye pehle chaatro ke sammukh teen goliyaan rakhi jaati hai
+ Then two tablets are mixed together and all are counted together, then three and two five become clear
+ vastuvidhi kaa ek doosraa rup he - drushtaantvidhi
+ The way in which knowledge is imparted by objects, in parables is the same as in parables
+ drushtaant drishy bhi ho sakate hai or shravy bhi
+ In this, the object is clarified with the help of pictures, maps, paintings, etc
+ saath hi upama, udhaaharan, kahani, chutkule aadi ke dwaara bhi vishay kaa spashtikaran ho saktaa he
+ When children gain knowledge from object and parables, when children get the practice of making some guesses and also understanding the indirect object, then the narration method is taken
+ isamen varnan ke dwaara chaatro ko pathyavastu kaa gyaan diya jaataa he
+ But in this method, students remain mostly passive listeners and reading is not effective
+ isi se prasiddh shikshashasthri herbert spencer ne kaha he- "bacchon ko kam se kam batalaana chahie, unhen adhik se adhik swat: gyaan dwaara siikhnaa chahie"
+ Lecture method is its companion
+ ucch kakshaon main praaia: vyaakhyanvidhi kaa hi prayog laabhadaayak samajha jaataa he
+ Herbert's five steps are often used in narration
+ ve hai But only five steps are used only in learning lessons
+ kaushal tathaa rasaswadan ke paathon main kuch simit sopanon kaa hi prayog hota he
+ Although the question is a tactic, Socrates has given more importance to it by using the Q&A as a method
+ isi se ise sukaraati vidhi kehete hai
+ In this, questions are asked from the questioner itself, and based on his answers, the required answers are obtained by questioning him
+ jab se bal manovigyaan ke vikaas ne yah siddh kar diya he ki shiksha kaa centre na to vishay he, na adhyaaapak, varan chaatr he, tab se shikshan main sakriyata ko adhik mahatv diya jane laga he
+ Learning by doing, that is, acquiring knowledge through self-experience, is the most widespread teaching doctrine of the day
+ at: ruson se lekar maantesri or dubi tak shikshashastriyon ne bacchon kii gyanendriyon ko adhik kaaryshil banane tathaa unke dwaara shiksha dene par adhik bal diya he
+ Mahatma Gandhi also gave birth to basic education on the basis of this principle
+ at: sakriy vidhi ke antargat anek vidhiyaan sammilit kii ja sakati hai jaise- shodhvidhi, yojana vidhi, dalton pranali, basic-shiksha-vidhi, ityadi
+ The research was conducted by Professor Armstrong in Germany
+ is vidhi main chaatro ko upyukt vaataavaran main rakhkar swayan kisi tathy ko dhudhane ke liye prerit kiya jaataa he
+ This does not mean that the teacher does nothing and leaves the students to do arbitrary work
+ sach puuchhie to vah chaatr kaa pathpradarshan karata tathaa use galat raste se hataakar sidhe raste par laata rahata he
+ Its goal is that the knowledge that a student can acquire through his observation or experiment is not told
+ is vidhi kaa prayog pehle to vigyaan kii shiksha main kiya gaya
+ Then gradually it started being used in mathematics, geography and other subjects as well
+ america ke prasiddh shikshashasthri duvi, kilpatric, steevenson aadi ke sammilit prayaas kaa fal yojana vidhi he
+ According to this, natural environment is more suitable for enlightenment
+ is vidhi se padhaane ke liye pehle koi samasya lee jaati he, jo praaia: chaatro ke dwaara uthaai jaati he or us samasya kaa hal karne ke liye unheen ke dwaara yojana banaai jaati he or yojana ko swaabhaavik vaataavaran main purna kiya jaataa he
+ From this, its definition is made in such a way that planning is a problematic task that should be completed in a natural environment
+ america ke dalton naamak sthaan main 1912 se 1915 ke bich kumari hellen parkharstr ne shiksha kii ek nai vidhi prayukt kii jise dalton yojana kehete hai
+ This method was invented to overcome the defects of classroom education
+ dalton yojana main kakshabhawan kaa sthaan prayogshaala le leti he
+ There is a laboratory for each subject, in which books, pictures, maps and other material for the study of that subject have additional references
+ vishay kaa visheshgy adhyaaapak prayogshaala main baithkar chaatro kii sahaayta karata he, unke kaaryon kii jaanch tathaa sanshodhan karata he
+ The work of the year is divided into 9 or 10 parts, written as written assignments to each student
+ chaatr us nirdhaarit kaary ko apni ruchi ke anusaar vibhinn prayogshaalaon main jaakar puraa karata he
+ Work is divided among inventions
+ jitani anviti kaa kaary puraa ho jaataa he utani kaa ullekh uske rekhapatr par kiya jaataa he
+ The scheduled work of the second month is given only after the work of one month is completed
+ is prakaar chaatr kii unnati uske kiye hue kaary par nirbhar rahati he
+ In this scheme, students are allowed to work according to their interest and convenience
+ mul sroton se adhyayan karne ke kaaran unamem swaavlamban bhi aa jaataa he
+ There have been many variations of this scheme like schemes like Batavia, Vinetka etc
+ decrauli yojana yadhyapi isse purv kii he, phir bhi uske siddhanton main dalton yojana ke aadhaar par parivartan kiye gaye
+ Mahatma Gandhi's Wardha Scheme or Basic Education is also an education system of its kind
+ gandhi ji ne desh kii tatkaaleen sthiti ko dekhte hue shiksha main 'haath ke kaam' ko pradhanta di
+ He believed that the student would not know the importance of labor until he worked by hand
+ saidhantik gyaan manushya ko ahamkaari evam niskriy bana detaa he
+ Therefore, children should be taught from the very beginning through some form of manipulation
+ hamaare desh main krishi evam katai-bunai buniyadi dhandhe hai jinamein desh kii teen chauthai janata lagi hui he
+ Therefore, he considered both of them to be original handicrafts and gave them a prominent place in education
+ basic shiksha kii pramukh visheshtaayen hai :- The last doctrine was strongly opposed and removed from basic education
+ angreji shiksha ne desh ke adhikansh shikshit varg ko aisa pangu bana diya he ki ve haath se kaam karnaa hey maanate hai
+ This is the reason that the affluent and upper class people showed indifference towards basic education, due to which this education has remained only for the poor
+ at: yah dhire-dhire asafal hoti ja rahi he
+ From the above discussion it is clear that the teaching methods are many
+ sabakaa pravartan kisi na kisi vishesh paristhiti main kisi shikshashasthri ke dwaara hua he
+ In fact, every teacher has his own education system and imparts knowledge to the students according to their interest and ability
+ jo vidhi jiske liye adhik upyogi ho vahi uske liye sarvshereshth vidhi he
+ == History of development of educational methods ==
+ hyderabad osmanabad express 7014 bhartiya rail dwaara sanchalit ek mail express train he
+ The train leaves from Hyderabad Deccan railway station at 10:45 PM and arrives at Osmanabad railway station at 08:00 AM
+ isaki yatra avadhi he 9 ghante 15 minute
+ Artur Givargizov - Russian narrator, poet and child writer
+ aratur givargizov kaa janm 1965 main kiyev main hua
+ Nowadays they live in Moscow
+ moscow sangeet mahavidhyalay ke antargat karyrat sangitashaala kii shiksha samaapt karne ke baad aratur givargizov ek sangitashaala main adhyaaapak hai or bacchon ko guitar par shastreey sangeet kii prastuti sikhaate hai
+ He writes poems and satirical stories for children
+ inaki pehali rachana 1997 main 'satirikon' patrika main prakashit hui
+ Aratur regularly writes in 'prastakvashina', 'kukumbar', 'kasture' and 'murzilka' etc
+ in children's magazines
+ aratur kii kahaniyaan 'clasik rachanaayen' or 'kaarigaron kaa shahar' naamak bal-sahitya series main prakashit hui hai
+ His first collection of children's stories came out in 2003, titled 'bicycles on the ladder'
+ aratur givargizov ko anek saahitiyik puraskaar mil chuke hai
+ Apart from 'bicycles on Ladies Wardrobe', published in 2005, his book 'about Kings Generally' and some other books have been extremely popular among children
+ ram ek asut peya he jise ganne ke upotpaada, shire or ganne ke ras kaa pehle kinvan karke or tatpashchaat aswan kii prakriya dwaara taiyaar kiya jaataa he
+ The distilled, which is a clear liquid, is then filled in wooden casks and kept for ripening for many years
+ sazaaye maut 1981 main bani hindi bhashaa kii film he
+ Puttaparthi has a village in Anantapur district under the state of Andhra Pradesh, India
+ kahmemim air base; syria kaa ek pramukh sainya adda he is air base kaa prayog rusi sena syrian grihayuddh main raashtrapati bashar al asad ke vidrohiyon ke viruddh hawaii hamalon ke liye upyog kar rahi he
+ Coordinates: 25 ° 27′N 81 ° 51′E / 25
+45 ° n 81
+85 ° e / 25
+45; 81
+85 thata bharat ke uttar pradesh rajya ke elahabaad jile ke handiya prakhand main sthit ek gaanv he
+ The Central Soil and Materials Research Station is an attached office of the Ministry of Water Resources, Government of India
+ nai dilli sthit bharat kaa yah pramukh santhaan kshetra tathaa prayogshaala anveshan, bhuyantriki, kancreet praudyogiki, nirmaan saamagree kii samasyaon par aadharbhoot tathaa praayogic anusandhan, tathaa paryaavaran muddon ke sambandh main kaary karata he jiskaa desh main sinchai sambandhit tathaa urja ke vikaas par pratyaksh prabhaav padataa he
+ This office acts as consultant and consultant in the above areas for various projects and organizations in India and abroad
+ mute taur par is karyaalay ke kaaryakshetra main nimnlikhit vishay aate hai:- Shaina NC is a fashion designer
+ vah vartmaan main bhaajapa maharashtra ikai main pravaktaa or samaajik kaaryakarta bhi NGO bhi chalaati he
+ His father is a former sheriff
+ | naam = shaayna ensi | Birth = 1972 April | sthaan = mumbai | Spouse = Mahesh Marot kaala, pakistan ke punjab praant ke deraa gaazi khan zile kaa ek kasbaa or union parishad he
+ The main language spoken here is Punjabi, while Urdu is often understood everywhere
+ saath hi angrezi bhi kai logon dwaara kaafii had tak samajhi jaati he
+ Prabhukh administrative languages are Urdu and English
+ puru kul ke raja
+ Kathmandu is the capital of Nepal
+ yah nagar, samudratal se 1300 meter kii oonchai par sthit hai, or 50
+8 varg kimi main failaa hua hai
+ Kathmandu is the largest city in Nepal, with the highest number of tourist arrivals
+ chaar ore se pahadiyon se ghira kathmandu upatyaka ke pashchimi kshetra main avasthit yah nagar, unesco kii vishwa dharoharon main shaamil hai
+ Apart from the colorful culture and traditions, the magnificent houses in the distinctive style attract the tourists
+ yahan ke vishwaprasiddh mandir, puri duniya main apni alag pahchaan rakhte hai
+ Also, the beauty of the ancient markets here is also visible
+ kathmandu shabd sanskrit shabd kashthamandap kaa apbhransh he
+ The Kathmandap is a Gorakhnathji temple situated in the middle of this city and a pilgrimage place for pilgrims in ancient times
+ yah bhawan ek hi vriksh kaa kashtha prayojan karke banaaya gaya tha
+ The city was named after this magnificent building
+ aisa vishwaas he ki is nagar kaa madhyakaalin naam kantipur is nagar ke kanti or vaibhav ke liye rakhaa gaya tha
+ This is the name of Nepal language of this city
+ yah naam pracheen nepalbhasha kaa nen kaa apbhransh he
+ This name originated in the Kirant period
+ kathmandu ke sabase pracheen sabhyataa kaa aitihaasik pramaan nahi he, parantu is ke bare main vibhinn dharmik pustak evam vanshavaliyon me likhaa huwa he
+ According to Swayambhu Purana, the Kathmandu Upatyaka was a huge pond
+ mahachin ke bodhisattva manjushri ne is talab ke dakshini bhaag main avasthit kakshapaal parvat or guhyeshwari kshetra main apane chandrahraas khadg se prahaar karke is talab ke pani ko nikaal diya
+ Geographers also consider the fact that Kathmadoun was a pond earlier
+ manjushri ne dharm rakshit rajya sthapana karne ke liye ek manjupatan nagar kaa sthapana kiya or dharmakar ko is naye rajya kaa raja banaakar china laute
+ According to the Gopal lineage, the people of the Gopal dynasty reached this place by grazing the cow as followers of Lord Krishna and settled here
+ puratathvik khudaai se mili jaankaree anusaar kathmandu madhya himali kshetra ke pracheenatam basti main se ek he
+ From various excavations from 167 Ipu to 1 IS brick has been found in Kathmandu and the area around it
+ kiraantkaal ke kathmandu kaa zyada nishchit avshesh uplabdh nahin he
+ Prior to the time of King Gunakam Dev of the Lichchavi dynasty, there were two separate settlements in Kathmandu called South Coligram in the south and Yambu / Coligram in the north
+ yah do basti ek khadg aakaar ke uthaa hua jamin par avasthit tha jis ke teen taraf nadi yaa jal the or ek taraf cliff ke niche jangal tha
+ From a strategic point of view this place was suitable for building a city
+ atah, gunakamdev nen in do bastiyon ke bich main vishnumati nadi ke kinare kantipur nagar sthapana kiya
+ It established the Ashtamatrika or Ajimayukta Shaktipeeth in the shape of a khadag around the city, which is still revered as Shaktipeeth
+ nepal ke pahariyon ke bich kantipur jaisaa surakshit nagar ke sthapana se bharat or china-tibet ke bich me vyapaar sahaj ho saktaa tha
+ Therefore, Gunakamdev established a commercial area in a roundabout for commercial convenience in this city
+ aisa mana jaataa he ki nepal sambat ke ek maah yenla or us maah ke purnima main manaaya janevaala yenya punhi vaa indra jatra kantipur ke sthapana ke uplakshya par gunakamdev nen manaanaa shuru kiya tha
+ In this month, Lakhejatra of South Coligram is danced in the north and Pulukisi dance of Coligram in the south
+ san 1200 se san 1768 tak is nagar main mall rajaon kaa raaj rahaa
+ In Mallakal, this city was the capital of Kantipur state, one of the Nepali Malla republics
+ is kaal main yah nagar main kala kaa bahut vikaas or vistaar hua
+ More temples, chaityas etc
+ of this city were constructed during this period
+ is kaal main is nagar main dharmik sahishnutaa, tantra vidya, vaastu, arthtantr aadi kaa vikaas evam vistaar hua
+ During this period, people of different castes, religions, castes etc
+ living in the Nepali Malla Republic of Kantipur Lagayat took the form of an organized state and people living in this state were called Nepami, Neva and Nepali
+ san 1760 ke dashak main kathmandu me aae hue chrischian padri nen us samay main kathmandu main 18,000 honeka jikar kiya he
+ King of Gorkha Prithvi Narayan Shah ended the Malla Republic in 1768 and established the Gorkhali Nepal state
+ gorkhalidvara kantipur nagar ke vijay ke saath hi kantipur nagar vaa kathmandu gorkhali nepal kaa rajdhani ban gaya
+ In the time of Ranaon under the reign of Shah, the practice of Mughal and Western architecture began, leaving the purpose of Nepalese architecture in palace and palace construction in this city
+ ranaon ke samay main bana singh darbar ek vishwaprasiddh darbar he jisame abhi nepal ke pradhanmantri lagaayat praayah mantralay, sarvocch adaalat aadi avasthit he
+ The Mahabhukampa of 1934 demolished most of the area of the city
+ parantu, is bukamp ke baad yah nagar pehle ke hi swaroop main phir banaaya gaya
+ After the earthquake, a road called New Road was built in the city where houses, parks, dokans, cinemas, etc
+ were constructed in a style
+ 1950 main is shahar kii simaaen videshi paryatakon ke liye kholi gayi thim
+ Since then, the process of tourists coming here continues
+ kathmandu 1,300 metre kii oonchai par avasthit he
+ The boundary of this city is as follows- yah nagar se aath nadi bahati he
+ The weather of this city is temperate and there are four seasons in this city
+ is nag kaa tapakram 1 degree celsius se 35 degree celsius tak hota he
+ The annual rainfall of the city is 1,407 mm, most of which occurs from June to August
+ san 2001 ke janaganana anusaar kathmandu mahanagar main 235,387 ghar he
+ According to Kathmandu Metropolitan Officer, there are about 1,081,845 people living in this city
+ is nagar ke teen pramukh jatiyaan nevaar, khas brahman or khas kshetreey he
+ Nepali and Nepal are the main languages of this city
+ is nagar ke pramukh dharm hindu dharm or buddha dharm he
+ Kathmandu is a major trading center of Nepal
+ kathmandu aitihaasik kaal se hi ek vyapaarik nagar ke rup main sthapit he
+ Kathmandu has been doing business with tibet-china and India since historical times
+ atah, vyapaar is nagar kaa ek pramukh hissaa he
+ This city’s annual economic output has exceeded ₹ 170 billion
+ is nagar kaa 21% arth aayaat-niryaat par nirbhar he
+ Manufacturing accounts for 19% of the city
+ kathmandu kapadey va uni galancha kaa nirmaataa evam niryaatkarta he
+ Other economic sources include agriculture, education, transport, and hotels and restaurants
+ nagar ke arthtantr main paryaton kaa bada prabhaav he
+ More tourists from Nepal come to Nepal from the Trimbuvan International Airport in Kathmandu
+ kathmandu main paryatkaun ke ghumne, dekhne evam vastu kharidne ke liye paryaton udyog dwaara vibhinn suvidha uplabdh he
+ It is headed by the Mayor of the metropolis
+ mahayor janata dwaara 5 varsh ke liye nirvaachit hote he
+ Along with the Mayor, a Deputy Mayor is also elected
+ saath hi me prayek ward main ek ward adhyaksh or 5 ward sadsy nirvaachit hote he
+ After the announcement of the metropolis, the following person has become Mayor in this city- yah mahanagarapalika prashasan ke nimitt 5 vibhaag main vibhakt kiya gaya he, jo is prakaar he Wards 1, 5, 11, 31, 32 and 33 are located in this department
+ is vibhaag ke mukhya sthaan is prakaar he- The wards are located in this department 6, 7, 8, 9, 10, 34 and 35
+ is vibhaag ke mukhya sthaan is prakaar he- Ward 2, 3, 4, 16, 29 are located in this department
+ yah vibhaag kathmandu nagar kaa sabase zyada janaghantva yukt sthaan he
+ Most of the ancient historical, religious and cultural monuments of this city are located at this place
+ is sthaan main avasthit smarak is prakaar he- The wards are located in this department 13, 14 and 15
+ pashupatinath nepal main hinduon kaa sabase pavitra tirthasthan he
+ It can be called short form of Varanasi
+ yahaan par mandiron kii lambii shrinkhalaa, shmashaan ghat, dharmik snaan or saadhuon kii toliyaan dekh sakate hai
+ The Pashupatinath temple dedicated to Lord Shiva is built on the banks of the Bagmati river
+ jis tarah bharat main ganga nadi ko shraddhaswaroop mana jaataa he, usee prakaar nepal main baagmati ko pavitra mana jaataa he
+ This temple is considered to be a house of Lord Shiva
+ prativarsh hajaaron shraddhalu yahaan darshanon ke liye aate hai
+ Despite its simplicity, this temple is the main temple of Lord Ganesha in Kathmandu
+ yah kshtmandap ke peeche sthit he
+ Religious rituals that take place here are an important part of the coronation ceremony
+ This temple is believed to have been founded by Gundakam Dev in the 10th century
+ lekin iskaa vartmaan dhaancha 19veen shatabdi ke madhya main bana he
+ The stone statue of Ganesha is located under the golden copy of Ashoka's tree
+ pehle ashok kaa ped pur mandir ko gher hue tha or isi ke naam par is mandir kaa naam rakhaa gaya
+ Between Degutale Temple and Taletu Temple is an open space called Hanuman Dhaka
+ iskaa naam hanuman ji ke naam par rakhaa gaya tha jo mahal mall raja apana isht dev maanate the
+ During the reign of Pratap Malla in 1672, the idol of Hanuman was placed in front of the gate so that evil spirits and diseases could not enter
+ saikadon saal baad bhi yah pratimaa apane rup kaa prabhaav kaayam rakhe hue hai
+ The Jagannath Temple is located near Hanuman Dhoka
+ mandir main pravesh ke teen dwaar hai
+ Wood carvings done on the gates, windows and roof are the pride of this temple
+ kahin-kahin rati sambandhi chitra bhi dekhe ja sakate hai
+ Originally this temple was dedicated to Lord Vishnu but later it was dedicated to Lord Jagannath
+ darbar maarg kaa nirmaan rana vansh ke shashan kaal main hue nagar vistaar ke dauraan kiya gaya tha
+ It is the main center of Kathmandu tourism
+ yahaan par mahange hotel, restaurant, travel agenciyaan or airlines offis mil jaaenge
+ In the middle of the Durbar Marg junction is the statue of the former king Mahendra
+ iske alaava yahaan par bahut se pracheen mandir or dharmik sthal hai jahaan par nepal kii samskruti ke darshan kiye ja sakate hai
+ Unfortunately this temple does not open for tourists
+ yah mandir bhairav ke ek rup ko samarpit he jinhen kirti raja yalambaa mana jaataa he
+ According to the followers, King Yalamba came to India to participate in the war of Mahabharata
+ jab bhagwaan krishna kii najar un par padi to krishna ne unase poocha kii ve kiski ore se ladanaa chaahate hai
+ The king said that they would fight like the losers
+ yah sunakar krishna ne unki gardan kaat di jo kathmandu aakar giri
+ Here King Yalamba is worshiped as Akash Bhairava
+ prativarsh yahaan indra jatra utsav manaaya jaataa he
+ There are also many small shops in the ground floor of the temple, in front of which the porter and rickshaw ones will be found
+ swayambhunath kii pahadiyon ke raste main sthit rashtriya sangrahalay kathmandu ke logon or paryatakon ke bich bahut lokapriy he
+ In addition to old artifacts here are displayed the souvenirs of the outgoing kings and recently used weapons
+ is sangrahalay main aane vaala darshak yahaan aakar jane pate hai ki puraane samay main nepal par raaj karne ke liye kaise yuddh kiye gaye or baad main angrejon se bachaane ke liye kis prakaar kii ladaaiiyaan ladi gai
+ Apart from this, old statues, photographs and wall paintings can also be seen in the museum
+ yahaan par gudiyon or sikkon kaa sangrah bhi dekha ja saktaa he
+ Some of these coins are from the second century BCE
+ vishwa dharohar main shaamil swayambhu vishwa ke sabase bhavy buddha sthalon main se ek he
+ This is linked to the creation of the Kathmandu Valley
+ kathmandu se teen kilometre pashchim main ghati se 77 me
+ kii oonchai par sthit he swayambhu
+ It is believed that the eyes of the eyes around it are that of Gautama Buddha, who is looking in all four directions
+ kathmandu se 6 kilometre purv main sthit buddhanath duniya ke sabase bade stupon main se ek he
+ It is included in the World Heritage
+ is stupa ke baar main mana jaataa he ki jab iskaa nirmaan kiya ja rahaa tha, tab ilaake main bhayankar akaal padaa tha
+ Therefore, due to the mixing of water, it was formed with dew drops
+ stupa 36 meter ooncha he or stupa kala kaa sundar udhaaharan prastut karata he
+ The fundamental major festivals of the Kathmandu metropolis are Mohini, Swanti, New Year of Nepal Samvat, Maghe Sankranti, Nag Panchami, Guy Jatra, Panchadan, Indrajatra, Ghantakarna, Buddha Jayanti, Sripanchami, Mahashivratri, Fagu Purnima, Ghodejatra, Chate Dashain, Janabhadaya Rath Yatra, Bala Chaturthi etc
+ nepal ke anya jagahon se kathmandu par aakar based log bhi yahan apane samskruti anusaar lhosar, teej, janai purnima, chhath, ubhauli, sakela, deuda aadi tyohaar manaate he
+ Nepal's Tribhuvan Airport is the only international airport in Nepal
+ yahan ke liye dilli or bangkok ke raste aasaani se pahunchaa ja saktaa he
+ It is better to go here between May and September
+ nirdeshaank: 27°43′N 85°22′E / 27
+717°N 85
+367°E / 27
+717; 85
+367 Kiriya is a village in Raigad district under the Chhattisgarh state of India in the Dharamjaygarh division
+ niamey africa ke nizer desh kii rajdhani he
+ West Africa bennin • burkina phaso • kep verde • cote di ivor • zambia • ghana • gini • ginia-bissau • liberia • mali • maurishiana • nizer • nigeria • senegal • siyara leone • togo North Africa algeria • misr1 • libya • mauriciana • morocco • sudan • tunisia • pashchim sahaara Central Africa angola • burundi • camerun • kendriya africa ganraajya • chaad • congou • equatorial ginia • gabon • congou ganraajya • rwanda • saao tome or princip East africa burundi • comoros • jibooti • iritria • ithiopia • kenya • dakshin sudan • madagascar • malawi • marishas • mozambik • rwanda • seshals • somalia • tanzania • uganda • zambia • zimbabwe South Africa botswana • lesotho • namibia • dakshin africa • swaziland Dependent Invalid British Indian Ocean Territory United Monarchy • Mayotte • Reunion • St
+ Helena 2 United Monarchy | Canary Islands • Quta • Madeira • Malilla • Socotra • Puntland • Somaliland • Sahrawi Arab Democratic Republic 1 aanshik rup se asia main
+ 2 eshenshin dweep or tristaan di kunhanirbhar rajya shaamil
+ Irfan Khan was born in Gwalior city of Madhya Pradesh
+ sthaneey akhbaar dainik bhaskar or swadesh main san 82-1989 tak cartoon banaate rahe
+ He was selected for Navbharat Times Lucknow during his exhibition at Delhi's Shreedharani Art Gallery
+ 1994 main dilli aakar iconomik times, finenshial express,asian aij, main staff cartoonist rahe
+ In 2000 Zee News hosted his talk show Celebrity while working as a Senior Cartoonist, wrote the script of ndtv's show Gustakhi Maaf in 2003 and hosted so much talk on Sahara Time
+ ab tak 3 sankalan prakashit ho chuke hai
+ Editorial cartoons of various other cartoonists of the country including Irfan were also included in the course books of ANCERT
+ japan foundation ne "asian cartoon pradashani" ke apane vaarshik kaarykram ke tahat, 2005 main nauvi pradarshini ke liye prayek asian desh se ek cartoonist ke chayan hetu bharat kii ore se irafaan kaa chayan kiya
+ Irfan, who has been honored with many awards, has so far performed 6 cartoon appearances
+ jinamein cricket, aatankwaad, sampradayikta or global varming par pradarshiniyaan kaafii charchit rahi hai
+ In 2007, the Delhi High Court sentenced Irfan to a 4-month sentence for making cartoons on the former Chief Justice of India in a mid-day newspaper
+ yah maamla abhi ucchtam nyaayalay main vichaaradhin he
+ Jaanam Sehcha Karo is a Hindi language love story made in 1999
+ is film main salmaan khan, urmila matondkar pramukh bhoomika nibhaate hai, jisamen shakti kapur, shammi kapur or monica bedi sahaayak bhoomika nibhaate hai
+ The film was not successful at the ticket window
+ chandani, dainiel ke club main gayak or nartak he
+ She lives with her three aunts who dominate her life
+ vah jeevika ke liye nrity karti he kyonki vah ekmaatr tarika he jisase vah apane garib parivaar kaa samarthan kar sakati he or vah ummid karti he ki vah apni bhatiji ko shiksha de paaegi
+ Furthermore, she believes in her dream that a prince will come into her life and marry her
+ duusari taraf, rahul, ek yuva amir ladkibaj monica ke saath paris jane kii yojana bana rahaa he lekin use pataa chalata he ki uskaa 45 dinon kaa brake landan main khatm ho gaya he or use vyavsaay seekhney ke liye bharat janaa hoga
+ There Secretary Tubby is managing his grandfather's business
+ gayan karte samay ek raat, chandani rahul se milti he or usase pyaar karne lagati he
+ Rahul is attracted to her but he does not take her seriously
+ use pataa chalata he ki chandani un ladakiyon kii tarah nahin hai jisase wo miltaa rahata he
+ Rahul buys Daniel's club, which results in Daniel being kidnapped by Moonlight and eventually beaten and taken away by the police
+ baad main chandani landan main akele funs gai or ek buudhe aadmi ne use chhedchhad karne kii koshish kii
+ Incidentally, he is rescued by Rahul, whose car broke down
+ rahul ne use apane shandaar hotel main rahane ke liye aamantrit kiya
+ Chandni finds an elderly Indian man with whom she enjoys the Indian lifestyle abroad
+ vah rahul ke dadaji hote hai
+ Later, Grandpa captures the two together and asks for an explanation, to which Rahul says that Chandni is his wife
+ ek din, haalanki, dadaji kehete hai ki vah rahul kaa chandani se vivaah karana chaahate hai
+ To fool them, Rahul asks Chandni to pretend to be his wife, which she accepts
+ is bhoomika main, chandani ko sammaan praapt hota he jo vah chaahati thi
+ She meets her friend Divya who is traveling with her husband, Ashwin and mother
+ unke or rahul ke bich or baatcheet hone par, yah pataa laga ki aswin kii factriyaan rahul ke vastron par nirbhar hai
+ Divya's mother feels less than Chandni
+ chandani ko mangalsutra pahanane par garv mahasoos hota he
+ Rahul and Chandni have a big fight, where Rahul slaps Chandni and the two decide to go their separate ways
+ harry chandani kii ore badhane kii koshish karata he lekin vah use ek kasakar thappad detii he
+ Chandni is hurt and she expresses her pain in her performance
+ jane se pehle wo dadaji se baat karti he, wo rahul par kii gai uski bhalaai par charchaa karte hai
+ Rahul then realizes that he has fallen in love with her
+ rahul chandani ke peeche landan se bharat jaataa he
+ Rahul goes to her house and asks her to talk, but she refuses to listen to him
+ baad main ek ladaai ke baad chandani uskaa prastaav sweekaar karti he or film ke ant main wo ek-duusare ko gale lagaate hai
+ First Anand Milind was composed who composed one song and then Anu Malik who completed the rest of the song
+ apane samay main geet lokapriy rahe the
+ Welham Kanya School is a private school located on Municipal Road, Dehradun, Uttarakhand
+ isaki sthapana welham kanya skool socity dwaara 1957 main kii gai thi
+ The general information about the school is as follows: - } Coordinates: 27 ° 53′N 78 ° 04′E / 27
+89 ° n 78
+06 ° e / 27
+89; 78
+06 chakkhediya atarauli, aligarh, uttar pradesh sthit ek gaanv he
+ Kotwal Saab is a 1977 Hindi language film
+ carch street monmouth, wales kaa ek padchaariyon ke liye khulaa maarg he
+ It is now home to several independent shops, restaurants, commercial art halls and Savoy theaters
+ 1830 tak, jab priori street kaa nirmaan ise bypass karne ke liye kiya gaya, yah maarg monmouth ke bich awajahi kaa mukhya jariya tha jo uttar purv ke bazaar va parish carch ko isse jodta tha
+ It was once the focal point of the city's Kattalkhano and was also called Butchers Row
+ vartmaan main maarg par maujuud imaaraten shuruuaati unnisvi shatabdi jitani puraani he jo teen manzila he va inke donon ore jhuki hui chhaten he
+ The beginning of 24 Church Street Designed in 1840 by V
+ Maddox
+ ek imaarat jo wit swaan court ke liye rasta muhaiyaa karaati he, usee vakt bani thi jab priori street kaa nirmaan hua tha or shaayad ise bhi madox ne hi dizine kiya tha
+ The Savoy Theater is a second-story building renovated in the traditional way in 1928 and is the oldest operating theater in Wales
+ jis imaarat main yah theatre maujuud he uskaa nirmaan purv bel in kii niv par kiya gaya tha or ise 1832 main pehali baar manoranjan kaa license pradaan kiya gaya tha
+ It became Monmouth's first cinema called "living Picture Palace and Rinkeridge" but was later rebuilt by the Albany Ward Theater Group
+ 1960 main yah ek cinema ke rup main band ho gaya or 1983 main bingo haul ke rup main khulaa or iske baad kuch samay ke liye aitihaasik magic lenturn slidon ko dikhaane ke liye khulaa
+ It has been continuously functioning as a cinema since 1990 and is now run by a charitable trust
+ bharat ganraajya main ab tak kul 46 nyaayadhishon ne mukhya nyaayadhish ke rup main seva kii he
+ Justice Shri HJ Kania was the first Chief Justice of India and the current Chief Justice is Justice Ranjan Gogoi
+ bharat ke mukhya nyaayadhishon kii suchi is prakaar he :- 02018-10-02 2 October 2018 02018-10-03 3 oktober 2018 Bad Aur Badnaam is a 1984 Hindi language film
+ nirdeshaank: 25°36′40′′N 85°08′38′′E / 25
+611°N 85
+144°E / 25
+611; 85
+144 Nurchak is a village in Paliganj, Patna, Bihar
+ piechapi net par web sait banane kii ek bhashaa he
+ This can easily be made dynamic by adding any page with HTML
+ yah ek sarwar said scrypting bhashaa he
+ PHP development began in 1994 by Rasmus Lerdorff
+ ab iske sandarbh main karyanvayan pi ech pi samooh dwaara kiya jaataa he
+ Air Commodore Ramesh Sakharam was a former officer of the Benegal AVSM MVC Indian Air Force and was the recipient of India's second highest gallantry award Mahavir Chakra, joined the Benegal Indian National Army in his youth and trained him as a fighter pilot Was selected to join the Tokyo Boys
+ unhone 1 9 44 main shahi japani sena vaayu sena academy main bhaag lene ke liye chale gaye
+ Held as a prisoner of war after the fall of Japan, Benegal was released in 1946 and joined the Indian Air Force in 1952 and took action in both 1965 and 1971
+ bharat-pakistan yuddh 1 9 71 main unki sevaaon ke liye, benegal ko ati vishwa seva padak or mahavir chakra se sammanit kiya gaya
+ The Minister of State for Health and Family Welfare, Government of India is a Minister of State in the Government of India
+ landan baro of hanslo ek landan kaa baro he
+ Brentford | Chizik | Cranford East Bedfont | Feltham Grove Park | Gunnersbury | Hanworth | Hatton | Heston | Hounslow
+ Hounslow West | Isleworth | Lampton | Lower Feltham | North Hyde | Asterley | Spring grove | Woodlands landan ke baro: barking and degnaham | barnet | bexli | brent | bromali | camdan | croydan | ealing | enfield | grenich | haikani | hamerasmith and fulaham | haringe | hero | hewaring | hillingdon | hounslo | islington | kencington and chelsi | kingston | lambeth | luvisham | martan | newham | redbrij | richmond | sadak | saton | tower hamelts | woltham forest | vandsworth | city of westminster Sui Generis: City of London Enclosures: Inner Temple | Middle temple shri es gandhiselvan ko bharat sarkaar kii pandrahavin loksabhaa ke mantrimandalmen swasthya evam parivaar kalyaan rajyamantri main mantri banaaya gaya he
+ National Film Award - Best Film in Bengali language is given to the Best Bengali Film of the Year
+ guarvarih tetihaa-bambor, munger, bihar sthit ek gaanv he
+ Born on July 6, 1946, George Walker Bush was the 43rd President of the United States
+ unhone apana padbhaar 20 janvari san 2001 ko grahan kiya tha
+ On January 20, 2009, he handed over power to the newly elected Barack Obama of the Democratic Party
+ bush ko san 2004 ke raashtrapati ke chunaav main chaar varshon ke liye dobaaraa chun liya gaya tha
+ Prior to entering politics, Mr
+ Bush was a businessman
+ tel or gas kaa utpaadan karne vaali kai companiyon se ve jude rahe the or 1989 se 1998 tak texs rangers besabaal club ke sah maalikon main se ek the
+ He was also the Governor of the state of Texas from 1995 to 2000
+ unke parivaar ke sabhi sadsy raajnneeti main kaaphi ghanishtha rup se jude huye hai
+ Mr
+ Bush's father, George Herbert Walker Bush, is a former US President himself
+ shri bush ke bade bhai jeb bush florida ke vartmaan rajyapal hai
+ Jhalapuda is a village in Champawat district of Kumaon division under the state of Uttarakhand in Pati tehsil of India
+ american footbal lig National Football League faisal toun, pakistan ke punjab praant kii rajdhani lahore shahar kaa ek ilaaka or ek union parishad he
+ It is a major area of lahore
+ shahar ke anya ilaaqon ke samaan hi yahan bole jane vaali pramukh bhashaa punjabi he, jabaki urdu praayah har jagah samajhi jaati he
+ Also, English is also understood by many people and used in the field of education and business
+ prabhukh prashasnic bhashaayen urdu or angrezi hai
+ Due to the commercial and economic importance of Lahore, people of almost all the provinces of Pakistan reside here
+ nirdeshaank: 27°53′N 78°04′E / 27
+89°N 78
+06°E / 27
+89; 78
+06 Bajitpur Atrauli is a village in Aligarh, Uttar Pradesh
+ krishnadas payahari ramanandi sampradaay ke pramukh acharya or kavi the
+ Their time is called sixteenth century AD
+ ye brahman the or jaipur ke nikat 'galata' naamak sthaan par rahete the or keval doodh pite the or isi kaaran inkaa naam payahari arthath pay + aahaari padaa
+ He was a disciple of Anantananda, a disciple of Ramananda and the initiation master of Bala Bai, the queen of Prithviraj, king of Amer
+ kaha jaataa he ki inhone kapalik sampradaay ke guru chaturnath ko shastrarth main parajeet kiya tha isse inhen mahant kaa pad praapt hua tha
+ He was a Sanskrit priest and a poet of Braj Bhasha
+ brahmagita, premasatvanirup inke mukhya granth hai
+ They get many terms of Brajbhasha
+ kehete hai ek samay payahari krishnadas kii gupha ke saamne baagh aayaa to aapane usko atithi jaan, nevata dekar aatithyadharm-pratipalanpurvak apana pal katkar diya
+ This kind of famous fame you got in the world
+ software abhiyantriki abhiyantriki ki vah shakha he jisame sanganak ke software evam sanchaalan pranali kii dizin, rachana, vikaas, pareekshan tathaa rakrakhaav aadi kaa adhyayan kiya jaataa he
+ The Turfan basin or trumpet basin is a basin caused by a fault in land in the Xinjiang region of Central Asia controlled by China
+ mrit sagar or jibooti kii asal jhil ke baad turafaan droni main sthit ayading jhil prithvi kaa teesraa sab se nichalaa jamini kshetra he
+ This dry lake is situated 154 meters below sea level
+ kuch maapon ke hisaab se yah china kaa sabase garam or shushk ilaaka bhi he
+ The Turfan Droni extends around the city of Turfan and south of it
+ jena ) madhya germany kaa ek nagar he
+ It is situated on the banks of the Saale River
+ ise 'vishvavidhyalayon kaa nagar' kaha jaataa he
+ It has a population of about one lakh
+ 18veen sadi main yena kii tulana landan or paris se kii jaati thi
+ Goethe was called by Goethe "the storehouse of knowledge and science"
+ or is godaam main us daur kii har badi shakhsiyat ne paanv rakhe - hegel, fishte, shelling, shiller or shlegal jaise diggajon ne university main adhyaapan kiya or unke vyakhyanon ko sunne ke liye hyolderalin, novalis or brantano jaise maharathi yena main the
+ These people were like the classic period of German and the lighthouse of Romanism
+ chokpot vidhansabha nirvachan kshetra bhartiya rajya meghalaya kaa ek vidhansabha kshetra he
+ The current MLA from here is Lazarus Sangma
+ is nirvachan kshetra se vidhayakon kii suchi nimnavat he – a mountain or mountain range is a chain of mountains where one mountain is adjacent to another and these mountains are separated from another mountain by a pass or valley
+ yah aavashyak nahin he ki ek hi parvat shrunkhlaa ke bheetar aane vaale har parvat kaa bhuvigyaan ek samaan hi ho par aksar aisa hi hota he or ek hi shrunkhlaa main pruthak utpatti ke parvat ho sakate hai, udhaahrant: jwalamukhi, protthana parvat yaa valit parvat ek hi shrunkhlaa main ho sakate hai jo vastutah alag-alag chattan se bane hote hai
+ The Himalayan range includes some of the highest mountains on the earth's surface and the highest of which is Mount Everest
+ andies prithvi kii sataha par vishwa kii sabase lambii parvat shrunkhlaa he
+ The longest mountain range is actually the mid-atlantic Mountains, spanning the middle of the Atlantic Ocean
+ arctic cordilera vishwa ke sabase uttar main sthit parvatamala he jisame purvi uttari america ke kuch unche parvat samahit hai
+ Alwarthirunagar is a school at St
+ John's Matriculation Higher Secondary School which made its debut in the 1980s
+ skool di jon Ponnudurai dwaara sthapit kiya gaya tha
+ This school is part of the IYAP association
+ skool nimnanusaar matriculation 10 grad 1 grad ke bich chaatro or gyaarah or baarah grad ke liye tamilnadu state board ke liye paathyakram
+ yah shakhaaen hai porur, Triplicane or ek bahan skool main good shefrd ke naam main Alwarthirunagar
+ shiksha kaa madhyam tamil ke saath angreji, hindi or duusari bhashaaon ke rup main french he
+ The school has three floors with the top floor being thatched
+ yah ek or sadak ke paar CRECHE adhik kakshaon he
+ Competition Balalok, Avichi and AV Comes from Meiyappan
+ skool aar
+ke
+ ground ke paas kaa upyog karata he khel or khel ke liye
+ Thumb | Left The school building in June 2009 was constructed in 1984
+ skool bhautikee, rasayanashastra or jeevigyaan ke liye prayogshaalaon he
+ The school has a small playground, but for Ramakrishna Nagar Ground, students go for a big playground
+ Transportation such as buses, vans and cycle rickshaws are provided at an additional charge
+ skool pariyojna diwas chalaata he jahaan chaatro ko prayogtmak or kala kii taiyaari he jo skool main pradarshit kar rahe hai
+ Display students and convince visitors
+ It is financed by the students themselves, some teachers also provide finance
+ skool ke vaarshik diwas jahaan chaatro ko nrity pradarshan yaa gaanaa gane manch or puraskaar par ek atithi dwaara pratham, dwitiya rank dharakon or sabase anushaasit chaatr ke liye diya jaataa he manaata he
+ The most disciplined student is selected by a class teacher
+ pichhlaa mehmaanon Vijayakant tarah hastiyon gaya he
+ a souvenir is provided to the students to include images of first, second and third rank holders and also articles and poems are composed by the students of the school
+ jo chaatr vishyon main vifal koching kakshaon diya jaataa he, jahaan ve saamaanya samay or adhyayan ke baad rahanaa
+ Performs management activities in the form of classroom or teacher attendance, exam report management, handling complaints and resolutions and meets parents, teachers
+ kuch varg ke shikshakon ko kam grad kakshaon ke liye sabhi vishyon ko padhaane
+ adhiktar, angreji or naitik vigyaan jaise vishyon varg ke shikshakon dwaara sikhaaya jaataa he
+ Thumb | Ambika Suresh and John Ponnudurai during 1990 'pradhanacharya / sansthaapak / adhyaksh: dow jon Ponnudurai principal: shri vinod Diraviyarajheda master / malkin / vaais principal: sushri Manoranjitham wilfred, ms
+ambika suresh, en francis, jo mrs
+rama dwaara peechha kiya gaya tha dwaara peechha kiya
+ Thumb | The school badge was the first uniform checked by 1983 with half-centimeter white and brown check boxes and tops with chocolate pants
+ 1984 main yah kriim rang kii shart or chocolate pant tha
+ During 1985 it changed to a chocolate shirt with black boots and a lighter shade of chocolate pants
+ somvaar ko vardi safed sabase upar he, safed pant or safed juute
+ The tie had gone brown since the beginning of school
+ 1980 ke dashak main, taai dizin kriim or chocolate ke aadha centimetre rang dhariyon ko badal diya he
+ Girls wear shirts and skirts till seventh standard and salwar kameez from eighth standard
+ From half pant and seventh standard and eighth standard to full pants shirt for boys
+ The school offers belts with school logos and four color groups or houses
+ unhen pahane hue 1986 tak anivaary kiya gaya tha
+ School uniforms, badges, ties, belts, and shoes were compulsory and were inspected when students were returning to class prayerfully
+ mahila shikshakon ko somvaar ko ek hare rang kii pahani thi
+ The school starts with Christian prayer at 8:45 AM and closes with the Indian National Anthem at 3:45 AM
+ prayek avadhi ke ant he jo kii ek ghanti kaa danda he, 45 minute he
+ There are seven hours a day from 12:00 noon to 1pm with an hour lunch
+ subah ke satr main ek 15 minute todane ke saath chaar ghante ke liye he
+ The prayer is a Christian prayer, a vow, reading of the news and on Monday, by the principal of a flag hoisting school
+ rose chaatro ko skool diary main unke ghar ke kaam main likhen
+ or shikshakon ke hastakshar
+ chaatro ko apane homework karte hai or yah apane mata pita se hastakshar kiye
+ yah shikshak dwaara agali subah kii jaanch kii he
+ Since its a Christian school, they have an additional subject called Moral Science which is taught by the class teacher
+ skool main ek baithak mata pita, shikshak din timahi yojit karata he
+ Speech programs are being run to enhance the speech skills of the students
+ prashnottaree pratiyogitaaon bhi yojit kii jaati hai
+ The schools which are in competition with the school are the matriculation schools in the vicinity - Balalok ,
+ tution kendron jo chaatro ja sakate hai mukhya rup se Namadurai koching centre ) or kedy CN tution centre hai
+ Students of x and XII students go to the teaching centers for additional revision of the syllabus
+ is vidhyalay main board kii pariksha main 100% pratham shrenee praapt karne kaa ek acha record he
+ Students who do not get good marks in the school exams are sent to Triplicane branch of this school before x and XII board exam
+ skool se metric paathyakram eks maanak or state board tak angreji madhyam ke saath gyarahavin maanak he
+ The science subject is divided into Physics, Chemistry, Botany and Zoology in the Sixth Standard
+ ganit ganit main or dwitiya main aathvin maanak main vibhajit he
+ English and Hindi are divided into i and II parts
+ jeevigyaan, bhautikee or rasayan vigyaan he jo prayogshaala main prayogon kar shaamil main practical hai
+ The groups during XI snd twelfth standard are: francisi se hindi or tamil kii tulana main ek scoring vishay mana jaataa he
+ Ethical science is a standard subject up to the ninth standard
+ pariksha main madhyavadhi, timahi, dwitiya mid turm, ardh vaarshik, tritiy madhya avadhi ke kram main or vaarshik pariksha kar rahe hai
+ For the x th and XII th additional examinations there are three revision tests before the board examination
+ board pariksha se pehle 10 din ke adhyayan avkaash pradaan kii jaati he
+ The most basic form of leadership role is the work of a class leadership role assigned to students
+ kaksha netaa kaksha main chuppi prabandhan or dekhtaa he ki board jhaadan or chaak ke rup main aise varg ke liye jaruri chijen uplabdh hai
+ Other leadership roles that students in senior grades are: skool paathyakram ke alaava, gatividhiyon anya skulon ke saath pratispardhaa main shaamil hai
+ Mostly these are quizzes, speeches, project exhibitions and competitive examinations
+ abhinayta * dhanush venkat prabhu main 1999-2001 se gyarahavin or barahavin kaa adhyayan kiya gaya tha
+ It is a private institution in the form of fee charge for school education
+ dwitiya ek sek astidi, 1984-85
+ puraane vardi main dekha ja saktaa he
+ Twelfth grade one sec, 1994-95 barahavin kaksha si sek, 1994-95 John Matriculation Higher Secondary School Alwarthirunagar Class VII 1997 Batch
+jpg Passing
+ Mathematics Teacher 1 ms
+maragadhavalli St
+ From left saanchaa:tamilnadu main shikshasaanchaa:bharat main shiksha With the help of gases, the action of weldon is the same, but they are divided according to the gas in use
+ ye gaisen bahudhaa oxigen or asitilin kaa mishran, kol gas or hydrogen aadi hua karti hai
+ Of these, oxy-acetylene weldens are the most common
+ veldonopayogi gaisen taiyaar karanevaali vyapaarik companiyaan ispaat ke majboot silinderon main gas ko kai vayumandalon ke dabaav par bharkar weldon ke liye bechaa karti hai
+ This gas is produced at low pressures by mixing with calcium carbide and water by private gas generators in Weldon's large factories
+ asitilin ko asitone main ghulaa dene se use visphoton kaa dar nahin rahata
+ Regardless of the type of gas being treated, it is transported to the weldon by some kind of blower, with the help of a valve attached to which the flow of the gas is controlled and a flame of the appropriate size is created
+ is
+ chitra 4
+ kii akruti k main phunkani ke munh par laganevaali ek chhucchhi kii banaavat dikhaai gai he or kha main lau kii akruti he
+ To make the flame smaller, larger, thinner or thicker, jets of various sizes are interchangeably applied on the blower
+ jet kii maap arthath uski takat prati ghanta gas ke kharche ke anusaar nirdhaarit kii jaati he
+ The smallest jet consumes one cubic foot of gas in an hour and the largest jet consumes about 200 cubic feet of gas and the gas pressure is kept at 2 to 8 pounds per square inch
+ prayog karte samay asitilin gas ko pehle kholkar jet ke munh par use jala diya jaataa he, phir oxigen ke silinder kaa balve dhire-dhire itnaa kholaa jaataa he ki jisase uchit prakaar kii lau ban jaae
+ Due to excess acetylene in the mixture of burning gas, its flame becomes slightly thicker by carbureting, but it remains as bright as bright from beginning to end
+ yadi mishran main oxigen kii adhikta ho, to lau oxikaarak prabhaav se yukt ho jaati he or uskaa sound lanbaa tathaa chamakdaar ho jaataa he, lekin donon prakaar kii gaison kii maatra main uchit samaayojan kar dene se jo lau banati he uske sound kaa chamakdaar bhaag chota or spasht akritiyukt hota he or usee kii nonk par sabase adhi taap hota he, jaisaa chitra 4
+ main dikhaaya gaya he
+ Therefore, the flame is kept about 1 / 8 inch to 1 / 16 inch away from the metal surface to melt the metal while welding
+ weldon karte samay weldon kii janevaali vastuon ke takkaron ko milakar, upar se gas kii lau dwaara unako jod par galaa diya jaataa he jisase donon pruthak bhaagon kii dhaatuen apaas main galaakar mil jaati he or saath hi saath usee prakaar kii kuch phaltu dhaatu, jo patali battiyon ke rup main hoti he tathaa jise poorak yaa batti bhi kehete hai, galaakar bhar di jaati he or in sabake thandha ho jane par thos sandhi ban jaati he
+ There are two tricks to blow a blower, one is the left hand and the other is the right hand
+ baayein haath kii kriya main weldon kaa kaam dahini ore se bai ore ko badhata he jisase lau bina jhale hue bhaag kii taraf jhuki rahati he or phunkani ko daahine haath se thamkar batti ko baayein haath se thama jaataa he
+ While welding, the blow makes an angle of 60 to 70 degrees and the metal light 30 to 40 degrees from the object to be welded
+ daahine haath kii kriya main lau kaa munh jhale hue bhaag kii ore jhukaa rahata he or jhalaai kii kriya bai ore se dahini ore ko badhati he
+ While belding with the left hand, the blow is run like a wave of water, and in the right hand weldon, the blow is run very rarely or not at all, but by turning the light into the shape of round rings
+ batti kaa vyas veld kii janevaali vastu kii motaai or phunkani kii naap ke anupaat se hona chahie
+ The thin light itself will melt quickly and the welded joint will not be able to get hot and melted
+ yadi batti adhik moti hogi, to vah swayan der se galegi or vastu ke pehle se gale hue bhaagon ko jaldi se thanda kar degi
+ The custom of this type of blowing is increasing nowadays
+ isamen do lau ek saath nikalati hai, agevali lau to dhaatu ko agaau garam karne kaa kaam karti he, jisamen thodi adhik asitilin kharch ho jaati he lekin laabh yah hota he ki va carburikar hokar platon ko oxikaran hone se bachaa leti he, kyonki us samay platon main carbon kaa avasorana ho jane se unka dravnank ghat jaataa he or pichhali choti lau vahaan pahonchte hi saralata se apana kaam kar leti he
+ This type of flame also reduces the defects of welding and twisting in the parts to be welding, and the welding work also happens quickly
+ nikali upjila, bangladesh kaa ek upazila he, joki bangladesh main tritiy str kaa prashasnic anchal hota he 
+ It is a sub-district of Kishoreganj district of Dhaka department
+ yah bangladesh kii rajdhani dhaka ke nikat avasthit he
+ The official level languages here are Bangla and English
+ tathaa bangladesh ke kisi bhi anya kshetra kii tarah hi, yahan kii bhi pramukh maukhik bhashaa or maatrubhaasha bangla he
+ Apart from Bengali, English language is also known and understood by many people, while due to cultural and historical proximity and linguistic similarity, many people are also able to understand Hindustani in limited quantities
+ yahan kaa bahusankhyak dharm, islam he, jabaki pramukh alpsankhyak dharm, hindu dharm he
+ In the Chattagram division, demographically, followers of Islam constitute an average of 91
+19% of the population, which is the highest in all departments of Bangladesh
+ shesh jansankhya pramukhtah hindu dharm kii anuyai he
+ Nikli Upazila is located in the Kishoreganj district of Dhaka department, located in the middle of Bangladesh
+ ayodhya ke suryavanshi raja
+ War of Troy - is the main event of the ancient Greek mythology collection
+ unaniyon ne troy nagar ko das saalon ke liye ghere main daal diya
+ Homer's Iliad composition describes the decisive scenes of this war for only 51 days
+ try kaa rajkumaar sparta kii rani hellen kaa apharan kar try nagar le gaya
+ In order to avenge this humiliation, all the kings and heroes of Greece invaded Troy
+ try se lautate samay unka jahaaj tufaan main fas gaya
+ He wandered here and there for a long time
+ Returned to his country after this
+ This is an oil painting of the Goddess Thetis dipping her son Achilles into the River Styx, which runs through Hades
+ In the background, the ferryman Charon can be seen taking the dead across the river in his boat
+ The scene was painted by Peter Paul Reubens around 1625
+ This is a fresco of Paris abducting Helen by force
+ It is painted on a wall inside a villa in Venice, Italy
+ The Trojan Women Set Fire to their Flee This is a drawing of the Greeks leaving their hiding place inside the Trojan Horse in order to attack Troy
+ The drawing is based on an oil painting by Henri Motte
+ sanyukt rajya america kaa raashtrapati ) uese kaa chunaa hua rajdhyaksh evam shasnadhyaksh hota he
+ The President is the executive leader of the federal government of the USA and the commander-in-chief of the Armed Forces
+ stethoscope yaa parishravak rogi ke raktasanchaar kii dasha kaa pareekshan karne kaa upkaran he
+ In 1816 AD, the French physician Rête Lannec discovered an instrument for ur-testing, on the basis of which the prevalent stethoscope is built
+ aajkal praaia: sabhi chikitsak dwikarniya yantra ko hi upyog main laate hai
+ It has two parts, a bakshkandha which is of bell or rampart type and the second karakhanda
+ ye donon rabar kii nalikaaon dwaara jude rahete hai
+ When the heart, lungs, intestines, nerves and vehicles, etc
+ become afflicted with the disease, then the doctor, by hearing the sound emanating from them, knows whether the sound is regular or irregular
+ aniyamit dhwani rog kaa sanket karti he
+ This device makes the sound louder
+ rogapareekshan main ek achche parishravak kaa hona ati aavashyak he
+ AR made under the banner of Ghazni Geeta Arts Is a 2008 Bollywood film directed and produced by Murugadoss
+ tamil film jo murugados dwaara hi nirdeshit thi, isi naam se bani gajani kii patakatha christopher nolan dwaara likhit tathaa nirdeshit hollywood kii film "memento" par aadhaarit he
+ It stars Aamir Khan and Asin in the lead roles while Jia Khan, Pradeep Rawat and Riaz Khan in supporting roles
+ aamir khan ne is bhoomika ke liye apane nijee prashikshak ke saath lagaataar ek saal apni nijee vyaayaamashaala main prashikshan ke liye bitaayaa
+ The film is an action-thriller film with its romantic elements that explores the life of a rich businessman suffering from a pre-eminent memory loss disease, which the disease caused by killing his beloved model Kalpana in a violent encounter it happens
+ vah poloroid instent camera ke photographs evam chirsthayee tatuge ke jariye hatya kaa badla lene kii koshish karata he
+ Aamir Khan's character will get a special place in a 3-D video game titled Ghajini the Game, which is based on this film
+ is film kii kahani medical chaatra sunita or uski sahpathine jo uske saath maanav-mastishk kii ek pariyojna par kaam kar raheen hai, se khulti he
+ He wants to investigate the unique condition of Sanjay Singhania, the city's designated trader who suffers from post-operative memory loss
+ uske professor sanjay ke abhilekhan tak abhigaman se asweekaar kar dete hai kyonki vartmaan main uske saare aapraadhik tathyon kii jaanch jari he
+ Despite this, Sunita decides to conduct the investigation herself
+ sanjay ko ek duusare vyakti kii krurta se hatya karata hua pesh kiya jaataa he
+ He takes a picture of the person and places the 'executed' seal in his note with the time and date
+ aisa darshaya gaya he ki sanjay ko ghatanottar smriti lop kii ek ajeebogareeb beemaari he jisamen uski yaaddaasht har 15 minute ke baad mit jaati he
+ Sanjay uses the methods of tattooing, taking notes, and tattooing on his body to return his memory again after every 15-minute cycle
+ har subah jab sanjay shauchalay jaataa he, vah vaash basin main nal kii tonti ke paas hi "kameez utaaro" likhaa hua ek note dekhtaa he
+ As he takes off the shirt, he sees a series of tattoos on his wide chest
+ jab vah "kalpana kii hatya kar di gai thi" guda hua dekhtaa he to ek sire se yah udghaatit ho jaataa he ki sanjay antat kalpana kii hatya kaa badla lene ke liye pra tibaddh he or isiilie vah pariklpit tareeke se ek-ek kar un logon ko maar rahaa he jo kalpana kii maut ke jimmedaar the
+ The written notes and the pierced tattoos provide clear evidence that its main target is Ghajni
+ aakhirkaar yah bhi saafe-saafe jaahir ho jaataa he ki gajani or koi nahin balki shahar kaa ek prasiddh saamaajik vyaktitv he
+ Mumbai Police Inspector Arjun Yadav is involved in the investigation of the case related to serial murders
+ vah sanjay kaa pataa lagaate hue use uske flats main khoj nikaalte hai or usapar hamalaa kar use apahiz kar dete hai
+ Arjun Yadav is surprised to see the extensive set of photographs and written notes
+ unhen aisi do diariyaan milteen hai jinamein 2005 or 2006 kii ghatnaon ko kram se lipibaddh kiya gaya he
+ The film enters the pre-2005 scene as soon as Inspector Yadav reads the 2005 diary
+ sanjay singhania ek pratishthit vyapaaree vansh kaa vyakti he jo air voyas telephone company kaa maalik he
+ He has finished his education abroad and returned to take over his family business
+ apane kaarobaar ke dauraan sanjay apane karmchaariyon ko ek jujharu abhinetri / model kalpana se milane evam uske apartment ke upar air voyas kaa vishaal vigyaapan board lagane ke bare main baatcheet karne ke liye bhejtaa he
+ The owner of Kalpana's modeling / advertising company forgets to think of it as a romance affair and encourages Kalpana to accept the proposal
+ vah pramukh model ke rup main uski padonnati kar detaa he
+ Kalpana is usually sweet and kind
+ vah ise bataur ek maasoom sharaarat karne ke liye sweekaar kar leti he or is prakaar sanjay ke garlfriend ke rup main paheliyon se bharaa naatakeey khel shuru karti he
+ Sanjay finally meets Kalpana but he tells him that he is Sachin and is an Adana human who has come from a small town to a big city in search of new life
+ kalpana use modling ke chote-mote kaam dilaati he
+ Slowly she is drawn towards him in his hypnosis and Sachin also gets swept away in her mildness, simplicity and compassion
+ unhen ek duusare se pyaar ho jaataa he or sanjay ko antat usase shaadi kaa prastaav pesh karne kii himmat ho jaati he
+ She asks for some time to consider his proposal
+ sanjay sthir karata he ki agar vah uske prastaav ko sweekaar kar leti he to vah apni asli pahchaan uske saamne ujagar kar degaa; or agar vah asweekaar karti he, to vah chupchaap bina koi haani pahunchaae waapas laut jayega
+ The film's story then returns to the present; When Yadav starts reading the 2006 diary
+ sanjay achaanak aa jaataa he, yadav par hamalaa kar detaa he or use baandh detaa he
+ He discovers Ghazni at a college function where he is the honorable head guest
+ sanjay gajani ke kuch chayachitr letaa he or use jaan se maar daalane kaa faisla karata he 
+ usee samaaroh main uski mulaaqaat sunita se ho jaati he; vah bhi uske file par lage cover se use pahchaan leti he or usase dosti karne kaa iraadaa karti he
+ Later that same evening, Sanjay kills a goon of Ghazni in the parking area
+ vah gajani ke aane kaa intjaar karne lagata he lekin ant main usapar phir kabhi kisi or maukey par aakhri hamalaa karne kaa faisla karata he
+ The dying injured Gunda reminds Ghazni of an incident that took place two years ago in which Kalpana was murdered and Sanjay became a patient after being hurt
+ gajani asamanjas main pad jaataa he or kuch bhi yaad kar paane main naakaam ho jaataa he
+ Meanwhile, Sunita comes to Sanjay's flat and finds Yadav beaten and tied
+ use is baat kaa pataa bhi lag jaataa he ki gajani hi sanjay kaa nishaanaa he
+ Yadav also informs him that Sanjay is a known serial killer
+ sunita ke haathon do diariyaan lag jaatin hai or vah yadav ko aaazaad kar detii he
+ Suddenly in the meantime Sanjay reaches there He does not remember any of them and walks out chasing them
+ antatogatva yadav ek bas se takaraa jaataa he or sunita badi mushkil se sanakee sanjay se batch nikalati he
+ Knowing that Ghajni is in danger, she informs him that it is Sanjay who is behind his life
+ is naam ko lakshya banaakar pataa lagaataa hua gajani sanjay ke flats main uski hatya ke iraade se pahunch jaataa he
+ He destroys all her photographs and notes and gets her goons overpowered by Sanjay and re-inducts her on her existing tattoo so that all the marks that mark old memories are erased
+ All traces connecting with old memories of being restless have been erased, leaving Gajni Sanjay in this condition
+ is bich, chatravaas main lautakar sunita 2006 kii diary padhati he
+ The film's story then returns to the pre-2006 scene
+ aisa dikhaaya jaataa he ki kalpana ne sanjay ke vivaah prastaav ko sweekaar kar liya tha
+ This diary also ends abruptly
+ sunita or aage chaanbin kar pataa lagaati he or yah khoj nikaalati he ki 2006 main kisi padaav par kalpana anjaane main anachaahe hi veshyavriti karwaane waalon ke bure jaal main ulajh gai thi
+ During the train journey, he met 25 innocent Bholi Bhali Kamsin girls who were being sent to Mumbai for business
+ vah un ladakiyon kii raksha kar unka uddhaar karti he
+ But the girls take Ghajni's name as gang gangsters
+ gajani apane tareeke se apane madhyamon kaa prayog ladakiyon kii jubaan band karne ke liye karata he or kalpana ko khud khoj nikalne ke liye nikal padataa he
+ Ghazni and his goons sabotage into Kalpana's apartment and wait for her to return while Kalpana is found inside
+ sanyogvash, sanjay vahaan kalpana se milane pahunch gaya
+ Kalpana's last pronounced word was "ghajini"
+ The goons attacked Kalpana
+ sanjay hastkshep karne hi vaala tha ki achaanak gajani ne lohe kii chad se uske sir par aghat kar diya
+ The final scene flashes in front of Sanjay's eyes, that Kalpana was killed by the brutal assault of Ghazni's iron rod
+ sunita ko ab sadma vaali sachai kaa pataa chal jaataa he, vah sanjay se mulaaqaat karti he or use bataati he ki sach kya he
+ Uncontrollable with anger, he pursues Ghazni zealously
+ mumbai main gajani kii maand main pahunchakar sanjay gajani ke sabhi anuchar gurgon ko ek-ek kar baqayada suniyojit dhang se krurtapurvak maar daalata he or gajani ke peeche pil padataa he
+ Furiously repulsed, he approaches her and confronts the fight
+ vah gajani ko maarna hi chahta he ki uskaa smriti lop chakra phir gum jaataa he or vah vartmaan ko bhul jaataa he
+ Ghazni turns and stabs him
+ vah sanjay kaa mazaaq udaate hue vibhats ghinauni kahani sunaata he ki usne kaise kalpana kii hatya kii thi, tabhi achaanak apni takat kaa antim ubaal paakar sanjay gajani ko kaabo main kar letaa he
+ Sanjay kills Ghazni in the same way that Ghajni murdered Kalpana
+ film apni samaapti kii ore badhati he, sanjay abhi bhi apni smriti-lop kii beemaari se grasit ek anathalay main swanyasevak ke rup main kaam kar rahaa he
+ Sunita gives him a small gift that marks Sanjay and Kalpana's footsteps on the plaster plate when they entered a new apartment - only to remind him of his intimate companionship with Kalpana
+ Does
+ faisla darshakon par chhod diya jaataa he ki kya sanjay kii yaaddaasht dobaaraa waapas laut aati he yaa nahin 
+ Ghazni aired on December 25, 2008 with 1500 prints of which 213 were aired for overseas markets
+ yah movie 650 purvadarshan hetu bhugtan paa chuki thi jisane ise 70 million bhartiya mudra kii aamadani dilwaai thi
+ Ghazni's domestic distribution rights were sold by Geeta Arts in 530 million Indian currency and domestic video rights as well as overseas distribution rights and satellite release rights were sold to Adlabs Films Ltd
+ in 690 million Indian currency
+ box offis mozo ke aankadon ke aadhaar par gajani ne box offis par lagbhag 280 karod rupee kii 29 janvari 2009 tak mul 37 dinon / 5
+3 saptahon ke vishwavyaapee pradarshnon par aamadani kii jo bollywood kii ab tak kii sarvaadhik mishrit laabh vaali film rahi 
+ Big Home Video produced a 2-disc Collectors Edition DVD which was distributed by International Distribution Adlabs Films Ltd
+ on 13 March 2009 at an MSRP of US $ 19
+99
+ isane british board of film clacification dwaara 15+ umr kii reating lagaataar atyadhik hinsa ke kaaran pai
+ The video game for the computer was produced and presented by FX Labs Studios Pvt Ltd and Geeta Arts, which was marketed and distributed by Eros Home Entertainment titled Ghajani - The Game
+ saransh - kya aamir khan banane kaa kabhi sapana dekha he ? to aao yahi tumhaare liye mauka he ki bollywood kii film gajani par aadhaarit tum bharat kii pehali 3D PC ke khel main aamir khan kii bhoomika adaa karo
+ aamir khan kii awaz main sanjay kii anokhi daastaan kaa anubhav praapt karo
+ uski awaz suno jo tumhen ek suraag se duusare suraag main le jaati hui saboot kii baarik pagadendi pakadaa detii he
+ Adopt the tactics of fighting and fighting him in your own way, though teams of goons are waiting for you to finish them
+ gajani kii duniya kaa uski hi aankhon se anusandhan karo jab vah ajeebogareeb sets se gujaarta hua mul movie se punah srist abhaasi duniya main pahunchaa detaa he
+ Control the story and review the entertainment by recreating the movie in your PC
+ yah khel jo movie par aadhaarit he jo pratham purushmen ; paanch staron main khelaa jane vaala khel he
+ In this, the player plays the role of Sanjay, the hero of the game
+ apane mishan kii prapti main marshall arts, hathiyaaron kaa vyavhaar or tarah-tarah kii kalabaziyaan thik usee prakaar karata he jisprakaar hitman games main darshai gayi hai
+ It was praised as India's first 3D PC game with an MSRP of US $ 14
+99, recommended by distributors to participate in children's games ages 15+ while not officially rated for 15+ Has gone
+ is film ko samalochakon se sakaaratmak samikshaayen praapt huin
+ Sify's Sonia Chopra gave the film four and a half stars and recommended watching it "for four like Aamir, Asin, AR Murugodos and AR Rahman"
+ Rajiv Masand of CNN-IBN wrote three stars: "ghajini is not a particularly good film, but pushes a bucket full of entertainment
+ " bollywood trade news network ke martin di'suja ne film ko 3
+5 sitaron se nawaja he, ection kii taareef to kii he par patakatha kii kamajoriyon kaa ullekh bhi kiya he
+ Taran Adarsh has commented that the movie is "a winner in every way" and has given 4
+5 stars
+ da times of india ke nikhat kaazmi ne aamir khan ke apni shreshth seemaa tak ke pradarshan kii saraahna kii he or 3
+5 sitaron se sammanit kiya he
+ Zee News called it the best performance ever
+ radiff kii sukanya verma ne movie ko 3
+5 sitare die hai
+ Bollywood Movies Review presented 4 stars for good screenplay, direction and good performances by Aamir Khan and Asin Thottumkal
+ express india kii shubhra gupta ne gajani ko adhik lambi, adhik hinsa se bharpoor tathaa jiya khan kii abhinay or nritykala kii aalochana karte hue aamir khan or asin ke abhinay kii prashansa kii he
+ However there have been some negative reviews as well
+ india times ke gaurav malani ne film kii lambaai kii aalochana or kalakaaron ke pradarshan kii prashansa karte hue keval 2 sitare die hai
+ Some critics have also criticized the action and fight scenes over the Tamil-style imitation
+ radiff ke raja sen ne asin ke pradarshan kii aalochana karte hue or "abhibhoot kar dene vaali jabardast anubhutiko dukhad kaaran" kahkar nishkarsh nikaalte hue movie ko 2
+5 / 5 sitare die he
+ Nayan Jyoti Parasara of AOL India has said, "many comparisons indicate that the remodeling is not as worthy
+ However, Ghajni is successful when compared to its Tamil version directed by the same director
+ may be considered
+ IMDB par gajani ne 6
+9 upabhoktaaon kii shrenee pai he
+ Ghajni and its 2005 Tamil / Telugu version are both based on Memento
+ christopher nolan kii memento bhi unke bhai jonathan nolan kii laghu katha memento mori kaa roopantaran he jisame leonard shellebi kii bhoomika main gaai piers ek bhootpurv beemaa jaalsaji ke jaanch adhikari he jo us vyakti kii talash main he jiske bare main unhen vishwaas he ki sendhamari or chori ke dauraan unki patni kaa balaatkaar kar hatya usee ne kii he
+ Leonard also suffers from high-grade memory loss disease anterograde amnesia caused by injuries to his head during an attack on his wife
+ kuch avdharanaayen jaise ki poloroid photographs ke peeche kuch footkar tippaniyan likhakar rakhana or apane tathyon ko godane kii shakl main sharir par godwa lenaa, usee se prerit he
+ indiagames Ghajani is a mobile game and its uses are based on the film itself
+ indiyagames ne 4 khel viksit kiye hai jisame se 1 kaa vyavhaar mobile plateform ke sheershak par aadhaarit he
+ It has a variety of games, such as Ultimate Workout, Memory Revival, Brain Trek, and numerous mini-games
+ saanchaa:infobox album / Reviews deprecation notice The film has six songs with lyrics by Prasoon Joshi and composer AR Rahman
+ tamil sanskaran kaa sangeet haris jayraj ne diya he
+ Rahman has introduced the Hindi version of music by adding sporadic scattered episodes
+ is album ko aalochakon or prashansakon kii sakaaratmak samiksha praapt hui he, jisame se anek ne yah mahasoos kiya ki sound trek par e
+aar
+rahamaan jaisi hasti ke liye kuch nichi najar aati he
+ Nevertheless, it has been given positive reviews by Bollywood Hungama saying that "ghajni's music will create waves by airing on the occasion of Christmas in 2009
+ When it is compiled at the end of the year with the 'best of the best' list" It will be hard to ignore
+ "rediff
+com gave it a general highest rating of five stars, with Rahman reviewing that" this is his best-ever album ever One of the programs
+ keval isliye nahin ki treks mahaan he balki har ek sur se duusare sur kii ore saral sankraman apni agali kadi ke saath asambhavit tareeke se judati chali jaati he
+ Template: AR Murugadoss bannigler main bharat ke andhrapradesh rajya ke antargat ke karnulu jile kaa ek gaanv he
+ Autostereoscopy is a three-dimensional visual display device
+ levon gregory eronean ek armenian shatranj grandmaster hai
+ 400 BCE represents the years before the birth of Christ
+ isa ke janm ko adhaar maanakar uske janm se 400 isa purv yaa varsh purv ke varsh ko is prakaar pradarshit kiya jaataa he
+ It is considered a collective year based on the Julian calendar
+ adhikansh vishwa main isi paddati ke aadhaar par puraane varshon kii gananaa kii jaati he
+ In India, there are many famous Panchagas like Vikram Samvat which begins 57 or 58 years before the birth of Jesus
+ iske alaava shaq samvath bhi prasiddh he
+ Shaka Samvat is the ancient era of India which begins 78 years after the birth of Jesus
+ shaq samvath bharat kaa rashtriya calendar he
+ Some other ancient era prevalent in India are as follows- uparokt antar ke aadhaar par 400 isa purv ke anusaar vikrami samvath, saptarshi samvath, kaliyug samvath or pracheen saptarshi aadi main varsh aadi nikaale ja sakate he
+ Apna Dal is an Indian political party operating in the Purvanchal region of Uttar Pradesh
+ party ko mukhya rup se varanasi-mirzapur kshetra ke obisi samudaayon kaa samarthan miltaa he
+ Anupriya Patel is currently the Minister of State in the Ministry of Health and Family Welfare, Government of India
+ dwitiya vishwayuddh ke baad ke kaal main sanyukt rajya america or soviet rus ke bich utpann tanaav kii sthiti ko sheet yuddh ke naam se janaa jaataa he
+ It has also been given the name of 'arms Faced Shanti' by some historians
+ dwitiya vishwayuddh ke dauraan sanyukt rajya america, britain or rus ne kandhe se kandha milakar dhuri rashtron- germany, italy or japan ke viruddh sangharsh kiya tha
+ But as soon as the war ended, intense differences arose between Britain and the United States on the one hand and the Soviet Union on the other
+ bahut jald hi in matbhedon ne tanaav kii bhayankar sthiti utpann kar di
+ Communist countries under the leadership of Russia and capitalist countries under the leadership of America were divided into two camps
+ in donon pakshon main aapasi takaraahat aamane saamne kabhi nahin hui, par ye donon gut is prakaar kaa vaataavaran banaate rahe ki yuddh kaa khatra sadaa saamne dikhaai padataa rahata tha
+ Berlin Crisis, Korea War, Molecular Testing by Soviet Russia, Military Organization, Indian China Problem, U-2 Plane Scandal, Cuban Missile Crisis were some of the circumstances which ignited the fire of Cold War
+ san 1991 main soviet rus ke vighatan se uski shakti kam ho gayi or shityudh kii samaapti ho gayi
+ As is clear from its name, it is not a war of arms and weapons but a war confined to threats
+ is yuddh main koi vaastavik yuddh nahin ladaa gaya
+ It was limited to indirect war only
+ is yuddh main donon mahashaktiyon ne apane vaicharik matbhed hi pramukh rakhe
+ It was a type of diplomatic war, which was based on the efforts of the narrow powers of the superpowers
+ ke
+pi
+es
+ minan ke anusaar - sheet yuddh do virdohi vichaardhaaraon - poonjeevaad or samrajyavad, do vyavasthaaon - burjua loktantr tathaa sarvhaara taanaashaahee, do guton - nato or varsa samjhauta, do rajyon - america or soviet sangh tathaa do netaaon - jon foster illaas tathaa stallin ke bich yuddh tha jiskaa prabhaav puure vishwa par padaa
+ Thus it can be said that the Cold War was a speech war between two superpowers based on diplomatic measures
+ yah donon mahashaktiyon ke madhya dwitiya vishwayuddh ke baad utpann tanaav kii pratyaksh abhivyakti tha
+ It was even more terrible than the actual war, being an ideological war
+ shityudh ke lakshan dwitiya vishwayuddh ke dauraan hi prakat hone lage the
+ Both the superpowers were fighting the war keeping in mind their narrow interests and showing the spirit of mutual cooperation
+ jo sahyog kii bhaavana yuddh ke dauraan dikhaai de rahi thi, vah yuddh ke baad samaapt hone lagi thi or shityudh ke lakshan spasht taur par ubharne lag gaye the, donon guton main hi ek duusare kii shikaayat karne kii bhaavana balwati ho gai thi
+ There were some strong grounds for these complaints
+ ye parsparik matbhed hi shityudh ke pramukh kaaran the, shityudh kii utpatti ke pramukh kaaran nimnlikhit hai- The Cold War developed slowly
+ iske lakshan 1917 main hi prakat hone lage the jo dwitiya vishwayuddh ke baad spasht taur par ubharkar vishwa rangamanch par aae
+ The spirit of mutual fear and mistrust between the two powers contributed to its promotion
+ donon mahashaktiyon dwaara ek duusare ke viruddh chali gai chaalon ne is shityudh ko sabal aadhaar pradaan kiya or ant main donon mahashaktiyaan khulkar ek duusare kii aalochana karne lagi or samast vishwa main bhay va ashaanti kaa vaataavaran taiyaar kar diya, iske badhaava dene main donon mahashaktiyaan baraabar kii bhagidaar rahi
+ Its development sequence can be understood in the following steps - is samay ke dauraan shityudh kaa asli rup ubhara
+ The differences between the US and the Soviet Union came to light
+ is kaal main sheet yuddh ko badhaane dene vaali pramukh ghatnaayen nimnlikhit hai- During this time, there was a possibility of some changes in the behavior of both the superpowers
+ is yug main donon deshon ke netritv main parivartan hua
+ After Stalin's death in the Soviet Union, Khushchev took over the reins and President Eisen Haver took over the reins in the US
+ soviet sangh kii taraf se donon deshon ke madhya madhur sambandh sthapit karne ke prayaas avashya hue lekin unka koi sakaaratmak parinaam nahin niklaa or america tathaa soviet sangh main sheet yuddh kaa tanaav jari rahaa
+ During this time a few incidents occurred which gave impetus to the Cold War
+ is prakaar is yug main sheet yuddh ko badhaava dene vaali kaarywahiyaan donon taraf se hui
+ But both the superpowers also made some efforts towards reducing the tension of the Cold War
+ khruschev ne donon deshon ke madhya sambandh madhur banane or tanaav kam karne ke liye 15 sitambar se 28 sitambar 1959 tak america kii yatra kii
+ On 5 September 1963, there was a 'moscow Partial Trial Prohibition Treaty' between the US, Soviet Union and Britain
+ isse sheet yuddh ko samaapt karne kaa sakaaratmak kadam kaha gaya
+ The non-aligned Movement also tried to reduce the Cold War during this period, but the results of all these efforts remained negative and tension remained in both the superpowers
+ 1962 main cuba sankat ke baad sheet yuddh ke vaataavaran main kuch narmi ai or donon guton ke madhya vyaapt tanaav kii bhaavana sauhardpurn va mitrataa kii bhaavana main badalane ke asaar dikhaai dene lag gaye
+ This started showing signs of the beginning of a sweet relationship between the two countries
+ is narmi yaa tanaav main kami ko 'ditant' yaa 'tanavshithily' kii sangya di jaati he
+ The tradition changed the landscape of the old international relations arising out of the Cold War and a peaceful atmosphere was born in the world
+ isse sanyukt raashtra sangh kii bhoomika main bhi vruddhi hui or parmaanu yuddh ke aatank se chhutkaaraa mila
+ The 1970s saw the transition to a new type of cold war as soon as the Afghanistan crisis was born
+ is sankat ko 'ditant kii antim shavyatra' kaha jaataa he
+ This brought an end to the tragedy, and the tension between the two powers that had lasted for almost a decade took days of diabolism and old tensions began to rise again
+ isaki utpatti ke pramukh kaaran nimnlikhit hai All these reasons led to the birth of a new cold and the end of the tradition
+ isse antarrashtriya sambandhon main nai khatas paidaa hui america ne khadi siddhanth ke dwaara vishwa shaanti ke liye khatra paidaa kar diya
+ This new Cold War brought the world to the brink of World War III
+ isse ditant kii haani hui or nishastreekaran ko gaharaa dhakka laga
+ This made the centers of tension Afghanistan, Kampuchea, Nicaragua etc
+ yah yuddh vichaardhaara virdohi na hokar soviet sangh virdohi tha
+ Its agents were Britain, France and China, not just the US and Soviet Union
+ is yuddh ne sampoorn vishwa kaa vaataavaran hi dooshit kar diya
+ This gave rise to multipolarization and introduced new challenges in international relations
+ shityudh ne 1946 se 1989 tak vibhinn charnon se guzarate hue alag-alag rup main vishwa raajnneeti ko prabhavit kiya
+ This led to tensions between the US and the Soviet Union as well as other effects
+ iske antarrashtriya sambandhon par nimnlikhit prabhaav pade- It can be said that the Cold War had a wide impact on international relations
+ isane samast vishwa kaa do guton main vibhaajan karke vishwa main sangharsh kii pravriti ko badhaava diya
+ It created a balance of terror in place of a balance of power
+ lekin nakaaratmak prabhaavon ke saath-saath iske kuch sakaaratmak prabhaav bhi pade
+ This paved the way for technical and technical development
+ isse yathartwaadee raajnneeti kaa aavirbhaav hua or vishwa raajnneeti main nae rajyon kii bhoomika ko bhi mahatvapurn mana jane laga
+ Khul Ja Simsim is a magical sentence by which Ali Baba and forty thieves used to reach the treasure kept in a cave
+ isamen yah shabd bolne par gupha kaa dwaar apane aap hi khul jaataa tha
+ To shut it down, it was called Simsim
+ paatr kisi kahani main koi vyakti yaa koi anya jeev hota hai
+ The character may be completely fanciful or may be based on a real-life person, in which case a "real" versus "real" character can be distinguished
+ saanchaa:fiction writing Gangaram Hospital is a large private hospital in New Delhi
+ yah 650 bistar vaala, aadhunik suvidhaon se yukt ek bada aspataal he
+ Mohun Bagan Athletic Club is an Indian football club based in Kolkata
+ yah club 15 agast 1889 ko sthapit kiya gaya tha, ise bharat kaa rashtriya club kaha jaataa he or ise asia ke sabase puraane footbal club hone kaa gaurav bhi praapt he
+ This football team has been successful since its inception and has maintained its position as one of the most successful clubs in India
+ isane rashtriya mahatv kii kai traphiyaan jiti he jaise- federation cap, duurand cap, neshnal footbal lig or kolkata premier divijan
+ Mohun Bagan was the first Indian team to defeat a European team when they defeated the East Yorkshire Regiment in 1911
+ mohan bagan kii padosi east bengal ke saath ek lambey samay se pratidwandvita rahi he, jinke saath yah kolkata darbi pratiyogita main bhaag lete hai
+ Towards the end of the 19th century, the Indian independence movement was started and Indian nationalists were inspiring the common people, especially in Kolkata city, during which time Bhupendranath Basu helped the Mitra family and the Sen family on 15 August
+ The present Mohun Bagan was established in 1889 under the name of Mohun Bagan Sporting Club
+ club ne eden hindu hostel ke khilaaf, mohan bagan vila main apana pehla match khelaa tha
+ Prior to the anniversary of the club establishment, Professor FJ Rhow inquired whether the club had conducted any rifle shooting or fishing or other related activities and suggested that the club name "sporting" when the question was not answered
+ Be "athletic" from
+ adhikariyon ne sahmati vyakt kii or club ko aadhikarik taur par mohan bagan athlettic club ke rup main naam diya gaya
+ Mohun Bagan participated in a tournament for the first time in 1893, when he played in the Cooch Behar Cup
+ baad main, mohan bagan ne kuchbihar cap or trades cap kii tarah vibhinn pratiyogitaaon main bhaag liya lekin toornament jeetne main asafal rahe
+ Mohun Bagan won their first trophy by winning the Cooch Behar Cup in 1904
+ is jeet ke baad se club ne niyamit rup se anya pratiyogitaaon main jeetna shuru kiya
+ a proud moment in Mohun Bagan's history came in 1911, when he defeated the East Yorkshire Regiment 2–1 to become the first Indian football club to win the IFA Shield and defeat any European team
+ 1939 main mohan bagan 25 varsh ke lambey intjaar ke baad kalakatta footbal lig ko jeetne vaale pehle bhartiya club bane
+ In 1947, Mohun Bagan again won the IFA Shield
+ is jeet ke madhyam se mohan bagan swatantraaa ke baad iefe shield jeetne vaale pehle bhartiya club bane
+ In 1977, Mohun Bagan played a friendly match against the club of the famous North American Football League, the New York Cosmos
+ neuyork cosmos main diggaj brazili khilaadi pele bhi the
+ The match was played in front of 80,000 fans at the Eden Gardens
+ match 2-2 kii samapti par khatm hua or bagan ke khilaadiyon ko cosmos ke sitare khilaadiyon se bahut prashansa mili
+ In 2008, Bagan played against German legend Bayern Munich, a farewell match for German legend Oliver Kahn
+ jeevanunashak aisi saamagree yaa padaarth ko kaha jaataa he jo jeevanuon kii rokthaam yaa unka khaatmaa kare
+ It may be disinfectant, anticonvulsant or antibiotic
+ saripali gharghoda mandal main bharat ke chhattisgarh rajya ke antargat raigarh jile kaa ek gaanv he
+ Fox History and Entertainment is a former TV channel of the Star Group
+ japan 47 prashasnic praanton main bata hua he jinhen japani bhashaa main "todophukan" or angrezi main "prifakchar" kaha jaataa he - Each province has a governor called "chiji" in Japanese
+ ise us praant ke naagarik chunaavon main chunate hai
+ Each province has a Legislative Assembly named "gikae", within which the new law is made and the economic budget
+ iske sadsy chaar saal ke kaarykaal ke liye nagarikon dwaara chune jate hai
+ Each province is divided into cities and districts
+ prayek zile main shahar or gaanv hote hai
+ Notes: 1 as of 2015; 2 km2; 3 per km2 shamsuddin iltutamish dilli sultanate main ghulaam vansh kaa ek pramukh shaasha tha
+ After the founder of the dynasty, Qutub-ud-din Aibak, he was among the rulers that strengthened the foundation of the Delhi Sultanate
+ vah aibak kaa damaad bhi tha
+ He ruled from 1211 AD to 1236 AD
+ rajbhishek samay se hi anek turk amir uskaa virodh kar rahe the
+ Impressed by Iltutmish's work efficiency against the Khokhars, Muhammad Ghori gave him an important position called "amirul Umra"
+ aksmaat mutyu ke kaaran qutubaddeen aibak apane kisi uttaradhikari kaa chunaav nahin kar sakaa tha
+ So the Ottoman authorities of Lahore put the disputed son Aramshah of Qutb-ud-din Aibak to the throne of Lahore, but as a result of the opposition of the Turko chieftains and citizens of Delhi, Iltutmish, son-in-law of Qutb-ud-din Aibak, who was then the Subedar of Badaun, was invited to Delhi on the throne
+ Was seated aramshaah evam iltutamish ke bich dilli ke nikat jad naamak sthaan par sangharsh hua, jisamen aramshaah ko bandi banaakar baad main uski hatya kar di gayi or is tarah aibak vansh ke baad ilbaari vansh kaa shashan prarambh hua
+ Iltutmish had two major rivals - Tajuddin Yaldauj and Nasiruddin Kubacha
+ ye donon gauri ke das the
+ Yaldauj considered the state of Delhi as a part of Ghazni and kept trying hard to merge it with Ghazni, while Aibak and then Iltutmish considered themselves independent
+ yalduj ke saath tarin ke maidan main yuddh kiya jisamen yalduj parajeet hua
+ After his defeat, no ruler of Ghazni asserted his claim to power in Delhi
+ kubacha ne punjab tathaa uske aasapaas ke kshetron par apni sthiti majboot kar lee thi
+ In 1217 he traveled against Kubacha
+ kubacha bina yuddh kiye bhaag gaya
+ Iltutmish followed him to a place called Mansura where he defeated Kubacha and captured Lahore
+ par sindh, multan, uchh tathaa sindh sagar doaab par kubacha kaa niyantran bana rahaa
+ At the same time, Iltutmish's attention was immediately diverted from Kubacha due to the Mongol invasion, but he later defeated Kubacha in a battle that resulted in Kubacha dying by drowning in the Indus River
+ changez khan ke akraman ke baad usne purv kii ore dhyaan diya or bihar tathaa bengal ko apane adheen ek baar phir se kar liya
+ Apart from being a skilled ruler, he was also a lover of art and learning
+ sultan kaa pad praapt karne ke baad iltutamish ko kuch kathinaaiyon kaa saamana karnaa padaa
+ Under this, Iltutmish first suppressed the revolt of the chieftains during 'kulbi' i
+e
+ Qutb-ud-din Aibak and the chieftains of the time of 'muizji' i
+e
+ Muhammad Ghori
+ iltumish ne in vidrohi saradaaron par vishwaas na karte hue apane 40 ghulaam saradaaron kaa ek gut yaa sanghathan banaaya, jise ‘turkan-e-chihalgani’ kaa naam diya gaya
+ This organization is also known as 'charagan'
+ iltutimish ke samay main hi avadh main pirthu vidroh hua
+ Between 1215 and 1217 AD, Iltutmish had to contend with two of his powerful rivals, 'aldauj' and 'nasiruddin Kabacha'
+ 1215 i
+ main iltutimish ne aldauj ko tarin ke maidan main parajeet kiya
+ In 1217 AD, Iltutmish seized Lahore from Kubacha and in 1228 seized Uchh and asked Kubacha to surrender unconditionally
+ ant main kubacha ne sindhu nadi main kudakar aatmahatya kar lee
+ In this way, both these powerful opponents came to an end
+ mongol akramanakari changez khaan kii beti se se jilaluddin mughabarni kaa premaprasang tha jiske ke bhay se bhaybheet hokar khwarism shah kaa putr 'jilaluddin mughabarni' vahaan se bhaag kar punjab kii ore aa gaya
+ Genghis Khan followed him to Sindh in about 1220-21 AD
+ usne iltutamish ko sandesh diya ki vah mangabarni kii madad na karen
+ Genghis Khan's messenger came to Iltutmish's court with this message
+ iltutamish ne mongol jaise shaktishaalee akramanakari se bachane ke liye mangabarni kii koi sahaayta nahin kii
+ The fear of Mongol invasion was averted in 1228 AD when Mangabarni withdrew from India
+ qutubuddin aibak kii mrityu ke baad ali mardaan ne bengal main apane ko swatantra ghoshit kar liya tathaa 'allaudin' kii oopaadhi grahan kii
+ He died two years later
+ iske baad uskaa putr 'hisamuddin ivaaj' uttaradhikari bana
+ He assumed the title of 'ghyasuddin Azim' and played coins of his own name and taught Khutba
+ 1225 main iltutamish ne bengal main swatantra shaasha 'hisamuddin ivaaj' ke viruddh abhiyaan chhedaa
+ Iwaz accepted to rule under his rule without war, but he revolted again as Iltutmish returned to Delhi
+ is baar iltutamish ke putr nasiruddin mahmud ne 1226 i
+ main lagbhag use parajeet kar lakhanauti par adhikaar kar liya
+ After two years, after the death of Nasiruddin Mahmud, Malik Ikhtiaruddin Balka Khalji took over the throne of Bengal
+ 1230 i
+ main iltutamish ne is vidroh ko dabaaya
+ Balka Khalji was killed in the conflict and this time once again Bengal became under the Delhi Sultanate
+ 1226 i
+ main iltutamish ne ranthambhore par tathaa 1227 i
+ main paramaron kii rajdhani mandaur par adhikaar kar liya
+ In 1231 AD, Iltutmish laid siege to the fort of Gwalior and defeated the ruler Mangaldev
+ 1233 i
+ main chandelon ke viruddh evam 1234-35 i
+ main ujjain evam bhilsa ke viruddh uskaa abhiyaan safal rahaa
+ Iltutmish's invasions of Nagada's Guhilautas and the Gujarat Chalukyas failed
+ iltutamish kaa antim abhiyaan bamiyaan ke viruddh hua
+ In February 1229, Iltutmish received a 'khilayat' and a certificate in honor of the Caliph of Baghdad
+ caliph ne iltutamish kii pushti un saare kshetron main kar di, jo usne jite the
+ At the same time, the Khalifa also conferred upon him the title of 'sultan-e-azam'
+ pramaan patr praapt hone ke baad iltutamish vaid sultan evam dilli sultanate ek vaid swatantra rajya ban gai
+ This acceptance helped Iltutmish to inherit the rank of Sultan and secure the authority of his children on the throne of Delhi
+ khirdt milane ke baad iltutamish ne ‘nasir amir ul mominin’ kii oopaadhi grahan kii
+ Iltutmish was the first Ottoman sultan who introduced pure Arabic coins
+ usne sultanate kaaleen do mahatvapurn sikke 'chaandi kaa taka' tathaa 'tambe' kaa ‘jeetal’ chalavaaya
+ Iltutmish started the tradition of inscribing mint names on coins
+ sikkon par iltutamish ne apana ullekh caliph ke pratinidhi ke rup main kiya he
+ After the Gwalior conquest, Iltutmish inscribed some proud words on his coins, such as "mighty sultan", "empire and sun of religion", "helper of the hero of the righteous"
+ iltutamish ne ‘ikta vyavastha’ kaa prachlan kiya or rajdhani ko lahore se dilli sthaanantarit kiya
+ While on his way to invade Bayana, Iltutmish became ill
+ iske baad iltutamish kii beemaari babbti gai
+ He finally died in April 1236
+ iltutamish pratham sultan tha, jisane doaab ke aarthik mahatva ko samajha tha or usamen sudhaar kiya tha
+ Razia was the daughter of Sultan Iltutmish and the first Muslim ruler of India
+ apane antim dinon main iltutamish apane uttaradhikaar ke sawaal ko lekar chintit tha
+ Nasruddin Mahmud, the eldest son of Iltutmish, who was ruling Bengal as his father's representative, died in April 1229 AD
+ sultan ke shesh jivit putr shashan kaary ke kisi bhi prakaar se yogya nahin the
+ Therefore, Iltutmish appointed his daughter Razia as his successor from his death bed
+ sthapaty kala ke antargat iltutamish ne qutubuddin aibak ke nirmaan kaary ko puraa karavaaya
+ Iltutmish is also credited for possibly building the first mausoleum in India
+ iltutamish ne badaayun kii jama masjid evam nagaur main atarkin ke daravaaza kaa nirmaan karavaaya
+ The 'mosque of Ajmer' was built by Iltutmish
+ usne dilli main ek vidhyalay kii sthapana kii
+ Iltutmish's tomb is located in Delhi, which is an orbital tomb
+ khu devanagari vyanjan ke kha varna kaa ek akshar he
+ Krishnaut or Krishnavat is a sub-branch of the major Yadav caste of Bihar, the word is derived from Krishna + ut which means Krishna
+ ye jati puure bihar main paayi jaati he
+ These people mainly work in farming and dairy farming
+ krishnout log apne hi shakha main shaadi karte hai or yadi koi krishnout main shaadi na karke dusri up shakha me shaadi karata he to us shaadi ko sakha-tod shaadi kaha jaataa he yahi nahi agar koi krishnout dusre jati main shaadi karata he to use vyakti ko chauthaha kaha jaataa he or un logon ko jati se baahar kar diya jaataa he
+ Due to this fanaticism, people consider him as a fanatic like Mussaman because Krishnaut can marry any relative except blood relatives
+ unka maananaa he ki apni jati me dusre jati kaa khun ko shaamil nahi kiya ja saktaa
+ It is believed that only Sakhawat and Chautha Chauhan were broken
+ chau+haan =chouhan me chau kaa matlab chaaro taraf or haan kaa matlab haani
+ Krishnaut people call their father as Baji
+ baahar se aane par unke pair thali me dhoye jate hanore mahilayen bhent karti he, bhent main mahilayen baahar se kai dinon par aane par rote hue ek dusre ko apni aap beeti sunaati hai
+ The plow is wedged in the middle of the pavilion
+ menmara eta jile ke patiyaali prakhand kaa ek gaanv he
+ There is a Lok Sabha constituency located in Ghazipur
+ gujarat vidhaan sabha chunaav 2002 • 2007 • 2012 Prime Minister of India, Lok Sabha Elections, 2014 • Swearing in vaishvik yogadan India --- Pradhan Mantri Ujjwala Yojana is a scheme launched by the Central Government on 1 May 2016 with the aim of bringing happiness on the faces of women from poor families of India
+ is yojana ke antargat garib mahilaon ko muft alpiji gas conection milenge
+ This scheme launched by the Central Government will soon give freedom to poor women from the earthen stove
+ is yojana kaa mukhya uddeshy gramin kshetron main khaanaa pakaane ke liye upyog main aane vaale jeevashm eendhan kii jagah alpiji ke upyog ko badhaava dena he
+ One of the main objectives of the scheme is to promote women empowerment and also to protect their health
+ garib parivaar kii mahila sadasyon ko muft rasoi gas conection muhaiyaa karaane ke liye mantrimandal ne 8,000 karod rupee kii yojana ko manjuuri di he
+ Applying for obtaining LPG in Ujjwala scheme is very easy
+ iske liye bas aap ke paas bipiel kaa card hona aavashyak he icchhuk ummidavaar jo is yojana ke tahat rasoi gas conection chaahate hai unhen yojana kaa aavedan patr bharkar apane najdiki alpiji vitaran centre main jamaa karana hoga
+ After filling all the information in the two-page application, such as your name, address, Aadhaar number and Jan Dhan / Bank account number will have to be submitted to the distribution center
+ aavedan karte samay aap ko ye bhi bataanaa hoga kii aap ko 14
+2 kilo vaala gas silinder chahie yaa phir 5 kilo vaala
+ Susana "dora" Madora Salter was an American politician and activist
+ ve argonia, cansus kii meyar bhi raheen or america me meyar ke pad tak pahunchane vaaleen or kisi bhi raajnneetik karyaalay main chaynit hone vaali bhi wo pratham mahila thim
+ According to Indian scriptures, this is a mutual war between gods and demons and demons
+ swarg ke rajya kii prapti ke liye daanav evam daitya samay samay par devataaon par akraman karte he
+ In this war, the demons have been conquered many times and many times
+ devasur sangram devraj indra or raja bali ke madhya hua tha
+ A
+ Sampath is the Member of Parliament in the sixteenth Lok Sabha of India
+ 2014 ke chunaavon main inhone kerala kii attingal seat se marxvaadi communist party kii ore se bhaag liya
+ The Hafthali was a nomadic caste living in Central Asia in the 5th and 6th centuries AD
+ bharat main yah shwet hun or turushk ke naam se bhi jane jate the
+ Citing Chinese sources, it was the first Yuzhi people living north of the Great Wall of China
+ yah kis jati se sambandhit the iskaa sahi-sahi gyaat nahin he lekin bahut se itihaaskaar maanate hai ki yah ek purvi irani bhashaa bolaa karte the
+ By religion, Hafthali was a follower of Hindu and Buddhism
+ apane charam par uttar bharat kaa bahut sa ilaaka inke samrajya kaa hissaa tha
+ There are many beliefs about the basic source of caste of the Hafthalis whether it was Turkish speaking or indo-iranian speaking
+ pehle adhik itihaaskaar inhen turki mul kaa samajhate the or vastav main bhi shaayad inamen turki mul ke bahut se log mishrit the
+ In 1959 Kazuo Enoki claimed that his native place may have been Bactria and that he spoke an eastern Iranian language
+ hafathali logon ke puraane naamon se bhi lagata he ki ve irani mul ke hai
+ Other historians have accepted this but the current belief is that it was a mixed caste of northeastern Iran and northwest India
+ abhishasan kaa sandarbh "shashan karne kii sari un prakriyaaon se hai, bhale ve kisi sarkaar, bazaar yaa sanjaal dwaara sanchalit ho, bhale kisi parivaar, janajati, aupchaarik yaa anaupchaarik sanghathan yaa kshetra par ho, or bhale kisi kaanoon, mandand, satta athwa bhashaa se ho
+ "its relationship," is the processes of mutual operation and decisiveness between the actors involved in the collective problem, which leads to the creation, strengthening and reproduction of social norms and institutions
+ " Paresh Rawal is an actor in Hindi films
+ 2014 main unhen padam shri se sammanit kiya gaya
+ He was awarded the National Film Award for supporting role in 1994
+ iske baad inhen sarvshereshth hasya abhinayta kaa filmphere puraskaar bhi mil chukaa he
+ He was seen in Ketan Mehta's film Sardar in the lead role of freedom fighter Vallabhbhai Patel
+ paresh rawal kaa janm mumbai, bharat main hua
+ She was married to Swaroop Sampat, an actress and became Miss India in 1979
+ ianke do bachche aditya or aniruddh hai
+ Rawal started acting in 1984
+ tab yah holi naamak film main ek sahaayak kirdaar nibhaayaa tha
+ After this, in 1986, the name of his performance came to be known by the film Naam
+ iske baad vah 1980 se 1990 ke madhya 100 se adhik filmon main khalanaayak kii bhoomika main najar aae
+ It starred in the films Pachitra, King Uncle, Ram Lakhan, Rasa, Baazi and many more
+ yah ek hasya film andaaz apana apana main pehali baar do kirdaar main najar aae
+ After this, due to his acting and character in a Hindi film "hera Pheri" in the year 2000, he has also missed the main character in many films after this
+ hera pheri film main raju or shyaam uske ghar kiraye par rahete hai
+ While Rawal plays the role of the landlord in it
+ is kirdaar ko hera pheri ke safalataa kaa shrey diya gaya he
+ He has also won the Filmfare Award for his work in it
+ unka baburav kaa kirdaar uske duusare bhaag phir hera pheri main bhi dekhne ko mila, yah film bhi safal rahi
+ Rawal has received the Filmfare Award for Best Film Award, Best Comedian and Lead Role, supporting roles
+ paresh rawal sabase lokapriy or vanijyik safal filmon main kshanashan, mani, mani mani, govinda govinda, rikhshavudu, bawagru bagunara, shankar dada embibies, or tin maar ityadi
+ His character as Kanjilal Mehta in the 2012 film omg is still counted in a memorable face in the film, in a face whose acting can be done in any role, in the film
+ varsh 2018 main rajkumaar hiraani kii film sanju main sunil dutt ke rup main unka saakshaat chithran kiya jisase unhone film main kaaphi prasiddhi mili 
+ Paresh Rawal is the current MP from Ahmedabad East Parliamentary constituency in India
+ yah bhartiya janata party ke rajaneta he
+ Hardev Singh Nehra was a resident of Harsawa, a village in Sikar district of Rajasthan
+ yah gaanv harsa nehra jat ne san 1287 main basaaya tha
+ Hardevsinh Nehra here participated in the freedom movement of India
+ unhone rajasthan main jagiradaari samaapt karne main mahatvapurn yogadan kiya
+ Modulation is the process of distinguishing one waveform from another waveform
+ doorsanchaar main adhimishran kaa istemaal sandesh bhejne ke liye hota he, lekin ek sangeetkaar swar-saamanjasy ke liye kisi vaadyayantra ke swar kii maatra, uskaa samay yaa timming or swaraghaat ko alag karne main iskaa upyog karata he
+ Often high frequency sinusoid waveforms are used as carrier signals for low-frequency signals
+ sin wave ke teen pramukh maapdand hai - uskaa apana aayam, uske charan or uski aavriti, ek modulated singnal praapt karne ke liye in sabhi sanchaar sanket ko kam frequency ke aadhaar par sanshodhit kiya ja saktaa he
+ The device which performs modulation is called modulator and the device which performs the opposite action is called demodulator
+ jo upkaran donon hi tarah kaa kaary kar saktaa he vah modem kehalaata he 
+ The purpose of digital modulation is to transfer digital bit streams to an analog passband channel, for example; Public switched telephone networks, or transfers over a limited radio frequency band
+ anuroop adhimishran kaa uddeshy ek anuroop besaband sanket ko hastantarit karnaa he, udhaaharan ke liye ek audio sanket yaa tivi sanket ko ek anuroop pasband channel par hastantarit karnaa he, doosraa udhaaharan radio frequency band yaa cabel tivi network channel ko simit karnaa bhi he
+ Analog and numerical modulation simplifies frequency division multiplexing, while simultaneously transferring multiple low-pass information signals via separate passband channels via a shared physical medium
+ ankiy besaband adhimishran pranali, jo ki line koding kehalaata he, kaa uddeshy bhi ek ankiy bit stream par besaband channel ko, ek serial bas yaa taar dwaara jude local aria network jaise non filter-tambe ke taar ke jariye hastanantarit karnaa he
+ The purpose of a pulse modulation system is to transfer a narrowband analog signal, for example a call call coming to a wideband baseband channel, or in some schemes the beat stream to another digital transmission system
+ anuroop adhimishran main, anuroop information sanket par adhimishran lagaataar chalata rahata he
+ Common analog modulation techniques are as follows: ankiy adhimishran main, anuroop vaahak sanket ek ankiy bit pravaah ke jariye adhimishrit hota he
+ The digital modulation method can have digital-to-analog conversion and demodulation or detection can be analog-to-digital conversion
+ vaahak sanket main parivartan m vikalp pratikon ke ek parimit sankhya se chune jate hai
+ a common example: a telephone line is designed to transfer audible sound, for example take a tone, it is not numeric bits
+ computer isiilie telephone main modem ke jariye sampark sthapit kar saktaa he, jo ankiy bits kaa pratinidhitiv tone, jise pratik kehete hai, ke dwaara karata hai
+ If there are four choice symbols, the first symbol can represent bit sequence 00, similarly the second one on 01, the third 10 and the fourth 11
+ If a modem plays music with 1000 tones per second, its symbol rate is 1000 symbols
+ / Per second, or baud
+ Since each tone in this example represents a message with two numeric bits, the bit rate is twice the symbol rate i
+e
+ 2000 bits per second
+ ankiy sanket kii ek paribhaasha ke anusaar, adhimishrit sanket ek ankiy sanket he, lekin ek anya paribhaasha main adhimishran ko ankiy se anuroop ke roopantaran bhi kaha gaya he
+ In most textbooks, the digital modulation scheme is synonymous with data transmission as digital transmission, in very few textbooks it is called analog transmission
+ atyaadhik moulik ankiy adhimishran takanic is prakaar hai: In QAM, an infinite signal and a quadrature phase amplitude are expressed in a finite number
+ ise ek tu-channel pranali ke rup main dekha ja saktaa he, harek channel ASK kaa upyog karata he
+ The resulting signal is equivalent to a combination of both PSK and ASK
+ uparokt sabhi paddati main harek charan, aavruti yaa aayam ek adbhut dohare beats ke pattern dwaara tay hote hai
+ Typically, each phase encodes the same number of beats of frequency or amplitude
+ is bits kii sankhya main shaamil pratik kaa pratinidhitiv vishesh charan dwaara hota he
+ If the alphabet includes m = 2 n { \ displaystyle m = 2 ^ {N}} as an optional symbol, each symbol represents a message of n bits
+ yadi pratik dar f s { \ displaystyle f_{s}} pratik prati second he, data dar n f s { \ displaystyle nf_{s}} beats prati second he
+ For example, an alphabet that has 16 optional symbols, each symbol represents 4 bits
+ isliye data dar bod dar se chaar guna hoga
+ In PSK, ASK or QAM, where the carrier frequency of the modulated signal is constant, the modulation alphabet often simply represents the zodiac, the i signal of the amplitude for each signal representing the x-axis and the q signal by the y-axis
+ QAM ke siddhant kaa upyog kar PSK or ASK, lekin kabhi-kabhi FSK bhi aksar paidaa kiya or pataa lagaaya jaataa he
+ The i and q signal can be combined into the complex-value signal i + jq
+ natijatan samatuly lo-paas sanket yaa samatuly besband sanket ke naam se janaa jane vaala vaastavik maan adhimishrit sanket physical sanket jatil maan kaa pratinidhitiv karata he
+ The following are the common steps useful for transmitting data by a modulator: resiver kii ore se aamtaur par di-modulator nimna kaary karata he: It is common in all digital communication systems that both the modulator and the de-modulator must be designed simultaneously
+ Numerical modulation schemes are possible because both the sender-recipient parties must know in advance how to encrypt the data and how to represent the communication system
+ In all digital communication systems, both the modifier of the sender and the de-modulator of the receiver are designed in such a way that they can work with each other in addition to their work
+ asangat adhimishran paddati main ek praapak ko sandarbh kaald sanket jo ki preshak vaahak wave ke saath ek hi charan main ghatit hota he, kii jarurat nahin hoti
+ aise maamle main adhimishran sanket main atulykaalik rup se sthanantarit hota hai
+ The opposite is favorable modulation
+ sabase zyada aam ankiy adhimishran takanic is prakaar hai: MSK and GMSK are special cases of continuous phase modulation
+ darasal, CPM ke upakutumb kaa MSK vishesh maamla he, jo ki continus phej frequency-shift keeing ek sankethik-samay kii avadhi ke taur par bhi janaa jaataa he, jo ki ek ytaakar aavruti pulse he
+ OFDM is based on frequency division multiplexing, but is used as a numerical modulation scheme
+ bit stream kai samanaantar data strimon main vibhajit ho jaataa he or harek stream paaramparik ankiy adhimishran yojana kaa upyog kar apane sab-carrier main sthanantarit ho jaataa he
+ The OFDM signal is an abbreviated form of a modulated subcarrier
+ OFDM ek bahuvidhi takanic ke bajaay ek adhimishran takanic ke rup main mana jaataa he, kyonki yah kisi bit stream ko tathakthith OFDM ke ek anukram kaa upyag karke sanchaar channel main hastantarit kar detaa he
+ OFDM can be expanded from channel access method to orthogonal frequency division multiple access and MC-CDMA scheme to multi-user channel, so that multiple users can use the same medium by giving code to different subcarriers or multiple users
+ Allow to do
+ do prakaar ke RF power vistaarak, swichan vistaarak kam keemat vaala he or ek hi output pavaar vaale liner vistaarak kii tulana main kam bydaree pavaar kaa upyog karata he
+ However, they only work with relatively stable amplitude modulation signals such as angular modulation and CDMA, but not with QAM and OFDM
+ Although the switching amplifier is also completely unsuitable for a common QAM group, the QAM modulation principle is often used to allow switching amplifiers to run with these fms and other waveforms, and sometimes QAM de-modulation uses these switching
+ This is done to get the signal by the expanders
+ ankiy besaband adhimishran shabd pankti kuta yaa sanket kaa paryaay he
+ It is a method of transferring a digital beat stream to the analog baseband, using a pulse train, which is a discrete numbered signal level, directly through modulating the voltage and current in the cable
+ ekadhruviya, non-ritern-tu-jiro, manchester or alternet mark invarsan kutalekhan vagairah iske saamaanya udhaaharan hai
+ The purpose of pulse modulation scheme is to transfer a narrowband analog signal to the pulse wave via modulation as a two-level signal in the analog baseband
+ kuch pulse adhimishran yojana nairoband anuroop sanket ko ek ankiy sanket ek sthai bit rate; jo ki anternihit ankiy preshak paddati he, ke rup main sthanantarit ho saktaa he, udhaaharan ke liye kuch pankti kuta, ko sthanantaran kii anumati pradaan karata he
+ In the formal sense, they do not fall under the modulation scheme, as they are not channel coding schemes, but should be treated as source encoding schemes and in some cases as analog-to-digital conversion techniques
+ analog-over-analog paddatiyaan : Analog-over-digital methods: vaidic dharmapar ek shrenee kaa bhaag Salvation dhyaan yoga According to astrology and time reckoning, various yogas are described in Hinduism
+ ye is prakaar hai:kaise nikaala jaye vivaah kaa muhoort Due to not matching the right marriage, the groom committed suicide
+ Today is the age of computers, see who is sitting in his computer with some software astrology, as soon as any bride is married to the bride, the bride and the girl are spoken directly
+ The birth dates of the horoscope are made with time etc
+ and they are seen to match the marriage directly, Gun Chakra Nadi Dosh and Bhakut Dosh easily the software of the computer Man removes it, Mars, whether it is retrograde, is of lesser degree, it does not take time to accuse Mangali, the moon, whether it is old or old, it does not take long to match the zodiac, Virgo's master force
+ Even if the Sun's force is not available at all, it is very weak, but according to the computer, it does not take long to tell the virtue cycle and the decision is made quickly, even if the lunar force of both is very Chchha be
+ is prakaar se kitne arth ke anarth ho jate he jin logon ko vastav me katai jyotish kii jaankaree nahi he ve aasaani se var-kanya ke gun dosha bataane lagate he or jab unase koi baat poonchhi jaati he to ve apane gun ko sarvocch bataane kii aashaa me apane anaap sanaap vachaali niti ko apnaane lagate he
+ It is auspicious to get married in the original Anuradha Mrigashira Revathi Hasta Uttaraphalguni Uttarashadha Uttarabhadrapat Swati Magha Rohini in Nakshatro and Jyeshtha Magha Falgun Baishakh Margashirsha Aashad in these months
+ vivaah kaa saamaanya din panchang me likhaa rahata he at: paanchang ke liye din ko lekar us din var kanya ke liye yah vichaar karnaa kanya ke liye gurubal var ke liye surya bal dono ke liye chandrabal dekh lenaa chaiye
+ Gurbal idea: -guru is auspicious in the ninth eleventh and second and seventh zodiac from the zodiac sign of Virgo, giving donations in the sixth and first zodiac is auspicious and inauspicious in the fourth and eighth in the twelfth
+ surya bal vichaar:- surya var kii raashi se teesraa chatha dasva gyarahawa shubh hota he,doosraa paanchavaa saatva or navaan daan dene se shubh mana jaataa he,chauthaa aathvaan barahwaan surya ashubh hota he
+ Chandrabal Idea: - Moon is auspicious by the sign of the bride and girl, third is sixth, seventh, tenth, eleventh, auspicious, second fifth, ninth, auspicious from charity, and fourth eighth is twelfth inauspicious
+ vivaah me tyaagane vaali lagane:- din me tula vrishchik or raatri main makar raashi badhir he,din me singh mesh vrish or raatri main kanya mithun kark andhi he,din me kumbh or raatri me min dono lagane pangu he,singh mesh vrish makar kumbh min ye lagan subah or shaam ke samay kubade hote he
+ Failure of renunciation: - If the marriage is in a deaf heart, the bridegroom may be laden with the treasure of Kuber but will be impoverished, if the marriage is done in the dark of day, the girl has to get distance from the groom, night If there is a marriage in the dark, then there is no question of being a child, and even if it is not alive, if the love is paralyzed, then wealth is destroyed and the dignity of the family begins to be destroyed
+ lagan shuddhi:- lagan se barahave shani dasave mangal tisare shukr lagn me chandramaa or krur grah achche nahi hote he laganesh or saumy grah aathven bhav me achche nahi hote he saatve bhav me koi bhi grah shubh nahi hota he
+ Planetary force: - In the first, fourth and ninth and tenth position, the master is going to destroy all the defects, the Sun in the eleventh position and the moon in the square of the highest position destroys the Navamsa Dosh, Mercury is in the fourth, fifth, ninth and tenth position
+ So often auspicious from bad to good
+ lagan kaa swami or navansh kaa swami ek hi bhav raashi ke hon to bhi aksar dosha shanti ko mana jaataa he
+kisi bhi vivaah sambandhi milan ke liye athwa kisi shankaa ke liye acharya gaya prasad porwal If there is a Yut or vision from auspicious days in the zodiac of the auspicious and fourth planet
+ pancham bhav main chandramaa par shukr kii purna drushti ho
+ In the 1st, 2nd, 11th house owners, the lord of the ascendant is in the second house, the lord of the second in the eleventh and the lord of the eleventh is in the lagna
+ ekadshesh or dwitiyesh chaturthsth honor chaturthesh shubhagrah kii raashi main shubhayut yaa drusht
+ Dhanesh is in the eighth house
+ lagn kaa swami dhansthaan main ho, laabh-sthaan main ho or labhesh lagn main ho
+ Lagnesh should be auspicious and be situated in the wealth place or Dhanesh is in the eighth position
+ yadi pancham sthaan main shukr se drusht chandramaa ho
+ If the Lord of wealth is in the 4th, 8th or 12th house, and Mercury is sitting in the seventh house, being self-occupied
+ duusare bhav main kark kaa chandramaa shani ke nakshatra par sthit ho or ashtum bhav main swagruhi shani chandra ke nakshatra par sthit ho, donon kii paraspar purna drushti hone se, shani kii mahadasha main chandramaa kaa antar aane se dhan nasht ho, yaa bhagyesh or dashamesh vyay bhav main hon
+ If there is a moon of Cancer in the house of money and Saturn in the eighth house is self-occupied, then the person becomes bankrupt in mutual Mahadasha Antardasha
+ dwitiyesh, navamesh or ekadshesh se yah yoga banataa he
+ When the moon is in the center and in the ascendant, but simultaneously the master is the master of fifth and eleventh house
+ yah yoga bahut shubh hota he- lakshmi, jaaydaad, swasthya or dderghaayu ke liye vishesh taur par
+ If the fifth sign of Sagittarius is Sagittarius or Pisces and if there is Moon or Mars in the eleventh house then Akhand Dhanayog is done
+ is yoga main utpann jataka nihsandeh lakhpati banataa he
+ 'kumbhaj' is the name of a famous sage
+ ek nakshatra kaa naam 
+ "boat Circle" appears 70 degrees to the south of Gemini sign
+ iskaa aakaar bada vistrut he
+ It extends from 40 degrees south latitude to 70 degrees south latitude and 85 degrees longitude
+ ise ‘‘nauka punj’’ bhi kehete hai
+ Its brightest star is 'agastya' which is located near 75 degree longitude and 53 degree south latitude
+ yah pratham shrenee kaa sitara he jo surya se 1900 guna tejasvi he tathaa prithvi se 100 prakaash varsh dur he
+ Indian astrologers knew this from ancient times
+ mahabharat main nahush ko naag kaha he, jo badalon ke arth main aayaa he
+ The name of the cloud in the Veda is 'ahi'
+ van parv main ‘agastyen tatobhyukto dhwans serpeti vai rushaa’ agastya nakshatra ke udai hote hi sarparupi jal kaa naash ho jaataa he
+ This star rises east at sunset in the month of October
+ bharat main yah samay varsha ritu kii samaapti kaa he atah iskaa udai hona varsha ke ant kaa suchak he
+ Tulsi Das ji has also written in Ramcharit Manas- 'uday Agastya Panth Shoshya, Jimi Lobhin Shoshe Santosha
+ ’ rugveda main use saat kirnon ko maarane vaala kaha he
+ Its Indian scientific name is 'k-nauthal' and Western scientific name is Alpha Majoris
+ puraana kii ek katha ke anusaar agastya kumbh-yonij kehalaate hai
+ Agastya married Rajakanya Lopamudra of Vidarbha
+ vindhya parvat garv ke kaaran badhane laga
+ Agastya set foot on Vindhya and went towards South and said, 'don't move till i come'
+ agastya ne kalkey rakshas ko samudr kaa pani pikar sukhaakar maar diya
+ They stayed in the south
+ vindhya kaa badhanaa bhi ruuk gaya
+ Argala fixes the fruit of the bhava or planet, that is, it handles firmly
+ atah bhav va grah ke fal ko vigalit hone, risne se bachaane vaali grah sthiti argala kehalaati he
+ If there are planets in 2, 4, 11 bhava from the house or planet which has to be seen, then it is inauspicious
+ in sthanon ke kramshah 12, 10, 3 argala baadhak sthaan hote hai
+ If the obstructing planets are weaker than the non-ergonomic or are less in number then they are the obstructing space
+ lekin tritiy main teen papgrah hon to yah kabhi bhi baadhit nahin hoti tathaa ise vipareet argala kehete hai
+ The fruit is also confirmed by this third house Argala
+ pancham sthaan bhi argala sthaan he tathaa navam sthaan iskaa baadha sthaan he
+ For Rahu and Ketu, the barrier place should be considered as Argala place and Argala place as obstacle place
+ lagnesh, panchmesh or navamesh ke prabhaav se agni kaa bhay rahata he
+ The planets of fire are Sun, Mars and Ketu
+ mesh, singh tathaa dhanu agni tatva rashiyaan hai
+ Under the Sanskriti Sanskrit, the tenth Sanskriti is fire
+ mangal, budh, guru or shani atichar or vakr hote hai
+ All the planets regularly orbit the Sun in a certain clockwise direction, but their motion is not even
+ surya se duuri kaa inaki gati par prabhaav padataa he, jisase kabhi inaki gati tej hoti he tathaa kabhi dhimi
+ The second effect is of the earth
+ ham prithvi ke saapeksh inaki gatiyon ko dekhte hai jo swayan surya kii parikrama kar rahaa he, is kaaran jab donon vipareet disha main hote hai to ye teevr gati se bhaagate dikhaai dete hai tathaa surya ke ek hi ore hone par prithvi aage nikal jaati he, jisase sitaron ke saapeksh main purv kii ore jate hue bhi pashchim main jate dikhaai dete hai
+ Hence this speed is called 'curve speed'
+ vastutah koi bhi grah ‘vakri’ nahin hota he, kintu prithvi kii gati ke kaaran ulta jaataa dikhaai detaa he
+ This is called 'virtual motion'
+ anya samay main jab ye grah sitaron ke madhya pashchim se purv kii ore jate dikhaai dete hai to inaki gati ‘margi gati’ kehalaati he
+ For this reason, Indian astrologers have determined the eight types of movements of these planets according to this virtual motion - curve, trajectory, growth, quick, quick, mand, mandar and samasam
+ atharv jyotish main nakshatra jyotish ko anya rup se darshaya gaya he
+ There are many important things in astrology that result in it
+ rik-jyotish, yajurveda-jyotish tathaa atharv-jyotish main se vedang jyotish kaa swatantra granth yahi kaha ja saktaa he
+ It contains 162 verses
+ vedang jyotish kaa kaal isa purv 501 varsh se 500 tak mana jaataa he
+ In terms of subject and language, its composition is ancient from both the above texts
+ isamen tithi, nakshatra, karan, yoga, tara or chandramaa ke balaabal kaa sundar nirupan kiya gaya he
+ At the time of the creation of atharva-astrology, the idea of astrology was started from a microscopic point of view
+ is samay bharat varsh main vaaron kaa bhi prachaar ho gaya tha tathaa vaaradhipati bhi prachlit ho gayi the
+ : adityah somo bhoumatch tathaa budhbrihaspatayo
+ Bhargava: Shanaishcharashaiva and Ate Sapta Dinadhipa: 
+ 93
+ 
+ In this way, the fruit has been beautifully told about the birth constellation of the native
+ teen-teen nakshatron kaa ek-ek varg sthapit kar fal bataaya he:1 janm nakshatra 10 karm nakshatra 19 aadhaan nakshatra2 sampatkar nakshatra 11 sampatkar nakshatra 20 sampatkar nakshatra3 vipatkar nakshatra 12 vipatkar nakshatra 21 vipatkar nakshatra4 kshemkar nakshatra 13 kshemkar nakshatra 22 kshemkar nakshatra5 pratvar nakshatra 14 pratvar nakshatra 23 pratvar nakshatra6 sadhak nakshatra 15 sadhak nakshatra 24 sadhak nakshatra7 nidhan nakshatra 16 nidhan nakshatra 25 nidhan nakshatra8 mitra nakshatra 17 mitra nakshatra 26 mitra nakshatra9 param mitra nakshatra 18 param mitra nakshatra 27 param mitra nakshatrauparyukt nakshatron kaa vargeekaran, jise tara kaha gaya he, ajtak isi prakaar kaa chalaa aa rahaa he
+ In this way, there have been many amendments and additions to the mission of the Jataka texts, but the order of Tara has remained the same
+ is chote se granth main grah-ulka, vidyut, bhucamp, digdah aadi kaa fal bhi sankshep main likhaa he
+ In the twelfth house, there is an adept tumor with the addition of Saturn and Ketu and the sum of Saturn and Mars
+ lagn spasht se 2, 3, 4, 5, 6 tathaa saptam bhav spasht tak kaa bhaag adrishy chakrarddh kehalaata he
+ 'solar year' and 'lunar year' are prevalent in India since ancient times
+ inamen ek kaa rugveda tathaa duusare kaa atharvaveda main bhi varnan aayaa he
+ Ritu is learned from the solar year
+ chandra tithiyon, maason se hamaare adhiktar parv va tyohaar manaaye jate hai
+ For this reason, our ancestors coordinated these two and made a year which is called lunar-solar year
+ magar har do yaa teen varshon main ek maas badha diya jaataa he, jise ‘malmaas’, ‘purushottammas’ yaa ‘adhikmas’ kehete hai, us chandra varsh main 13 chandramaada hote hai
+ In order to coordinate the two years, a rule was made that when Amavasya ends twice in a solar month, then that month's name becomes two lunar months and that lunar-solar year becomes 13 lunar months
+ surya kaa ek raashi se duusari raashi main janaa sakranti kehalaata he
+ This is called 'solar month'
+ rashiyaan 12 he, atah saura varsh main bhi 12 maas hote hai, jiskaa maan 365
+2422 din he
+ The lunar year is 354
+372 days long
+ inamen lagbhag 11 din kaa antar he
+ Normally 32 months, 16 days, 4 months pass, one month difference comes
+ is prakaar jab do paksh main sakranti nahin hoti to use adhik maas kehete hai
+ The month between two months of the same name is pure
+ pehla krishna paksh tathaa antim shukla paksh ’adhik
+ Vaishakh, Jyeshtha, Ashadh, Shravan, Bhadrapada and Ashwin can be adhimaas
+ miton ne 433 i
+pus
+ main dekha ki 235 chandramaada or 19 saura varsh arthath 19*12 = 228 saura maason main samay lagbhag samaan hota he - inamen lagbhag 1 ghante kaa hi antar hota he
+ 19 Solar Years = 228 Solar Mass = 19 * 365
+25 Tr 6939
+75235 Lunar Mass = 235 * 29
+531 = 6939
+785 Thus we see that every 19 years there are 228 Solar Mass and about 235 Lunar Mass i
+e
+ 7 Lunar Mass is more
+ is prakaar prayek 19 chandra-saura varshon main 7 baar adhikmas karne hote hai
+ If the Moon is in the center of the Sun, then the native's religious education, knowledge, intelligence and wealth are of inferior nature
+ usee prakaar yadi surya se chandramaa panafar arthath 2, 5, 8 or 11 sthangat ho to upar likhe hue gunon main jataka saadhaaran prakaar kaa hota he
+ Again, if the moon is in the apoclim ie 3, 6, 9 and 12 from the sun, then the native possesses the above qualities
+ yadi chandramaa apane navansh main ho yaa mitra-gruhi ho athwa us par brihaspati yaa shukr kii drushti padati ho to jataka dhani or sukhi hota he
+ It is rich in eyesight from Jupiter and then by sight from Venus
+ yah bhi kaha gaya he ki yadi chandramaa par kisi grah kii drushti nahin padati ho to jataka ekant-priy hota he
+ There are difficulties in earning money for such a person and there are obstacles in all his works
+ yadi chandramaa par kisi grah kii drushti na ho or dasham sthaan main bhi koi grah na ho to kathinaaiyaan asay ho jaati he
+ Carceshoe Spanner himself
+ veekshate chet tachaa baalo vyayshilo bhaveddhruvam
+ 
+ aatmkaarak grah jis raashi main ho, us raashi kaa swami yadi kaarak se dwadash ko dekhe to jataka kharchile swabhaav kaa hota he
+ According to Varahamiheer, if Jupiter, Venus, and Mercury are in the seventh, seventh and eighth positions of the moon in the birth, that is, there is 'adhyoga' in that place
+ parantu anyaanya rishiyon kaa yah bhi kathan he ki janm-lagn se yadi brihaspati, shukr evam budh shashth, saptam evam ashtum gat ho to bhi ‘adhiyog’ hota he
+ Some sage has also called it 'speaker-yoga'
+ ek vidvan ke anusaar ‘lagn-adhiyog’ use kehete hai, jab lagn se 6, 7, 8 sthaan main shubhagrah baithe hon, ve na to paap se yukt hon na drasht ho or chaturth sthaan main papgrah na ho
+ It is also available from the opinion that if there is auspiciousness in 6, 7, 8 places from the Moon-lagna and birth-lagna, then there is Adhog
+ yadi papgrah baithe ho to ‘paap-adhiyog’ or yadi upar likhe hue shubhagrahon ke saath papgrah bhi ho to ‘mishra-adhiyog’ hota he
+ For this reason there will be six types of 'adhyayag'
+ arthath lagn se teen prakaar ke or chandra lagn se teen prakaar ke
+ It is important to note here that Jupiter, Venus and Mercury are one each in 6, 7, 8 places or two in any place or all three will be in one place
+ is adhiyog kaa fal yah he ki aisa jataka ‘shubh-adhiyog’ ke hone se grahon ke balaabal ke taratamyanusaar kisi raaj-singhaasana kaa adhikari hota he
+ It is healthy, long-lived, conquering enemies and full of worldly pleasures
+ ‘mishra-adhiyog’ hone par jataka mantri, kayryadhyaksh, nayak evam ucch padaadhikari hota he
+ On being a 'sin-adder', the hero of the war department and the officer or officer of the police department
+ ‘lagn adhiyog kaa fal is prakaar he - aisa jataka anek prakaar ke shastron arthath vigyanadi vishyak pustakon kaa lekhak hota he
+ One who knows many types of knowledge, is a hero of the army, honest, one who enjoys happiness and fame in the Mahatma and the world
+ chandramaa se dwadashastha koi grah ho, kintu dwitiya sthaan grah shunaya ho to use ‘anpha yoga’ kehete hai
+ Here the presence of other planets except the Sun is expected
+ ‘yavan’ ke kathananusaar yadi chandramaa se dasham main suryatirikt koi grah ho to ‘anpha yoga hota he
+ a person with 'anafa' yoga is affectionate, famous, famous, happy with worldly matters, contented, healthy and healthy
+ anpha yoga main chandramaa se dwadasth grahon kaa faladeshyadi chandramaa se mangal dwadasth ho to jataka ranotsuk, krodhi, maani or daakuon kaa sardaar hota he
+ But its appearance is attractive
+ yadi budh ho to vah chitrakaari, gaan-vidya kaa vyaakhyaata, vidvan vaktaa, yashasvi, sundar or raja se sammanit hota he
+ If Jupiter is there then the native is very meritorious, serious, virtuous, pure practical, rich and obeyed and respected by the king
+ yadi shukr ho to jataka striyon ke liye chittkarshak hota he
+ He is also highly intelligent, rich in wealth and the owner of many animals
+ shani ho to jataka ajaanu-bahu, gunavan, netaa, pashwaadiyon kaa swami hota he or aise jataka kii vaani sarv-grahinee hoti hai parantu iskaa vivaah kisi ek dushta stri se hota he
+ The lagna, second, fourth, fifth, seventh, eighth, ninth and twelfth expressions are called 'anapachaya' or 'pirdaraksh'
+ jin graho kii kaksha prithvi kii kaksha se choti or surya va prithvi kii kaksha ke madhya main he unhen aantarik yaa antargrah kehete hai
+ Mercury, Venus and Earth are these internal planets
+ antaryuti yaa nikrusht yuti jab koi aantarik grah surya or prithvi ke madhya main ho arthath grah ke ek ore surya or duusari ore prithvi ho tathaa surya va grah donon ke bhogaansh samaan ho, vah us grah kii antaryuti hoti he
+ The period of interlude is the time it takes for a planet to move from one type of yatra to another type of yatra again, it is called the conjunct-age of that planet
+ budh kaa sanyuti kaal ham is prakaar samaj sakate hai - budh kaa nakshatra kaal 87
+969 din he or prithvi kaa 365
+256 din
+ Mercury moves at a much faster angular speed than Earth
+ nimna akruti dekhen -is akruti ke madhya main surya he
+ The circle closest to it is the orbit of Mercury outside it and the outermost circle is Bhachakra
+ tir kii disha main budh or prithvi parikrama kar rahe hai or bhachakra ke bhogaansh bad rahe hai
+ When the center of the Earth is at A, then the center of Mercury is at a 1 and the center of the Sun, the center of Mercury and the center of the Earth are in a line
+ is samay budh kii antaryuti ho rahi he
+ Both Earth and Mercury are traveling on their respective paths
+ budh 87
+969 din baad ek chakra puraa kar punah k1 par aayaa, kintu prithvi apni dhimi gati se bhraman karti hui bindu k se aage chali gai
+ Now Mercury moves further to point b1 where there is earth at point b
+ punah kha, kha1 or surya ek rekha main aaye arthath budh or surya ke bhogaansh samaan hue arthath budh kii dobaaraa antaryuti hui
+ The time taken by Mercury to complete one cycle from K1 and later to B1, that was the conjunct of Mercury
+ ise is prakaar bhi kah sakate hai ki jitna samay prithvi ne k se kha tak chalane main liya vah budh kaa sanyuti kaal he
+ The conjunct period of Mercury is 115
+88 earth days and Venus's 583
+92 earth days
+ anrtgrahon kii chandramaa kii tarah kalaayen hoti he
+ Interiors are retroactive when close to the Earth
+ grahon kaa paravartit prakaash jitna prithvi par aata he, vah us grah kii chamak kehalaati he
+ This light depends on two things
+ grah kii prithvi se duuri par
+ As the planet approaches Earth, the brightness increases and less when moving away
+ kyonki prakaash kii chamak kii tivrata, duuri ke varg ke vilomanupati main hoti he
+ For example, if a light is 3 times the distance, then its 9th part will be light intensity
+ grahon kaa kitna prakaash vaala bhaag prithvi kii ore he
+ In the intuitions we take the example of Venus
+ jab vah bahiryuti par hota he, tab shukr prithvi se adhiktam duuri par hota he or antaryuti main prithvi ke paas hota he
+ In Bahiruti, his image is of 11 '' while in Indruti, 66 '' means 6 times larger
+ antaryuti ke paas main yadhyapi shukr kaa bahut patala-sa bhaag dikhaai detaa he, kintu yah paas hone ke kaaran bahiryuti vaale purna dikhaai dene vaale shukr se kahin adhik prakaash paravartit karata he
+ When Venus makes a radius of 400 from the Sun to Earth, the maximum luminosity is seen
+ anrtgrahon kaa prabhaav antargrah jab vakri hote hai tab unki aakarshan shakti, vidyut-chumbakeey shakti aadi adhik hoti he, jyon-jyon prithvi se dur jate hai, kam hoti jaati he
+ The reflected light decreases after the specified diffusion angle and does not come at all when there is an error
+ is kaaran inkaa prabhaav grah ke ucch hone jitna ho jaataa he 
+ The seventh sacrament of conception Annaprashan is performed within one year from birth
+ shishu ko pratham baar ann kii bani vastu khilaane arthath thos ann kaa aahaar pratham baar dene kaa naam ‘annaprashan’ he
+ According to the ancient tradition, the son of the son should be present above even the best month and in the odd month ahead of the fifth month, the food of the girl should remain intact
+ usamen bhi balak ko chandrabal shubh hone par shukla paksh rahe, yah aavashyak he
+ Shukla Paksha should be taken for this ritual
+ mangal or shanivaar is kaary ke liye varjit he
+ Dates should be taken from the rest except Rikta, Nanda, Parva, Dwadashi and Ashtami / Saptami
+ nakshatra mridu, laghu, char, sthir sanjyak ho
+ The three Purva, Alesha, Ardra, Shatmisha and Bharani are forbidden
+ mataantar se anuraadhaa, shatmeisha, swati or janm-nakshatra ko shubh nahin batalaaya gaya he
+ After giving Pisces, Aries, Scorpio ascendant and birth ascendant or ascendant from the ascendant or zodiac sign, you should do Annaprashan in auspicious days by observing Lagna purification in the remaining Ascendant
+ nakshatra or tithiyon main mataantar bhi paaya gaya he
+ In this ritual, no planet in the tenth house should be in the lagna horoscope nor should there be any illusions on it
+ surya hone par mrigi, mangal hone par dublaapan tathaa shani hone par pakshaaghaat kii sambhaavna rahati he
+ After worshiping the deities in the auspicious aforesaid, the parents or grandparents should give the child with a chant of gold or silver or with a small spoon, with the following mantra, to give the child a kheer etc

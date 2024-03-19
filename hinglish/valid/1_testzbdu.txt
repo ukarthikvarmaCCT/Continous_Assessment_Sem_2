@@ -1,0 +1,1911 @@
+yuarai ne sankethik rup se sevaayen, sarwar, or anya database, or dastavejon or sansadhano kii pahchaan kii he jo ve pradaan kar sakate hai
+ Hypertext Transfer Protocol is the main access protocol of the World Wide Web
+ The web service also uses HTTP to communicate software systems to share and exchange business logic and content
+ microsoft ke internet explorer / age, mozila fyrafox, opera, appal safari or google krom jaise world wide web brouzar software, dastavejon main ambeded hiserlink ke jariye upyogkartaaon ko ek web pej se duusare par nevigate karne detaa he
+ These documents can contain any combination of computer content that includes graphics, voice, text, video, multimedia, and interactive content while the user is interacting with the page
+ client said software main anemation, game, offis aplication or vaigyanik pradarshan shaamil ho sakate hai
+ Using keyword-driven Internet research using search engines such as Yahoo !, Bing and Google, users worldwide have easy, instant access to a vast and varied amount of online information compared to printed media, books, encyclopedias and traditional libraries
+ In the, the World Wide Web has enabled the decentralization of information on a large scale
+ web ne vyaktiyon or sanghathanon ko bahut kam vyay or samay ke deree par sambhavit bade darshakon ke liye vichaaron or jaankaree ko prakashit karne ke liye bhi sakasham kiya he
+ Publishing a web page, creating a blog, or a website involves little initial cost and many cost-free services are available
+ However, publishing large, professional web sites with attractive, varied and up-to-date information and Maintaining is still a difficult and expensive proposition
+ kai vyaktiyon or kuch companiyaan or samooh web logs yaa blog kaa upyog karte hai, jo ki aasaani se aasaani se apadet karne yogya online diary ke rup main upyog kiya jaataa he
+ Some commercial organizations expect employees to be influenced by expert knowledge and free information and will attract corporations as a result
+ lokapriy web pejon par vigyaapan aakarshak ho saktaa he, or i-commers, jo sidhe web ke madhyam se utpaadon or sevaaon kii bikri hoti he, badhati rahati he
+ Online advertising is a form of marketing and advertising that uses the Internet to deliver promotional marketing messages to consumers
+ isamen email vipanan, khoj ingine vipanan, soshal media marketing, kai prakaar ke pradarshan vigyaapan, or mobile vigyaapan shaamil hai
+ In 2011, Internet advertising revenues in the United States outpaced those of cable TV and nearly all were higher than broadcast television
+ 19 kai aam online vigyaapan pratha vivaadaaspad hai or niyamit rup se kanoon ke adheen hai
+ When the web developed in the 1990s, a specific web page was stored in full form on a web server, formatted in HTML, that was completed for transmission to a web browser in response to a request
+ samay ke saath, web pej banane or pesh karne kii prakriya gatisheel ho gai he, ek lacheelee dizin, leout, or saamagree bana rahi he
+ Websites are often built using content management software, initially, with very little content
+ in systamon ke yogadanakarta, jo bhugtan kiya ja saktaa karmchaaree, kisi sanghathan yaa janata ke sadsy, us prayojan ke liye dizine kiye gaye sampadan prishthon kaa upyog karke antarnihit databes ko bharen, jabaki cazual vizitors achtmal prapatr main is saamagree ko dekhne or padhein
+ There may or may not be editorial, approval and security arrangements built into the process of taking new entry material and making it available to the target
+ email ek mahatvapurn sanchaar seva he jo internet par uplabdh he
+ The concept of sending electronic text messages between parties in a way similar to a mailing letter or memo predates the creation of the Internet
+ chitra, dastavej, or anya filein email sanlagnak ke rup main bheji jaati hai
+ Internet telephony is another common communication service made possible by the creation of the Internet
+ vioipi wais-over-internet protocol kaa arth vah protocol he jo ki sabhi internet sanchaar ke antargat aata he
+ The idea began in the early 1990s with voice applications such as walkie-talkie for personal computers
+ In recent years many voip systems have become as easy to use and convenient as normal telephones
+ The advantage is that Internet voice traffic As it is, voip can be much less or free than a traditional telephone call, especially over long distances and especially those Internet connections such as cable or e-mail
+ For DSL
+ vioipi paramparaagat telephone seva ke liye ek pratispardhi vikalp main paripakv ho rahaa he
+ Interoperability between different providers has been improved and the ability to make or receive calls from traditional telephones is available
+ saral, sasti vioipi network adapter uplabdh hai jo ek nijee computer kii aavashyaktaa ko samaapt karte hai
+ Voice quality for making calls can still vary, but often equals traditional calls and can be even higher
+ vioipi ke liye shesh samasyaon main apatkaaleen telephone number dialing or vishwasaneeyata shaamil he
+ Currently, some voip providers provide an emergency service, but it is not universally available
+ "atirikt suvidhaon" vaale puraane paaramparik phone keval power vifal hone ke dauraan hi sanchalit hote hai or sanchalit hote hai; vioipi phone upkaran or internet acces divises ke liye byaap power strot ke bina aisa kabhi nahin kar saktaa he khilaadiyon ke bich sanchaar ke ek rup ke rup main, vioipi gaming anuprayogon ke liye teji se lokapriy ho gaya he
+ Popular voip customers for gaming include Ventrilo and Teampeak
+ Modern video game consoles also offer voip chat features
+ fil saajha karnaa internet par badi maatra main data sthanantarit karne kaa ek udhaaharan he ek computer file graahakon, sahyogiyon or mitron ko ek anulgnak ke rup main email kar sakati he
+ It can be uploaded to a website or file transfer protocol server for easy download by others
+ sahakarmiyon dwaara tatkaal upyog ke liye ise "saajha sthaan" yaa fil sarwar par rakhaa ja saktaa he kai upyogkartaaon ke liye thok downlod kaa lod "mirar" sarwar yaa pear-tu-pear network ke upyog se aasaan ho saktaa he
+ In one of these cases, access to the file can be controlled by user authentication, file transit over the Internet can be hidden by encryption, and money can change hands to access the file
+ keemat se dhan ke remote charging dwaara bhugtan kiya ja saktaa he, udhaaharan ke liye, ek credit card jiskaa vivaran bhi paarit kiya jaataa he - aamtaur par puri tarah se ancript kiya gaya - internet par praapt file kii utpatti or pramanikta digital hastakshar dwaara yaa emdi 5 yaa anya sandesh dijests dwaara jaanch kii ja sakati he
+ These simple features of the Internet, on a worldwide basis, are changing the production, sale, and distribution of anything that can be reduced to a computer file for transmission
+ isamen sabhi tarah ke print prakaashan, software utpaada, samachar, sangeet, film, video, photography, graphics or anya kala shaamil hai
+ This in turn has resulted in seismic changes in existing industries that previously controlled the production and distribution of these products
+ strimming media ant upyogkartaaon dwaara tatkaal khapat yaa anand ke liye digital media kaa vaastavik samay vitaran he kai radio or television broadcasters apane live audio or video prastutiyon ke internet fid pradaan karte hai
+ They can also allow time-shift viewing or listening such as previews, classic clips and listen-again
+ in pradaataaon ko ek shuddh internet "broadcasters" kii shrenee main shaamil kiya gaya he, jinke paas on-air license nahin tha
+ This means that an Internet-connected device, such as a computer or more specialized, can be used to access on-line media in the same way as was previously possible only with television or radio receivers
+ The range of content ranges from specialized technical webcasts to demand-popular multimedia services
+ broadcasting is vishay par ek bhinnata he, jahaan aam taur par audio-saamagree downlod kii jaati he or computer par waapas khelaa jaataa he yaa sthanantarit karne ke liye sune jane vaale portable media player main sthanantarit ho jaataa he
+ Using simple tools, these technologies allow anyone with little censorship or license control to transmit audio-visual content worldwide
+ digital media strimming network bandwidth kii maang ko badhaati he udhaaharan ke liye, maanak chhavi gunvattta ke liye esady 480 pi ke liye 1 embiti / es link gati kii aavashyaktaa hoti he, echdi 720 pi kii gunvattta main 2
+5 embiti / es kii aavashyaktaa hoti he, or ucchtam-echdex gunvattta ko 1080 pi ke liye 4
+5 embiti / es kii aavashyaktaa hoti he
+ The webcam is a low-cost extension of this phenomenon
+ jabaki kuch webacam puraa-frem-dar video de saktaa he, to chitra aamtaur par chota hota he yaa dhire-dhire apadet hota he internet upyogkarta ek africa waterho ke aasapaas pashuon ko dekh sakate hai, panama nahar main jahaajon, sthaneey roundbout par trekkic yaa apane swayan ke parisar kii nigaraanee, live or vaastavik samay main dekh sakate hai
+ Video chat rooms and video conferencing are also popular, with many being used for personal webcams, with and without two-way sound youtube was established on 15 February 2005 and is now free streaming with a vast number of users The video is the leading website
+ yah ek flash aadhaarit web player kaa upyog karata he jo video filon ko stream or dikhaati he
+ Registered users can upload unlimited amounts of videos and create their own personal profiles
+ utyub kaa daawa he ki iske upyogkarta saikadon million dekhte hai, or har din lakhon video aplod karte hai
+ Currently, youtube also uses an HTML5 player
+ aadhunik internet main bahut se saamaajik or saanskrithik pahalu bhi hai
+ It is a universal global information environment
+ internet sanchaar ke liye sabase vyapak takneekee avasar pradaan karata he
+ Also, it is easy to find people with similar interests and views of the same world on the internet, or to find past acquaintances who were scattered at different places on Earth due to life circumstances
+ iske alaava, web par samvaad shuru karnaa, vyaktigat baithak main baithkar shuru karne se manovaigyanik rup se aasaan he
+ These reasons determine the creation and active development of web communities
+ antarjaal samudaayen un logon kaa samudaay he jo aam shauk ko saajha karte hai, or mukhya rup se antarjaal ke madhyam se samvaad karte hai
+ Such internet communities are gradually playing a tangible role in the life of the whole society
+ antarjaal kaa lat antarjaal kaa upyog karne or network par bahut samay vyateet karne kii ek jununee ichha he
+ Internet addiction is not a mental disease according to medical criteria
+ bharat main antarjaal 80 ke dashak main aayaa, jab ernett ko sarkaar, electraunix vibhaag or sanyukt raashtra unnati kaarykram kii ore se protsaahan mila
+ The network became available for general use from August 15, 1995, when Bharat Sachar Nigam Limited started the Gateway service
+ bharat main internet istemaal karne waalon kii sankhya main tezi se ijapha hua he
+ The Internet has reached 1
+32 billion people, which is about 34
+8% of the total population
+ puri duniya ke sabhi internet istemaal karaton main bharat kaa yogadan 13
+5 % fisadi he
+ Also, the Internet is used for personal needs such as banking, train information-reservation and other services
+ aaj internet kii pahunch lagbhag sabhi gaanv evam kasbo or dur daraaj ke ilaako tak fail chuki he l aaj lagbhag sabhi jagahon par iskaa upyog ho rahaa he l or wo din dur nahin jab bharat duniya main internet ke upyog ke maamle main sabase aage ho l or 2015 se sarkaar bhi puri tarah se online hone ke taiyaari main lag gai he l ab bharat ke kareeb log puure desh se apane paise ko len-den kar sakate he
+ And sitting at home shopping
+ bharat puri tarah se internet se judane kii taiyaari main he
+ From 2015 to 2018, there has been an increase of about 10% of the internet users in India
+ 2016 main telecom company jeeyo ne kareeb 1 saal tak internet muft kar diya tha
+ After the arrival of Jio, the users of the Internet are constantly increasing
+ bharat main abhi bhi kai jagah mobile network na hone ke kaaran log pareshaan hai
+ There is access to wireless internet across the country
+ chaahe aap hawaii adda main ho yaa samudratat yaa jangal main, har jagah internet kii pahunch he
+ Access is also free here
+ estonia main 25 fisadi voting online hoti he
+ Here parents can see their children's daily school activity, examination marks and non-class work online
+ yahan ek vyapaar online setap taiyaar karne main mahaj 18 minute kaa samay lagata he
+ In Estonia, 993,785 use the Internet, which is about 78 percent of the entire population of this country
+ yahan kii jansankhya 1, 274,709 he
+ Estonia has the most freedom on the Internet
+ sanyukt rajya kii jansankhya 313 million, yani 3130 lakh hai, jahaan 245 million, yani 2450 lakh log internet istemaal karte hai
+ Internet access here is 78 percent and people of this country comprise 11 percent of the world's population as users of the Internet
+ estonia ke baad internet par sabase adhik swatantraaa america, german, australia, hungary, italy or philippines ko he
+ These countries provide more freedom on the Internet than other countries of the world
+ yahan par congresonal bill kaa virodh ho rahaa he, jiskaa iraadaa privesi or non america website hosting ko lekar he
+ More than half of Americans watch TV on the Internet
+ yahan par mobile par internet kaa upyog swasth, on line banking, bilon kaa pement or sevaaon ke liye karte hai
+ Internet is the most used social media in Germany
+ vahaan ab apni anya jaruraton, bankig, nijee kaary aadi ke liye bhi kiya ja rahaa he
+ In the last five years, broadband services in Germany are becoming much cheaper
+ iske rate isaki gati aadi par nirbhar karti he
+ Here TV and telephone services are also available from the Internet
+ yahan kii 73 fisadi aabaadi ke gharon tak intnet kii pahunch uplabdh he
+ Computer and Internet facilities are provided free of cost to students in German schools
+ germany main 93 fisadi istemaal karaton ke paas dles conection he
+ Germany has a population of 81 million and 67 million use the Internet
+ yahan 83 fisadi internet kii acces he or vishwa ke internet upyogkarta kii sankhya main yahan ke logon kii teen fisadi hissedari he
+ In Italy, 58
+7 percent people have access to the Internet
+ yahan 35,800,000 log internet istemaal karte hai
+ 78 per cent of the people here use the Internet to send and receive emails
+ iske duusare number par 67
+7 fisadi upyogkarta ne gyaan ke liye or 62 fisadi upyogkarta ne vastuon evam sevaanon ke liye kiya he
+ According to a survey, 34
+1 million mobile users have access to the Internet
+ italy main internet 25 euro dollar main pratimah ke rate se uplabdh he
+ Only three out of 10 people in the Philippines have access to the Internet
+ haalaaki is desh kaa daawa he ki yah soshal media ke liye vishwa kaa ek bada centre he
+ In the Philippines, users have the most freedom on the Internet
+ yahan ke log bina kisi baadha ke internet kaa upyog karne ke liye swatantra hai
+ The total population of the funerals is 1,660,992
+ isamen main 32
+4 fisadi logon tak internet kii pahunch he
+ The Philippines has 33,600,000 internet users
+ yahan par log sabase adhik internet kaa upyog soshal media ke liye karte hai
+ The UK has a population of around 63 million and uses about 53 million internet
+ internet kii pahunch 84 fisadi logon tak he, jo vishwa ke kul upyogi kii sankhya kaa do fisadi hai
+ There is a freedom of expression on the Internet at a high level here
+ lekin haal ke varsho main soshal media twitor or fasebuk par lagaae aanshik pratibandh ne internet par purna swatantraaa vaale desh kii shrenee se baahar kar diya he
+ These social media services can be banned here
+ euke main 86 fisadi internet upyogkarta video cites par aate hai
+ Here 240 million hours of users watch online video content
+ google ke baad yahan utyub or fesabook ko sabase zyaada dekha jaataa he
+ 59 percent of people in Hungary are Internet users
+ pichley 1990 se dial ap conekshnon kii sankhya badi he
+ Since 2000, the number of broadband connections increased significantly
+ yahaan 6,516,627 internet upyogkarta hai
+ Users here mostly use the internet for business and marketing messages
+ australia kii jansankhya : 22,015, 576 he, jisamen se 19, 554,832 internet upyogkarta hai
+ In Australia, the user has a lot of freedom in online content on the Internet
+ vah sabhi raajnneetik, saamaajik pravachan, manushya rhite ke ulanghar aadi kii jaankaree hasil kar letaa he
+ Internet availability rate in Australia is 79 per cent
+ australia ke log apane gharon se kai kaam apane mobile par kar lete hai
+ In Argentina, the Internet was first introduced for commercial use in 1990, although it was previously focused on educational approaches
+ dakshini america kaa yah ab sabase bada internet kaa upyog karne vaala desh he
+ It has an estimated population of 42,192,492, with 28,000,000 internet users
+ yah kul sankhya ke lagbhag 66
+4 fisadi he
+ There are 20,048,100 people on Facebook
+ dakshin-africa main pehla internet conection 1998 main shuru kiya gaya tha
+ After this, commercial use of the Internet started in 1993
+ africa mahadweep main vikaas kii tulana main dakshin africa teravaan sabase adhik internet kii pahunch vaala desh he
+ In terms of internet usage, this country is ahead of other countries in Africa
+ ek anumaan ke anusaar yahan kii jansankhya 48,810,427 he, jinamein se 8,500,000 internet upyogkarta hai
+ In Japan, the Internet is mostly used for blogging
+ japan ke samskruti main blog bada bhoomika adaa karte hai
+ On average, a useful 62
+6 minutes of recap uses their time on the blog
+ iske baad dakshin korea ke upyogi hai, jo 49
+6 minute or tisare sthaan par poland ke upyogi hai, jo 47
+7 minute apana vakt blog par dete hai
+ Here 42 percent people use internet for social media every day
+ 18 se 24 saal ayuvarg ke yuva sabase adhik internet kaa upyog kar rahe hai
+ Internet usage in metropolitan cities is becoming very high for TV viewing
+ vishv main internet kii seva sabase adhik mahangi turkmenistan main he
+ Here at the dollar rate for unlimited internet access is 2048, which rises to $ 6,821
+01 a month
+ yahan sabase sasti internet seva 43
+12 dollar prati maah main upyogkarta ko 2 jibi 64 kebipies simit he
+ Whereas fast internet unlimited internet in Russia is around $ 20 per month
+ ek report ke mutabik, internet kii gati tej hone par ek parivaar saal bhar main internet par hone vaale kharch main se kareeb 5 lakh rupee bachaa saktaa he
+ In this, the most money can be saved in the form of internet used in entertainment, online deal, deal search and travel
+ ausat world wide downlod speed 58 kilobite prati second he
+ South Korea has the fastest Internet average speed
+ yahan kii gati 2202 kebipies he
+ The eastern European country Romania is in second place with 1909 and Bulgaria in third place with 1611 kbps
+ gati ke maamle main hangakong main internet kii ausat peak gati 49 embipies he
+ Whereas in the US it is 28 Mbps
+ haalaaki america vishwa kaa sabase adhik internet se judaa hua desh he
+ When the Internet is used to describe a specific global system of Internet Protocol networks based on the Internet, the term is a proper noun that must be written with an initial capital character
+ saamaanya upyog or media main, yah aksar galat rup se nahin kiya jaataa he, arthath internet
+ Some guides specify that the word should not be capitalized when used as a noun, but when used as an adjective
+ internet ko bhi network ke ek chote rup ke rup main, net ke rup main bhi janaa jaataa he
+ Historically, as of 1894, the term used on the Internet was used as an adjective without any form, meaning interconnected or interviewed
+ shuruaati computer network ke dizinron ne internet or internetwarking ke laghukath rup main ek sangya ke rup main or ek kriya ke rup main internet kaa upyog kiya, jiskaa matlab he ki computer network paraspar jude hue hai
+ The term Internet and World Wide Web are often used interchangeably in everyday speech; When using a web browser to view web pages, it is common to speak of "going to the Internet"
+ However, the World Wide Web or Web is one of only a large number of Internet services that collect web interconnected documents and other web resources
+ , Which is linked by hyperlinks and urls
+ tulana kii duusari baat, hypertext transfar protocol, yaa ech tii tii pi, soochna hastantaran ke liye web par istemaal kii jane vaali bhashaa he, phir bhi yah sirf kai bhashaaon yaa protocol main se ek he, jiskaa upyog internet par sanchaar ke liye kiya ja saktaa he
+ The term interweb is a portman of the Internet and the World Wide Web is usually used sarcastically to parody a technically unusual user
+ narsambhatlapallu main bharat ke andhrapradesh rajya ke antargat ke anantpur jile kaa ek gaanv he
+ Legal Sociology) is studied as a sub-field of Sociology or as an interdisciplinary field only under the study of law
+ samajashastreey vidhishastra kii sankalpana apekshaakrit aadhunik he
+ It originated in the nineteenth century when man began to realize that for the development of society, it is absolutely necessary to adopt a path of mutual cooperation by staying in social discipline
+ vartmaan main manushya ke vaiyaktik paksh ke bajaay saamaajik paksh par adhik bal diya jane laga he
+ Due to the law having a close relationship with social changes, he could not remain unaffected by this changed attitude of human beings
+ faltah vidhishastra kii ek nai paddati kaa pradurbhaav hua jo samajashastreey vidhishastra ke naam se viksit hui
+ Under this, a greater emphasis has been laid on the social aspect of the law
+ samajashastreey vidhishastra ko ‘hiton kaa vidhishastra' bhi kaha gaya he kyonki prayek saamaajik vyavastha kaa mukhya lakshya yahi he ki manushya ke hiton kaa sangrakshan evam sanvardhan ho sake
+ Legislatures adopting this approach to law are of the view that co-ordination of conflicting interests of human beings is the main task of jurisprudence
+ german vidhishastri rudolf ehring ne is vichaardhaara ko adhik viksit kiya he
+ According to him, the law has neither evolved independently nor is it an arbitrary gift of the state
+ vah vivek par bhi aadhaarit nahin hai balki samichinata par aadhaarit he kyonki iskaa mul uddeshy samaaj ke paraspar virdohi hiton main takaraav kii sthiti ko samaapt kar unam samanvay or ekarupata sthapit karnaa he
+ According to the Sociologists of Jurisprudence, it is necessary for the courts to emphasize more on its practical aspect by not giving special emphasis to the abstract and written form of the law, that is, they should examine the social needs and objectives which were responsible for passing the relevant law
+ Huh
+ samajashastreey vidhishastra ko america main prabal samarthan praapt hua he
+ Renowned American scholar Dean Rasko Pound has called the school of 'social engineering'
+ is vichaardhaara ke anusaar vidhishastra ke antargat mukhyatah do baton kaa adhyayan kiya jaataa he- The adoption of a sociological approach to jurisprudence resulted in the emergence of realistic ideology in America under which the functional aspect of the law was given so much importance that it undermined the importance of abstract rules of codes and enactments and the principles embedded in them
+ vidhi tathaa vidhishastra ke prati prayojnatmak drushtikon apanaate hue yathartwaadiyon ne vidhi ko kaalpanik siddhanton se ubarkar tathyon par aadhaarit vaastavik rup pradaan kiya or is prakaar vidhi ko saamaajik samasyaon ko sulajhaan vaala ek kriyaatmak saadhan mana
+ Jerome Frank, a strong proponent of this ideology, believed that the rule of law is a hypothetical fact because the law is always variable and therefore no special importance should be given to the codification or pre-judgments of the law
+ frank ke anusaar vidhi ke vikaas kaa saamaajik pragati se sidhaa sambandh rahata he
+ Leviline considered the functional aspect of the law as a source of social progress
+ unke anusaar vidhishastri kaa yah kartavya he ki vah vidhi kaa adhyayan or vishleshan sam-samayik saamaajik samasyaa ke pariprekshya main karen
+ The method should move away from the theoretical realm and help in solving problems from the practical aspect of human life
+ aitihaasik paripekshya main dekhen ta samaaj main prachlit rangabhed, daspratha, satipratha, asprishyata, balvivaah aadi kuprathaon ko kanoon dwaara samaapt kiya gaya
+ After declaring these social evils by law, motivating them was also punished with criminal offense
+ is prakaarahindu samaaj ko sati pratha se mukti mili
+ Similarly, the termination of the old devadasi system in the Sadians in Karnataka has been considered necessary because this system became corrupt and deviated from its original goal
+ iske atirikt anek prakaar kii saamaajik buraaiyaan dur karne ke liye anekon kanoon viksit kiye gayi jisase saamaajik parivartan ke liye vidhi main nirantar kriyasheeltaa rahi or yah saamaajik parivartan kaa mukhya aadhaar bani
+ It is the new creation of law that frees society from the evil and it causes social change
+ pounds kii khyaati kaa bahut bada shrey unke saamaajik abhiyantran kaa jaataa he
+ They call the work of law social engineering
+ pounds, vidhi ko koi amoort vastu nahin balki ek saamaajik satya, ek vastunishth tathaa sangharsho / dvandvon ko dur karne aar unamem samajasy sthapit karne vaala maanate he
+ According to him, law is beneficial to the society, welfare and to reduce the interests of individuals
+ yadi vidhi upyogi athwa kriyasheel nahin he to uskaa samaaj ke liye koi mulya nahin he
+ Law is a means for society through which social objectives like peace, happiness, prosperity and development can be achieved
+ samaaj ke bhavi vikaas main uskaa amulya yogadan haata he
+ Law has an important role in the administration of justice, so the law should be constructed on the basis of social conditions, demands, wishes and needs
+ utpaadan kaa upbhog tathaa vitaran ho jaay isliye pounds ne is kshetra main vidhi ko sahaayak bataaya he
+ Laws are always made for the progress of society, not for the progress of society
+ isliye samaaj ke saath vidhi kaa bhi pragatisheel hona apekshit he
+ In the absence of coordination in the common interests and selfishness of the people of the society, it can adversely affect the peace system of the society by taking extreme form
+ yah kaary vidhi hi karti he
+ This is named as social engineering
+ iske liye saamaajik aavashyaktaaon or paristhitiyon aadi kii jaankaree rakhana kisi bhi kalyankari rajya main aavashyak haata he
+ According to Alankar Chandrodaya, Paradox Alankar is a distinction of an ornament used in Hindi poetry
+ virodhabhas alankaar ke antargat ek hi vaakya main aapas main kataaksh karte hue do yaa do se adhik bhaavon kaa prayog kiya jaataa he
+ For example: "love is a sweet poison" is vaakya main zehar ko meetha bataaya gaya he jabaki ye gyatavya he ki zehar meetha nahin hota
+ Hence, the paradox here is a frequency of ornamentation
+ ise virodhilankar bhi kaha jaataa he, jiskaa shabdkoshiya arth 'ek vaktavy, jisamen virodhabhashi yaa virdohi vichaaron ko milaayaa gaya ho, jaisaa ki garjanapurna shanti yaa meetha dukh' hota he
+ Malania is a sub-region of Oceania, covering the western part of the Pacific Ocean to the Arafura Sea and then east to Fiji
+ isamen australia ke uttar or uttar-purv ke kai dweep shaamil hai, jaise ke nayaa gini, fiji, solomon dweepasmooh, vanuatu, vakairaah
+ The name "malanisia" comes from the addition of two Greek words - "melas" ie "black" and "nisos" meaning "island"
+ isliye "malanishia" ke naam kaa matlab "kaale dweep" he, jo in dwipon par rahane vaali maanav jatiyon kii kaali twachaa kii taraf ek ishaara he
+ The name was coined by French naval leader and explorer Zhum Dumayan Tewariya in 1832 to differentiate between Polynesia and the region because the people of these two areas are neighbors but their castes are somewhat different from each other
+ itihaaskaaron kaa maananaa he ke malanishia ke mul nivasee aadhunik yug main papui bhashaaon ko bolne vaale logon ke purvaj the
+ These original Malianians were spread over several islands, including the Solomon Islands
+ aaj se lagbhag 4000 saal purv in mul nivaasiyon kaa austronesian logon ke saath sampark hua
+ The first contact is believed to have occurred on the northern coast of New Guinea, or on some islands north of it
+ iske baad malanishia kii bhashaa, samskruti or jaati main kuch austronesian mishran bhi hua jo aaj ke malanishian logon main dekha jaataa he
+ Saurashtra Janta Express 9017 is a mail express train operated by Indian Railways
+ yah train bandra terminus railway stesan se 05:35PM baje chhootati he or jamnagar railway stesan par 09:35AM baje pahunchati he
+ Its travel duration is 16 hours 0 minutes
+ aashaa yaa ummid kisi vyakti ke jivan kii ghatnaon or paristhitiyon ke maamle main sakaaratmak parinaamon main vishwaas he
+ In religious terms, it is not considered as a physical feeling but a spiritual grace
+ aashaa, sakaaratmak soch se bhinn he, jo nirashavad ko palatney ke liye manovigyaan main istemaal hone vaale upachaar yaa vyavasthit prakriya ko darshata he
+ False hope refers to hope that is based entirely around a fantasy or an unlikely outcome
+ human, ol tu human main darshanik fredrick nitshe ne tark diya he ki "jeus nahin chaahate the ki aadmi apane jivan ko tyaag de, chaahe anya buraaiyaan use kitna bhi pareshaan karen, balki ve chaahate the ki vah nae sire se pareshaan hone ke liye aage bade
+ us uddeshy kii khatir unhone manushya ko aashaa di
+ In fact, it is the most disgusting evil of all evils, because it increases man's suffering
+ " emily dikinsons ne ek kavita main likhaa he ki "'hope' iz da thing wyeth fiores-- / dait parches in da sol--" 
+ "principal of hope" main ernest blokh vividh adarsh lokon ke liye maanav kii yatra kii charchaa karte hai
+ Blokh recognizes the location of the idealistic folk project not only in the social and political circles of renowned utopian theorists, but also in diverse technical, architectural, geographical utopias, and in diverse works of art
+ According to Blokh, hope pervades everyday life and is present in countless aspects of popular culture events such as jokes, fairy tales, fashion or images of death
+ His view persists in the present as an open setting of hope, latency and tendencies
+ martin sailigman ne apni pustak larned auptimizam main catholic carch kii is vichaar ko badhaava dene ke liye aalochana kii he ki kisi vyakti dwaara apane jivan ko prabhavit karne kaa avasar yaa aashaa bahut kam hoti he
+ He believes that social and cultural conditions such as agrarianness and caste system have pressed people against the freedom to change the social conditions of their lives
+ apni pustak whot you can change and whot you kaant main, unhone saavdhaneepurvak us seemaa kii ruparekha pesh kii he jahaan log apane jivan ko prabhavit karne vaali chizon ko badalane kii khatir vyaktigat karrwai ke liye aashaa kaa daaman tham sakate hai
+ In psychology, ASHA is believed to consist of two components in general; Agency, with the expectation of positive results and the route, including the ability to see how to reach positive results
+ Hope is important for both skill and academic performance; People who lack hope are more likely to have anxiety and depression, and a recent longitudinal study showed that college students who lacked hope in their first year did so three years later
+ Achieved worse degree results, even after controlling for intellectual and other personality traits and past performances
+ road island kii mohar main "hope" shabd ke neeche ek lungar bana hua he, jo rajya kaa adarsh vaakya he
+ It is taken from the Bible in Hebrew from 6: 191 1: jo aashaa hamaari aatma ke liye lungar samaan he, nishchit or adig or jo ghunghat ke bheetar usamen pravesh karti he, da king james sanskaran Ramaila is a village in Champawat district of Kumaon division under the state of Uttarakhand in Champawat tehsil of India
+ nirdeshaank: 25°06′N 85°54′E / 25
+10°N 85
+90°E / 25
+10; 85
+90 Bakiabad is a village located in raigarh-chowk, Lakhisarai, Bihar
+ kanimojhi bharat ke varisht sadan rajyasabha kii sadsy hai
+ Maharana Kumbha or Maharana Kumbhakarna was the king of Mewar from 1433 to 1468
+ maharana kumbhakarna kaa bharat ke raajaaon main bahut unchaa sthaan he
+ Before them Rajputs could only protect their freedom wherever and wherever
+ kumbhakarna ne musalamaanon ko apane-apane sthanon par haraakar rajputi raajnneeti ko ek nayaa rup diya
+ In history, they are more famous as 'rana Kumbha'
+ maharana kumbha rajasthan ke shaskaon main sarvshereshth the
+ They established their suzerainty over the erstwhile kingdoms around Mewar
+ 35 varsh kii alpaayu main unke dwaara banawaye gaye battis durgon main chittorgarh, kumbhalgarh, achalgarh jahaan shashakt sthapaty main sheershasth hai, vahiin in parvat-durgon main chamatkrit karne vaale devalayas bhi hai
+ The world famous Victory Pillar commemorating his victories is a priceless heritage of India
+ kumbha kaa itihaas keval yudhon main vijay tak simit nahin thi balki unki shakti or sanghathan kshamta ke saath-saath unki rachanaatmakataa bhi ascharyajanak thi
+ 'sangeet Raj' is his great work which is considered to be the Kirti Pillar of literature
+ maharana kumbhkarna, maharana mokal ke putr the or unki hatya ke baad gaddi par baithe
+ He soon took revenge on his father's killers with the help of his father's maternal uncle Ranmal Rathore
+ san 1437 se purv unhone devda chouhanon ko haraakar abu par adhikaar kar liya
+ In the same year, he defeated Mahmud Khilji, the Sultan of Malwa, badly and built the famous Kirtistambha of Chittor as a memorial to this victory
+ rathod kahin mewar ko hastgat karne kaa praytn na karen, is prabal andeh se shankit hokar unhone ranmal ko marava diya or kuch samay ke liye mondor kaa rajya bhi unke haath main aa gaya
+ Within seven years of ruling, he conquered the strong forts of Sarangpur, Nagaur, Narana, Ajmer, Mandore, Modalgarh, Bundi, Khatu, Chatus, etc
+ and defeated Sultan Syed Muhammad Shah of Delhi and Sultan Ahmed Shah of Gujarat
+ unke shatruon ne apni paraajayon kaa badla lene kaa baar-baar praytn kiya, kintu unhen safalataa na mili
+ The Sultan of Malwa invaded Mewar five times
+ nagaur ke swami shams khan ne gujarat kii sahaayta se swatantra hone kaa vifal praytn kiya
+ This was also the case with the deities of Abu
+ malwa or gujarat ke sulatanon ne milakar maharana par akraman kiya kintu musalamaani senaayen phir parrast hui
+ Maharana also achieved many other victories
+ usne deedwanaa kii namak kii khan se kar liya or khandela, amer, ranthambor, duungarpur, sihare aadi sthanon ko jeeta
+ Thus, he won Mewar in most of Rajasthan and parts of Gujarat, Malwa and Delhi
+ kintu maharana kumbhakarna kii mahatta vijay se adhik unke saanskrithik kaaryon ke kaaran he
+ He built many forts, temples and ponds and cultured Chittor in many ways
+ kumbhalgarh kaa prasiddh kila unki kriti he
+ He resettled Bansatpur and renovated the temple of Shri Ekling
+ chittod kaa kirtistambh to sansar kii adwitiya kritiyon main ek he
+ Each of its stones bears the imprint of his Shilpanurag, Vaidushya and personality
+ ve vidyanuragi the, sangeet ke anek granthon kii unhone rachana kii or chandistak evam gitgovind aadi granthon kii vyakhya kii
+ He was also a knower of dramatics and skilled in veenaavadana
+ kirtistambhon kii rachana par unhone swayan ek granth likhaa or mandan aadi sutaradhaaron se shilpashaastra ke granth likhwaaye
+ This great Rana died at the hands of his own son Uda Singh
+ sankhya 1729 ko ramanujan sankhya yaa hardi-ramanujan sankhya kaha jaataa he
+ It is a number that can be written equal to the sum of cubes of two numbers
+ is prakaar kaa gun rakhane vaali bahut hi kam anya sankhyaayein hai
+ Srinivasa Ramanujan was a kind of magician of numbers
+ sankhyaon ke saath unka gaharaa sambandh tha
+ We can say that they used to play with numbers
+ shrinivas ramanujan jab england main the to aksar biimaar rahete the
+ His mentor G
+H
+ Hardy not only played a decisive role in bringing his talents to the world, but also took care of his health during his stay abroad
+ lagbhag pratidin hi vah ramanujan ko thik se khaanaa khaane or niyamit rup se davaaiyaan na lene ke liye daantate the
+ One day when Ramanujan was in the hospital, Hardy came to meet him
+ hardi us din bahut udhaas lag rahe the
+ Ramanujan asked him, "why are you feeling so upset, today i am better than before
+ ’’ Hardy replied, You are a magician of numbers, but i found the number of the taxi i came in today very dull
+ ‘‘kya number tha?’’ ramanujan ne poocha
+ "his number was 1729," Hardy said
+ turant ramanujan ne uttar diya, shaayad 1729 se adhik rochak sankhya to koi ho hi nahin sakati
+ There are only a few numbers that can be written in two different ways as the sum of two cubes and 1729 is the smallest number among them
+ ’’ Since then this number became famous as Ramanujan number
+ vastav main hi yah sankhya ek atyant vishisht sankhya he
+ Some aspects of its uniqueness are further clarified: tathaapi, yadi ham rinatmak purnaakon par bhi vichaar karen to yah shart puri karne vaali sabase choti sankhya 91 hogiah Incidentally, there is also a factor of 91 number 1729
+ wiliam kairi ek angreji baptist mishanri or sudhare hue baptist mantri the jinhen "aadhunik mishan kaa janak " kaha jaataa he
+ Carrie was one of the founders of the Baptist Missionary Society
+ bharat ke shrirampur kii danish colony ke ek mishanri ke rup main unhone bangala, sanskrit or kai anya bhashaaon or boliyon main bible kaa anuwaad kiya
+ Carrie was born as the eldest of five children of Edmund and Elizabeth Carrie, who worked as weavers in a village called Pollerspari in Northamptonshire
+ wiliam kaa paalan-poshan carch of england main hua tha; jab vah chah saal ke the, us samay unke pita ko parish clerk or gaanv kaa adhyaaapak niyukt kiya gaya
+ As a child he was naturally inquisitive and had a great interest in natural sciences, especially botany
+ unhen prakritik uphaar ke rup main bhashaa kaa gyaan praapt tha jiske aashirwad se ve khud latin seekhney main safal hue
+ At the age of 14, Carrie's father sent her to a nearby village called Hackleton in Northamptonshire to learn cobbler work
+ unka maalik clark nicols bhi unki tarah ek padri tha lekin ek anya nausikhia jon waar ek bhinnmtavalambi tha
+ Under her influence, Carrie eventually left the Church of England and together with other divergences formed a small congregational church in Hackleton
+ nicols se kaam seekhney ke dauraan unhone ek college shiksha praapt sthaneey gramin kii madad se khud unani bhashaa kaa bhi gyaan praapt kar liya
+ After Nichols' death in 1779, Carrie went to work with another local cobbler, Thomas Old; He married Old's sister-in-law Dorothy Plackett in 1781
+ wiliam ke vipareet dorothi anpadh thi; shaadi ke register main uskaa hastakshar ek bedaul chihn he
+ William and Dorothy Carrie had seven children, five of whom were boys and two girls; Both the girls died in childhood as well as their son Peter died at the age of 5
+ uske kuch din baad hi old kii bhi maut ho gai or kairi ne unka kaarobaar apane haath main le liya or us dauraan unhone hebrew, italvi, dach or francisi bhashaa kaa gyaan praapt kiya
+ Apart from this, he often studied while working on shoes
+ saanchaa:protestant missions to indiakeri haal hi main gathit particular baptists naamak ek sthaneey sangh main shaamil ho gaye jahaan unka parichay jon riland, jon satakliff or andrew fuller jaise logon se hua jo aage chalakar unke ghanishtha mitra ban gaye
+ They invited him to give a lecture every second Sunday at his church in a nearby village called Earls Barton
+ 5 oktober 1783 ko wiliam kairi ko riland ne baptism pradaan kiya or us din unhone khud ko baptist sampradaay main shaamil kiya
+ In 1785, Carrie was appointed school teacher in the village of Moulton
+ unhen sthaneey baptist carch kaa padri banane kaa bhi nimantran diya gaya
+ During this time, he wrote Jonathan Edwards's account of the life of the late Rev
+ Studied the journals of David Brainard and explorer James Cook and began to think deeply about preaching Christian theology around the world
+ unke dost andrew fuller ne pehle 1781 main "da gospal vardi of ol exepteshan" naamak ek prabhaavshaalee prachaar-pustika likhi thi jisamen unhone us samay baptist charchon main prachlit ati-calvinavaadee vichaardhaara ke jawaab main likhaa tha ki dharmasiddhant par vishwaas karne kii jimmedaari sabhi logon kii nahin he
+ In a meeting of ministers in 1786, Carrie raised the question whether it was the duty of all Christians to spread theology around the world
+ kaha jaataa he ki jon riland ke pita je
+ aar
+ riland ne iske jawaab main kaha tha ki "noujvaan, baith jaao; kafir ko badalane kii ichha hone par ishwar is kaam ko tumhaari or meri sahaayta ke bina bhi kar sakate hai
+ "but Ryland's son John Ryland Jr
+ says that this statement was made by his father
+ 1789 main kairi licester ke ek chote se baptist carch ke purnakalik padri ban gaye
+ Three years later, in 1792, he published his unprecedented missionary manifesto An Inquiry into the Obligations of Christians to Use Means for the Convention of the Hadons
+ is choti si pustak ke paanch bhaag hai
+ The first part gives a religious justification for missionary activity, arguing that the command given by all of Jesus to disciple the world remains binding on Christians
+ duusare bhaag main mishanri gatividhi kii itihaas kii ek ruparekha di gai he jisaki shuruyaat aarambhik carch se or ant david brianrd or jon wesli se hota he
+ The third part consists of tables of 26 pages which list the area, population and religious figures of each country of the world
+ kairi ne in aankadon ko us samay sankalit kiya tha jab ve ek skool shikshak the
+ The fourth part responds to objections made to sending missionaries, such as difficulty learning languages or life threatening
+ ant main paanchaven bhaag main baptist sampradaay kii ek mishanri socity kaa gathan karne kaa aahvaan kiya gaya he or iskaa samarthan karne ke liye sambhavit vyaavhaarik sadhano kaa varnan kiya gaya he
+ Carrie's profitable publicity book outlines the basis of her mission: Christian responsibilities, wise use of available resources, and correct information
+ kairi ne baad main apane paath ke rup main isaiyah 54:2-3 kaa istemaal karte hue ek pro-mishanri dharmopadesh kaa prachaar kiya jisamen unhone baar-baar chutkulon kaa istemaal kiya tha jo unka sabase mashshur uddhran ban gaya he: Carrie finally overcame the resistance against the missionary effort, and in October 1792 the Perticular Baptist Society for the Propagation of the Gospel Amongst the Hadan was founded, with charter members including Carrie, Andrew Fuller, John Ryland and John Sutcliffe Were included
+ uske baad unhone vyaavhaarik maamalon par soch vichaar karne lage jaise paison kaa intjaam karnaa or is baat kaa faisla karnaa ki ve apana prayaas kis disha main yaa kis mad main karenge
+ Dr
+ John Thomas, a medical missionary, was living in Calcutta and was currently engaged in raising money in England; They agreed to support him and also agreed that Kairi would support him in India
+ april 1793 main kairi, unke bade bete felics, thomas or unki patni or beti ek angreji jahaaj par landan se ravaanaa hue
+ unka chauthaa betaa garbh main hone or pehle kabhi ghar se kuch mile se zyada dur na gai hone kii vajah se dorothi kairi ne england chhodkar jane se inkaar kar diya; lekin unalogon ne vahaan se chalane se pehle ek baar phir usase unke saath chalane ke liye kaha or vah is baat par chalane ke liye raji ho gai ki uski bahan kitti uske prasav main uski madad karegi
+ En route to White Island they were late when the ship's captain was told that if he transported the missionaries to Calcutta, his command would be jeopardized as their unauthorized voyage violated the British East India Company's trade monopoly
+ usne unalogon ke bina aage badhane kaa faisla kiya or is tarah ve tab tak kalakatta nahin pahunch paae jab tak thomas ko ek danish captain nahin mila jo unhen apni jahaaj main le jane kaa icchhuk tha
+ Meanwhile, Carrie's wife, who had already given birth to the child, agreed to go with him on the assumption that her sister would also accompany them
+ They reached Calcutta in November
+ kalakatta main apane pehle saal ke dauraan mishnariyon ne khud ke sahare ke liye sadhano kaa intjaam karne ke saath-saath apane mishan kii sthapana ke liye ek jagah dhund bhi lee
+ He also started learning Bangla language to interact with the natives there
+ thomas ke ek dost ke do nil ke kaarkaane the or use un kaarkaanon ke liye manageron kii jarurat thi isliye kairi apane parivaar ke saath midanapur ke uttar main sthanantarit ho gaye
+ Carrie completed her first review of her Bengali New Testament over a period of six years while working as a manager at the Neil plant and began to formulate the principles on which her missionary community was to be formed in which communal living -including subsidies, financial self-reliance and training of indigenous ministers
+ pechish kii vajah se unke bete peter kii maut ho jane kii vajah se dorothi ko snaivik vikaar se guzarana padaa jisase vah kabhi nahin ubar pai
+ Meanwhile, the Missionary Society started sending more missionaries to India
+ unamem sabase pehla mishanri jon fountain the jo midanapur pahunche or skool main padhaane lage
+ He was followed by a printer named William Ward, a school teacher named Joshua Marshman, David Brunsdon, one of Marshman's pupils, and William Grant
+ chunki east india company abhi bhi mishnariyon kii virdohi thi isliye unhone shrirampur kii danish colony main apana deraa jamaaya or unhen 10 janvari 1800 ko kairi dwaara shaamil kar liya gaya
+ After settling in Shrirampur, the Mission purchased a large house which was enough for the families of all of them to live and open a school which became the main means of support for them
+ ward ne kairi dwaara adhikrut ek puraane press ke saath ek printing kii dukaan khol lee or bangala main bible ko chhapane kaa kaam shuru kar diya
+ In August 1800, Fountain died of dysentery
+ us saal ke ant tak mishan ko unka pehla shishy mil gaya tha jiskaa naam krishna paal tha or jo ek hindu tha
+ He also gained the goodwill of the local Danish government and the then governor-general of India, Richard Wellesley
+ hindu dharm ko isai dharm ke roopantaran ne mishnariyon ke saamne ek nayaa sawaal khadaa kar diya ki kya dharmantarit shishyon ke liye apni jati ko banaae rakhane ke liye yah upyukt tha
+ In 1802, the daughter of this Shudra named Krishna Pal married a Brahmin
+ yah shaadi ek aisa saarvajanik pradarshan tha jise dekhakar carch ne jati bhed ko tyaag diya
+ In 1801 Brunsdon and Thomas died
+ usee varsh governor-general ne janasevakon ko shikshit karne ke uddeshy se fort wiliam naamak ek college kii sthapana kii
+ He offered Carrie the position of bungalow professor
+ college main kairi ke sahakarmiyon main pandit shaamil the jinke saath vah apane bangala testament ko sahi karne ke liye paraamarsh kar sakate the
+ He also wrote Bengali and Sanskrit grammar and started translating the Bible into Sanskrit
+ panditon ke saath paraamarsh karne or yah dekhne ke baad ki hindu pavitra granthon main unka koi aadhaar nahin tha, unhone shishu balidaan or sati pratha ko rokane main madad karne ke liye governor-general par apane prabhaav kaa bhi istemaal kiya 
+ In 1807 Dorothy Carrie died
+ vah kaaphi lambey samay se mishan kaa ek upyogi sadsy nahin rah gai thi or vastav main vah iske kaam ek tarah se ek baadha ke samaan thi
+ John Marshman has written about how Carrie used to do her study and translation work, "
+
+
+ while an insane wife was in the next room who often went into the most worryingly arousing situation
+" 
+
+"
+ 1808 main kairi ne dobaaraa shaadi kii; unki nai patni sharlot rumohar carch kii ek danish sadasya thi jo dorothi ke vipareet kairi kii bauddhik sahachari thi
+ He lived a good married life for 13 years until his death
+ mishan ke printing press main bangala, sanskrit or anya pramukh bhashaaon or boliyon main bible ke anuwaad ko chapa gaya
+ Many of these languages had never been printed before; William Ward had to produce punches to type by hand
+ kairi ne apane deshavaasiyon ke liye mul sanskrit bhashaa main likhe gaye saahitiyon or pavitra granthon ko angreji main anuwaad karnaa shuru kar diya tha
+ On 11 March 1812, a fire in a printing shop destroyed 10,000 pounds of material
+ is ghate main kai aisi pandulipiyaan shaamil thim jo apurnty thim jinamein kairi dwaara sanskrit sahitya ke anuwaad kaa ek bahut bada hissaa or sanskrit or sambandhit bhashaaon kaa ek bahubhashi shabdkosh bhi shaamil tha jo ek moulik bhashaai rachana ban gai hoti agar yah puraa gaya hota
+ However the press and panches were saved and the press was able to continue printing in six months
+ kairi ke jeevankaal main mishan ne purna rup se yaa aanshik rup se bible ko 44 bhashaaon or boliyon main chhapakar baantne main kamyaabi hasil kii
+ In addition, an American congregational missionary named Adoniram Judson, who traveled to India in 1812, studied the scriptures based on baptism in preparation for a meeting with Carrie
+ apane adhyayan ke falswaroop ve ek baptist ban gaye
+ The first American Baptist Mission Board, called the General Missionary Convention of the Baptist Denomination in the United States of America for Foreign Missions, was established in 1814 as a result of the American Baptists' urge by Carrie to gain support for Judson's mission, which was later generally But came to be known as the Triennial Convention
+ aaj ke zyaadaatar america baptist sampradaay pratyaksh yaa apratyaksh rup se isi sammelan se utpann hue hai
+ In 1818, the Mission established Srirampur College to train indigenous ministers for the growing church and to provide education in arts and sciences to everyone, regardless of caste or country
+ denmark ke raja ne 1827 main ek shahi charter pradaan kiya jisase yah college degree pradaan karne vaali desh kii pehali sanstha ban gai
+ Template: Baptist Template: Indian christianity 1820 main kairi ne vanaspati vigyaan ke kshetra main apane utsaah ke samarthan ke rup main kolkata ke alipur main agri horticulture socity of india kii sthapana kii
+ Template: Botanist 1821 main kairi kii duusari patni sharlot kii maut ke baad unke sabase bade bete felics kii bhi maut ho gai
+ In 1823 he married third to a widow named Grace Hughes
+ mishanri socity kii sankhya main vruddhi hone, puraane mishnariyon kii maut hone or unki jagah kam anbhavi logon ke aa jane kii vajah se socity ke bheetar aatanrik asantosh or kalah paidaa hone laga
+ Some new missionaries arrived who were unwilling to live in the communal atmosphere developed by the old missionaries, and each missionary sought for himself "a separate house, stables and servants"
+ kairi, ward or marshaman kii kathor kaary niti se anbhyast nae mishnariyon ne apane varisht mishnariyon - khaas taur par marshaman - ko kuch had tak taanashaah maanate the kyonki ve unhen unki pasand ke mutabik kaam nahin dete the
+ In 1815 Andrew Fuller died, who was the secretary of the Society in England, and his successor, John Dyer, was a bureaucrat who attempted to restructure the Society on the lines of business and manage every extension of the Srirampur Mission from England
+ unke matbhed paraspar-virdohi sabit hue or kairi ne aupchaarik rup se swayan dwaara sthapit mishanri socity ke saath sambandh tod liya or mishan kii sampatti ko chhodkar college kii jameen par sthanantarit ho gaye
+ He spent a quiet life until his death in 1834, revising his Bengali Bible, preaching and teaching students
+ The couch on which he died on 9 June 1834 is now kept in the Baptist Hall Regents Park College, University of Oxford
+ kairi kii jivaniyon jaise epa
+ di
+ vaakar or je
+ bi
+ myrs dwaara likhi gai jivaniyon main keval bharat main mishnariyon ke mantralay ke aarambhik varshon main kairi kii patni dorothi kii maansik beemaari or parvarti vikaron kii vajah se kairi ko hone vaale kashton kaa ullekh he
+ More recently, a biography of Dorothy Carrie, written by Beck, gives a more detailed description: William Carey tries to move his family away from all the familiar people to settle them in one of the world's most incredible and difficult cultures
+ Dorothy faced many difficulties to keep pace with all these changes; She failed to meet emotionally and mentally in the end and her husband probably appeared unable to help her in all these matters as she did not even know exactly what to do in this case
+ kairi ne 5 oktober 1795 ko england main rahane vaali apni bahanon ko chitthee bhi likhi thi ki "main pichley kuch samay se apni patni ko khone kaa dar sata rahaa he
+ Jealousy is the biggest evil prevalent in his mind
+ dorothi ke maansik vikaar kii vajah se parivaar ke anya logon ko kai samasyaon kaa saamana karnaa padaa
+ 1800 main kairi or unke parivaar se milane ke baad joshua marshaman kairi dwaara apane chaaron beton kii dekhbhaal main barti jane vaali laaparvaahee ko dekhakar hairaan the
+ His four sons aged 4, 7, 12 and 15 were rude, undisciplined as well as illiterate
+ iine murre ke adhyayan da puritain hope ke alaava kairi kii anginat jivaniyon, khaas taur par brus je
+ nicols ke lekh "da thiology of wiliam kairi", main unke postamilanniel paralok siddhant par bahut kam dhyaan diya gaya he jaisaa ki unke pramukh mishanri ghoshnaptr main vyakt kiya gaya he
+ Carrie was a Calvinist and postmillennialist
+ yahan tak ki do shodh nibandhon, jinamein unki uplabdhiyon par charchaa kii gai he, main bhi unke dharamshastra ke ek bahut bade hisse kii andekhi kar di gai he
+ His ideas of otherworldly doctrine are also not mentioned, which played a huge role in his missionary readiness
+ james bek dwaara likhit unki pehali patni kii jeevani main ek apwaad paaya gaya he jahaan "atituds tuvards da future" par aadhaarit adhyayan main unke vyaktigat ashavad kaa ullekh kiya gaya he jo unhen postamilanniel dharamshastra se praapt hua tha
+ Cary has at least five colleges named after him: William Cary International University in Pasadena, California, Cary Theological College in Vancouver, British Columbia, Cary Baptist College in Auckland, New Zealand, Cary Baptist in Melbourne, Victoria Grammar School, Cary College of Colombo, Sri Lanka and William Cary University in Hattiesburg, Mississippi
+ Bangladesh's William Carey Academy of Chittagong teaches Bangladeshi as well as migrant children from kindergarten to 12th grade
+ wiliam kairi ko "aadhunik mishan kaa janak" mana jaataa he or 19veen sadi ke protestant mishanri andolan ko unhone kaaphi prabhavit kiya tha
+ a banquet day is celebrated on October 19, according to the Episcopal Church's calendar of worship in honor of Carrie
+ dovapur jagadishpur, bhagalpur, bihar sthit ek gaanv he
+ The Uttar Pradesh Cricket Association is the body of administrators for controlling cricket related activities in the Indian state of Uttar Pradesh
+ yah sanstha bhartiya cricket niyantran board se sambaddh he
+ Sajjan Singh Recruit is an upcoming Indian Punjabi film
+ film ko hindi or angrezi main dab hone kii ummid he
+ Nelson Rolihla Mandela was the first black ex-president of South Africa
+ raashtrapati banane se purv ve dakshin africa main sadiyon se chal rahe rangabhed kaa virodh karne vaale africa neshnal congress or iske sashastr gut umakhonto ve sijve ke adhyaksh rahe
+ Due to the anti-apartheid struggle, he spent 27 years in the prison at Robben Island where he had to work as a coal miner
+ 1990 main shwet sarkaar se hue ek samjhaute ke baad unhone naye dakshin africa kaa nirmaan kiya
+ He became a symbol of opposing apartheid in South Africa and all over the world
+ sanyukt rashtrasang ne unke janm din ko nelson mandela anterrashtriya diwas ke rup main manaane kaa nirnay liya
+ Mandela was born on 18 July 1918 in Guezzo, Eastern Cape, South Africa, to Gedla Henry Mphakeniswa and his third wife, Nekufi Nosakeni
+ ve apni maan noskeni kii pratham or pita kii sabhi santanon main 13 bhaaiyon main tisare the
+ Mandela's father, Henry Muezzo, was a tribal chieftain of the town
+ sthaneey bhashaa main sardaar ke bete ko mandela kehete the, jisase unhen apana upnaam mila
+ His father gave him the first name 'rolihla', which in search means "rowdy"
+ unki mata methodist thi
+ Mandela completed his primary education at Clarkberry Missionary School
+ uske baad kii schuli shiksha methodist mishanri skool se lee
+ His father died when Mandela was 12 years old
+ 1941 main mandela johnsburg chale gayi jahaan inaki mulaakaat walter sisulu or walter albertine se hui
+ Both of them politically influenced Mandela greatly
+ jeevanyaapan ke liye ve ek kanoonee farm main clerk ban gayi parantu dheer-dhire unki sakriyata raajnneeti main badhati chali gayi
+ He ventured into politics to remove discrimination based on color
+ 1944 main ve african neshnal congress main shaamil ho gayi jisane rangabhed ke viruddh aandolan chalaa rakhaa tha
+ In the same year he along with his friends and colleagues founded the African National Congress Youth League
+ 1947 main ve lig ke sachiv chune gayi
+ In 1961, Mandela and some of his friends were tried for treason, but they were considered innocent in that
+ 5 agast 1962 ko unhen mazdooron ko hadtaal ke liye uksaane or bina anumati desh chhodane ke aarope main giraftaar kar liya gaya
+ He was tried and on 12 July 1964, he was sentenced to life imprisonment
+ sazaa ke liye unhen roben dweep kii jail main bheja gaya kintu sajaa se bhi unka utsaah kam nahin hua
+ He also started mobilizing black prisoners in jail
+ jivan ke 27 varsh karagaar main bitaane ke baad antatah 11 farvari 1990 ko unki rihaai hui
+ After the release, he laid the foundation for a democratic and multi-ethnic Africa by a policy of compromise and peace
+ 1994 main dakshin africa main rangabhed rahit chunaav hue
+ The African National Congress received 62 percent of the vote and formed its government with a majority
+ 10 may 1994 ko mandela apane desh ke sarvapratham ashwet raashtrapati bane
+ The new constitution of South Africa was approved by the Parliament in May 1996, under which several institutions were established to investigate political and administrative rights
+ 1997 main ve sakriy raajnneeti se alag ho gayi or do varsh pashchaat unhone 1999 main congress-adhyaksh kaa pad bhi chhod diya
+ Nelson Mandela was very much an advocate of non-violent path like Mahatma Gandhi
+ unhone gandhi ko prerana strot mana tha or unase ahimsa kaa paath siikhaa tha
+ Mandela had three weddings that led to his six children
+ unke parivaar main 17 pote-potee the
+ In October 1944, he married Evelyn Mess, sister of his friend and colleague Walter Sisulu
+ 1961 main mandela par deshadroh kaa mukadmaa chalaaya gaya parantu unhen adaalat ne nirdosh paaya
+ During this trial, he met his second wife Nomjamo Winnie Medikizala
+ 1998 main apane 80wein janmdin par unhone gres mekal se vivaah kiya
+ Mandela died at his home in Hotan, Johannesburg on 5 December 2013 due to a lung infection
+ mrityu ke samay ye 95 varsh ke the or unka puraa parivaar unke saath tha
+ His death was announced by President Jacob Zuma
+ dakshin africa ke log mandela ko vyapak rup se "rashtrapita" maanate the
+ He was seen as the "first founder of democracy", "national liberator and savior"
+ 2004 main johnsburg main sthit sandton squaire shopping centre main mandela kii murti sthapit kii gayi or centre kaa naam badalakar nelson mandela squaire rakh diya gaya
+ In South Africa, they are often called Madiba, which is an honorific word for the elderly
+ navambar 2009 main sanyukt raashtra mahasabha ne rangabhed virdohi sangharsh main unke yogadan ke sammaan main unke janmdin ko 'mandela diwas' ghoshit kiya
+ In order to commemorate Mandela's association with this movement for 67 years, people were requested to donate 67 minutes out of 24 hours a day to help others
+ mandela ko vishwa ke vibhinn deshon or sansthaaon dwaara 250 se bhi adhik sammaan or puraskaar pradaan kiye gaye hai: Template: Nobel Peace Prize Award yet to be awarded
+ sampadit karen Emery is a dark granulated shell from which abrasive powder is made
+ iskaa naam nexos dweep ke kep emry par padaa he jahaan sabase pehle is tarah kii shail praapt hui thi
+ This rock mainly consists of mineral corundum
+ vishakhapattanam ispaat kaarkaana, wizag steel ke naam se lokapriy, laghu ratna pratishtha ke saath bharat kaa ek pramukh ispaat utpaadak he
+ Founded in 1971, the company focused on the production of salable steel, with 214,000 tonnes of salable total production of 252,000 tonnes produced only in August 2010
+ yah desh kaa ekmaatr ekikrut ispaat kaarkaana he jise ISO 9001:2000, iesao 14001: 2004 or OSHAS 18001:1999 pramanit kiya gaya he
+ On 17 April 1970, the then Prime Minister of India, Late Smt
+ Indira Gandhi announced in the Parliament the government's decision to set up a steel factory in Visakhapatnam
+ prakriya ko june 1970 main sthal chayan samiti kii niyukti ke saath prarambh kiya gaya or antat site ke liye samiti kii report ko manjuuri de di gai
+ On 20 January 1971, he laid the foundation stone of this factory
+ Consultants were appointed in February 1971 and a feasibility report was submitted in 1972
+ zamin kaa pratham khand 7 april 1974 ko liya gaya tha
+ In April 1975, m / s MN Dastur & Co was appointed as consultant for preparation of detailed project report and in October 1977 they submitted the report for 3
+4 million tonnes per annum of liquid steel
+ soviet sangh kii purv sarkaar se sahaayta ke liye prastaav ke saath ek sanshodhit pariyojna avadharana ko viksit kiya gaya
+ a detailed project report for a capacity of 3
+4 million tonnes per annum in November 1980 Messrs
+ MN
+ Produced by Dastur & Company
+ farvari 1981 main coke oven, fernes blast or sinter plant ke liye soviet sangh ke saath nirmaan chitra kii taiyaari ke liye anubandh hastakshar kiye gaye
+ In January 1982, the blast furnace for the first time was laid with concreting in this project on a large scale
+ saath hi basti kaa nirmaan kaary bhi shuru kar diya gaya
+ On 18 February 1982, a new company, Rashtriya Ispat Nigam Limited was formed
+ vishakhapattanam ispaat kaarkaane ko cell or aarnel se alag kiya gaya or april 1982 main vishakhapattanam ispaat kaarkaane kii nigam ikai ko banaaya gaya
+ India News is a Hindi TV channel
+ yah ek samachar channel he
+ The channel belongs to Karthikeya Sharma, son of Congress politician Binod Sharma of Haryana
+ ye vahi vinod sharma hai jinke bete manu sharma ko media kii sakriyata ke chalate jesica laal kii hatya ke aarope main aaajeevan karavaaski sajaa ho chuki he kartikeya sharma manu sharma kaa bhai hai Gyanasanduk was last changed: 21 February 2007
+ andre agasi kaa janm 29 april 1970 america desh ke newada pradesh ke las vegas shahar main hua tha
+ He is a renowned tennis player
+ bhootpurv number ek khilaadi rahe andre agasi ne kul 8 grand slam toornament jite or saath hi olympic main swarna padak bhi praapt kiya
+ He is one of the five players who have won all four Grand Slams in a year
+ vah open era main sabhi grand slam jeetne vaale ekmaatr khilaadi hai
+ Rod Laver · Arthur Ash · Ken Roceval · John Newcomb · Jimmy Connors · John Newcomb · Mark Edmondson · Rossco Tanner · Vitas Jerulatis · Guillermo Vilas · Brian Teacher · Johann Creek · Matt's Willander · Stephen Edberg · Contest Canceled · Stephen Edberg · Matt's Willander · Ivan Lendl · Boris Becker · Jim Courier · Pete Sempras · André Agassi · Boris Baker · Pete Sempras · Petro Korda · Yevgeny Kefelnikov · AN Andre Agassi · Thomas Johansson · Andre Agassi · Roger Federer · Marat Safin · Roger Federer · Novak Djokovic · Rafael Nadal · Roger Federer · Novak Djokovic * open yug | ken roseval | rod lever | jaan kods | andrez gimeno | ili naasataase | byon borg | adriano panata | gulirmo vilaas | byon borg | mats vilendar | yanik noha | evan landal | mats vilendar | evan landal | mats vilendar | maaikel chaang | andrez gomez | gym korier | sargei bruguera | thomas muster | yevgeni cefelanicove | gustao kuerten | carlos moya | andre agasi | gustao kuerten | albert costa | huaan carlos ferrero | gaston godio | rafael nadaal | roger federr | rafael nadaal Rod Laver · John Newcomb · Stan Smith · John Codes · Jimmy Connors · Arthur Ash · Byon Borg · John mcenroe · Jimmy Connors · John mcenroe · Boris Baker · Pat Cash · Stephen Edberg · Boris Becker · Stephen Edberg · Michael Stich · André Agassi · Pete Sempras · Richard Krajichek · Pete Sempras · Goran Ivanisevic · Leyton Hewitt · Roger Federer · Rafael Nadal · Roger Federer · Rafael Nadal · Novak Djokovic arthur aish · rod lever · ken roseval · stan smith · ili naasataase · jon newcomb · jimi conners · minuel orentes · jimi conners · gulirmo vilaas · jimi conners · jon mekanro · jimi conners · jon mekanro · evan landal · mats vilendar · boris baker · peet sempraas · stephen adburg · peet sempraas · andre agasi · peet sempraas · patric rafter · andre agasi · marat safin · liyeton heavit · peet sempraas · endi rodic · roger federr Edward VII was the king of the United Kingdom from 1901 to 1910, which is called the Edwardian period
+ aalu chaat bollywood kaa ek romantic hasya chalchitr he
+ The movie is directed by Robbie Grewal
+ aalu chaat ek nikhil naam ke ladke ki he jo america se apan ucch shiksha puri karke apane parivaar ke paas lajpat nagar, dilli lautaa he
+ Her conservative father in her family is Purushottam, her grandmother is BG, who suspects Nikhil is gay, her confused mother is Sito, and a skeptical uncle is Phadami Mama
+ jo bhi ladki nikhil ke mata pita pasand karte he nikhil har us ladki se shaadi karne ke liye manaa kar detaa he or isse uske mata pita ko uske vyavhar ko lekar chintit rahete hai
+ Darshal Nikhil is in love with a Muslim girl who is living in America
+ uskaa naam hota he amna 
+ Nikhil knew that his conservative parents would be in complete opposition to his marriage to a heretic girl
+ tab nikhil apane ek paariwarik mitra haakim jo peshey se sexologist he ek yojana banaata he ki, wo uske pita ko bataaegein ki vah ek america ladki nikki se vivaah karnaa chahta he
+ They hire this girl with the help of Sukha Paji, a celebrity singer
+ sukha paaji bhi haakim kaa ek rogi hota he
+ Thus they mix both Nikki and Amna with Nikhil's family members
+ ek ore nikki ek gandi ladki hone kaa dikhaava karti he, vahiin dusri ore aamna achche gunon kaa pradarshan karti he taaki nikhil ke pariwa waalon ko prabhavit kiya ja sake
+ But everything turns upside down when pseudo-moms start doubting them
+ or is prakaar hasya or prem kahani kaa mila jula naatak aarambh hota he
+ News and reviews related to Aloo Chaat movie
+ herosim stepanovich lebidov ek roosi bhashavid the
+ He lived in India during the period 1785 to 1800 AD
+ bharat main rahakar inhone hindi sikhi tathaa hindi kaa vyakaran taiyaar kiya
+ Their grammar is relatively more authentic
+ san 1801 isvi main inhone yah vyakaran apane vyay se landan main prakashit karaayaa
+ The name of the grammar book is 'grammar of the pure and mixed East Indian dialects'
+ 18 disambar gregory calendar ke anusaar varsh kaa 352wa din he
+ There are still 13 more days left in the year
+ vistaar kaa arth hota he gheraa
+ Meaning may vary according to use
+ bauni gallexi aisi gallexi ko kehete hai jisamen chand arab taare hi hon, jo kii hamaari gallexi, akashganga ke 2-4 kharab taron kii tulana main kaafii kam hai
+ a small galactic cloud orbiting the galaxy is one such dwarf galaxy
+ hamaare sthaneey samooh main bahut si bauni gallexiyaan hai or yah aksar badi gallexiyon ke upgrahon ke rup main pai jaati hai
+ Some scientists believe that dwarf galaxies in our local group formed from the influence of tidal force
+ is avadharana main yah daawa kiya jaataa he ke jab badi gallexiyaan ke bich gurutvkarshan kii kheenchaatani chalati he to kabhi-kabhi unke kuch ansh khinch ke alag ho jate hai
+ These fragments also contain large traces of undamaged Andhra material
+ yahi bauni gallexiyaan ban jaati hai
+ Our own galaxy is orbiting 14 known dwarf galaxies around the galaxy
+ kuch vaigyanik to yah bhi maanate hai ke hamaari gallexi kaa sab se bada gol taraguchh, omga santori, vastav main ek bauni gallexi thi jisko akashganga ne gurutvkarshak qabza karke apane andar shaamil kar liya
+ According to the census of India, this village is located in Tehsil Sambhal, District Moradabad, Uttar Pradesh
+ sambandhit janaganana code: rajya code :09 jila code :135 tehsil code : 00721 Districts of Uttar Pradesh antarrashtriya sambandhon ke siddhant main saidhantik pariprekshya se antarrashtriya sambandhon kaa adhyayan kiya jaataa he
+ It attempts to provide a conceptual framework from which international relations can be analytically studied
+ ole holsti kahata he kii antarrashtriya sambandhon ke siddhant rangeen dhoop ke chashmen kii ek jodi ke rup main kaary karte hai, jo use pahanane vaale vyakti ko keval mukhya siddhant ke liye praasangik ghatnaon ko dekhne kii anumati detaa he
+ Realism, liberalism and constructivism are the three most popular theories in international relations
+ antarrashtriya sambandhon ke siddhant mukhyat: do siddhanton main vibhajit kiye ja sakate hai, "pratyakshvaadi / buddhivaadee" jo mukhyat: rajya str ke vishleshan par dhyaan kendrit karte hai
+ And post-positivist / reflective who want to incorporate the extended meaning of security, class, gender etc
+ in the post-colonial era in the theory of international relations
+ iaar siddhanto main44 xxrep 4 3 vichaaron ke aksar kai virodhabhasi tareeke maujuud hai, jaise antarrashtriya sambandhon main rachnawad, sansthawad, marxvad, nav-gramskiranwaad, or anya
+ However, the most prevalent among schools of positivist theories are realism and liberalism
+ yadhyapi, rachnawad antarrashtriya sambandhon main teji se mukhyadhara hota ja rahaa he
+ The study of international relations was recognized as a theory by E
+ H
+ Carr's book "the Twenty Years' Crisis" and Hans Morgenthau's book Politics Between Nations
+ yah mana jaataa he kii ek vishay ke rup main antarrashtriya sambandh pratham vishwa yuddh ke baad wales vishvavidhyalay, abristvid main antarrashtriya sambandhon ke ek chair kii sthapana ke saath ubhara he
+ In the early war years the theme of international relations focused on the balance of power, gradually it was replaced with a system of collective security
+ in vichaarkon ko baad main "adarshavaadi" ke rup main pahachaanaa gaya
+ The leading critic of the idealist school was the "realist" analyst E
+ H
+ Carr
+ antarrashtriya sambandhon ke siddhant main vyaakhyaatmak or rachanaatmak drushtikonon main bhed tab najar aata he jab ham antarrashtriya sambandhon ke siddhanton ko vargeekrut karte hai
+ Interpretive theories are those that approach the outside world theoretically for theory formation
+ rachanaatmak siddhant ve hai jo maanate hai ki siddhant vastav main duniya kaa nirmaan karne main madad karte hai
+ Realism or political realism has been the dominant theory of international relations since the inception of the teaching of international relations
+ yah siddhant un pracheen paramparaagat drushtikonon par bharosa karne kaa daawa karata he, jisamen thuseedide, maikiyaveli or hobs jaise lekhak shaamil hai
+ Early realism can be expressed as a reaction against idealistic thinking
+ yathartwaadiyon ne dwitiya vishwa yuddh ke prakope ko adarshavaadi soch kii kami ke ek saboot ke rup main dekha tha
+ There are various varieties in modern realist thought, however, as the main principles of this theory state control, existence and self-help are considered
+ yatharthwaad main kai mahatvapurn manyataayen hai
+ Realists believe that nation-states are unitary and geographically based actors in this chaotic international system, where no real official world exists as a government capable of regulating interactions or interactions between these nation-states
+ duusare, yah antarsarkari sanghathanon, antarrashtriya sanghathanon, gaiyr sarkari sanghathanon, yaa bahurashtriya companiyon ke bajaay samprabhu rajyon ko hi antarrashtriya maamalon main praathmik abhinayta maanate hai
+ Thus, the state itself, as the supreme system, remains in competition with each other
+ aise main, ek rajya apane astitv ko banaae rakhane, apni khud kii suraksha sunishchit karne ke liye or in praathmik uddeshyon ke saath apane swayan ke swaarth kii khoj main ek tarksangat swytt abhinayta ke rup main kaary karata he or is tarah apni samprabhutaa or astitv kii raksha karne kaa prayaas karata he
+ Realists believe that nation states, in pursuit of their own interests, attempt to mobilize resources for themselves and determine the relations between states by their respective levels of power
+ shakti kaa yah str rajya ke sainya, aarthik or raajnneetik kshamtaaon se nirdhaarit hota he
+ Human nature realists believe that states are inherently aggressive, so territorial expansion has been bounded by opposing powers
+ jabaki dusre aakraamak / rakshaatmak yathartwaadeeyon kaa maananaa he ki rajya hamensha apane astitv kii suraksha or nirantarata kii chintaa se grast rahete hai
+ The defensive approach leads to a security dilemma, because while a nation becomes a weapon to enhance its own security, the opponent also tries to gain parallel benefits as well
+ isliye yah prakriya or adhik asthirataa kii ore le ja sakati he yahan suraksha ko keval shunya raashi khel / shunya-sanchay khel ke rup main dekha ja saktaa he, jahaan keval saapeksh laabh mil saktaa he
+ Neo-realism or structural realism was presented by Kenneth Waltz in his book The Theory of International Politics as an advanced development of realism itself
+ joseph greeko ne navayathartwaadee vichaaron ko or adhik paramparaagat yathartwaadiyon ke saath joda he
+ This type of theory is sometimes called "modern realism"
+ waltz ke nav yatharthwaad kaa kahana he ki sanrachana ke prabhaav ko rajya ke vyavhaar ko samajhane ke rup main liya janaa chahie
+ Structure is defined in two forms, first — the system theory of the international system, which is chaotic and second — the distribution of capacities in units
+ waltz bhi paaramparik yatharthwaad ko chunauti detaa he jo kii paaramparik sainya shakti par jor detaa he bajaay rajya kii sanyukt kshamtaaon ke, jo kii pradarshnatmak shakti ke rup main hoti hai
+ "idealism" was the precursor to liberal theories of international relations
+ adarshavaad jo khud ko yathartwaadiyon kii aalochana ke rup main dekhtaa tha
+ In international relations, idealism is an ideological approach that recognizes that a state should adopt it in its internal political philosophy to set its foreign policy goal
+ udhaaharan ke liye, ek adarshavaadi yah vishwaas kar saktaa he ki ghar par garibi samaapt karne ke saath-saath videshon main bhi garibi se nipatane ke liye saath milakar kaam kiya janaa chahie
+ Wilson's idealism was intended as a precursor to the principles of liberal international relations, which arose among the "'institution makers'" after World War II
+ udaarvaad yah maanata he ki rajya kii kshamtaaon ke bajaay rajya kii praathamikataayen, rajya ke vyavhaar ke liye mukhya nirdharak hoti hai
+ Unlike realism, where the state is seen as a unitary actor, liberalism allows for plurality in state functions
+ is prakaar, praathamikataayen alag alag rajyon main unki samskruti, aarthik pranali yaa sarkaar ke prakaar ke rup main alag alag karkon par nirbhar karengi
+ Liberals also believe that contact between states is not limited only to political or security matters, while there is also contact between them for economic or cultural matters, whether through commercial companies, organizations or individuals
+ Ho
+ is prakaar, ek arajak antarrashtriya pranali ke baavjood, sahyog or satta ke vyapak vichaar ke liye bahut se avasar vidyaman hai, jaise ki saanskrithik puunji
+ Another belief is that absolute or relative benefit can only be achieved through cooperation and mutual dependence, and in this way peace can be achieved
+ loktantric shanti siddhant kaa tark he ki udaar loktantric rajyon ke bich lagbhag kabhi bhi yuddh nahin hua he or aapas main sangharsh athwa vivaad bhi bahut kam hi hue hai
+ This theory is particularly seen as a contradiction to realist theories and this empirical claim has now become a great controversy in the field of political science
+ loktantric shanti ke liye kai spashtikaran aaye hai
+ It is also argued in the book Never at War, that democratic states in general have behaved very differently in terms of diplomacy than non-democratic states
+ yathartwaadee udaaravaadeeyon ke is siddhant main asahmati prakat karte hai, ki unhone aksar shanti ke liye sanrachanaatmak kaarnon kaa hawala dete hue, rajya sarkaar kaa virodh kiya he
+ Sebastian Rosto, a critic of democratic peace theory, has pointed to America's behavior toward leftist-leaning democratic countries in Latin America during the Cold War to challenge democratic peace
+ ek tark yah bhi he ki vyapaar bhagidaaron ke bich aarthik nirbharta yuddh hone kii sambhaavna ko kam karti he
+ Realists, by contrast, claim that economic dependence increases the likelihood of conflict rather than reducing it
+ nav udaarvaad, udaar sansthawad yaa nav - udaaravaadi sansthawad udaar soch ke liye ek pragati he
+ It argues that international institutions may allow nation-states to successfully cooperate in the international system
+ uttar- udaaravaadi siddhant kaa tark he ki aadhunik or bhumandalikrut duniya ke bheetar rajya apni suraksha or samprabhu hiton ko sunishchit karne ke liye vastav main sahyog ke liye kadam badha rahe hai
+ This theory is particularly engaged in re-interpreting the concepts of sovereignty and autonomy
+ swaittata aazaadee kii avadharana, aatmanirnay, ek purna jimmedaar agency or kartavyaparayanata kii dharna se dur sthanantarit hone se ek samasyagrast avadharana ban jaati he
+ The important thing is that autonomy is in the form of capacity for good governance
+ isi prakaar se, samprabhutaa bhi kartavya ke liye sahi se badlaav kaa anubhav karaati he
+ Constructivism or social constructivism is described as a challenge in the face of the dominance of the principles of neo-liberal and neo-realist international relations
+ maaikel barnet varnan karte hai kii rachnawadi antarrashtriya sambandhon ke siddhanton ko is rup main samajha jaataa he kii vichaar kaise antarrashtriya sanrachana ko paribhaashit karte hai, yah sanrachana kaise rajyon ke hiton or pahchaan ko paribhaashit karti he or rajya or gaiyr rajya abhinayta is sanrachana ko kaise pun: pesh karte hai
+ The major theories of constructivism hold that "international politics is produced by persuasive ideas, collective values, culture, and social identity
+ " rachnawad kaa tark he ki antarrashtriya vaastaviktaa saamaajik rup se gyanatmak / boudhik sanrachanaon ke dwaara nirmit hoti he
+ This theory emerged as a debate taking into account the scientific method of theories of international relations and the role of theories in the production of international power
+ amenul edler ne kaha he ki rachnawad tarkwaadi or vyaakhyaatmak antarrashtriya sambandhon ke siddhanton main ek bich kaa rasta he
+ Marxism and neo-marxism are structuralist norms of the principles of international relations, which reject the view of state struggle or cooperation of realists and liberals and instead focus on economic and material aspects
+ antarrashtriya sambandhon main nariwadi drushtikon 1990 ke dashak main lokapriy bana
+ This approach emphasizes that women's experiences are constantly being excluded from the study of international relations
+ antarrashtriya sambandhon main nariwadiyon kaa tark he ki ling sambandh antarrashtriya sambandhon ke abhinn ang hai
+ Therefore, attention should also be paid to diplomatic women and marital relations which play a role in facilitating the illegal trade in sex
+ harith siddhant antarrashtriya sambandhon ke siddhanton kaa ek up kshetra he jo antarrashtriya paryaavaran sahyog se sambandhit he
+ For more information: Fundamentalism in the principles of international relations, anti-fundamentalism, positivism in the principles of international relations, post-positivism in the principles of international relations, post-realism and premodernism prakaaryawad antarrashtriya sambandhon kaa ek siddhant he jo ki europea ekikaran ke anubhav se ubhar kar saamne aayaa
+ While realists see self interest as a motivating factor, functionalists focus on shared interests by states
+ antarrashtriya sambandhon main rajya cartil siddhant arthshaastra ke pracheen sansthagat siddhant siddhant se aayaa he
+ This theory has a German background, as Germany was previously the highest developed economic cartels and the homeland of classical cartel theory
+ antarrashtriya sambandhon ke anya siddhanton ke ke bich, rajya cartil siddhant antarrashtriya sambandhon main prakaaryawad ke saath adhik judaa hua he
+ Shortly after inception, the state cartel theory has focused its attention on the theory of international organizations
+ uttar - sanrachnawad antarrashtriya raajnneeti main duusare adhikansh drushtikonon se alag he, kyonki yah khud ko ek aise siddhant, skool yaa pratimaan ke rup main nahin dekhtaa he jo kii keval kisi ek hi vishay ke bare main lekha-jokha rakhata ho
+ Instead, the post-structuralist approach is an ethos, method and approach that examines and explores critiques in a particular way
+ uttar -sanrachnawad aalochana ko ek swaabhaavik sakaaratmak tareeke se dekhte he jo ki vikalpon kii khoj ke liye aisi sthitiyaan banataa he
+ Post-colonialism holds a critical theory and approach to international relations in the teaching of international relations and is not considered a mainstream area in the teaching of international relations
+ uttar upniveshwaad vishwa raajnneeti main aupniveshik sthirataa kii shakti or naslwad ke astitv ko jari rakhane par bal detaa he
+ Tativarru is a village in Krishna district under the state of Andhra Pradesh, India
+ berlin ke royal pales prashia raajaaon or german samraaton kaa nivas tha
+ It is in the historical origins of the city
+ yah pehali baar 1442 main banaaya gaya he, or par 1702 se barok vaastukala main badhaayaa gaya tha
+ It will be reconstructed by 2019 thanks to private donations
+ ek aantarak bade chattaanon kaa vah kshetra hota he jo choti chattaanon se ghira hota he
+ a non-young rock opposite is an area completely surrounded by large rocks
+ | Mehdi Hasan is a British political journalist, broadcaster and writer of Indian origin
+ ve hafington post ke sampadak tathaa al jazira ke da kaife, had tu had or aparrant naamak tellivithan samachar shrinkhalaaon ke prastutakarta hai
+ He received his education in philosophy, politics and economics from Oxford University in the year 2000
+ dhanian main bharat ke bihar rajya ke antargat purnia mandal ke arriya jile kaa ek gaanv he
+ In biology, fragmentation is the use of repeating parts in the physical plan of some animal and plant species
+ is se jeev ke sharir vikaas or hilavat main laabh hota he
+ Indian Iron and Steel Company is a wholly owned subsidiary sector of Steel Authority of India Limited
+ ek samay tha jab 'isko' kaa naam landan stock exange main uddhrut kiya jaataa tha jo 1960 ke armbh main kolkata stock exange ke liye garv kii baat thi
+ In 1994, it was also mentioned in Finance and Industrial Construction
+ isko kaa armbh 1874 main dekha ja saktaa he jab james ruskin ne dhalwaan louh utpaadan ke liye pashchim bengal ke kulti main 'bengal irun works' kii sthapana kii thi
+ In 1918, Isco was promoted by Burn and Company after passing through many hands
+ 1939 main burnpur main ispaat kaa vinirmaan armbh kiya gaya
+ Till 1960, 'isco' under the chairmanship of Sir Byron Mukherjee was producing every year but in 1972 the production declined, it was acquired by the Government of India
+ march 1978 main ise cell kii sahaayak company bana diya gaya
+ Isco's Chiria, Gua and Mandharpur iron ore mines are the best mines in India
+ 1674 gregory calendar kaa ek saadhaaran varsh he
+ }} nirdeshaank: 27°11′N 78°01′E / 27
+18°N 78
+02°E / 27
+18; 78
+02 Ondh Bah is a village in Agra, Uttar Pradesh
+ · ambedkar nagar jila · agra jila · aligarh jila · azamgarh jila · elahabaad jila · unnav jila · itawa jila · eta jila · auraiya jila · kannauj jila · kaushambi jila · kushinagar jila · kanpur nagar jila · kanpur dehaat jila · khayr · gajiabad jila · gorakhpur jila · gonda jila · gautam buddha nagar jila · chitrakoot jila · jalon jila · chandauli jila · jyotiba phule nagar jila · jhaansi jila · jonpur jila · devaria jila · pilibhit jila · pratapgarh jila · fatehpur jila · farrukhabad jila · firozabad jila · faijabad jila · balrampur jila · bareli jila · baliya jila · basti jila · badun jila · bahertch jila · bulandashahar jila · bagpat jila · bijanour jila · barabanki jila · banda jila · mainpuri jila · mahamayanagar jila · mau jila · mathura jila · mahoba jila · maharajaganj jila · mirzapur jila · mujhaffarnagar jila · meerut jila · muradabad jila · rampur jila · raibareli jila · lakhanu jila · lalitpur jila · lakhimpur khiri jila · varanasi jila · sultanpur jila · shahjahanpur jila · shravasti jila · siddharthanagar jila · sant kabir nagar jila · sitapur jila · sant ravidaas nagar jila · sonbhadra jila · saharanpur jila · hamirpur jila, uttar pradesh · hardoi jila Tulsinagar, Delhi is a residential area of delhi
+ santa phe dweep jise bairington dweep bhi kaha jaataa he, 24 varg kilometre kshetra kaa ek chota sa dweep he jo, santakruge dweep ke dakshin purv main or gailapagos dweepasmooh ke centre main sthit he
+ It is named after a city in Spain
+ bhugaulik rup se yah dweep samooh ke sabase puraane dwipon me se ek he, yahan 40 lakh varsh puraani jwalamukhi chattaane bhi pai gayi hai
+ The vegetation of the island is characterized by a dense forest of the largest species of the giant Opuntia cactus
+ santa phe dweep do sthaneey prajatiyon: bairington sthaliy goh or santa phe chaaval chuha kaa ghar he
+ Jal Singh is found in large numbers on the island
+ ghar 1978 main bani hindi bhashaa kii film he
+ Nisha Aggarwal is an Indian film actress
+ yah kai malayalam, telugu or tamil bhashaaon ke filmon main kaary kar chuki hai
+ She is the sister of Kajal Aggarwal
+ couninga upjila, bangladesh kaa ek upazila he, joki bangladesh main tritiy str kaa prashasnic anchal hota he 
+ It is a subdivision of Rangpur district of Rangpur department, which, including the district Sadar, has a total of 8 sub-districts, and the headquarters is the Rangpur Sadar sub-district
+ yah bangladesh kii rajdhani dhaka se uttar kii disha main avasthit he
+ It is primarily a rural area, and the majority of the population lives in rural areas
+ yahan kii aadhikarik str kii bhashaayen bangla or angrezi he
+ And like any other region of Bangladesh, Bangla is the main oral language and mother tongue here
+ bengali ke alaava angrezi bhashaa bhi kai logon dwaara jaani or samajhi jaati he, jabaki saanskrithik or aitihaasik nikatataa tathaa bhashaai samanta ke kaaran, kai log simit maatra main hindustani bhi samajhane main sakasham hai
+ The majority religion here is Islam, while the major minority religion is Hinduism
+ rajshahi vibhaag main, janasankhyikeek rup se, islam ke anuyai, aabaadi ke ausatan kareeb 88% he, jabaki shesh jansankhya pramukhtah hindu dharm kii anuyai he
+ It is predominantly rural, and the majority of the population lives in rural areas
+ couninga upjila bangladesh ke uttari seemaanton main sthit, rangpur vibhaag ke rangpur jile main sthit he
+ Accentric Pendulum is India's 'heavy metal' band formed in November 2008
+ unhone ek studio elbum or ek eepi jari kiya he
+ The 2008 eccentric pendulum was made in Bangalore, India at the end
+ band kii us samay dhandhorchi Vibhas, taal guitar par ashish, nikhil apane pichley band Assylum or geetkaar / bassist se nikaala gaya tha arun gaya tha
+ The band composes songs by combining jazz, fusion and ambient elements
+ In March 2009, the eccentric pendulum released their first EP titled "sculptor of Negative Feelings"
+ This EP has been viewed by buyers across the Indian subcontinent and some parts of Europe and America The artwork was by Alex Eckman Lawn
+ agast 2009 main, fahim band unke netritv guitaravadak main shaamil ho gaye
+ The lyrical theme of this band is on Light, Beauty, Emotions and Absurdness
+ disambar main, 2009 sanakee pendulum banaavat or amon Amarth ke rup main antarrashtriya dhaatu diggajon ke saath deccan rock festival main khelaa tha
+ In it he also opened concerts in India for Meshuggah
+ The recent interview of eccentric pendulum band with bassist Arun said: "! i sincerely hope to spread metal culture and trend in India more rapidly than people to convert themselves from Bollywood / boys to metal"
+ After a grand finale in a nationwide and Bangalore freak pendulum to come out of the competition victorious and get tickets to play in the Wacken Open Air to go to Germany
+ sheershak = sanakee pendulum Wacken dhaatu ladaai jeetne | ve 2011 ke shuru main apane naveenatam prakaashiki ghumaavdaar album jari kiya he
+ The Calvin bridge is a small resistance measuring device
+ ise 'kelvin dwisethu' bhi kehete hai
+ In some countries it is also known as 'thomson Bridge'
+ ek om se kam pratirodh kaa maapan karne vaale upkaran praayah 'laghu-pratirodh ohmamapi', 'mili-ommapi' yaa 'micro-ommapi' kehalaate hai
+ Some commercially available kelvin-bridges are capable of providing up to 2% measurement accuracy in resistances ranging from 1 micro ohm to 25 Ω
+ is sethu kaa kaary hvitstone sethu jaisaa hi he
+ The only difference is that it also has some additional resistance
+ ye kam maan vaale atirikt pratirodh maapan kii trutiyon ko kam karne ke uddeshy se lagaae gayi hai
+ There are two 'proportional arms' in the calvin-setu
+ bahari anupaati bhujaaon main gyaat pratirodh hai jabaki aantarik anupaati bhujaaon kaa upyog dharamapi ke ek sire ko samuchit bindu par jodne main kiya jaataa he
+ After adjusting the resistors, when this bridge becomes balanced, pratirodh r kaa maan jitna kam ho sake utana hi acha he 
+ That is why it is made of thick copper rod
+ yadi r 3 ⋅ r 4 ′ = r 3 ′ ⋅ r 4 { \ displaystyle R_{3} \ cdot R'_{4}=R'_{3} \ cdot R_{4}} kii shart puri hoti he to, to sameekaran kaa antim pad naganya ho jayega tathaa, Which is equivalent to the Wheatstone Bridge
+ johny walker bharat ke ek prasiddh hasya abhinayta kaa screen naam tha, inkaa mul naam bahruddin jamaluddin kaazi tha
+ Jani Walker has been a well-known comedian of the Hindu film world who is not an acquaintance
+ aligarh andolan sar saiyad ahamed khan ke netruv main chalaaya gaya ek pramukh islamic andolan he, jo 1857 ke vidroh ke asafalataa ke baad musalamaanon main dharmik sudhaaron ke uddeshy se chalaaya gaya
+ In the view of Syed Ahmed Khan - until freedom of thought develops, civilized life is not possible
+ unka maananaa tha ki musalamaanon kaa dharmik or saamaajik jivan paashchaatya vaigyanik gyaan or samskruti ko apanaakar hi sudhara ja saktaa he
+ For this, he got Western texts translated into Urdu
+ saiyad ahamed kha ne musalamaano main prachlit piri muridi pratha kaa virodh kiya
+ In this practice, Muslims used to try to convince Swam like Sufi saints by telling Pir Murid something mysterious
+ saiyad ne musalamaano ko das pratha ke viruddh jaagrath kiya or is pratha kaa virodh kiya or muslim samaaj main vyaapt anya buraaiyo kaa bhi virodh kiya
+ Chanboli is a village in Bageshwar district of Kumaon division under Uttarakhand state of India in Kafligar tehsil
+ amrit bazaar patrika bangala bhashaa kaa ek pramukh bhartiya samachar patr he
+ It is counted among the oldest newspapers in India
+ iskaa pehla prakaashan 20 farvari 1868 ko hua tha
+ It was founded by two brothers Shishir Ghosh and Motilal Ghosh
+ unki maan kaa naam amritmayi devi or pita kaa naam harinarayan ghosh tha jo ek dhani vyapaaree the
+ This magazine first started in weekly form
+ pehle iskaa sampaadan motilal ghosh karte the jinke paas vishvavidhyalay kii degree nahin thi
+ The paper was famous for its honest and fast-paced reporting
+ yah 'bengali' naamak angreji bhashaa ke patr kaa pratidwandi tha jiske kartadharta surendra nath banerjee the
+ Amrit Bazar Patrika was such a stunning group that India's national leaders relied on it for accurate information and drew inspiration from it
+ british raaj ke samay amritabazaar patrika ek rashtravaadi patr tha
+ Shishir Kumar Ghosh later became the editor of this magazine
+ ve ucch siddhanton ke dhani vyakti the
+ When the British Government imposed the Native Press Act in 1878 to suppress the Indian press, a week after this, sensing this corrupt move of the Government, made the Anand Bazar Patrika 21 March 1878 a completely English language letter
+ pehle yah bangala or angreji main prakashit hoti thi
+ On 19 February 1891, the magazine became a weekly daily
+ san 1919 main do sampadakiyon ke likhane kaaran angrej sarkaar ne is patrika kaa jamaanat raashi jabt kar lee
+ These were two editors - 'to hum does India bilang?' And 'arrest of Mr
+ Gandhi: More outrages?' 
+ 1928 se lekar 1994 tak jeevanaparyant shri tushaar kaanti ghosh iske sampadak rahe
+ Under his able leadership, the letter expanded its circulation and came under the category of large letters
+ is samooh ne 1937 se 'ugantar' naamak bangala dainik bhi nikaalnaa armbh kiya
+ Due to huge debt and labor movement, its publication was stopped from 1996
+ abhi haal main ise punah armbh kiya gaya he
+ 1431 is an ordinary year of Gregory calendar
+ nikal rajat, taanbe kaa ek mishratu he jisamen nikal or praayah jasta mila hota he
+ It usually contains 60% copper, 20% nickel and 20% zinc
+ ise 'german silver', nayi chaandi, nikal pital, electrum aadi naamon se bhi janaa jaataa he
+ It is called 'nickel silver' because it looks like silver
+ kintu isamen chaandi nahin hota
+ The name 'german' has come up because it was developed by German metallurgists in the 19th century
+ vanadium chloride ek acarbonic yogic he
+ Coordinates: 25 ° 09′N 85 ° 27′E / 25
+15 ° n 85
+45 ° e / 25
+15; 85
+45 safapur matihani, begusarai, bihar sthit ek gaanv he
+ Sunnah سنن: Hazrat Muhammad's discourse, education, guidance is called Sunnah
+ hazarat mohammad ke kaal main unke anuyaayi yaa sahaba ko die gaye maargdarshan yaa gyaan ko sunnah yaa sunnat kehete hai, jo saare muslim jagat ko amal karne ke liye kaha gaya
+ The Quran and Hadith are the proven books in the religion of Islam
+ or inhen kii buniyaad par islamicy nyaay shaastra bana he
+ Sunnah also means "way" or "lifestyle" or "life mode", which Musselman adopts in his life
+ yah ek arabi shabd he, jiskaa arth "aasaani se bahna yaa sidhaa chalane vaali raah "
+ Correctly it means a straightforward path of cleanliness
+ } Coordinates: 27 ° 53′N 78 ° 04′E / 27
+89 ° n 78
+06 ° e / 27
+89; 78
+06 kamalpur khayr, aligarh, uttar pradesh sthit ek gaanv he
+ South African women's cricket team visits New Zealand alankaar chandroday ke anusaar hindi kavita main prayukt ek alankaar Kumad is a village in Almora district of Kumaon division under the state of Uttarakhand in Bhanoli tehsil of India
+ bradypodidaemegalonychidae†megatheriidae†mylodontidae†nothrotheriidae† dwaara namankit kul vilupt ho chuke hai Sloth is a medium-sized herbivorous mammal found in South and Central America
+ yah dhimi gati se hilne ke liye prasiddh he or lok-kalpana main ise ek bahut aalsee jaanavar samajha jaataa he
+ There are six species of sloths divided into two biological clans: two-fingered megalonicidae and three-fingered bradypodidae
+ aadhunik sloth jangal ke vrikshon main hi rahete hai haalanki ateet main inaki samudr main tair sakane vaali jaleey or hathi-jaise bade aakaar kii dharti par ghoomane vaali jatiyaan bhi thim jo hazaron yaa lakhon varsh purv vilupt ho chuki hai
+ Sloths are included in a biological group called Pilosa which also contains ants, that is, the genetic association of sloths and ants
+ costa rika main do-oongaleey sloth Another two-fingered sloth megatharium, ek vilupt sloth jo sir-se-punch tak 6 meter bada tha Hanging two-finger sloth ettore marchiapawa, italy ke ek chikitsak tathaa praanivid the jinhone malaria par shodh kaary kiya
+ In the 1180 to 1891, he did extensive research on malaria
+ anjelo seli ke saath francisi sainya chikitsak charles lui alphons laveren ke dwaara malaria peediton ke rakt main khoje gayi naye protozoa kaa adhyayan kiye
+ He named this microbe as Plasmodium
+ san 1925 main inhone pratham antarashtriya malaria sammelan kaa aayojan kiya
+ INSAS or INSAS is a family of infantry weapons consisting of a rifle and a light machine gun
+ yah aayudh nirmaani tiruchirapalli main aayudh kaarkaanon board dwaara nirmit kiya jaataa he
+ The INSAS rifle is the weapon for the standard infantry of the Indian Armed Forces
+ april 2015 main bharat sarkaar ne siarpief ke kuch insaas riflon kii jagah eke-47 tainaat kii he
+ In early 2017, it was announced that the INSAS rifles would be retired in a phased manner due to long range ineffectiveness and would be replaced with imported weapons
+ 1950 ke dashak ke ant main, bhartiya sashastr balon ko el1e1 swa-loding rifles kii sthaneey rup se taiyaar bina license kii copy se las kiya gaya tha
+ In the mid-1980s, it was decided to develop a 5
+56 mm caliber rifle to replace obsolete rifles
+ ekeem ke aadhaar par vibhinn prototipon par pareekshan armment research and deveopment astablishment, pune dwaara kiye gaye
+ At the completion of the trial, The Indian Small Arms System was adopted in 1990
+ haalanki, bolt-ection lee-enfield rifles kaa istemaal jald se jald khatm karne kii yojana thi
+ In 1990-92, India was to acquire 100,000 7
+62 × 39 mm akm-type rifles from Russia, Hungary, Romania and Israel
+ bolt-ection lee-enfield rifles kaa istemaal jald se jald band kiya ja sake
+ Originally, the INSAS system had plans to produce three variant rifles, carbines and team automatic weapons or light machine guns
+ 1997 main, rifl or lite mashin gan kaa bade paimaane par utpaadan kiya gaya
+ In 1998, the first INSAS rifles were displayed in the Republic Day Parade
+ 
+ 5
+56×45 mimi gola-barood kii kami ke chalate rifl kii shuruyaat main deree hui thi, badi maatra main israel military industries se gola-barood kharide gaye the
+ The rifle first demonstrated its power during the Kargil War in 1999
+ bhartiya sainya seva se 2017 main insaas rifl ko band kar diya jayega
+ The INSAS is primarily based on the AKM but includes features from other rifles
+ isamen krom plated bor he
+ The barrel has six-groove rifling
+ buniyadi gas sanchalit lambey stroke piston or ghurnan bolt ekeem / eke-47 ke samaan he
+ It has a manual gas regulator, similar to FN FAL, and a gas cutoff to launch the grenade
+ charging handle, bolt karrier ke bajaay bain ore, HK33 ke sanchaalan ke samaan he
+ It can fire in three-round burst or semi-automatic mode
+ isaki chakree dar 650 round prati minute ausat he
+ The transparent plastic magazine is adapted from Steyr AUG
+ rier drushti brich cover ke ek chor par sthit he or 400 meter tak callebrated he
+ The back of the gun can be made of either wood or plastic
+ Guns carry 20 or 30 rounds of magazines
+ 30-round magazine lmaji sanskaran ke liye banaai gai he, lekin ise rifl main bhi istemaal kiya ja saktaa he
+ The flash suppressor also accepts nato-specification rifle grenades
+ 1999 ke kargil yuddh ke dauraan, riflon kaa istemaal himalay ke oonche ilaakon main kiya gaya tha
+ It had complaints of jamming, the magazine cracked due to cold and the rifle was going into automatic mode when it was set to explode three rounds
+ oparator kii ankhon main tel kii chhidkaav kii samasya bhi thi
+ Some injuries were also reported during firing practice
+ 2001 main, 1bi1 sanskaran ko kargil yuddh main rifl kii vishwasaneeyata kii samasyaon kaa samaadhaan karne ke liye pesh kiya gaya tha, lekin ise anya samasyaon jaise magazine kaa tut janaa kaa saamana karnaa padaa Similar complaints were received from the Nepali Army
+ agast 2005 main, maovadiyon ke saath hue sangharsh main 43 nepali sena ke sainik maare gaye the, nepali sena ke pravaktaa ne rifl ko kharaab maanate hue kaha tha ki unke virdohi vidroh ham se behatar hathiyaaron ke saath adhik kushal he
+ The Indian embassy issued a statement, which rejected the claim and held it responsible for not using it properly, India also offered training for the correct use of the rifle
+ 8 agast 2011 ko, tatkaaleen rajya mantri, pallam raju ne loksabhaa main ek sawaal kaa jawaab dete hue kaha ki sabhi samasyaon ko thik kiya gaya he
+ Shortly thereafter, in a press release, the Ministry of Defense reported the number and details of injuries suffered during the shootings since 2009
+ bayaan main 2003 main report kiye gaye tel-spray kii samasya ko sweekaar kiya or kaha ki samasya puri tarah se sahi ho gai he report ne choton ko sahi tareeke se na upyog or rifl kii saamagree ke liye jimmedaar tehraaya
+ In November 2014, the CRPF requested the Insas rifle be dropped as its standard rifle due to problems with reliability
+ siarpief ke mahanideshak dilip trivedi ne kaha ki insaas rifl eke-47 or eks-95 kii tulana main adhik baar jam ho rahi he
+ In December 2014, a parliamentary committee presented its report after an investigation into why a high quality rifle was not being produced
+ 2015 main, dilli ucch nyaayalay main ek sevanivrutt leftinent karnal ne ek janhit yachika daayar kii thi
+ He claimed that the soldiers were losing their lives due to the lack of a modern rifle
+ april 2015 main, nyaayalay ne raksha mantralay ko isaki pratikriya darj karne ke liye kaha
+ The ministry defended the use of the rifle, stating that the rifle could not be blamed for the casualties because it was included after a thorough trial and there have been three major changes since
+ unhone yah bhi bataaya ki rifl ko court of inquairi dwaara doshi tehraaya nahin gaya, jisane naksali karrwai kii jaanch kii thi
+ In November 2015, the Court dismissed the plea that there was not enough evidence to show any defect in the INSAS
+ yah bhi note kiya gaya tha ki sarkaar nai riflein praapt karne kii prakriya main thi
+ It is a gas powered assault rifle that can be fired in single round or three-round blast mode
+ doorabeen drushti yaa niskriy raat kii drushti iske upar lagaai ja sakati he
+ It can carry nato-standard 5
+56 × 45mm SS 109 and M93 ammunition
+ yah ek sangeen ke saath aata he iske paas eardi 40 mimi bairal grenade launture ke liye ek mount point he, saath hi grenade or grenade aayran-spes launch karne ke liye gas block ke saath he
+ Flash mitigation has a blank-firing adapter
+ yah ek fold ho jane vaala bat sanskaran bhi he An Insas Assault rifle with black furniture, including a full-auto mode, was introduced later
+ swat: asalt rifl main ardh swachaalit maanak insaas rifl kii tarah 400 meter range thi
+ The LMG had 700 meters compared to the INSAS Standard and Assault Rifles with a range of 400 meters making it different from the standard rifle
+ isamen sanshodhit rifling ke saath ek lambii or baari bairal he lmaji sanskaran 30-round magazine kaa upyog karata he or 20-round insaas eaar magazine bhi isamen lod kiya ja saktaa he
+ This model can fire in semi and full-auto modes
+ isamen fold hone vaala bat sanskaran bhi he
+ Excalibur, with a 400 meter range, can be used for battlefields as well as close combat
+ yah swachaalit insaas rifl kii tulana main halkaa or chota he The Kalantak Micro Assault Rifle, with a 300 meter range, is intended for close combat and personnel defense weapon roles
+ amogh carbine, 200 meter range ke saath vishesh rup se kareeb timahi ladaai kii bhoomikaaon ke liye dizine kiya gaya he On 27 September 2016, the Indian Ministry of Defense has re-issued an RFI for a 7
+62x51 mm assault rifle that achieves the purpose of shoot-to-kill to replace problematic INSAS
+ mandandon dwaara ullikhit parameter nimna hai: Muladhara Chakra is the first cycle of the Chakra concept of Tantra and Yoga practice
+ yah anutrik ke aadhaar main sthit he
+ It is considered to be the boundary between animal and human consciousness
+ iskaa sambandh achetan man se he, jisamen pichley jiwanon ke karm or anubhav sanchit rahete hai
+ According to karma theory, this cycle determines the future destiny of the creature
+ is chakra kaa anuroop tatva prithvi he
+ Anubis was the Yamdoot and Yamrakshak
+ pracheen misr ke dharm kaa ek devtaa
+ Boot Polish is a 1954 Hindi language film
+ bholaa or belu do bhai bahan hai jinaki maan kaa dehant ho gaya he or pita ko karawas
+ He has to go live with his evil aunt Kamala
+ kamala unase bheekh mangavati he or unhen bura-bhala kahati he
+ An illegal brewer, whom the children know as John Chacha, advises them to live the life of a self-respecting beggar
+ bachche uski baat maanakar kuch paise bachaakar boot polish kaa saamaan karidate hai
+ When Kamla comes to know about this, she snatches their belongings and kills them and removes them from the house
+ varsha hone ke kaaran ab koi bhi vyakti unase boot polish bhi nahin karaata he or donon ko bharpayt bhojan bhi naseeb nahin hota he
+ The helpless children are brought to the brink of starvation when John's uncle is taken into custody for illegal alcohol making
+ ek din railway stesan par anaath bacchon ko anathalay le jane kii pakad dhakad chal rahi thi
+ Belu escapes by boarding the train and gets separated from Bhola
+ train main belu ko ek amir dampatti god le leti he
+ Belu becomes sad after being separated from Bhola
+ boot polish kaa kaam shuru karne ke baad bholaa ne belu ko bheekh maangane se manaa kiya tha or yahan tak ki belu ne kaha na maanane par usapar haath bhi uthaaya tha, lekin ab halaat itane najuk ho jate hai ki bholaa ko khud bheekh maangane kii naubat aa jaati he or ek din jab vah railway stesan par bheekh maang rahaa hota he to uski mulaaqaat belu se ho jaati he
+ She then adopts both the rich couple
+ film ke ant main dikhaaya gaya he ki ab donon bachche skool ja rahe hai
+ The film's lyricist was Shailendra and the composer was Shankar Jaikishan
+ is film ko 1955 main teen filmafere puraskaron se sammanit kiya gaya
+ Candra is a major underground water logging site
+ kandaraaye guphanuma akritiyaan he Kheer is a type of confectionery made by cooking rice in milk
+ kheer ko paayas bhi kaha jaataa he
+ The word 'kheer' is a corrupt form of 'ksheer'
+ nirdeshaank: 25°09′N 85°27′E / 25
+15°N 85
+45°E / 25
+15; 85
+45 Jana Chourahi is a village in Begusarai, Bihar
+ star samachar satna se prakashit hone vaala ek dainik samachar patr he
+ It started in the city of Satna in Madhya Pradesh on 17 September 2010 and today it is being published in the cities of Rewa, Panna, Sidhi, Shahdol, Katni, Khajuraho, Chhatarpur, Singrauli besides Satna
+ pulinda pul yaa trace brij wo pul hote hai jinke andar khichaav or tanaav bal ke rup main lagate he
+ They come in the oldest bridges
+ in pulon kaa armbh 19veen va 20 veen sadi hua tha
+ The cost of making these bridges is low and materials are easily found
+ in pulon main vertical mambarz or lower horicontal mambarz par khichaav lagata he
+ The drop of dew is Rahi Masoom Raza's third novel
+ yah upanyaas hindu-muslim samasyaon ko lekar shuru hota he lekin aakhir tak aate-aate pathakon ko pataa chalata he ki hindu-muslim samasya vastav main kuch nahin he, yah sirf raajnneeti kaa ek mohara he or jo asli cheez he vah he insaan ke pahalu main dhadkane vaala dil or us dil main rahane vaale zajbaat or in donon kaa majahab or jaat se koi taalluk nahin
+ Therefore, this novel, which seeks true humanity amidst communal riots, is of every city and every religion despite being a city and a religion! a small life's painful tale, which is shiny like a drop of dew and is young
+ bhagavatsharan upaadhyaay kaa janm 1910 i0 ko ujiyarpur, jila- baliya main hua
+ He died on 12 August 1982
+ upaadhyaay ji ne sanskrit, hindi sahitya, itihaas, samskruti evam puraatatva kaa gahan adhyayan kiya
+ Your language style is literary standing with words
+ aapane vivechanaatmak bhavukta purna, chitratmak bhashaa kaa prayog tathaa kahin-kahin rekhachitr style kaa prayog kiya he
+ Outline of world literature, Kalidasa's India, Kadambari, stumpy mango, red china, ganga-godavari, Buddha splendor, literature and art, on the waves of the ocean
+ banaras hindu vishvavidhyalay kii shodh patrika kaa sampadan
+ Member of Hindi Encyclopedia editor-board
+ vishesh-marishas main bhaarte ke rajdoot tathaa vikram vishvavidhyalay main itihaas ke professor rahe
+ Sajid Samji 20 August 1967 sajid samaji or farhaad samaji ek bhartiya film nirdeshak or lekhak he
+ He has written many films such as - Siva Sundae, Double Dhamaal, Golmaal Returns etc
+ accounting for films
+ 25 farvari gregory calendar ke anusaar varsh kaa 56wa din he
+ There are still 309 days left in the year
+ kep agulas yaa agulas antarip, dakshin africa ke rajya pashchimi kep, main sthit ek chattani antareep he
+ Geographically it is the southern tip of Africa and officially the dividing point of the dark ocean and the Indian Ocean
+ vaise mahasaagaron ke bich kaa vaastavik vibhaajan bindu wo he jahaan vartmaan agulas dhara, benguela dhara se milti he, par yah bindu mausam ke anusaar kep agulas or kep point ke bich badalata rahata he
+ Historically, sailors considered this arch a major threat on the traditional clipper route and were often referred to as the Great Entrance
+ is antareep ke nikat laa'agulas naamak gaanv sthit he
+ The district of Sagarmatha province of Nepal, at the northern end of which is Mount Everest, the world's highest mountain
+ yah jila himalay paryaton or chadai ke liye vikhyath he jahaan everest chadhaai ke liye base camp hai
+ Coordinates: 27 ° 53′N 78 ° 04′E / 27
+89 ° n 78
+06 ° e / 27
+89; 78
+06 hamidpur khayr, aligarh, uttar pradesh sthit ek gaanv he
+ The first generation iphone is a smartphone developed by Apple Inc
+ yah aiphone parivaar kii pehla sadsy he
+ It was unveiled on 9 January 2007, after a series of rumors and speculation that ran on 9 January 2007
+ appal ke taatkaalik siio steve jobs ne ek aise computer kii pariklpana kii jisame mouse or kunjeepatal ke sthaan par upyogkarta sparsh kii madad se computer ke saath parsparik vyavhaar kare
+ Jobs recruited a group of Apple engineers to investigate the feasibility of this hypothesis
+ jobs ne iske prototip or antarfalak kii samiksha kii or unke man main is takanic ko ek mobile phone ke saadhan se karyanvit karne kaa vichaar aayaa
+ The project was named Project Purple 2 and began in 2005
+ appal ne america doorsanchaar company anti and tii kii gupt or abhootpurv sahyog kii madad se is upkaran kaa nirmaan kiya
+ The cost of this collaboration, which lasted for thirty months, is estimated at about $ 150 million
+ sabase pehle aiphone kaa anaavaran steve jobs ne 9 janvari 2007 ko san francisco, california main yojit hue mecoworld sammelan ke dauraan ek kinot sambodhan ke dauraan kiya
+ In his speech Jobs said "I have been looking forward to this for two and a half years" and "today, Apple is going to reinvent the phone
+" badrinath bharat ke uttari bhaag main sthit ek sthaan he jo hinduon kaa prasiddh tirth he
+ It is a nagar panchayat in Chamoli district of Uttarakhand
+ yahan badririnath mandir he jo hinduon ke chaar prasiddh dhaamon main se ek he
+ There are three ways to reach Badrinath
+ ranikhet se, kotdwar hokar paudi se ore haridwar hokar devprayag se
+ All three routes meet at Rudraprayag
+ rudraprayag main mandakini or alakananda kaa sangam he
+ Where two rivers meet, the place is called Prayag
+ badari-kedaar kii raah main kai prayag aate he
+ People who want to go to Kedarnath from Rudraprayag go there
+ kabhi haridwar se is yatra main maheenon lag jate the, lekin ab to sadak ban jane ke kaaran yatri motor-lariyon se theth badrinath pahunch jate he
+ The journey takes less than a week
+ rudraprayag se nau mile par pipal kothi aati
+ People's skins, medicines and oysters are good in Peepal Koti
+ bas kii sadak banane se pehle raasten main chattiyaan thim
+ The roads used to stay in the roads were called 'chatti'
+ kahin kachche makaan, kahin pakke
+ Food and drink were available on all the rocks
+ baratan bhi mil jate the
+ Milk, curd, mawa, pedas, everything was available, even shoes and clothes
+ jagah-jagah kaali kamali vaale baba ne dharmashalaayein banavaa di thi
+ Medicines were also available
+ daakkhaane bhi the
+ On the way, garuda-ganga comes and meets Alaknanda
+ yahaan garudji kaa mandir he
+ It is said that the returning bar, who takes a piece of stone by taking a bath in garuda-ganga to worship the house, has no fear of snakes
+ yahaan se pataal ganga kii chadhaai shuru hoti he
+ There are pine and cedar trees all the way
+ unhen dekhakar man khil uthta he
+ Patalganga is literally in Hades
+ neeche dekhon to dar lagata he
+ Water beige
+ kam he, par bahaav bada tej he
+ The mountain of the shore is always breaking
+ do mile tak aisa hi rasta chalaa gaya he
+ Landed down on Patalganga, then climbed up
+ gulabkoti pahunche
+ It is said that Parvati meditated here in the Satyuga
+ ve shivaji se vivaah karnaa chaahati thim
+ For this, the leaves were eaten for years
+ isise aaj is van kaa naam ‘pakhand’ yani ‘parn khand he
+ Everyone who goes there remembers that old story and then reaches 'joshimath'
+ joshimath ek vishesh nagar he
+ There are fruits here in all Garhwal
+ phulon ko to poochon mat
+ The name of Joshimath is associated with Swami Shankaracharya
+ yah shankaracharya do hajaar saal pehle hue he
+ This happened when Hinduism was disappearing
+ kul battis saal jivit rahen
+ In this small age, he has done so much work that is surprising
+ bade-bade pothe likhe
+ Preached religion all over the country
+ phir desh ke chaaron cono par chaar math banaaye
+ Puri in the east, Dwarika in the west, Sringeri in the Deccan and Joshimath in the north
+ in chaaron mathon ke guru shankaracharya kehalaate he
+ It was this Shankaracharya who rebuilt the temple of Badrinath
+ sardi ke dino main jab badrinath baraf se dhak jaataa he to vahaan ke rawal murti yaheen aakar rahete he
+ The garlands that are used in the temple of Badrinath go from here
+ yahaan ke mandir main paisa nahin chadhaaya jaataa
+ i vow to leave something bad
+ yahaan par keemu kaa ek ped he
+ It is said that sitting under it, Swamiji wrote books
+ neeche nagar main kai mandir he
+ One of them has an idol of Lord Narasimha
+ kaale pathar kii us sundar murti kaa baanyaa haath bada patala he
+ On asking, it was found that that hand is becoming thinner
+ jab vah gir jaayga tab yahaan se koi aage na bad sakegaa
+ All roads will be broken
+ yahaan se aagen bade to jaise pataal main utarate chale gayi
+ Two miles of steep descent
+ par bich-bich main milane vaale sundar jharne sab thakaan dur kar dete he
+ Below is Vishnu Prayag, where Vishnu Ganga and Dhauli Ganga meet
+ in nadiyon kaa pul lohe kaa bana hua he
+ There is a valley of flowers near Pandukeshwar, which is visited by people from all over the world
+ yaheen par lokapal he, jahaan sikhon ke guru govindsingh ne apane pichley janm main tap kiya tha
+ It is said that Pandukeshwar was settled by Pandu, the father of Pandavas
+ pandav yaheen paidaa hue the
+ Heaven also went here
+ vah ve yahaan kai baar aaye the
+ Arjun went here to take a bow from Shivji Maharaj
+ bhim camel lene yahi ke wanon main aaye the
+ The mountain on the left bank of the river is called 'pandu Chowki
+ isaki chotii par chapad bani hui he
+ Sitting here, those people had played chaupar for the last time
+ It is said that the 'temple of Yogabdari' was built here
+ aage kaa pahaad kahin kaala, kahin nila, kahin kaccha he
+ Some mud in the middle, snow frozen somewhere
+ yahaan bhoj-patr bahut he
+ When there were no papers, books were written on banquet
+ yahaan ganga kai baar paar kerani padati he
+ '' raasten bahut se mandir or tirth he
+ Here is Hanuman temple in Hanuman Chatti
+ yahaan pandavo ko hanuman mili the
+ Climbing the Kanchenganga came 'kubera Shila'
+ aankh uthaakar jo dekha, saamne vishalpuri thi, jiske liye dharamshastra main likhaa he ki teenon lonko main bahut se tirth he, par badari ke samaan na tha, na hoga
+ Vishalpuri is situated on the right bank of Alaknanda
+ chota-sa bazaar he
+ There are religious schools
+ ghar he
+ The station-post office is everything
+ narayan parvat ke charano main badrinath kaa mandir he, jiske sunahare kalash par suraj kii kirane pad rahi thim
+ That small city looked very good amidst the mountains touching the snow covered sky
+ badrinath kii oonmchai he- 10480 foot, yani koi do mile
+ There was a time when the paths were even more rugged
+ brahmaji ke do bete the
+ One of them was named Daksha
+ daksh kii solah betiyaan thi
+ Thirteen of them were married to Dharmaraja
+ unamem ek kaa naam tha shrimurti
+ They had two sons, Nar and Narayan
+ donon bahut hi bhale, ek-duusare se kabhi alag nahin hote the
+ Males were small
+ ve ek-duusare ko bahut chaahate the
+ They loved their mother too
+ ek baar donon ne apni maa kii badi seva kii
+ Mother blossomed happily
+ boli, ‘‘mere pyaare betaa, main tumse bahut khush hum
+ Say what you want? i will give whatever you ask
+ ’’ Both said, "mother, we want to go to the forest and do penance
+ aap agar sachmuch kuch dena chaahati ho, to yah var do ki ham sadaa tap karte rahe
+ '' beton kii baat sunakar maa ko bahut dukh hua
+ Now, his sons will leave him
+ par ve vachan de chuki thim
+ Could not stop them
+ isliye var dena padaa
+ After getting groom, both brothers went to do penance
+ ve saare desh ke wanon main ghoomane lage
+ While wandering, he reached the forests of the Himalayas
+ isi van main alakananda ke donon kinaaron par don pahaad he
+ Narayan started meditating on the mountain on the right side
+ bai or vaale par nar
+ Both of these hills have same name today even
+ yahaan baithkar donon ne baari tap kiya, itnaa ki devloak kaa raja dar gaya
+ He tried hard to break his tenacity, but he did not succeed
+ tab use yaad aayaa ki nar-narayan saadhaaran muni nahin he, bhagwaan kaa avatar he
+ It is said that, till the coming of Kali Yuga, they keep doing meditation there
+ aakhir kaliyug ke aane kaa samay hua
+ Then he left badri-one to take the incarnation of Arjuna and Krishna
+ us samay bhagwaan ne duusare muniyon se kaha, ‘‘main ab is rup main yahaan nahin rahoonga
+ There is a statue of me under the Narada rock, take it out and build a temple here and worship it from today
+ yah mandir bahut purana he
+ It is written that the sages removed the idol
+ vah saawali he
+ Lord Badrinarayan is meditating in it by applying Padmasana
+ aaj bhi mandir main yahi murti he
+ It is worn with silk cloth and diamond-studded ornaments
+ mandir bahut sundar he
+ The door which comes after climbing the wagons, has very good jaalis made in it
+ upar teen sunahare kalash he
+ There are idols of Garuda, Hanuman, Lakshmi and Ghantakarna etc
+ inside
+ phir bheetar kaa darwaja he
+ The door of the inside room is made of silver
+ unke paas ganesh, kuber, lakshmi, nar-narayan udvav, naarad or garud kii murtiya he
+ Here the recitation of equal mantras, the noise of bells and the sound of hymns continue to echo
+ akhand jyoti bhi jalati rahati he or chadhaava ! chadhaave kii baat mat pucho
+ There are lot of things which are offered, for example, prayer articles, etc
+ vaise ab sab sarkaar ke haath main he
+ All the priests here, who are called 'rawal', are from the south
+ isse pataa lagata he ki bharat ke rahanevaale sab ek he
+ There are seven pools
+ paanch shilaayein he
+ Brahma is Kapali
+ anek dharaaen he
+ There are many Ganges
+ jo muni, rishi yaa avatar yahaan rahete the yaa aaye the, unki yaad main yahaan kuch-na-kuch bana he
+ For example, if nar-narayan did not return from here, his parents also settled here
+ naarad ne bhagwaan kii bahut seva kii thi
+ He has both sila and kunda named after him
+ prahraad kii kahani to aap log hi he
+ When Narasimha Lord was filled with anger by killing his father, his charge here was quiet
+ nrisingh-shila bhi vahaan maujuud he
+ Pinddaan is performed on brahma-kapali
+ do mile aage bharat kaa aakhri gaanv mana jaataa he
+ Mata idol is built on two and a half miles
+ paanch mile par vasudhara he
+ Vasudhara is a waterfall falling from 200 feet
+ aage shatapath, swarg-dwaar or alakapuri he
+ Then there is the country of Tibet
+ us van main tirth-hi-tirth he
+ The entire land is taphobhoomi
+ vahaan par garam pani kaa bhi ek jharnaa he
+ There is so much water that it burns suddenly if you give a foot
+ thik alakananda ke kinare he
+ Give a hand to the Alaknanda, melt it, let it burn in a waterfall
+ ramganj mandi vidhansabha kshetra rajasthan kaa ek vidhansabha kshetra he
+ Religious tourism in India refers to various shrines located in India
+ bharat ek vividhtaon se bharaa desh he or yahan kai dharmon ke log ek saath rahete hai
+ Different places, cities or buildings belonging to different religions exist all over India, which are visible not only to people with religious faith but also to tourists
+ vibhinn dharmon ke anusaar vargeekrut ese sthanon kii suchi neeche di gai he: Wild mustard is a weed that looks like mustard
+ rajasthan ucch nyaayalay ke mukhya nyaayadhish vartmaan 35vempradip nandrajog he
+ 33 Sunil Ambwani 2015 to 2016 }} Faridabad Lok Sabha constituency is a Lok Sabha constituency in the state of Haryana, India
+ dhangi -vanagarhsyu
+1, paudi tehsil main bharat ke uttrakhand rajya ke antargat gadhwal mandal ke paudi jile kaa ek gaanv he
+ Here is a description of some of the shops that are seen frequently in Singapore
+ koshish kii jaaegi ki isamen singapore mul ke storon-dukaanon kaa hi zikr ho- 250px suvarnbhoomi vimaanashetra bangcock international airport bhi kaha jaataa he), thailand kii rajdhani bangcock ko sevaayen dene vaala ek [[vimaanashetra he
+ Jamalpur Express 3071 is a mail express train operated by Indian Railways
+ yah train haavda jankshan railway stesan se 09:45PM baje chhootati he or jamalpur jankshan railway stesan par 07:25AM baje pahunchati he
+ Its travel duration is 9 hours 40 minutes
+ vishwa ke sabhi dharmon kii janmbhumi nadi tigrees va ganga ke madhya kaa kshetra hi he
+ a total of two types of religions were born
+ pehla abrahamik ev doosraa hindu
+ Under the Abrahamic religion, basically three religions are Jewish, Christian and Muslim
+ teenon ke dharmik siddhanton main lambe samay tak ek bhai chaare kii si sthiti rahi thi
+ Although the Crusade and Jihad have been going on since Islam was established
+ teenon dharm ke anuyaayiyon ne talwaar kii dhar par vistaarwaad kaa anwarat prayaas kiya he
+ The emergence of violence has also been the result of geographical situations
+ marusthal kabhi behad thande or kabhi kabhi behad garm
+ The birth of violent spirit in extreme weather nature is a natural process
+ vishwa main in sabase bhinn ek or bhi mukhya dharm he vah he hindu dharm
+ The birthplace of this religion has been the year of India
+ pehle teenon dharmon main ek jo mukhya samyata he, vah he akeshwarwad kii
+ At the same time Hinduism is a religion that believes in diversity
+ hindu dharm ke antargat to tat tvam asi ko udghosh ke saath hi har vyakti ishvar yaa ishvar kii pratimurti he
+ It is a process of multiplying from one
+ hamen in dharmon kii tulana karne hetu inaki prishthbhumi khangaalane kii aavashyaktaa
+ The three religions of the Abrahamic family are religions born in the desert and Hinduism is basically a religion born on the banks of the river
+ marusthal main vividhta nahin hoti he
+ The only sandy earth spread all around is visible
+ aise main ek hi aseem shakti kaa anubhav ek sahaj manobhaav he
+ Man's consciousness of God is ordinarily through nature
+ jab prakruti main koi vividhta nahin dikhaayi degi tab vahaan se sanskaar or sanskaron se niklaa hua dharm bhi vividhta viheen hi hoga
+ The three Abrahamic religions originated in the desert
+ to marusthal kii bhaanti MONOTONY yaa ekresata he va marusthal kii tarah hi aparivartansheel bhi he
+ There are many similarities among the three religions
+ yatha ek ishvar
+ An almighty God who governs the creatures of the world and punishes them for their sins
+ yani ishvar kaa shashan bhay kii satta par tikaa hua he
+ Surprisingly, there is no word for any language "virtue" in the languages associated with these three religions
+ sirf paap ke liye shabd he
+ That is, there is an attempt to establish God completely through fear
+ ishvar kisi unchen sthaan par baith sabake paapon kii ginati kar qayaamat kaa intjaar karata he
+ In Hinduism, like the flow of a river, a waiting change is novelty
+ isi kaaran se indradhanushi vividhta bhi he
+ There is a Prophet in the Abrahamic religions through which God commands the people of TEN COMMANDMENTS
+ evam unki avhelnaa karne par sajaa dene kaa praavdhaan he
+ It is a process of descending of divinity
+ upar se neeche aane kii prakriya he
+ In Hinduism, ego is the epitome of Brahmasmi
+ yani arohan kii prakriya he
+ Man is the process of attaining Brahmanism through his own practices
+ yahaan bhay nahi utsaah kaa upadan he
+ The Battle of Plassey took place on 23 June 1757 in a place called 'plassey' on the banks of the Ganges river in Nadia district, 22 miles south of Murshidabad
+ is yuddh main ek ore british east india company kii sena thi to duusari ore thi bengal ke nawab kii sena
+ The Nawab Siraj-ud-daulah was defeated by the Company's army under the leadership of Robert Clive
+ kintu is yuddh ko company kii jeet nahi maan sakate kayonki yuddh se purv hi nawab ke teen senanayake, uske darbari, tathaa rajya ke amir seth jagat seth aadi se kalive ne shadanyatra kar liya tha
+ The Nawab's entire army had not even participated in the war, immediately after the war, Nawab was killed by Mir Jaffer's son Meeran
+ yuddh ko bharat ke liye bahut durbhagyapurna mana jaataa he is yuddh se hi bharat kii daastaa kii kahani shuru hoti he
+ The company benefited a lot from this war, it came for business but became a king
+ is yuddh se praapt sansadhano kaa prayog kar company ne france kii company ko karnataka ke tisare or antim yuddh me nirnaayak rup se haraa diya tha
+ After this war, the company was defeated by the Company in the Battle of Bedra
+ is yuddh kii jaankaree landan ke india house librari main uplabdh he jo bahut badi librari he or vahaan bharat kii gulaami ke samay ke 20 hazaar dastavej uplabdh he
+ According to the documents available there, the British had only 300 soldiers at the time of Plassey's war and Siraj-daulah had 18 thousand soldiers
+ angreji sena kaa senapati tha robert clive or sirajudaula kaa senapati tha mirajafar
+ Robert Clive knew that if there was a face-to-face war, it would not take even an hour and we would lose the war, and Clive wrote this to the British Parliament several times
+ in dastavejon main clive kii do chithiyaan bhi hai
+ In which he has prayed that if Plassey wants to win the war, then more soldiers should be given to me
+ uske jawaab main british parliament ke taraf se ye chitthee bheji gayi thi kii ham abhi nepolian bonapart ke khilaaf yuddh lard rahe hai or plasi se zyada mahatvapurn hamaare liye ye yuddh he or is se zyada sipaahi ham tumhe nahin de sakate
+ Robert Clive then hired two of his spies and asked them to find out if there was a man in siraj-daula's army who we could bribe and betray our country in the greed of bribe
+ uske jasuson ne ye pataa laga ke bataaya kii haan uski sena main ek aadmi aisa he jo rishwat ke naam par bengal ko bech saktaa he or agar aap use kursi kaa laalach de to wo bengal ke saat pushton ko bhi bech saktaa he
+ And that man was Mirzafar and Mirzafar was such a man who had the same dream day and night when he would become the Nawab of Bengal
+ ye baaten robert clive ko pataa chali to usne mirajafar ko ek patr likhaa
+ The company then gave power to puppet Nawab Mir Jafar, but no one knew that the power was with the company
+ nawab ke darbari tak use clive kaa gadhaa kehete the company ke afasaron ne jam kar rishwat batori bengal kaa vyapaar bilkul tabah ho gaya tha iske alaava bengal me bilkul araajaktaa fail gai thi
+ Causes and Consequences of the Plassey War ' aadhunik bharat ke itihaas main plasi yuddh kaa atyant mahatv he
+ Through this war, the East India Company defeated the Nawab of Bengal siraj-ud-daula and laid the foundation of the British Empire in Bengal
+ is liye is yuddh ko bharat ke nirnaayak yudhon main vishisht sthaan uplabdh he
+ Bengal was an integral part of the Mughal Empire
+ parantu aurangzeb kii mrityu ke baad iske antargat vibhinn praanton main apni swatantraaa kii ghoshnaa kar di
+ In which Alwardi Khan took control of Bengal
+ unhen koi putr nahin tha
+ Had only three daughters
+ badi ladki chhasiti begum ni:santaan thi
+ There were one son each from the second and third
+ jiskaa naam shaukatganj, or sirajuddaula tha
+ He loved Siraj-ud-daula more
+ isliye apane jivan kaal main hi usne apana uttaradhikari ghoshit kar diya tha
+ Alvardi died on 10 April 1756
+ or sirajuddaula bengal kaa nawab bana parantu shuru se hi east india company ke saath uskaa sangharsh avashyabhavi ho gaya
+ Finally on 23 June 1757 a war broke out between the two known as the Plassey War
+ is yuddh ke anek kaaran the jo is prakaar he
+ Internal conflict- gaddi par baithte hi sirajuddaula ko shaukatganj ke sangharsh kaa saamana karnaa padaa kyonki shaukatganj nawab bananaa chahta tha
+ In this, he had the support of Chhati Begum and his Divan Rajavallavas and the Mughal Emperor, so Siraj-ud-daulah first tried to resolve that internal conflict
+ kyonki isi ke chalate bengal kii raajnneeti main angrejon kaa hastkshep badhata ja rahaa tha nawab ne shaukatganj kii hatya kar di
+ And after that he decided to compete with the British
+ angrej dwaara nawab ke viruddh shadyantra- From the very beginning, the British were eyeing Bengal
+ kyonki bengal ek upjau or dhani praant tha
+ Had Bengal been the company's authority, it hoped to earn more and more money
+ itnaa hi nahin ve hindu vyapaariyon ko apni ore milakar unhen nawab ke viruddh bhadakaana shuru kiya nawab ise pasand nahin karata tha
+ Use of business facilities - mughal samraat ke dwaara angrejon ko nishulk saamudrik vyapaar karne kii chhot mili thi lekin angrejon ne iskaa durupyog karnaa shuru kiya
+ They also started doing their personal business free of charge and encouraged the native traders to do business without paying tax
+ isse nawab ko aarthik kshati pahunchati thi
+ The Nawab did not like them when, when he decided to stop the misuse of business facilities, the British came out on the struggle
+ angrejon dwaara kile bandi- At this time there was a possibility of a seven-year war in Europe
+ jisamen england or france ek duusare ke viruddh ladane vaale the at: duusare desh main bhi jo angrej or francisi the
+ He feared war
+ isliye apni- 2 sthiti ko majboot karne ke liye unhonen kilebandi karnaa shuru kiya
+ The Nawab could not destroy it
+ angrej dwaara sirajuddaula ko nawab kii manyata nahin dena- According to the ancient tradition of Bengal, if a new Nawab sat on the throne, then on that day there was a court
+ or uske adheen nivas karne vaale raajaaon, amiron yaa videshi jatiyon ke pratinidhiyon ko darbar main upasthit ho kar uphaar bhet karnaa padataa tha
+ That they accept the new Nawab
+ parantu sirajuddaula ke rajyabhishek ke avasar par angrejon kaa koi pratinidhi darbar main hajir nahin hua
+ Because they did not consider Siraj-ud-daulah as Nawab, due to this, the possibility of conflict between the two increased
+ nawab badalane kii koshish- The British wanted to replace siraj-ud-daulah and make someone who was ready to follow his instructions, the British started trying to do this
+ aisi paristhiti main sangharsh taala nahin ja saktaa tha
+ Invasion of Calcutta jab nawab ne kile bandi karne ko rokane kaa aadesh jari kiya to angrejon ne usapar koi dhyaan nahin diya wo kile kaa nirmaan karte rahe
+ The Nawab became angry on this and attacked Kothi of Kasimbazar on 4 June 1756
+ angrej sainik is akraman se ghabadaa gaye or angrejon kii paraajay hui or kasim bazaar par nawab kaa adhikaar ho gaya
+ After this, the Nawab attacked Fort William of Calcutta very soon, even the British soldiers could not get the teak in front of the Nawab and the Nawab also got the right
+ is yuddh main kaaphi angrej sainik giraftaar kiye gayi
+ Black closet accident uparyukt ladaai main nawab ne 146 angrej sainikon ko kaid kar liya to use ek choti si andheri kothri main band kar diya isaki lambaai 18 feet or chaudaai 14- 10 feet thi
+ It was built by the British and Indian criminals were stopped in it
+ chunki garmi kaa din tha or yuddh ke parim the 123 sainikon kii mrityu dam ghutane ke kaaran ho gai or 23 sainik bache jisamen hanwel ek angrej sainik bhi tha
+ He informed about this incident to the British of Madras
+ isi durghatana ko kaali kothri kii durghatana ke naam se janaa jaataa he
+ Due to this the anger of the British erupted and they started preparing for war with the Nawab
+ angrejon dwaara kalakatta par pun: adhikaar- To avenge his defeat, the British soon attacked Calcutta
+ is samay nawab ne manikchand ko kalakatta kaa raja niyukt kiya tha
+ But he was a friend and well wisher of the British
+ falat: angrejon kii vijay hui kalakatta nawab ke changul se mukt ho gaya
+ The Treaty of Ali Nagar was signed between the two on 9 February 1757 and the British again got all kinds of practical rights
+ francisiyon par angrejon kaa akraman- The British attacked Chand Nagar, the town of the French
+ or use apane adhin kar liya
+ The French were friends of the Nawab, so the Nawab was very upset with this incident
+ mirajafar ke saath gupt sandhi – At the same time, the British hatched a conspiracy to depose the Nawab
+ isamen nawab ke bhi kai log shaamil the
+ Such as Raidullabh chief commander Mirzafar and rich businessman Jagat Sevak etc
+ angrejon ne mirajafar ko bengal kaa nawab banane kaa pralobhan diya or iske saath gupt sandhi kii is sandhi ke pashchaat nawab par yah aarope lagaaya gaya ki unhone ali nagar kii sandhi kaa ulanghan kiya he or usee kaa bahaanaa banaakar angrej ne nawab par 22 june 1757 ko akraman kar diya
+ a fierce battle ensued in the battle of Plassey, Mirzafar had already signed a treaty with the British, which resulted in a tremendous defeat of the Nawab
+ angrejon kii vijay hui
+ The Nawab was assassinated and Mirzafar was made the Nawab of Bengal
+ plasi yuddh ke parinaam- The foundation of the British Empire was laid in Bengal by the Battle of Plassey
+ angrejon ko nawab banaaya gaya
+ The Battle of Plassey was not really a war; it was a conspiracy and a display of treachery
+ According to the famous historian 'panivkar', Plassey's war was not, but the result was quite significant
+ isliye ise vishwa ke nirnaayak yudhon main sthaan uplabdh he
+ Because by this the foundation of British Empire was laid in Bengal
+ clive ne is yuddh ko kranti kii sangya di he
+ In fact it was a revolution because it brought a great change in the stream of Indian history and a business institution took the political reins of Bengal in its hands
+ iske vibhinn tarah ke parinaam drushtigochar hote hai
+ Political Results- iske raajnneetik parinaam bharat ke liye ghaatak siddh hua
+ This led to the incorporation of political rights in the hands of a business institution and the establishment of British power in India
+ vastut: yah british raashtra ke liye atyadhik mahatv tha is yuddh ke pashchaat mirajafar ko bengal kaa nawab banaaya gaya
+ But this was an inept person
+ iske ayogyata kafaita uthaate hue bengal kaa vaastavik shaasha angrej ban gaye
+ The influence of the British on Bengal increased and gradually the path of expansion of 2 British Empire was cleared
+ sirajuddaula ke hatane se angrejon ko raajnneetik prabhutv badhaane kaa phayda mila
+ The result of B
+ Plassey proved fatal to the Mughal Empire, every year the Mughal ruler used to earn a good income from Bengal, but now this income is exhausted
+ angrejon ko bhartiya nareshon ko kamajori kii jaankaree mil gai
+ In the future, he took great advantage of it and paved the way for the conquest of northern India
+ aarthik parinaam- The war brought considerable economic benefits to the British, Mirzafar gave Rs 1 crore 17 lakh to the company, which strengthened the economic condition of the company, due to the plunder of Bengal, it cost him a lot of money
+ company ke math karmchaareeyon ko saadhe 12 lakh rupye mili
+ Clive received two lakh 24 thousand rupees
+ is yuddh ke pashchaat company dhire- 2 jagidaar baad main bengal kii dewan ban gai
+ Thus it laid the foundation of British Empire in India
+ angrejon ko pun: vyapaar karne kaa adhikaar mila mirajafar ne company ko ghus ke rup main 3 karod rupye pradaan kiye tathaa vyapaar se bhi angrejon ne 15 karod kaa munafa kamaaya
+ By- mohammad shahid is ghatana se ek nai rajnatik shakti kaa udai hua
+ The interests of the company got entwined with politics and it started gaining dominance
+ mogul samrajya ke durbalata bhi saaf ho gai
+ The company came to know the divisions, the character of the ruling class of India
+ north carolina sanyukt rajya america ke dakshini kshetra main ek rajya he
+ The state borders South Carolina and Georgia to the south, Tennessee to the west, Virginia to the north, and the Atlantic Ocean to the east
+ 18veen shatabdi main north carolina carolina naam ke upnivesh kaa hissaa tha jo mul teraa upnivesh main se ek thi
+ At the time of the American Civil War in 1861, the state became the last state to enter the Confederate States
+ sabhi 50 rajyon main north carolina kaa kshetra ke maamle main 28waan sthaan he
+ According to 2016 estimates, the state has a population of 1,01,46,788, making it 9th
+ angreji adhikarik bhashaa he jo 90% janata maatrubhaasha ke rup main bolti hai
+ The Vastika or Scorpio Planetarium is a constellation of the zodiac
+ puraani khagolashastriy pustakon main ise aksar ek bichchhu ke rup main darshaya jaataa tha
+ The sky consists of the Libra constellation to its west and the Dhanu constellation to its east
+ yah ek bada taramandal he jo khagoleey gole ke dakshini bhaag main akashganga ke bich main sthit he
+ The medical planetarium has 15 main stars, although there are 47 known stars in it, which have been named Bayer
+ vaigyanikon ko san 2010 tak inamen se 13 taron ke ird-gird 26 grah parikrama karte hue paa liye the
+ There are many bright stars in this planetarium, such as Jyestha, Grafias, Mool Tara, Jubaha, Sargas, Wagarah
+ westeindies cricket team vartmaan main disambar 2017 or janvari 2018 main newjiland kaa daura kar rahi he jisamen do test, teen ek divasiy antarrashtriya or teen twanti-20 antarrashtriya maichon ke liye khelnaa he
+ Three Tests were originally planned, but after implementing the ICC Test Championship it was reduced to conform to the tour expected by New Zealand Cricket
+ test series se pehle, teen divasiy daure ke aayojan kii yojana banaai gai thi, 25 november 2017 ko shuru hui thi
+ New Zealand won the Test series 2–0 and the ODI series 3–0
+ newjiland ne tii20i shrinkhalaa ko 2-0 se bhi jeeta, jiske baad duusare match kaa nateeja nahin hua
+ This is the first time since January 2000 that the West Indies failed to win a single match during their tour of New Zealand
+ tii 20ai shrinkhalaa main 2-0 se jeet ke saath, newjiland isisi tii20i championships ke sheersh par laut aayaa
+ Reference error: Tags exist for reference group named "n", but no tag was found for group
+ yah bhi sambhav he ki koi samaapti tag gaayab he
+ 28 years, 5 months and habal antariksh doordarshee ) vastav main ek khagoleey doordarshee he jo antariksh main kritrim upgrah ke rup main sthit he, ise 25 april san 1990 main america antariksh yaan discovery kii madad se isaki kaksha main sthapit kiya gaya tha
+ The Hubble telescope was developed by the US space agency 'NASA' in collaboration with the European Space Agency
+ america khagolvigyaani edwin ponvel habal ke naam par ise ' habal ' naam diya gaya
+ It is one of the major observatories of NASA
+ pehle ise varsh 1983 main laanch karne kii yojana banaai gai thi, lekin kuch takneekee khaamiyon or bajet samasyaon ke chalate is pariyojna main saat saal kii deree ho gai
+ After launching it in the year 1990, scientists found that there was some flaw in its main mirror, due to which it is not able to work at full capacity
+ varsh 1993 main iske pehle servicing mishan par bheje gaye vaigyanikon ne is khami ko dur kiya
+ It is the only visionary, designed to be serviced in space
+ varsh 2009 main sampann pichley servicing mishan ke baad ummid he ki yah varsh 2014 tak kaam karata rahegaa, jiske baad james web khagoleey doordarshee ko laanch karne ki yojana he
+ Silica or silicon dioxide is made up of the sum of the minerals silicon and oxygen
+ yah nimnlikhit khanijon ke rup main miltaa he: 1
+ Crystalline: eg quartz 2
+ gupt crystalia: jaise chalseedani, aget or flint 3
+ Akristali: Like Opal
+ quartz shadbhujiya pranali kaa crystal banataa he
+ Generally it is colorless but when impurities exist, it is found in different colors
+ isaki chamak kaanchaabh tathaa tut shankhabh hoti he
+ It can scrape glass, its hardness is 7
+ iskaa aapekshik ghanatv 2
+65 he
+ The properties of other minerals of the silica class are also similar to those of quartz
+ par neeche die hue gunon kii sahaayta se in khanijon ko saralata se pahachaanaa ja saktaa he
+ Chalcidani feels like wax upon touching, stripes of different colors are kept in the agate, very sharp edges are available when flit mineralization is broken
+ opel kii kathorta apekshaakrit kam hoti he - 5
+5 se 6
+5 tak, tathaa aapekshik ghanatv bhi 1
+9 se 2
+3 tak hota he
+ This variation of the properties of opal is due to the water present in the addition of this mineral
+ is khanij main jal kii maatra adhik se adhik 10 pratishat tak ho sakati he
+ Silica is used in different forms
+ baaluu main vidyaman chote-chote kan kaanch tathaa dhatvik udyogon, visheshat: bhatthiyon ke nirmaan main kaam aate hai
+ Silica is used in the manufacture of ceramic goods
+ taparodhi inten isse banati hai
+ It easily tolerates heat change as a supplement
+ yah khanij, rang tathaa kaagaj udyog main kaam aata he
+ Photoelectric and chemical equipment are made from pure, colorless, quartz crystals
+ silica se bani baaluu shilaayein makaan banane ke pattharon ke rup main prayog kii jaati hai
+ Its minerals are found in igneous, hydrous and metamorphic rocks, but their economic deposits are found in pagmatite rocks, in veins and stripes and in sand
+ madhya pradesh ke jabalpur main shuddh baaluu miltaa he
+ The Rajgiri hills of Gaya, the Kharakpur hills of Munger, Biharsharif of Patna, Sambalpur of Orissa and some parts of Bagra receive excellent quality of rhinestone for anti-tapering work
+ sibr4 · sic · sicl4 · sif4 · sii4 · sio · sio2 · sis2 · si3n4 Angika is a language spoken in the eastern, northern and southern parts of Bihar, north eastern parts of Jharkhand and western parts of West Bengal which includes districts like Godda, Sahibganj, Pakur, Dumka, Deoghar, Koderma, Giridih
+ yah bhashaa bihar ke bhi purvi bhaag main boli jaati he jisamen bhagalpur, munger, khagadiya, begusarai, purniya, katihaar, arriya aadi sammilit hai
+ It is also spoken in the Terai part of Nepal
+ angika bhartiya arya bhashaa he
+ Angika belongs to the indo-european language-family family
+ ye hind arya upashakha ke antargat vargeekrut he
+ indo-aryan languages are languages that originated from Sanskrit
+ urdu, kashmiri, bengali, oriya, punjabi, romani, marathi, maithili, nepali jaisi bhashaayen bhi hind-arya bhashaayen hai
+ The word Angika is derived from Anga
+ angapradesh main boli jane vaali bhashaa ko angika naam diya gaya
+ People also know Angika by the name of Chhechha
+ angika bhashaa main nirmit pehali film khagadiya vaali bhauji 2007 ko bihar main pradarshit kiya gaya
+ Sunil Chaila Bihari is thinking about making a new Angika film
+ wo jab baankaa aaye the to unhone is vishay par dainik jaagran se baatcheet kii thi
+ They said that Angika's pornographic videos and music are being served in front of people, which is destroying Angika's image
+ unhone ashleel sangeet banane waalon par nishaanaa saadhaa tha
+ a new film Ang Putra was released in April 2010, starring Angil's folk song as Sunil Chaila Bihari Ji, who specializes in folk songs
+ pashchvishaanu ek prakaar kaa vishaanu he jisamen anuvaanshik padaarth arene hota he
+ It contains an enzyme called reverse transcriptase that produces RNA from DNA, which is in contrast to central dogma
+ vishwagyanakosh, vishwakosh yaa gyaanakosh aisi pustak ko kehete hai jisamen vishvabhar kii tarah tarah kii jaanane laayak baton ko samavesh hota he
+ Encyclopedia means the storehouse of all the knowledge of the world
+ at: vishwakosh vah kriti he jisamen gyaan kii sabhi shakhaon kaa sannivesh hota he
+ It consists of a compilation of short but factual essays on other topics arranged alphabetically
+ yah sansar ke samast siddhanton kii paathyasaamagree he
+ The encyclopedia is a synonym of the English word "encyclopaedia", which is derived from the Greek word encyclopedia
+ iskaa arth shiksha kii paridhi arthath nirdesh kaa saamaanya paathyavishay he
+ This type of talk is infinite, so no encyclopedia can ever be declared 'complete'
+ vishwagyanakosh main sabhi vishyon ke lekh ho sakate hai kintu ek vishay vaale vishwakosh bhi hote hai
+ Sub-topics in the encyclopedia are organized according to the alphabet of that language
+ pehle vishwakosh ek yaa anek khandon main pustak ke rup main hi aate the
+ Due to the emergence of computers, various types of encyclopedias are also available in the form of cds etc
+ anek vishwakosh antarjaal par 'online' bhi uplabdh hai
+ Historically, encyclopedias have developed from dictionaries
+ gyaan ke vikaas ke saath aisa anubhav hua ki shabdon kaa arth evam unki paribhaasha de dene maatr se un vishyon ke bare main paryaapt jaankaree nahin milti, to vishvakoshon kaa aavirbhaav hua
+ Even today an encyclopedia dedicated to a subject is also called a dictionary; Such as 'dictionary of microbiology' etc
+ vishwakosh kaa uddeshy sampurna vishwa main vikeern kala evam vigyaan ke samast gyaan ko sankalit kar use vyavasthit rup main saamaanya jan ke upayogarth upasthit karnaa tathaa bhavishya ke liye surakshit rakhana he
+ The enlightenment achievements of the past included in it, provide a means for the development of human civilization
+ yah gyanrashi manushya tathaa samaaj ke kaaryavyapaar kii sanchit poonji hoti he
+ The cosmopolitan nature of modern education has made the practice of reference books mandatory for learners and learners
+ vishwakosh main sampurna sandarbhon kaa saar nihit hota he
+ Hence its utility has become unlimited in the modern era
+ isaki sarvaarthik upadeyata kii pratham anivaaryta isaki bodhgamyata he
+ Essays related to the most complex subject compiled in it are also presented in such a way that it becomes comprehensible to the general reader's ability and his intellectual level and without any help
+ uttam vishwakosh gyaan ke maanavikaran kaa madhyam he
+ The word encyclopedia was not used by ancient or medieval essayists in naming their works, but their form was encyclopedic
+ inaki vishistataa yah thi ki ye lekhak vishesh kii kriti the
+ Hence, these were less objective, more objective and limited by the knowledge, ability and interest of the writer
+ vishyon ke prastutikaran or vyakhya par une vyaktigat drushtikonon kii spasht chhap rahati thi
+ These were not instructional texts but instructional essays used to study other subjects
+ vishwa kii sabase puraatan vishvakosiya rachana africavasi marsians miss felics copela kii satora sateerik he
+ He practiced it in prose and verse in the beginning of the fifth century
+ yah kriti madhyayug main shiksha kaa aadarshagaar samajhi jaati thi
+ By the Middle Ages such other creations were surgeons, but they were usually one-sided and their area was limited
+ unamem trutiyon evam visangatiyon kaa bahulya rahata tha
+ Vicente's treatise of this era was the Bibliotheca Mandi, or "speculus Majus", the work of Vuvius
+ yah terahavin shatee ke madhyakaalin gyaan kaa mahaan sangrah tha
+ He preserved many medieval works in this book
+ yah kriti anek vilupt aakar rachanaaon tathaa anyaanya granthon kii moolyawaan paathyasamagriyon kaa saar pradaan karti he
+ In ancient Greece, Spousippus and Aristotle wrote important texts
+ spucipus ne pashuon tathaa vanaspatiyon kaa vishvakosiya vargeekaran kiya tathaa arestu ne apane shishyon ke upyog ke liye apni peedi ke uplabdh gyaan evam vichaaron ko sankshipt rup main prastut karne ke liye anek granthon kaa pranayan kiya
+ In the encyclopedic texts published in this era, the ancient Roman Pliny's work "natural History" is much closer to the modern concept of our encyclopedia
+ yah madhya yug kaa ucch aadhikaadhik granth he
+ It is divided into 37 sections and 2493 chapters, comprising all the topics of the Greek Encyclopedia
+ plini ke anusaar isamen 100 lekhakon ke 2000 granthon se sangruhit 20,000 tathyon kaa samavesh he
+ Before 1536, 43 editions of it were published
+ is yug kii ek prasiddh kriti francisi bhashaa main 19 khandon main pranit bartholomiv da glanvil kaa granth "di propreatatibas rerum" tha
+ Its English translation was published in 1495 and by 1500 it had 15 editions
+ joukius fatius rinjal bargious evam hungary ke count pols skallisus da lika kii kritiyaan sarvapratham 'incychlopedia' ke naam se abhihit hui
+ Johann Heinrich Astad published an encyclopedia 'encyclopaedia Septem Tomis Disticta' in 1630, which brought the name to its entirety
+ isamen pramukh vidwaanon evam vibhinn kalaon se sambandhit anyaanya vishyon kaa samavesh he
+ The encyclopedia of the French royal historian Jean de Magnon was published in 10 volumes titled "lurre Science Universe"
+ yah ishwar kii prakruti se prarambh hokar manushya ke patan ke itihaas tak samaapt hota he
+ Luis Morey composed an encyclopedia in 1674 containing essays on history, heredity and biography
+ san 1759 tak iske 20 sanskaran prakashit ho chuke the
+ Itin Chavin's magnum opus "cartaginian" published in 17113 is a thesis of philosophy
+ french acedemi dwaara french bhashaa kaa mahaan shabdkosh san 1694 main prakashit hua
+ After this a series of dictionaries of art and science were formed
+ vicenjo meria coroneli ne san 1701 main italian bhashaa main ek varnanukramik vishwakosh "biblioteka univercel secroprophana" kaa prakaashan prarambh kiya
+ In 45 volumes, only 7 volumes of this encyclopedia were published
+ angreji bhashaa main pratham vishwakosh ain universal english dictionari ov arts and science kii rachana jon haris ne san 1704 main kii
+ Its second volume was published in 1710
+ iskaa pramukh bhaag ganit evam jyotish se sambandhit tha
+ In Hamburg, two dictionaries were published in 1704 and 1710, named after Johann Rüber Johannen
+ baad main inke anek sanskan nikle
+ In 1728, the ephem Chambers published his Cyclopaedia in two volumes
+ usne prayek vishay se sambandhit vikeern tathyon ko samyojit karne kaa prayaas kiya
+ Chambers has referenced a related topic in every essay
+ san 1748-49 main iskaa italian anuwaad prakashit hua
+ Edited the material of 7 new volumes compiled and organized by Chambers, Dr
+ Johnhill published the supplementary book in 1753
+ iskaa sanshodhit evam parivardhit sanskaran abraham reez dwaara prakashit hua
+ Johann Heinrich Zedler, a bookseller from Leipzig, published a larger and more comprehensive encyclopedia "jedlers Universal Lexicon"
+ isamen saat suyogy sampadakon kii sevaayen praapt kii gai thim or ek vishay ke sabhi niabandh ek hi vyakti dwaara sampadit kiye gaye the
+ By 1750, 64 volumes were published and between 1751 and 54 4 supplementary volumes came out
+ inacychlopidi atharahavin shatee kii mahattam saahitiyik uplabdhi he
+ Its work began as a French translation of "chambers Cyclopaedia" by the English scholar John Mills in his French residence, which he finished in 1745 with the help of Mottfi Sales
+ par vah ise prakashit na kar sakaa or england waapas chalaa gaya
+ Services of several scholars were obtained one by one for its editing and after many struggles this encyclopedia was published
+ yah maatr sandarbh granth nahin tha; yah nirdesh bhi pradaan karata tha
+ It was a strange confluence of faith and non-faith
+ isane us yug ke sarvaadhik shaktisampann carch or shashan par prahaar kiya
+ Perhaps there is no other encyclopedia that has so much political importance and has made a revolutionary impact on the history and literature of a country
+ par in vishistataaon ke hote hue bhi yah vishwakosh ucch koti kii kriti nahin he
+ It contained errors and discrepancies at site
+ yah lagbhag samaan anupaat main ucch or nimna koti ke nibandhon kaa mishran tha
+ This encyclopaedia was bitterly criticized
+ incychlopedia britnica, scotland kii ek sanstha dwaara edinvarg se san 1771 main teen khandon main prakashit hui
+ Since then many editions of it have been published
+ prayek naveen sanskaran main vishad sanshodhan parivardhan kiye gaye
+ Its fourth edition was published in 1929 in 23 volumes
+ san 1933 main prakashkon ne vaarshik prakaashan or nirantar parivardhan kii niti nirdhaarit kii or ghoshnaa kii ki bhavishya ke prakashnon ko naveen sanskaran kii sangya nahin di jaaegi
+ It is counted in the great encyclopedias of the world and is used as a reference book in other countries
+ america main anek vishwakosh prakashit hue, par vahaan bhi pramukh khyaati incychlopedia britnica ko hi praapt he
+ George Replay and Charles Ederson Dana published "new American Succopedia" in 16 volumes
+ iskaa doosraa sanskaran 1873 se 1876 ke madhya niklaa
+ Alvin J
+ Jonson's encyclopedia 'jonson's New Universal Cyclopaedia' was published in 4 volumes, the new edition of which was published in 8 volumes in 1893-95
+ francis liber ne "incychlopedia americana" kaa prakaashan 1829 main prarambh kiya
+ 13 volumes of the first edition were published by 1833
+ san 1835 main 14 khand prakashit kiye gaye
+ It was republished in 1858
+ san 1903-04 main ek naveen kriti "incychlopedia americana" ke naam se 16 khandon main prakashit hui
+ Subsequently, several revised and enhanced versions of this encyclopedia came out
+ san 1918 main yah 30 khandon main prakashit hua or tab se isamen nirantar sanshodhan parivardhan hota aa rahaa he
+ a separate description of the history of each century and separate essays on major works of literature and music are the specialties of this encyclopedia
+ aise vishvakoshon ke bhi pranayan kii pravriti bad rahi he jo kisi vishay vishesh se sambhddha hote hai
+ These contain independent essays on facts related to the same subject
+ yah sankalan sambhddha vishay kaa samyak gyaan karaane main sakasham hota he
+ The Encyclopaedia of Social Sciences is a very important encyclopedia of this type
+ bhartiya vaaiumay main sandarbhgranthon- kosh, anukramanika, niabandh, gyansankalan aadi kii parampara bahut puraani he
+ Reference texts have never been lacking in Indian poetry
+ bharat main parmparik vidvatta ke daayre main mahabharat ko sabase pracheen gyaanakosh mana gaya he
+ Many scholars also place the Puranas in the category of knowledge
+ ram avatar sharma jaise darshanik ne to agnipurana ko spasht rup se gyaanakosh mana he
+ It contains so many subjects that it is called 'encyclopedia of Indian Culture'
+ in agrahon kii upeksha na karte hue bhi yah maananaa hoga ki pashchimi arthon main gyaanakosh rachane kii parampara bharat main apekshaakrit nayi he
+ Earlier in Sanskrit literature there is a tradition of Nighantu, a compilation of difficult Vedic words and his commentary composed by Yask and other scholars in the seventh century BC
+ is parampara ke tahat vibhinn vishyon ke nighantu taiyaar kiye gayi jinamein dhanvantari rachit ayurveda kaa nighantu bhi shaamil tha
+ After this the emergence and development of Namamala dictionary in Sanskrit and Hindi is visible
+ nighantu or nirukt ke alaava shridhar sen krit kosh kalpataru, raja radhakant dev bahadur kii 1822 kii kriti shabdakalpadrum, 1873 se 1883 ke bich prakashit taranath bhattacharya vachaspati krit vachaspatyam jaisi rachanaaon ko sambhawatah gyaanakosh kii koti main rakhaa ja saktaa he
+ The Amarkosh composed by Amarsingh occupies the top place in the countless Namamala dictionaries composed during the period from 5th-6th to 18th century
+ kosh rachana ke is parmparik bhartiya udhyam ke centre main shabd or shabd-rachana thi
+ These lexicons that highlight the words, their various forms, their synonyms, their origins and development process, were helpful in the creation of knowledge, but they could not be placed in the category of knowledge
+ beesvin sadi ke shuruaati varshon main aadhunik arthon main gyaanakosh rachane kaa kaam shuru hua
+ The Hindi Gyan Kosh, created by the Nagari Pracharini Sabha of Kashi, is notable in this regard
+ bangla main sahitya vaaridhi or shabd ratnakar kii oopaadhiyon se vibhooshit nagendra nath basu ne ek vishaal gyaanakosh taiyaar kiya
+ Taking the benefit of Basu's experience from Calcutta on the same lines, he was entrusted with the responsibility of preparing a comprehensive knowledge dictionary in Hindi
+ pachchis khandon kaa yah gyaan-kosh 1917 main chapa
+ Describing it useful, Mahatma Gandhi wrote in his own recommendation that it will be helpful in the development of India's 'lingua-franca' Hindi
+ basu ne bhi isi pahalu par jor dete hue pehle khand main chhapi apni choti si bhoomika main ummid jataayi ki jis bhashaa ko 'rashtrabhasha' banane kaa ytn chal rahaa he, vah aage jaakar rashtrabhasha ban hi jaaegi
+ He also wrote that the Knowledge Dictionary of Hindi is not a translation of Bangla, but was originally written in Hindi
+ in koshon ke alaava hardev bahari rachit prasad sahitya kosh, premanarayan tandon krit 'hindi sevisansar' or gyanmandal dwaara prakashit sahityakosh ullekhneey he
+ It is clear that these dictionaries could fulfill the needs of the discourse originating from social science
+ isiliye aadhunik vishvavidhyalaya shiksha kii zaruuraton ke maddenzar swatantryottar bharat main vibhinn anushasano ke alag-alag kosh taiyaar karne ke kai prayaas hue
+ In Marathi and Odia, ventures were made to create knowledge
+ samaaj-vigyaan ke vibhinn anushasano kaa pratinidhitiv karne kaa daawa karne vaala hindi kaa ek kosh shyaam singh shashi ke pradhan sampaadakatv main 2008 se prakashit hona shuru hua
+ This five-volume publication of the Research Foundation, with a grant from the Ministry of Human Resource Development, continued till 2011
+ dow shashi kii ichha to yah thi ki ve 1930-1935 ke bich prakashit seligamain or johnson dwaara sampadit bees khandon ke vishaal inacychlopedia of da soshal sciensez jaisi ek kriti hindi main taiyaar karen
+ But he faced a lot of problems in raising funds and intellectual resources for thesis
+ unhone pehle khand kii bhoomika main in pareshaaniyon kaa byoraa diya he
+ But the Bangla Encyclopedia edited by Nagendranath Vasu is the first modern encyclopaedia derived from Indian languages
+ bharatvarsh main is shrenee kaa yah pahula gransh tha jo 27 varsh ke athak parishram se anek dhurandhar vidwaanon ke sahyog dwaara purnataa ko praapt hua
+ It was published in 1911 in 22 volumes
+ usee samay uske prakashkon ko sujh pada ki "jis hindi bhashaa kaa prachaar or vistaar bharat main uttarottar badhata jaataa he or jise rashtrabhasha banane kaa udhyog ho rahaa he usee bharat kii bhavi rashtrabhasha main aise granth kaa na hona bade dukh or lajja kaa vishay he"
+ That is why, by appreciative patience, he immediately laid the foundation of the Hindi encyclopedia and completed it
+ nagendranath vasu ne hi anek hindi vidwaanon ke sahyog se hindi vishwakosh kii rachana kii jo san 1916 se 1932 ke madhya 25 khandon main prakashit hua
+ While this work was going on, at the same time, Dr
+ Sridhar Vyankatesh Ketkar, MA
+ PHD started the process of creating an encyclopaedia in Marathi language and usually completed it in twelve years with the help of 40 writers
+ marathi vishwakosh maharashtriya gyaanakoshamandal dwaara 23 khandon main prakashit hua
+ Thereafter, the enthusiasm to feed his knowledge collection in Marathi Paadisin Gujarati cover was also increased and started
+ dow ketakar ke nirdesan main hi iskaa gujarati roopaantar prakashit hua
+ But at the same time, the same inspiration arose in his heart which arose in the minds of Bengali lighters on completing the Bengali encyclopedia
+ isaliye unhone turant hi shuddh hindi vishwakosh ke rachana kaa prastaav kiya jo sweekrut samayik style ke anusaar ho or jiske bishay sarvyaapee rashtrabhasha ke yogya hon
+ All of the newly invented innovations have been included and the essence of all the year-wise material collected by Marathi, Gujarati and Bengali writers along with research has become embedded in the Hindi dictionary
+ hindi gyaanakosh kii rachana ke liye saikadon lekhak niyukt kiye gayi jo apane-2 vishyake visheshgy samajhe jate hai
+ a committee of 33 Dhurandhar Scholars was appointed to edit their articles
+ swarajya prapti ke baad bhartiya vidwaanon kaa dhyaan aadhunik bhashaaon ke saahitiyon ke sabhi angon ko puraa karne kii ore gaya or aadhunik bhartiya bhashaaon main vishwakosh nirmaan kaa shriganesh hua
+ After independence, plans were made for the implementation of modern encyclopedias to benefit the Indian public from the increasing knowledge of arts and sciences
+ san 1947 main hi ek hajaar prishthon ke 12 khandon main prakaashya telegu bhashaa ke vishwakosh kii yojana nirmit hui
+ The work of propelling an encyclopedia began in Tamil also
+ isi kram main nagari prachaarini sabha, varanasi ne san 1954 main hindi main moulik tathaa pramanik vishwakosh ke prakaashan kaa prastaav bharat sarkaar ke sammukh rakhaa
+ For this an expert committee was formed and its first meeting was held on 11 February 1956 and the work of creation of Hindi encyclopedia started in January 1957
+ rashtrabhasha hindi main ek moulik evam pramanik vishwakosh ke pranayan kii yojana hindi sahitya ke sarjan main sanlagn nagariprachaarini sabha, kaashi ne tatkaaleen sabhapati mahamanya pan govind vallabh pant kii prerana se nirmit kii jo aarthik sahaayta hetu bharat sarkaar ke vichararth san 1954 main prastut kii gai
+ According to the predetermined plan, the encyclopedia was published in 30 volumes of one thousand pages over a period of about ten years at an expenditure of Rs 22 lakh
+ kintu bharat sarkaar ne aitadarth niyukt visheshgy samiti ke suzav ke anusaar 500 prishthon ke 10 khandon main hi vishwakosh ko prakashit karne kii sweekruti di tathaa is kaary ke sampadan hetu sahaytarth 6
+5 lakh rupye pradaan karnaa sweekaar kiya
+ The assembly had to accept the decision of the Union Ministry of Education that the encyclopedia would be a publication of the Government of India
+ yojana kii sweekruti ke pashchaat nagariprachaarini sabha ne janvari, 1957 main vishwakosh ke nirmaan kaa karyaarambh kiya
+ According to the recommendation of the "expert Committee", as per the instructions of the Union Ministry of Education, a twenty-five member advisory committee consisting of distinguished scholars of the country, eminent thinkers and experienced admirers of the education sector was formed
+ san 1958 main samast uplabdh vishvakoshon evam sandarbhgranthon kii sahaayta se 70,000 shabdon kii suchi taiyaar kii gai
+ After a proper examination of these words, 30,000 words were selected for consideration among them
+ march, san 1959 main prayag vishvavidhyalay ke hindi vibhaag bhootpurv professor dow dhirendra verma pradhan sampadak niyukt hue
+ The first volume of the encyclopedia was published in the short term of about one and a half years in 1960
+ san 1970 tak 12 khandon main is vishwakosh kaa prakaashan kaary puraa kiya gaya
+ In 1970, the first three volumes of the encyclopedia became unavailable
+ iske naveen tathaa parivardhit sanskaran kaa prakaashan kiya gaya
+ In the Golden Jubilee Year of Official Language Hindi, the Department of Official Language and Ministry of Human Resource Development entrusted the responsibility of Central Hindi Institute, Agra to present Hindi Encyclopedia on the Internet
+ tadnusaar kendriya hindi santhaan, agra tathaa electronic anusandhan evam vikaas centre, noida ke sanyukt tatwadhan main tathaa maanav sansaadhan vikaas mantralay tathaa soochna praudyogiki mantralay ke sanyukt vittaposhan se hindi vishwakosh ko internet par prastut karne kaa kaary april 2000 main prarambh hua
+ The structure of encyclopedias is particularly suitable for computers
+ isi liye adhikansh vishwakosh 20veen sadi ke ant tak computaron ke liye upyukt farmat main aa gayi hai
+ Encyclopedia available in CD-ROM etc
+ has the following benefits: yogadarshan chah aastik darshanon main se prasiddh he
+ The main goal of this philosophy is that man can achieve the ultimate goal
+ anya darshanon kii bhaanti yogadarshan tatvamimasaa ke prashnon main na ulajhakar mukhyatah moksh vaale darshan kii prastuti karata he
+ But every philosophy discussing salvation must have some elemental background
+ atah is hetu yogadarshan, sankhyadarshan kaa sahaara letaa he or uske dwaara pratipaadit tatvamimasaa ko sweekaar kar letaa he
+ That is why Yogadarshan has been associated with Sankhyadarshan since the beginning
+ with the nature, nature of man
+ iskaa prarambh patanjali muni ke yogasutron se hota he
+ The best interpretation of the Yogasutras is found in the Vibhaष्यyaष्यa written by Vyāsa Muni
+ isamen bataaya gaya he ki kis prakaar manushya apane man kii vrittiyon par niyantran rakhkar jivan main safal ho saktaa he or apane antim lakshya nirvana ko praapt kar saktaa he
+ Yogadarshan is dualistic like Sankhya
+ sankhya ke tatvamimasaa ko purna rup se sweekaarte hue usamen keval 'ishwar' ko jod detaa he
+ That is why Yogadarshan is called 'sesvara Sankhya' and Sankhya is called '
+ yogadarshan main purush tatv kendriya vishay ke rup main prastut hua he
+ Although both men and nature have been considered as independent, but in a physical form, the power of man is supreme
+ purush ke do bhed kahe gayi hai
+ The man is said to be conscious and unconcerned, but due to ignorance, the man accuses himself in the root and result of the mind
+ purush or chitt ke sanyukt ho jane par vivek jaataa rahata he or purush swayan ko chitt rup main anubhav karne lagata he
+ This ignorance is the cause of all sorrows and tribulations of the man
+ yoga darshan kaa uddeshy purush ko is dukh se, agyaan se, mukt karana he
+ The same fact has been theoretically presented in yoga philosophy as hey, hey-hey, han and hanopay
+ in chaar kramon main purush duhkhon se mukti paata he, isaliye yoga main ise 'chaturvuhwaad' kaha gaya he evam is chaturvyuuh se mukt hona hi yoga kaa param uddeshy he
+ In the philosophy of Chaturvuhvad itself, the philosophy of male, male and male charitableness appears in Yoga philosophy
+ purush avidyagrast hone par sansar-chakra main padataa he or purusharthshoonyata kii avasthaa ko praapt karata he
+ The ultimate goal of a man is the attainment of Kaivalya
+ yoga main purush ko aatma kaa paryaay mana gaya he
+ Therefore, the soul, which is innumerable in number, can attain its Kaivalya only if the three forms of grief are resolved by making effort in the form of Chaturvedi
+ dukh ke teen rup he - aadhyatmik, aadhibhautik or aadhidaivik
+ Effortlessness is the stage above these triads
+ purusharthshoonyata ke pashchaat hi purush kii apane swaroop kii sthiti hoti he
+ In Yogadarshan, it is called Kaivalya or Moksha
+ patanjali ko kapil dwaara bataaya gaya sankhyadarshan hi abhimath he
+ In short, according to this philosophy there are innumerable men in this world and one predominant or original nature
+ purush chit he, pradhan achit
+ Man is eternal and unchanging, prime is also continual but changeable
+ donon ek duusare se sadaa pruthak hai, parantu ek prakaar se ek kaa duusare par prabhaav padataa he
+ Changes in nature begin with the relationship of man
+ vah kshubdh ho uthati he
+ First there is the origin of importance or intelligence, then of ego, then of mind
+ ahankaar se gyanendriyon or karmedriyon tathaa paanch tanmatraaon arthath shabd, sparsh, rup, ras tathaa gandh kii, ant main in paanchon se akaash, vaayu, tej, ap or kshiti naam ke mahabhuton kii
+ Due to all this, the game of this world is happening
+ sankshep main, yahi sristi kaa kram he
+ Even if there is a change in nature, it remains the same as men
+ phir bhi ek baat hoti he
+ Just as bringing colorful flowers in front of white crystals gives them a colorful reflection on them, similarly the male gets reflections of natural deformities
+ kramash: vah buddhi se lekar kshiti tak se ranjit prathit hota he, apane ko prakruti ke in vikaron se sambhddha maanane lagata he
+ Today, he considers himself rich, poor, strong, weak, family, happy, sad, etc
+ apane shuddh rup se dur ja padaa he
+ This is his illusion, avidya
+ pradhan se bane hue in padaartho ne uske rup ko dhank rakhaa he, uske upar kai tah khol pad gai he
+ If he throws away these shells, these coverings, he will get rid of them
+ jis kram se bandhaa he, uske ulate kram se bandhan tootenge
+ One has to rise above mahabhutas first
+ ant main pradhan kii ore se munh pherana hoga
+ This bond is not real, but seems to be very firm
+ jis upyog se bandhanon ko todakar purush apane shuddh swaroop main sthit ho sake us upaay kaa naam yoga he
+ The teacher of Sankhya says: Yadva tadva taduchhitti: Parampurushartha: - As far as possible, the removal of this artificial combination of male and head is the ultimate effort
+ yoga kaa yahi darshanik dharaatal he: avidya ke dur hone par jo avasthaa hoti he uskaa varnan vibhinn aacharyon or vichaarkon ke vibhinn dhang se kiya he
+ According to their respective views, they have also given him different names
+ koi use kaivalya kahata he, koi moksh, koi nirvana
+ After reaching up, the person who has the experience should say it as such
+ vastut: vah avasthaa aisi he, yato vaacho nivartate aprapya mansa sah - jahaan man ore vaani kii pahunch nahin he
+ It is necessary to discuss one more thing in a few words
+ asankhya purushon ke saath patanjali ne 'purush vishesh' naam se ishwar kii satta ko bhi mana he
+ The teacher of Sankhya does not believe so
+ vastut: maanane kii aavashyaktaa bhi nahin he
+ Even if he removes some formulas from Yogadarshana, then there is no difference
+ yoga kii sadhana kii drushti se ishwar ko maanane, na maanane kaa vishesh mahatv nahin he
+ Both believers and non-believers in the authority of God have equal rights in yoga
+ vidya or avidya, bandhan or usase chhutkaaraa, sukh or du:kha sab chitt main hai
+ Therefore, whoever is desirous of getting a position in his own form, he will have to try to remove his mind from those things, which pull the head towards the head and its disorders and create a feeling of happiness and sorrow
+ is tarah chitt ko hataane tathaa chitt ke aisi vastuon se hat jane kaa naam vairaygy he
+ This is the first step of yoga
+ purna vairaygy ekadam nahin hua karata
+ As soon as a person is engaged in the practice of yoga, as soon as quietness also increases and as soon as quietness increases, the trend in cultivation increases
+ jesa patanjali ne kaha he: drusht or anushravik donon prakaar ke vishyon main virakti, gandhi ji ke shabdon main anasakti, honi chahie
+ Heaven etc
+, whose knowledge we get from the words and scriptures of the Mahatmas, is called Anuprivika
+ yoga kii sadhana ko abhyaas kehete hai
+ Here for many hundred years, the word Bhajan has also started in the sages in this beginning
+ chitt jab tak indriyon ke vishyon kii ore badhata rahegaa, chanchal rahegaa
+ The senses will keep him in contact with other food items one after the other
+ kitnon se viyog bhi karaati rahengi
+ There will be hundreds of opportunities for stimulating work, anger, greed, etc
+ sukh du:kha kii nirantar anubhuti hoti rahegi
+ In this way, the bond with the head and its disorders that have been going on for many births will continue to become stronger and stronger
+ at: chitt ko indriyon ke vishyon se khinchakar antarmukh karnaa hoga
+ Many remedies have been given for this, whose details need not go into details
+ saadhaaran manushya ke chitt kii avasthaa kshipt kehalaati he
+ He throws from one subject to another
+ jab usko praytn karke kisi ek vishay par laayaa jaataa he tab bhi vah jaldi se vishyantar kii ore chalaa jaataa he
+ This state is called deranged
+ dirdh praytn ke baad sadhak use kisi ek vishay par der tak rakh saktaa he
+ The name of this stage is concentrated
+ chitt ko vasheebhoot karnaa bahut kathin kaam he
+ Sri Krishna has described it as a strong balwat-like elephant
+ chitt ko vash main karne main ek cheez se sahaayta milti he
+ It is a matter of ordinary experience that as long as the body is fickle, the mind is fickle and the fickleness of the mind keeps the body fickle
+ sharir kii chanchalta nadisanthaan kii chanchalta par nirbhar karti he
+ As long as the radius of the pulse is weak, the senses on the body will be subject to acceptable subjects
+ un aadhaaton kaa prabhaav mastishk par padegaa jiske falswaroop chitt or sharir donon main hi chanchalta bani rahegi
+ To make the mind immobile, the yogi takes the same measures as is sometimes required in war
+ kisi prabal shatru se ladane main yadi uske mitron ko parrast kiya ja sake to safalataa kii sambhaavna bad jaati he
+ In order to gain authority over the mind, the yogi tries to subdue the body and also the nadisastha, mainly in it
+ sharir bhautik he, naadiyaan bhi bhautik hai
+ That is why it is easy to deal with them
+ jis prakriya se yah baat siddh hoti he uske do ang hai: asana or pranayam
+ The body becomes immobile by posture
+ bahut se asana kaa abhyaas to swasthya kii drushti se kiya jaataa he
+ Patanjali has said this much: Steady Sukhmasanam: The posture on which one can sit for long periods without suffering is superior
+ yahi sahi he ki asanasiddhi ke liye swasthya sambandhi kuch niyamon kaa paalan aavashyak he
+ As Shri Krishna has said in the Gita- khaane, pine, sone, jaagane sabhi kaa niyantran karnaa hota he
+ There is a lot of confusion regarding the word Pranayama
+ is bhram kaa kaaran yah he ki aaj log praan shabd ke arth ko praaia: bhul gaye hai
+ Many people, who call themselves Yogis, forget about this word
+ yogi ko is baat kaa praytn karnaa hota he ki vah apane praan ko sushumna main le jaay
+ The spinal cord is located in the duct of the spinal cord and reaches under the brain
+ yah koi gupt cheez nahin he
+ Can be seen with eyes
+ kareeb-kareeb kanashtha ungali ke baraabar moti hoti he, thos he, isamen koi chhed nahin he
+ Pran and the breath or wind do not know that there is no way for air to enter this pulse and to climb up
+ praan ko hawa kaa samanarthak maanakar hi aisi baaten kahi jaati hai ki amuk mahatma ne apni saans ko brahmad main chadha liya
+ Control of breath helps in stabilizing the nervous system, but the main aim of the yogi is control of life, not breath
+ praan vah shakti he jo nadisanthaan main sanchaar karti he
+ All the components of the body and all the metals get life and activity from life itself
+ jab sharir ke sthir hone se ore pranayam kii kriya se, praan sushumna kii ore pravrutt hota he to uskaa pravaah neeche kii naadiyon main se khinch jaataa he
+ Therefore, these nadis become zero in a way from the outer half
+ pranyam kaa abhyaas karnaa or pranayam main safalataa paa janaa do alag alag baaten hai
+ But the path of success paves the way of quietness and intense emotion
+ jyon-jyon abhyaas drudh hota he, tyon-tyon sadhak ke aatmavishvaas main vruddhi hoti he
+ One more thing happens
+ vah jitna hi apane chitt ko indriyon or unke vishyon se dur khinchataa he utana hi uski andriya shakti bhi badhati he arthath indriyon kii vishyon ke bhoga kii shakti bhi badhati he
+ That is why the name of Pratyahara is taken after Pranayama
+ pratyaahaar kaa arth he indriyon ko unke vishyon se kheenchna
+ This sermon has been given in the context of disinterest, but it is especially important to reach Pranayam
+ asana, pranayam or pratyaahaar ke hi samucchy kaa naam hathyog he
+ Sadly, some practitioners stop here
+ jo log aage badhate hai unke maarg ko teen vibhaagon main baanta jaataa he: dharna, dhyaan or samadhi
+ It is impossible to completely separate these three from each other
+ dhaaran pusht hokar dhyaan kaa rup dhaaran karti he or unnat dhyaan hi samadhi kehalaata he
+ Patanjali has called all three in moderation
+ dharna vah upaay he jisase chitt ko ekagra karne main sahaayta milti he
+ Here the word remedy is used singularly, but in fact there are many ways of doing this work
+ inamen se kuch kaa charchaa upanishdon main aayaa he
+ The word Vidya is used in Vedic Vadmaya
+ kisi mantra ke jap, kisi dev, devi yaa mahatma ke vigrah yaa surya, agni, deepashikha aadi ko sharir ke kisi sthanvishesh jese hriday, murgha, til arthath donon aankhon ke bich ke bindu, inamen se kisi jagah kalpana main sthir karnaa, is prakaar ke jo bhi upaay kiye jaayan ve sabhi dharna ke antargat hai
+ As Patanjali has written after elaborating some measures - Dhyanamitat Dhyadvadva - Concentrating the mind on an object that feels good can work
+ kisi puraana main aisi katha ai he ki apane guru kii ajna se kisi ashikshit vyakti ne apni bhens ke madhyam se chitt ko ekagra karke samadhi praapt kii thi
+ The best method of perception is that which is called Nadanusandhan in the old words
+ kabir or unke parvarti santon ne ise surat shabd yoga kii sangya di he
+ Just as the playful antelope forgets to fill the quartet after being enchanted by the Veena's vocals, similarly the mind of the seeker becomes stagnant by quivering from the effects of the sound
+ vah naad koun sa he jisamen chitt kii vrittiyon ko lay karne kaa prayaas kiya jaataa he or yah prayaas kaise kiya jaataa he, ye baaten to gurumukh se hi jaani jaati hai
+ The subtlest form of inner feeling is called Pravala, Omkar
+ pranav vastut: anuccharyya he
+ It can be felt, not euphemism in speech, in the words of Nadvindupanishad: pranav ke anusandhan se, jyotirmaya or kalyankari naad udit hota he
+ Then the soul manifests itself in the same way as the moon when the cloud is removed
+ aadi shabd aankaar ko paramatma kaa pratik kaha jaataa he
+ Its glory has been sung everywhere among yogis
+ bible ke us khand main, jise saint jans gaspel kehete hai, pehla hi vaakya is prakaar hai, aarambh main shabd tha
+ That word was with God
+ vah shabd paramatma tha
+ Sufi saints say haif dar bande jism darmani, nor shaunvi saute pake rahmani It is a matter of sorrow that you remain in the bondage of the body and do not listen to the holy divine sound
+ chitt kii ekaagratha jyon jyon badhati he tyon tyon sadhakar ko anek prakaar ke anubhav hote hai
+ Man is not familiar with the power of his senses
+ unase na to kaam letaa he or na lenaa chahta he
+ This sounds surprising, but true
+ maan lijie, hamaari chakshu yaa shroatra indria kii shakti kal aaj se kai guna bad jaay
+ Then do not know how many such things will start to be visible, which we will tremble upon seeing
+ ek duusare ke bheetar kii rasinic kriya yadi ek baar dekh pad jaay to apane priy se priy vyakti kii ore se ghrinaa ho jaaygi
+ What does our supreme friend say about us sitting in a nearby cell, if i come to listen to this, then it becomes difficult to live
+ ham kuch vaasanaon ke putale hai
+ With their senses, they work only as long as there is satisfaction of lusts
+ isaliye indriyon kii shakti prasupt rahati he parantu jab yogabhyas ke dwaara vaasanaon kaa newnaadhik shaman hota he tab indriyaan nirbaadh rup se kaam kar sakati hai or hamako jagat ke swaroop ke vaastavik rup kaa kuch parichay dilaati hai
+ In this world there is a huge store of touch, form, juice and smell, whose power we do not experience
+ anrtarmukh hone par bina hamaare prayaas ke hi indriyaan is bhandar kaa dwaar hamaare saamne khol detii hai
+ There are many glands of nadis in Sushumna, in which nadis come from many places
+ in sthanon ko chakra kehete hai
+ The discussion of the six chakras in particular comes in the texts of Yoga
+ sabase neeche muladhaar he jo praaia: us jagah par he jahaan sushumna kaa aarambh hota he
+ And at the top is the command cycle which is in place of mole
+ ise tritiy netra bhi kehete hai
+ Walking a little further, the spinal cord joins the brain's umbilical cord
+ mastishk ke us sabase upar ke sthaan par jise sharir vigyaan main cerebram kehete hai, sahasrarchakr he
+ As one Mahatma has said: moolmantra karband vichaari saat chakra nav shodhai nari
+ 
+ yogi ke praarambhik anubhavon main se kuch kii ore upar sanket kiya gaya he
+ Some such experiences are also mentioned in the Shveteshwar Upanishad
+ vahaan unhone kaha he ki anal, anil, surya, chandra, khadyot, dhooma, sphuling, taare abhivyaktikarani yoge hainsh yah sab yoga main abhivyakt karaanevaale chihn hai arthath inke dwaara yogi ko yah vishwaas ho saktaa he ki main thik maarg par chal rahaa hoon
+ On top of this, it is impossible to describe the experiences that the yogi experiences while reaching the Samadhi
+ kaaran yah he ki unka varnan karne ke liye saadhaaran manushya ko saadhaaran bhashaa main koi pratik yaa shabd nahin miltaa
+ Good yogis have said in relation to his description that this work is similar to eating dumb jaggery
+ purnang manushya bhi kisi vastu ke swaad kaa shabdon main varnan nahin kar saktaa, phir goonga bechaara to asamarth he hi
+ Some introduction to the taste of jaggery can also be given on the basis of its resemblance to the taste of fruits or any other sweet thing, but the experience that we usually don't have, is really beyond speech
+ samadhi kii sarvocch bhoomika ke kuch neeche tak asmita rah jaati he
+ This belief remains as its separate entity
+ aham asmi = main hoon kii santan arthath nirantar is bhaavana ke kaaran vahaan tak kaal kii satta he
+ After this, the skinny remains ignorant
+ uske shay hone kii avasthaa kaa naam asampragyaat samadhi he jisamen avidya kaa bhi kshay ho jaataa he or pradhan se kalpit sambandh kaa viched ho jaataa he
+ This is the culmination of yoga
+ iske aage phir shastrarth kaa dwaar khul jaataa he
+ The teacher of Sankhya says that for the yogi man who has reached here, then the game of nature stops
+ duusare logon ke liye jari rahata he
+ He explains this as such
+ kisi jagah nrity ho rahaa he
+ Many people are watching him
+ ek vyakti unamem aisa bhi he jisko us nrity main koi abhiruchi nahin he
+ He turns his eyes towards the dancer
+ uske liye nrity nahin ke baraabar he
+ It is interesting for another
+ unhone kaha he ki us aja ke saath arthath nitya ke saath aj akonushete = ek aj shayan karata he or jahatenam bhuktavogam tathanya:-uske bhoga se trupt hokar doosraa tyaag detaa he
+ The Acharya Sankhya Sammata of Advaita Vedanta does not accept the diversity of men
+ unke atirikt or bhi kai daarshnik sampradaay hai jinke apane alag alag siddhant hai
+ It has been said earlier that there is no need to fall here in this debate
+ jahaan tak yoga ke vyavhaarik rup kii baat he usamen kisi ko virodh nahin he
+ The Acharyas of Vedanta also acknowledge the utility of Nirididhyasana and in Vedanta philosophy Vyasa has also supported it in formulas like Asakradabhyasat and Aasin: Sambhavat
+ itnaa hi hamaare liye paryaapt he
+ Generally Yoga is called Ashtanga, but so far only six limbs have been mentioned from Asana to Samadhi
+ shesh do angon ko isaliye nahin choda ki ve anaavashyak hai varan isliye ki vah yogi hi nahin pratyut manushya maatr ke liye param upyogi hai
+ Yama is the first among them
+ inke sambandh main kaha gaya he ki yah desh kaal, samay se anavchhinn ore saarvbhaum mahabrat hai arthath prayek manushya ko prayek sthaan par prayek samay or prayek avasthaa main prayek vyakti ke saath inkaa paalan karnaa chahie
+ The second part is called niyam
+ jo log ishwar kii satta ko sweekaar nahin karte unke liye ishwar par nishtha rakhane kaa koi or nahin he
+ But those people also have faith in someone who is like God to them
+ buddha ko buddhadev ke prati jo nishtha he vah usase kam nahin he jo kisi bhi ishwarwadi ko ishwar par hoti hogi
+ There is one more thing
+ kisi ko ishwar par shraddha ho yaa na ho, yoga maarg ke upadeshta guru par to anany shraddha honi hi chahie
+ For the practitioner, the Guru's place is not less than God
+ ishwar ho yaa na ho parantu guru ke hone par to koi andeh ho hi nahin saktaa
+ Sahajobai, a disciple of a seeker Charanadas Ji, has said: aaj kal yah baat sunne main aati he ki param purusharth praapt karne ke liye gyaan paryaapt he
+ Yoga is not required
+ jo log aisa kehete hai, vah gyaan shabd ke arth par gambhirtha se vichaar nahin karte
+ There are two types of knowledge - tacism and tacit knowledge
+ donon main antar he
+ a person can spend his whole life in studying chemistry etc
+ to get information about sugar
+ shakkar ke anu main kin kin rasinic tatwon ke kitne kitne parmaanu hote hai? shakkar kaise banaai jaati he? usapar koun koun si raasaanik kriya or pratikriyaayein hoti hai? ityadi
+ All this is knowledge about sugar
+ yah bhi upyogi ho saktaa he parantu shakkar kaa vaastavik gyaan to usee samay hota he jab ek chutki shakkar munh main rakhi jaati he
+ This is the philosophy of sugar
+ shastron ke adhyayan se jo gyaan praapt hota he vah sachcha aadhyatmik gyaan he or uske prakaash main tadvishyak gyaan bhi puri tarah samaj main aa saktaa hai
+ That is why according to the Upanishads, when Yama preached spiritual knowledge to Nachiketa, then along with him the initiation of the Yogavidhi f Kratsnam, otherwise the perception of Nachiketa would remain incomplete
+ jo log bhakthi aadi kii sadhana rup se prashansa karte hai unkosh bhi yah dhyaan main rakhana chahie ki yadi unke maarg main vitt ko ekagra karne kaa koi upaay he to vah vastut: yoga kii dharna ang ke antargat he
+ It is his wish that Sanatan practice new words excluding Yoga
+ yoga ke abhyaas se us prakaar kii shaktiyon kaa udai hota he jinako vibhuti yaa siddhi kehete hai
+ If, even after practicing for a sufficient period of time, no such extraordinary powers have been attained in any human being, it should be assumed that he is not following the right path
+ parantu siddhiyon main koi jaadu kii baat nahin he
+ The power of the senses is very high but generally we do not know it and neither do we use it
+ abhayasi ko us shakti kaa parichay miltaa he, usko jagat ke swaroop ke sambandh main aise anubhav hote hai jo dusron ko praapt nahin hai
+ Seeing distant or hidden things, listening to the things used, etc
+ are within the limits of the innate power of the senses, but for ordinary people, this is a matter of wonder, these will be called accomplishment
+ isi prakaar manushya main or bhi bahut si shaktiyaan hen jo sadhran avasthaa main prasupt rahati hai
+ Wakes up with the practice of yoga
+ yadi ham kisi sadak par kahin ja rahe ho to apane lakshya kii ore badhate hue bhi anayas hi daahine baayein upasthit vishyon ko dekh lenge
+ The truth is that anyone who stops to see these subjects will not reach the destination and will remain in the middle
+ isiliye kaha gaya he ki jo koi siddhiyon ke liye praytn karata he vah apane ko samadhi se vanchit karata he
+ Patanjali has said: arthath ye vibhutiyaan samadhi main baadhak hai parantu samadhi se uthne kii avasthaa main siddhi kehalaati hai
+ Govinda, Amitabh Bachchan, Raveena Tandon, Ramya Krishna, Paresh Rawal, Anupam Kher, Sharat Saxena, Sushma Seth, bade miyaan chote miyaan 1998 main bani hindi bhashaa kii ection kamedi film he
+ It stars Amitabh Bachchan and Govinda in dual roles
+ ramya krishnan, ravina tandon, anupam kher sahaayak bhoomikaaon main hai
+ Madhuri Dixit is in special appearance
+ david dhawan dwaara nirdeshit or vaashu bhaganani dwara nirmit yah film 1998 kii kuch kuch hota he ke baad sabase badi hit film thi
+ All lyrics written by Sameer; All music composed by Viju Shah
+ harchand, tharali tehsil main bharat ke uttrakhand rajya ke antargat gadhwal mandal ke chamoli jile kaa ek gaanv he
+ Bhupinder Singh Bhalla Daman and Administrator of Diu or Dadra and Nagar Haveli
+ tetaria main bharat ke bihar rajya ke antargat magadh mandal ke aurangabad jile kaa ek gaanv he
+ Coordinates: 27 ° 13′N 79 ° 30′E / 27
+22 ° n 79
+50 ° e / 27
+22; 79
+50 kathgara chhibramau, kannauj, uttar pradesh sthit ek gaanv he
+ Hunterwali is a 1935 Hindi stunt film produced by Mumbai-based Wadia Movietone in which Mary Ann Evans, known as the fearless Nadia, played the lead character
+ is film ke jariye wadiya muvitone ke nadia va wadiya bandhu khaase namchin ho gayi
+ Hunterwali was the first film in the lead role for Nadia
+ unhone film main kai stant khud kiye jiske kaaran darshakon se unhen kaaphi saraahna mili or yah film superhit hui
+ Hunterwali's daughter is the sequel to this film
+ talla khalduva, bhikiasain tehsil main bharat ke uttrakhand rajya ke antargat kumaun mandal ke almoda jile kaa ek gaanv he
+ The Shin Dynasty was a dynasty of ancient China that ruled China in a short period from 9 AD to 23 AD
+ ise rajvansh to kaha jaataa he lekin isamen samraat sirf ek hi tha
+ It came in the middle of the Han Dynasty
+ is se pehle ke haan kaal ko 'pashchimi haan rajvansh' kaha jaataa he or iske baad ke haan kaal ko 'purvi haan rajvansh' kaha jaataa he
+ The only emperor of the Sheen dynasty was Wang Maung
+ pashchimi haan kii rajmata, maharani wang jhengajun wang parivaar se ai thi or uskaa vivaah haan rajpariwaar main hua tha
+ Wang Maung was his nephew and belonged to the Wang family
+ usne is sambandh kaa faaydaa uthaaya or singhaasana hadap liya
+ On 9 AD he declared himself Emperor

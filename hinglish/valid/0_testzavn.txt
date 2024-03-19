@@ -1,0 +1,1900 @@
+ For many applications, counters are not sealed but are constantly filled with pure gas, thus reducing contamination or gas decay problems
+ inhen "pravaah counter" kaha jaataa he
+ Some substances, such as sodium iodide, can "transform" an X-ray photon into a visible photon; An electronic detector can be constructed by adding a photomultiplier
+ in detectaron ko "cintilator", filmuscreen yaa "cintilation counter" kehete hai
+ The main advantage of using them is that an adequate picture can be obtained even when a very small amount of X-rays are passed on the patient
+ ek eks-re image intencyphaire ke istemaal se praapt pratideeptidarshan ke istemaal se khokhale angon ke vipareet adhyayanon yaa angeography jaisi "vaastavik-jivan" prakriyaaon main bhi eks-re kaa istemaal kiya jaataa he
+ Angioplasty, a therapeutic intervention of arterial system, relies heavily on X-ray-sensory representation to identify potentially curable lesions
+ 1970 ke dashak ke baad se, nae semiconductor detectaron ko viksit kiya gaya he / Si yaa jeei / Ge)
+ eks-re ke photon ko ardhchaalak main electron-chhidr jode main badal diya jaataa he or eks-re kaa pataa lagane ke liye ikaitha kiya jaataa he
+ When the temperature is sufficiently low, it is possible to directly determine the X-ray energy spectrum; This method is called energy dispersive X-ray spectroscopy; It is often used in small X-ray fluorescence spectrometers
+ in detectaron ko kabhi-kabhi "solid state detector" bhi kaha jaataa he
+ Cadmium telluride-based detectors and an alloy prepared from a mixture of zinc, cadmium zinc telluride, greatly increase the sensitivity that allows lower amounts of X-rays to be used
+ chikitsiya chithran main vyaavhaarik anuprayog kii shuruyaat 1990 ke dashak main hui thi
+ Currently amorphous selenium is used in commercial large area flat panel X-ray detectors for mammography and chest radiography
+ vartmaan anusandhan or vikaas, pixel detectaron ke ird-gird kendrit he, jaise - sarn kaa urja sankalpak medipix detector
+ Note: When placed in an X-ray beam, a standard semiconductor diode, such as - 1N4007 will generate very small amounts of current
+ chikitsiya chithran sarvice karmiyon dwaara ek baar istemaal kiya gaya ek pareekshan upkaran ek chota sa project box tha jisamen is tarah ke kai diod shrinkhalabaddh rup main nihit the, jise ek sheeghra nidaan ke rup main ek osiloscope se joda ja saktaa tha
+ Silicon drift detectors originating from conventional semiconductor structures) now provide a cost-effective and high resolving power radiation measurement
+ esai / Si jaise paaramparik eks-re detectaron ke vipareet, inhen taral nitrogen se thanda karne kii jarurat nahin padati he
+ The advent of giant semiconductor array detectors has made it possible to design detector systems using scintillator screens to convert from X-rays to visible light which are then converted into electrical signals in a table detector
+ aajkal chikitsa, danta chikitsa, pashu chikitsa or audyogic anuprayogon main apratyaksh flats panel detectaron kaa bade paimaane par istemaal ho rahaa he
+ Array technology is a variant of the amorphous silicon TFT arrays used in many flat panel displays as in computer laptops
+ sarini main silicon kii ek patali parat se dhanki hui kaanch kii ek chadar hoti he jo ek aakaarahin yaa avyavasthit sthiti main hoti he
+ At a microscopic level, silicon is inscribed on a sheet of graph paper, like a grid, with millions of transistors arranged in highly ordered tables
+ inamen se prayek thin film transistor ko ek prakaash-avasorak photodod ke saath sanlagn kiya jaataa he jisase ek akele pixel kaa nirmaan hota he
+ Photons that strike the photodiode are transformed into two carriers of electric charge, called electron-hole pairs
+ chunki utpann aavesh vaahakon kii sankhya aane vaale prakaash photon kii tivrata ke saath badalati jaaegi, atah ek vidyutiya paddati kaa nirmaan hota he jo teji se ek voltage main badal saktaa he or uske baad ek digital sanket main badal saktaa he, jise ek computer dwaara ek digital chitra utpann karne ke liye roopantarit kiya jaataa he
+ Although silicon has excellent electronic properties, it is not a good absorber of photons, especially X-rays
+ isi vajah se, eks-re sabase pehle gadolinium oxislphide yaa sizium iodide jaise padaarthon se bane cintilator par girti hai
+ The scintillator absorbs X-rays and converts them into visible light photons, which then pass through the photodiode array
+ aam taur par maanav aankh ke liye adrishy maani jane vaali eks-re ko vishesh paristhitiyon main dekha ja saktaa he
+ In an experiment conducted shortly after Röntgen's 1895 epoch-making paper, Brades reported that upon adapting to darkness and placing his eye near an X-ray tube, he noticed a blurred "blue-gray" glow , Which itself seemed to have originated from the eye
+ yah sunne par rontagan ne apni record pustakon kii samiksha kii or paaya ki unhone is prabhaav ko dekha tha
+ Röntgen saw a similar blue glow, which seemed to be emanating from the eye itself, but seeing this effect using only one type of tube, he mistook his observation
+ baad main unhen ehsaas hua ki is prabhaav ko utpann karne vaali nalee ekmaatr aisi nalee thi jisamen is chamak ko spasht rup se dikhaai dene laayak banane kii kaaphi kshamta thi or uske baad prayog ko tatkaal dohraye jane kii sambhaavna thi
+ X-rays can, in fact, appear blurred by the dark-adapted naked eye, a knowledge that has largely been forgotten today; This may be due to a desire not to repeat the action that was now seen as a wildly dangerous and possibly harmful experiment with ionizing radiation
+ aankh main drishyata ko utpann karne vaali sateek vidhi gyaat nahin he: aisa paaramparik sansuchan, retinal tantrika koshikaon kii pratyaksh uttejnaa, yaa gauntah utpann drishy prakaash ke paaramparik retinal sansuchan ke saath netragolak main udhaahrantah fosoresence ke eks-re pravesh ke madhyam se dwitiyak sansuchan kii vajah se ho saktaa he
+ Although X-rays cannot be viewed in any other way, ionization of air molecules can be observed if the intensity of the X-ray beam is high enough
+ iesaref ke vigler kii punjarekha, aisi hi ucch tivrata kaa ek udhaaharan he
+ X-rays can identify the structures of the bones, since Röntgen's discovery that X-rays have been developed to use them in medical imagery, within a month of his primary paper on the subject
+ Was used
+ radiology, chikitsa kaa ek vishesh kshetra he
+ Radiologists use radiography and other techniques for clinical imaging
+ yah shaayad eks-re praudyogiki kaa sabase aam upyog he
+ These X-rays are particularly useful in detecting pathology of the skeletal system but are also useful for detecting some patient processes in soft tissue
+ kuch ullekhneey udhaaharan hai - seene kaa bahut aam eks-re, jiskaa istemaal nimonia, fefdon ke cancer yaa phuffusiya shof jaise fefdon ke rogon kii pahchaan karne ke liye kiya ja saktaa he; or pet kaa eks-re, jo aant avrodh, mukt vaayu or mukt taral kaa pataa laga saktaa he
+ X-rays can also often be used to detect malformations such as visible renal stones and gallstones
+ paramparaagat saadhaaran eks-re, mastishk yaa mansapeshi jaise mridu utakon kii chhavi lene main bahut kam upyogi hoti hai
+ Options for soft tissue imaging - computerized axial tomography or CT scanning), magnetic resonance imaging or ultrasound
+ baad vaale do vikalp, insheel vikiran ke liye vyakti ke adheen nahin hai
+ In addition to simple X-ray and CT scans, physicians use fluorescence as an X-ray test method
+ is vidhi ke antargat aksar dawa ke rup main ek chikitsiya nirupan padaarth diya jaataa he
+ Examples include cardiac catheterization and barium swallow
+ 2005 ke baad se america sarkaar ne eks-re ko ek cancerajanak ke rup main soochibaddh kiya he
+ 
+ The use of X-rays as a treatment is known as radiotherapy and has been used extensively for the management of cancer; This requires far more radiation energy than just imagery
+ adhyayan ke aadhaar par, eks-re, jaanch karne kaa ek apekshaakrit surakshit tarika he or iskaa vikiran anaavaran yaa jokhim apekshaakrit kam he
+ However, experimental and epidemiological data do not support the proposition that there is not much risk of cancer below a threshold line of radiation
+ naidanik eks-re kaa pariman, maanav-nirmit or vishwavyaapee prakritik sansadhano ke kul vaarshik vikiran anaavaran kaa 14% he
+ It is estimated that additional radiation will increase 0
+6–1
+8% of the cumulative risk of cancer in people up to the age of 75
+ avashoshit vikiran kii maatra, eks-re pareekshan ke prakaar or usamen bhaag lene vaale sharir ke ang par nirbhar karti he
+ CT and fluoroscopy make excessive amounts of radiation necessary instead of using ordinary X-rays
+ vardhit jokhim ko pariprekshya main rakhane ke liye, seene kaa ek saamaanya eks-re yaa dant chikitsiya eks-re, prishthbhumi vikiran se ek samaan maatra ke liye ek vyakti kaa anaavaran karegaa jiske prati ham 10 dinon kii samyavadhi main pratidin anaavruth hote hai
+ Each such X-ray will increase the risk of cancer by less than 1 per 1,000,000 throughout the life span
+ ek udar yaa seene kaa siti, prishthbhumi vikiran ke 2-3 varshon ke baraabar hoga, jo 1 prati 10,000 or 1 prati 1,000 ke bich jeevanaparyant cancer jokhim main vruddhi karegaa
+ These numbers are very low compared to the approximately 40% chance of developing any cancer during our lifetime
+ naidanik eks-re ke prati anaavruth pita ke bacchon main iske hone kii bahut zyada sambhaavna rahati he jo leukemia ke sampark main aate hai, khaas taur par yadi anaavaran garbhaadhan ke kaaphi kareeb ho yaa nichle gastrointestinal path yaa nichle udar kaa do yaa do se adhik eks-re shaamil ho
+ The risk of radiation is higher in unborn children, so in pregnant patients, the benefits of screening should be balanced with potential risks to unborn children
+ america main, prati varsh lagbhag 62,000,000 siti scan kiye jate hai, jisamen se bacchon par 4,000,000 se zyada scan kiye jate hai
+ Avoiding unnecessary X-ray scans) will reduce the amount of radiation and any risk associated with cancer
+ ucch ghanatv, rokane kii shakti, sthaapan main aasaani or kam laagat kii vajah se sisa, eks-re ke khilaaf sabase aam kavach he
+ a high-energy photon such as X-rays in matter has an infinite maximum limit; At every location in the matter transported by photons, there is a possibility of interaction
+ is prakaar bahut zyada duuri rahane par antahkriya kii bahut kam sambhaavna rahati he
+ Therefore, the arm of the photon beam is exponential; By doubling the thickness of the armor, the effect of the armor will be equal to its square
+ second international congress of radiology kii siforeeshon se, nimnlikhit talika se eks-re kii urja ke kaary main kaanch ke kavach kii anushansit motaai kaa pataa kahalata he
+ Other notable uses of X-rays include eks-re ke khojakarta kaa shrey aam taur par german bhautikashastri wilhem rontagan ko diya jaataa he kyonki unhone hi sabase pehle vyavasthit rup main inkaa adhyayan kiya tha, haalanki inke prabhaavon ko dekhne vaale vah pehle vyakti nahin hai
+ He is also christened as "x-ray", although for decades after his discovery, some people referred to him as "röntgen rays"
+ pehali baar naliyon main nirmit cathod kirnon arthath urjavan electron punjon kii chaanbin karne vaale vaigyanikon ne 1875 ke aasapaas crukes nalee naamak prayogtmak visarjan naliyon se eks-re ko nikalate hue dekha tha
+ Crux taps produced free electrons by ionization of residual air in the duct by a high DC voltage anywhere between a few kilovolts and 100 kv
+ yah voltage kaaphi ucch veg se cathod se aate hue electronon kii gati ko badha dete the jisase ve nalee kii kaanch kii diwaar yaa anode se takaraate samay eks-re kaa nirmaan karte the
+ Many early crux tubes undoubtedly radiated X-rays, as early researchers looked for effects that could be attributed to them, which is detailed below
+ wilhem rontagan ne hi sabase pehle 1895 main unka vyavasthit rup se adhyayan kiya tha
+ Evan Puluyi, William Crookes, Johann Wilhelm Hittorf, Eugen Goldstein, Heinrich Hertz, Philip Lennard, Hermann von Helmholtz, Nicola Tesla, Thomas Edison, Charles Glover Barkla, Max von Loe, and Wilhelm Conrad Röntgen among leading X-ray researchers Is performed
+ crukes nalee ke ek sah-avishkaarak or aarambhik shodhakarta ke rup main jane jane vaale german bhautikashastri johaan hitorf ne jab nalee ke paas anaavruth photographic platon ko rakhaa, tab unhone dekha ki chaaya dwaara unamem se kuch platon main daraaren pad gayi, haalanki unhone is prabhaav kii chaanbin nahin kii
+ Born in Ukraine and working as a lecturer in experimental physics at the University of Vienna, Puluyi designed several of his designs to examine the properties of vacuum discharge tubes
+ praha polytechnic main professor ke pad par hui niyukti ke baad bhi unhone apana kaary jari rakhaa or 1886 main unhone dekha ki naliyon se nikalne vaale padaarthon ke saamne aane par cield photographic plates dark ho gaye
+ In early 1896, just weeks after Röntgen published his first X-ray photograph, Pului published high-quality X-ray images in Paris and London magazines
+ haalanki pului ne varsh 1873 se 1875 tak strasburg vishvavidhyalay main rontagan ke saath adhyayan kiya tha, lekin unke jeevani lekhak gaida kaa daawa he ki unka parvarti shodh swatantra rup se kiya gaya tha
+ In April 1887, Nikola Tesla began examining X-rays using high-voltage and self-designed tubes as well as Crux tubes
+ unke takneekee prakashnon se is baat kaa sanket miltaa he ki unhone ek vishesh ekal electrode eks-re nalee kaa avishkaar or vikaas kiya tha jo anya eks-re naliyon se alag thi jinamein koi lakshya electrode nahin hota tha
+ The theory behind Tesla's apparatus is known as the Bremsstrolung process, in which a high-energy secondary X-ray emission is generated when the charged particles pass through the material
+ 1892 tak testla ne aise kai prayog kiye, lekin unhone in utsarjanon ko vargeekrut nahin kiya jinhen baad main eks-re ke naam se janaa gaya
+ Tesla generalized the phenomenon to be an "invisible" type of radiation energy
+ testla ne neuyork aikadmi of sciences ke saamne apane 1897 ke eks-re vyaakhyaan main vibhinn prayogon ke vishay main apane tareekon ke tathyon kaa varnan kiya
+ Also in this lecture, Tesla described the method of manufacturing and safe operation of X-ray equipment
+ vaikum ucch kshetra utsarjan dwaara unke eks-re prayog ke madhyam se unhone eks-re anaavaran se jude jaivik khataron se vaigyanik samudaay ko sachet bhi kiya
+ Fernando Sanford, a basic professor of physics at Stanford University, generated and detected X-rays in 1891
+ From 1886 to 1888 he studied at the Hermann Helmholtz Laboratory in Berlin, where he became familiar with cathode rays originating in vacuum tubes when a voltage was passed from different electrodes, such as Heinrich Hertz and Philip Lenard before it
+ had studied
+ da physical rivyuu ko 6 janvari 1893 ko likhe gaye unke patr ko vidhivat prakashit kiya gaya or san francisco igzamnar main vidout lens or lit, photographs teken wyeth plate and object in darkeness naamak ek lekh chapa gaya
+ a student named Heinrich Hertz, Philip Lenard, wanted to see if cathode rays could pass through the crux pipe in the air
+ usne ek crukes nalee kaa nirmaan kiya jiske ant main ek "khidki" thi jo patali aluminium se bani hui thi jiske saamne kaa hissaa cathod kii taraf tha taaki cathod kirane isse takaraa sake
+ He noticed that something came out of it that was exposed to photographic plates causing fluorescence
+ unhone vibhinn padaarthon ke madhyam se in kirnon kii bhedan shakti ko mapa
+ isse yah soochna mili he ki inamen se kam se kam kuch "lenard kirane" vastav main eks-re thim
+ Hermann von Helmholtz formulated mathematical equations of X-rays
+ rontagan kii khoj or ghoshnaa se pehle unhone ek prakirnan siddhant kii kalpana kii
+ It was formulated on the basis of the electromagnetic theory of light
+ haalanki, unhone vaastavik eks-re ke saath kaam nahin kiya
+ On 8 November 1895, German physics professor Wilhelm Röntgen encountered X-rays while experimenting with Lenard and Crookes tubes and began to study them
+ unhone "on e new kind of re: e priliminary communication " naamak ek aarambhik report taiyaar kiya or 28 disambar 1895 ko unhone is report ko vurzaberg ke physical-medical socity patrika ko saunp diya
+ This was the first research paper written on X-rays
+ rontagan ne yah suchit karne ke liye vikiran ko "eks" ke rup main sanderbhit kiya ki yah ek agyaat prakaar kaa vikiran tha
+ The name became associated with it, although many of his colleagues suggested naming those rays as Röntgen rays
+ unhen abhi bhi german sahit kai bhashaaon main isi tarah ke naam se sanderbhit kiya jaataa he
+ Röntgen received the first Nobel Prize in Physics for his discovery
+ unki khoj ke vivaranon ko lekar kaaphi matbhed hai kyonki rontagan apni maut ke samay apane lab nots jala die the, lekin yah unke jeevani lekhakon kii managasaint kahani ho sakati he: rontagan, ek crukes nalee or barium platinocynide se paint kiye gaye ek pratideept parade ke saath cathod kirnon kii chaanbin main lage hue the jise unhone ek kaale karboard main lapet diya tha taaki nalee se nikalne vaali drishy roshni koi hastkshep na kare
+ unhone lagbhag 1 meter duuri par parade se ek dhundhlee hari chamak nikalati hui dekhi
+ unhen laga ki nalee se aane vaali kuch adrishy kirane cardboard se hokar guzar rahi thi jisase paradaa chamakane laga tha
+ They found that she could also pass through the books and papers placed on her desk
+ rontagan ne turant vyavasthit rup se in agyaat kirnon kii chaanbin shuru kar di
+ Two months after his initial discovery, he published his paper
+ rontagan ne ek photographic plate par eks-re kii vajah se bani apni patni ke haath kii tasviir ko dekhakar iske chikitsiya upyog kii khoj kii
+ The photograph of his wife's hand was the first ever picture of any part of a human body made using X-rays
+ 1895 main, thomas edison ne eks-re ke saamne aane par padaarthon ke pratideept hone kii kshamta kii jaanch kii or calcium tungstate ko inamen se sabase adhik prabhaavshaalee padaarth paaya
+ Around March 1896, the fluoroscope he developed became a standard for medical X-ray tests
+ phir bhi, edison ne cleyarence medisson daali naamak apane ek glassblower kii maut ke baad 1903 ke aasapaas eks-re anusandhan ko band kar diya
+ Dali had a habit of testing X-ray tubes on his hands, due to which he had such a fatal cancer in his hands that he had to cut both his hands in a vain attempt to save his life
+ At the 1901 pan-american Exposition in Buffalo, New York, a murderer fired twice at President William mckinley from a 
+32 caliber revolver
+ The first bullet was taken out, but the second shot was inserted in his stomach
+ mckinale kuch samay ke liye jivit the or unke anurodh par thomas edison "us khoi hui goli kaa pataa lagane ke liye ek eks-re mashin lekar baffalo pahunch gaye
+ The machine reached there but could not be used 
+
+
+ as mckinley died due to a septic caused by a bacterial infection
+ " The first medical X-rays manufactured in the United States were obtained using an immersion tube designed by Pullui
+ rontagan kii khoj ko padhne ke baad janvari 1896 main dartmouth college ke frank austin ne bhautikee prayogshaala main sabhi visarjan naliyon kaa pareekshan kiya jisamen se keval pului nalee se eks-re kii utpatti hui thi
+ This was a result of Pullui's insertion of an oblique "target" of the mica used for holding samples of fluorescent material, within the tube
+ 3 farvari 1896 ko gillman frost, college main medicine ke profesar or unke bhai edwin frost, bhautikee ke profesar, ne edwin dwaara kuch saptaah pehle ek fracture ke liye ilaaj kiye gaye edi mckarthi kii kalai ko eks-re ke saamne anaavruth kiya or rontagan ke kaary main bhi dilchaspee lene vaale howard langil naamak ek sthaneey photographer se praapt jelatin photographic platon par tuuti asthi ke parinaam chitra ko ekatra kiya
+ Many applications of X-rays immediately generated considerable interest
+ kaaryshaalaaon main eks-re ko utpann karne ke liye crukes naliyon ke vishisht sanskarnon kaa nirmaan hone laga or lagbhag 1920 tak in pehali peedi ke thande cathod yaa crukes eks-re naliyon kaa istemaal hota rahaa
+ The crux could not depend on tubes
+ unamem bahut kam maatra main gas rakhni padati thi kyonki puri tarah khaali nalee main dhara pravaahit nahin hogi
+ However, as time passed, X-rays gave the glass the ability to absorb gas, causing the tube to produce "more solid" X-rays until they stopped working too soon
+ done
+ hawa ko behaal karne ke liye upkarnon ke saath apekshaakrit badi or kai baar istemaal honi valinliyaan pradaan kii gayi thim, jinhen "softenurs" ke naam se janaa jaataa tha
+ They often took the form of a small sided tube, containing a small piece of asbestos: a substance that would hold relatively large amounts of air within its structure
+ ek chota sa vidyutiya heater abhrak ko garm karata tha or isaki vajah se hawa kii ek choti si maatra mukt hoti thi, is prakaar yah nalee kii kshamta ko behaal karata tha
+ However the asbestos's life span was very limited and the restoration process was quite difficult to control
+ 1904 main, jon ambros fleming ne thermionic diod valve kaa avishkaar kiya
+ It used a hot cathode that allowed the current to flow in a vacuum
+ is vichaar ko bahut jald eks-re naliyon or kulij naliyon ke naam se jane jane vaale garm cathod eks-re naliyon main lagu kiya gaya jisane lagbhag 1920 tak pareshaani paidaa karne vaali thandi cathod naliyon kii jagah le lee
+ Two years later, physicist Charles Barkla discovered that X-rays could be diffused by gases and that each element had a characteristic X-ray
+ unhen apni khoj ke liye bhautikee main 1917 kaa nobel puraskaar praapt hua
+ Max von Loew, Paul Nipping, and Walter Friedrich saw the diffraction of X-rays by crystals for the first time in 1912
+ paul peter evald, wiliam henry bragg or wiliam laurence bragg ke aarambhik kaaryon ke saath is khoj ne eks-re crystalography ke kshetra ko janm diya
+ The following year William D
+ Coolidge invented the Coolidge tube that allowed for the continuous generation of X-rays; This type of hose is still used today
+ chikitsiya prayojanon ke liye eks-re ke upyog ke agradoot england ke birmingham main rahane vaale major jon haul-edwards the
+ In 1908, he had to have his left arm amputated due to the spread of X-ray dermatitis
+ eks-re microscope kaa avishkaar 1950 ke dashak main hua tha
+ The Chandra X-ray Observatory, launched on July 23, 1999, is being allowed to search for very violent processes in the universe that produce X-rays
+ drishy prakaash ke vipareet, jo brahmand kaa ek apekshaakrit sthir drishy he, eks-re kaa brahmand asthir he, yah kaale vivaron, gangey takkaron or navtaron, neutron taron se alag hote hue taron kaa darshan karaata he jo plasma ke paraton kaa nirmaan karte hai jo tab antariksh main visphot paidaa karte hai
+ An X-ray laser device was proposed in the 1980s as part of the Reagan Administration's Strategic Defense Initiative, but the first and only testing of the device provided inconclusive results
+ takneekee or rajnatik kaarnon se sampoorn pariyojna kaa vittaposhan band kar diya gaya 
+ Physics · Fission · Fusion · Radiation · Nucleus · Chemistry · Engineering Fissile · Fertile · Thorium · Uranium · Plutonium · Deuterium · Tritium · Isotope separation Temp · Thermal · Fast · Fusion · Cross section · Capture · Activation · Poison · Radiation · Generator · Reflector Pressurized · Boiling · Supercritical · Heavy Pebble bed · Very high temperature · UHTREX · RBMK · Magnox · AGR Molten salt Breeder · Liquid-metal-cooled · Integral · Traveling Wave · SSTAR Generation IV by coolant: · Lead · Sodium) By country · Economics · Safety · Fusion · Isotope thermoelectric · Propulsion Gamma camera based: Scintigraphy · Positron emission · Single photon emission X-ray based: Projectional radiography · Computed tomography Radiation therapy · Tomotherapy · Proton · Brachytherapy · Boron neutron capture History · Design · War · Race · Explosion · Test · Delivery · Proliferation · Yield States · Tests · Weapons · Free zones · Treaties · Pop culture Fission · Activation · Actinide: Fuel cycle · Spent fuel · HLW · LLW · Repository · Reprocessing · Transmutation The Prajamandal was an organization of the people of the Indian princely states during the British rule in India
+ 1920 ke dashak main prajamandalon kii sthapana teji se hui
+ The governance of the Indian princely states was different from that of the British-controlled Indian territory, and the kings of many princely states often behaved like the face of the British
+ shuruaati daur main bhartiya rashtriya congress deshi riyasaton main aandolan ke prati udasin rahi tathaa riyasaton ko apane abhiyaan se alag rakhaa tha
+ But as the people of the princely states became aware of the Congress-driven campaigns of the neighboring areas, the tendency of them to organize for their welfare was strengthened, which led to the creation
+ haripura adhiveshan main congress kii niti main parivartan aayaa
+ The princely people were also allowed to form organizations in their respective states and to agitate for their rights
+ gauchhanyavad, pithauragarh tehsil main bharat ke uttrakhand rajya ke antargat kumaun mandal ke pithoragarh jile kaa ek gaanv he
+ Mari language is a language of the Urali-family spoken by about 5 lakh people, mainly spoken in Mari Republic of Russia
+ mari bil se baahar yah kuch had tak rus ke tatarastan, udamurtiya or perm kshetron main bhi boli jaati he
+ Mary is written in Cyrillic script
+ mari kii do upbhashaayen hai - pahari mari or maidani mari - jo ek duusare ke sameep to hai lekin jinke bolne waalon ko ek-duusare ko samajhane main kabhi-kabhi pareshaani hoti he
+ Approximately 10% of the speakers speak mountainous fluids while 90% speak plain / eastern plains, so eastern plains are often considered to be the standard form of slang
+ karakum registan madhya asia main sthit ek registan he
+ 70% of the territory of Turkmenistan falls under this desert region
+ 'karakum' shabd kaa arth 'kaali ret' hota he
+ The population here is very dense and on average one person is found in every 6
+5 sq km
+ yahan barish ausat rup se 10 varshon main ek dafaa girti he
+ It is one of the largest sandy deserts in the world
+ kul milakar karakum kaa kshetrafal 3,50,000 varg kimi he
+ Most of the territory of the country of Turkmenistan falls in this desert
+ karakum caspian sagar se purv main or aral sagar ke dakshin main sthit he
+ To the north-east are Amu Darya and Kizil Kum Deserts
+ aadhunik yug main aral sagar ke sikudne se us jhil kaa bahut sa hissaa is registan kii chapet main aa gaya he or kuch log is bhaag ko 'aral karakum' kehane lage hai
+ It is spread over about 40,000 sq km
+ aral ke sookhe hue farsh par krishi main istemaal hone vaale bahut se kitnashak padaarth mili hue the jo sinchai kii naharon se bahakar yahan aa gaye the
+ Now they are mixed in a fine dust and fly away with the air and carry pollution thousands of miles away
+ aral karakum se ude kitmar padaarth antarctic main penguinon ke koon main paae ja chuke hai
+ The dust here has been found in the glaciers of Greenland, in the forests of Norwe and also in the fields of Belarus
+ karakum ilaake ke andar bolshoi parvat shrunkhlaa aati he jisamen pashaan yug ke manushya baseron ke avshesh mili hai
+ In the modern era, the second longest irrigation canal in the world, called the Karakum Canal, was built here
+ yah 1,375 kimi lambi he lekin vaqt ke saath-saath isamen se pani jagah-jagah se chooney laga he, jis se kai choti jhilein ban gayi hai
+ Their water has brought up the salt under the desert
+ krishna bhagwaan vishnu ke 8wein avatar or hindu dharm ke ishwar maane jate hai
+ He is also known by the names Kanhaiya, Shyam, Gopal, Keshav, Dwarkesh or Dwarkadhish, Vasudev, etc
+ krishna nishkaam karmyogi, ek adarsh darshanik, sthitprajna evam daivi sampadaaon se susajj mahaan purush the
+ He was born in Dwaparyuga
+ unako is yug ke sarvshereshth purush yugapurush yaa yugavatar kaa sthaan diya gaya he
+ The character of Krishna is written in detail in the Shrimad Bhagavat and Mahabharata, composed by Maharishi Ved Vyasa, a contemporary of Krishna
+ bhagavadgita krishna or arjuna kaa samvaad he jo granth aaj bhi puure vishwa main lokapriy he
+ Jagatguru is also awarded to Krishna for this work
+ krishna vasudev or devaki kii 8veen santan the
+ He was born in imprisonment in Mathura and was raised in Gokul
+ yashoda or nand unke paalak mata pita the
+ His childhood was spent in Gokul
+ balya avasthaa main hi unhone bade bade kaary kiye jo kisi saamaanya manushya ke liye sambhav nahin the
+ Killed Mama Kamsa in Mathura
+ saurashtra main dwarka nagari kii sthapana kii or vahaan apana rajya basaaya
+ Helped the Pandavas and protected them in various objections
+ mahabharat ke yuddh main unhone arjuna ke sarathi kii bhoomika nibhaai or bhagavadgita kaa gyaan diya jo unke jivan kii sarvshereshth rachana maani jaati he
+ He finished his lila after a lifetime of 125 years
+ unki mrityu ke turant baad hi kaliyug kaa aarambh mana jaataa he
+ "krishna" is basically a Sanskrit word, synonymous with "black", "dark" or "dark blue"
+ "andhkaar" shabd se iskaa sambandh dhalate chandramaa ke samay ko krishna paksh kahe jane main bhi spasht jhalkata he
+ The name has also been sometimes translated as "super-attractive"
+ shrimad bhagwat puraana ke varnan anusaar krishna jab baalyavastha main the tab nandabaaba ke ghar acharya gargacharya dwaara unka namakaran sanskaar hua tha
+ While giving the name, Gargacharya told that, 'this son incarnates in every age
+ kabhi iskaa varna shwet, kabhi laal, kabhi pilaa hota he
+ In each of the earlier eras, it has three colors while wearing a body
+ is baar krishnavarna kaa hua he, atah iskaa naam krishna hoga
+ Being the son of Vasudev, he was also named Vasudev
+ "krishna" naam ke atirikt bhi krishna bhagwaan ko kai anya naamon se janaa jaataa rahaa he, jo unki kai visheshtaon ko darshaate hai
+ The most widespread names include "mohan", Govind, Madhav, and Gopal
+ krishna bhartiya samskruti main kai vidhaon kaa pratinidhitiv karte hai
+ He is usually depicted with Vishnu-like Krishna, black or blue skin
+ haalanki, pracheen or madhyayugin shilaalekh ,bharat or dakshinpurv asia donon main, or pathar kii murtiyon main unhen prakritik rang main chitrit kiya he, jisase vah bani he
+ In some texts, his skin is poetically described as the color of Jambul
+ krishna ko aksar mor-pankh vaale pushp yaa mukut pahanakar chitrit kiya jaataa he, or aksar bansuri bajaate hue unka chithran hua he
+ In this form, one is usually depicted putting one foot on the other in front of the other in a triangular pose
+ kabhi-kabhi vah gaay yaa bachhda ke saath hote he, jo charvaahe govinda ke pratik ko darshaati he
+ In other depictions, they are a part of the battle scenes of the epic Mahabharata
+ waha unhen ek sarathi ke rup main dikhaaya jaataa he, khaskar jab vah pandav rajkumaar arjuna ko sambodhit kar rahe he, jo pratikatmak rup se hindu dharm kaa ek granth,bhagavad gita ko sunaate hai
+ In these popular depictions, Krishna sometimes appears as a pioneer, either as a visionary, sometimes as a chariot driver
+ krishna ke vaikalpik chithran main unhen ek balak ke rup main dikhaate hai, ek baccha apane haathon or ghutanon par rengte hue ,nrity karte hue ,saathi mitra gwaal bal ko churaakar makkhan dete hue, laddu ko apane haath main lekar chalate hue athwa pralay ke samay bargad ke pattey par tairte hue ek alokik shishu jo apane pair kii anguli ko chusata prathit hota he
+ Regional variations are seen in Krishna's statues in their various forms, such as Jagannath in Odisha, Vithoba in Maharashtra, Srinathji in Rajasthan, Dwarkadhish in Gujarat and Guruviruppan in Kerala
+ anya chitranon main unhen radha ke saath dikhaaya jaataa he jo radha or krishna ke divya prem kaa pratik mana jaataa he
+ He is also shown in Vishwaroop in Kurukshetra war in which he has many faces and all the people are going in his face
+ apane mitra sudama ke saath bhi unako dikhaaya jaataa he jo mitrataa kaa pratik he
+ Guidelines for Krishna icons and sculptures in architecture are described in medieval era Hindu temple arts such as Vaikhanas Agam, Vishnu Dharmottara, Brihat Samhita and Agni Purana
+ isi tarah, madhyakaalin yug ke shuruaati tamil granthon main krishna or rukmini kii murtiyon bhi sammilit hai
+ Many sculptures made according to these guidelines are in the collection of Government Museum, Chennai
+ ek vyaktitv ke rup main krishna kaa vistrut vivaran sabase pehle mahakavy mahabharat main likhaa gaya he, jisamen krishna ko vishnu ke avatar ke rup main darshaya gaya he
+ Krishna is central to many of the main stories of the epic, giving knowledge of Arjuna on the battlefield in the eighteenth chapter of the sixth festival of the epic that created the Sri Bhagavad Gita
+ mahabharat ke baad ke parishisht main harivansh main krishna ke bachapan or yuvavastha kaa ek vistrut sanskaran he 
+ Around 180 BCE, the indo-greek king Agathocles issued some coins based on images of deities which are now interpreted as being related to Vaishnavite philosophy in India
+ sikkon par pradarshit devataaon ko vishnu ke avatar balram - sankarshan ke rup main dekha jaataa he jisamen gada or hal or vasudev-krishna, shankh or sudarshan chakra darshaye hue hai
+ The ancient Sanskrit grammarian Patanjali has referred to several references to Krishna and his associates, the deity of Indian texts, in his Mahabhashya
+ panini kii shloke 3
+1
+26 par apni tippanee main, vah kansavadh athwa kansa kii hatya kaa bhi prayog karte hai, jo ki krishna se sambandhit kinvadantiyon kaa ek mahatvapurn ang he
+ In the central Indian state of Madhya Pradesh, archaeologists of the colonial period discovered a pillar with an inscription written in a Brahmi script
+ aadhunik takneekon kaa upyog karte hue, ise 125 or 100 isa purv ke bich kaa ghoshit kiya gaya he or ye nishkarsh nikaala gaya kii yah ek indo-greek pratinidhi dwaara ek kshetreey bhartiya raja ke liye banwaaya gaya tha jo greek raja antilasidas ke ek rajdoot ke rup main unka pratinidhi tha
+ The name of this indo-greek is now known as Heliodorus pillar
+ iskaa shilaalekh "vasudev" ke liye samarpan he jo bhartiya parampara main krishna kaa doosraa naam he
+ Many scholars believe that it refers to a deity called "vasudeva", as this inscription states that it was created by "bhagavata Heliodorus" and is a "garuda pillar"
+ iske atirikt, shilaalekh ke ek adhyay main krishna se sambandhit kavita bhi shaamil he mahabharat ke adyay 11
+7 kaa sandarbh dete hue bataaya gaya he ki amarta or swarg kaa rasta sahi dhang se teen gunon kaa jivan jeena he: swa- sanyam, udaartaa or satarkta 
+ The Heliodorus inscription is not the only evidence
+ teen hathibada shilaalekh or ek ghosundi shilaalekh,jo kii rajasthan rajya main sthit hai or aadhunik karypranali ke anusaar jinka samaykaal 19ve sadi isa purv he uname bhi krishna kaa ullekh kiya gaya he
+ In the first century BCE, a structure was constructed for his worship, mentioning Sankarshan and Vasudeva
+ ye chaar shilaalekh pracheenatam gyaat sanskrit shilalekhon main se ek hai 
+ In many Puranas, the life story of Krishna is told or some has been highlighted
+ do puraana, bhagwat puraana or vishnu puraana main krishna kii kahani kii sabase vistrut jaankaree he, lekin in or anya granthon main krishna kii jivan kathaayen alag-alag hai or isamen mahatvapurn asangatiyaan hai
+ The Bhagavata Purana has twelve books subdivided into which 332 chapters, depending on the edition, have accumulated between 16,000 and 18,000 verses
+ paath kii dasvin pustak, jisamen lagbhag 4000 chand shaamil hai or krishna ke bare main kinvadantiyon ko samarpit he, is paath kaa sabase lokapriy or vyapak rup se adhyayan kiya jane vaala adhyay he
+ Krishna was born in the month of Bhadrapada on the Ashtami date in Krishna Paksha, Rohini Nakshatra at 12 noon
+ krishna kaa janmdin janmashtami ke naam se bharat, nepal, america sahit vishvabhar main manaaya jaataa he
+ Krishna was born in the prison of Mathura
+ ve mata devaki or pita vasudev kii 8veen santan the
+ According to the description of Srimad Bhagwat, Bhojwanshi king Ugrasena ruled in Mathura in Dwaparyuga
+ unka ek aattaayi putr kansa tha or unki ek bahan devaki thi
+ Devaki was married to Vasudev
+ kansa ne apane pita ko kargar main daal diya or swayan mathura kaa raja ban gaya
+ Kansa died in the hands of the 8th child of his nephew, Devaki
+ kansane apni bahan or bahanoi ko bhi mathura ke kargar main kaid kar diya or ek ke baad ek devaki kii sabhi santanon ko maar diya
+ Krishna was born in the middle of the night when the prison doors opened automatically and all the soldiers were in sleep
+ vasudev ke hatho main lagi bediya bhi khul gai
+ Yashoda, wife of Nanda, a resident of Gokul, was also going to have a child
+ vasudev apane putr ko soup main rakhkar karagrih se nikal pade 
+ Many Indian texts state that all the hundred sons of Gandhari die in the legendary Kurukshetra war
+ duryodhana kii mrityu se pehle raat ko, krishna ne gandhari ko unki samvednaa preshit kii thi 
+ Gandhari accuses Krishna of not deliberately ending the war, cursing him in anger and sorrow that every person in his own Yadu dynasty will perish along with him
+ mahabharat ke anusaar, yadav ke bich ek tyohaar main ek ladaai kii shruwaat ho jaati he, jisame sab ek-duusare kii hatya karte hai
+ Considering the sleeping Krishna as a deer, a hunter named Zara shoots arrows that mortally injure him, Krishna forgives Zara and abandons the body
+ gujarat main bhalka kii tirthayatra sthal us sthaan ko darshata he jahaan krishna ko mrityu hui 
+ It is also known as Dehotesarga
+ bhagwat puraana, adhyay 31 main kaha gaya he ki unki mrityu ke baad, krishna apane yogic ekaagratha kii vajah se sidhe vaikuntha main laute
+ Waiting deities like Brahma and Indra also did not figure out the path for Krishna to leave his human avatar and return to Vaikuntha
+ krishna ne devaki or unke pati, chandravanshi kabeeley ke vasudev ke yahan janm liya
+ Devaki's brother was an evil king named Kamsa
+ puranic ullekh ke anusaar devaki kii shaadi main kansa ko bhavishyadvaktaaon ne bataaya ki devaki ke putr dwaara uskaa vadh nishchit he
+ Kansa arranges to kill all of Devaki's children
+ jab krishna janm lete hai, vasudev chupake se shishu krishna ko yamuna ke paar le jate he or ek anya shishu balika ke saath unka aadan-pradaan karata he
+ When Kansa attempts to kill the newborn, the baby girl appears as Durga, the Hindu goddess, and disappears, warning her that his death has come to her kingdom
+ puraanon main kinvadantiyon ke anusaar ,krishna, nand or unki patni yashoda ke saath aadhunik kaal ke mathura ke paas paalate badhate he he
+ According to these mythologies, Krishna also has two siblings, Balarama and Subhadra
+ krishna ke janm kaa din According to the Mahabharata, Krishna becomes Arjuna's charioteer for the Kurukshetra war, but on the condition that he will not take any weapon
+ donon ke yuddh ke maidan main pahunchane ke baad or yah dekhte hue ki dushman uske apane parivaar ke sadsy, unke dada, or unke chachere bhai or priyajan hai, arjuna kshobh main dub jate hai or kehete he ki unka hryday unhen apane parijanon se ladane or maarane kii anumati nahin degaa
+ He is ready to abandon the kingdom and leave his Gandivas
+ krishna tab use jivan, naitikta or nashvarata kii prakruti ke bare main gyaan dete he
+ When one is faced with a war between good and evil, the nature and joy of real peace and various kinds, taking into account the stability of the situation, the permanence of the soul and the distinction of good and bad, carries out duties and responsibilities
+ Such a yodha is essential for yogas to be enjoyed and for inner liberation
+ krishna or arjuna ke bich baatcheet ko bhagavad gita naamak ek granth ke rup main prastut kiya gaya he
+ The sermon that Shri Krishna preached to Arjuna in the battlefield of Kuru region is known as Srimad Bhagavadgita
+ sabhi hindu granthon main, shrimad bhagavat gita ko sabase mahatvapurn mana jaataa he
+ Because it contains the essence of a person's life and it describes all the leelas of Krishna from Mahabharata period to Dwapara
+ aisi manyata he kii yah maharishi vedavyas dwaara rachit he haalanki, isamen koi pramaan nahin he lekin bhagavad gita ek pustak he jo arjuna or unke sarathi shri krishna ke bich vaartalap par aadhaarit he
+ In the Gita, Karmayoga, Karma Yoga, Bhakti Yoga, Raja Yoga, a theism etc
+ are discussed in a very beautiful way
+ krishna kii jivan katha ke kai sanskaran hai, jinamein se teen kaa sabase adhik adhyayan kiya gaya he: harivansh, bhagwat puraana or vishnu puraana 
+ These all reflect the original story but differ greatly in their characteristics, details and genres
+ sabase mul rachana, harivansh ko ek yathartwaadee style main bataaya gaya he jo krishna ke jivan ko ek garib gwaale ke rup main bataata he, lekin kaavyatmak or alokik kalpana se otprot he 
+ It does not end with the death of Krishna
+ kuch vivaranon anusaar vishnu puraana kii paanchavin pustak harivansh ke yatharthwaad se dur ho jaati he or krishna ko rahasyamay shabdon or stambhon main aavaran karti he kai sanskarnon main vishnu puraana kii pandulipiyaan maujuud hai
+ The tenth and eleventh books of the Bhagavata Purana are widely considered to be a poetical work, full of imagination and metaphors, with no relation to the realism of the creatures found in Harivamsa
+ krishna ke jivan ko ek brahmadia naatak ke rup main prastut kiya gaya he, jahaan unke pita dharmaguru nand ko ek raja ke rup main pesh kiya gaya tha
+ The life of Krishna is close to that of a human being in Harivamsa, but there is a symbolic universe in the Bhagavata Purana, where Krishna is within the universe and moreover, as well as the universe itself is and always will be
+ kai bhartiya bhashaaon main bhagwat puraana pandulipiyaan kai sanskarnon main bhi maujuud hai
+ The birth of Krishna is celebrated every year as Janmashtami
+ mahabharat or kuch puraanon main kinvadantiyon ke anusaar ghatnaon ke aadhaar par yah kaha jaataa he ki krishna ek vaastavik aitihaasik vyakti the
+ For example, Lanavanya Vensani states that Krishna can be estimated in the Puranas to be between 3227 BCE - 3102 BCE
+ iske vipareet, jain parampara main puranic kathaon ke anusaar krishna neminath ke chachere bhai the,jo jainon ke 22 wein tirthankar the
+ In the Jain tradition from the 9th century, Neminath was born 84,000 years ago
+ "gaay bek" kahati hai ki krishna - chaahe maanav ho yaa divyavatar - pracheen bharat main vaastavik vyakti ko darshata he, jo kam se kam 1000 isa purv rahete the, lekin is aitihaasik pramaanon se, vishuddh rup se sanskrit siddhant ke adhyayan se ,yah pratisthapit nahin kiya ja saktaa he
+ Other scholars such as Ludo Rosher and Hazra state that the Puranas are not a reliable source for "indian history", as it contains inconsistencies in manuscripts written about kings, various peoples, sages and kingdoms
+ ve kehete hai ki ye kahaniyaan sambhavatya vaastavik ghatnaon par aadhaarit hai, jo ki vigyaan par aadhaarit hai or kuch bhaago main kalpana dwaara sushobhit hai
+ The Matsya Purana, for example, states that the Kurm Purana contains 18,000 verses, while the Agni Purana contains 8000 verses in the same text, and Naradiya confirms that the Kurm manuscript contains 17,000 verses
+ puranic sahitya samay ke saath dhimi gati se badla saath hi saath kai adhyyon kaa achaanak vilopan or isaki nai saamagree ke saath pratisthapit kiya gaya he
+ The present-day Puranas are entirely different from the mention of those which existed before the 11th century, or 16th century
+ 
+ For example, the palm leaf manuscript has been discovered in Nepal in 810 AD, but that letter is very different from earlier textual versions that have been circulating in South Asia since the colonial era
+ hindu granthon main dharmik or darshanik vichaaron kii ek vistrut shrinkhalaa, krishna ke madhyam se prastut kii jaati he
+ Ramanuja, who was a Hindu theologian and whose works were highly influential in the Bhakti movement, presented him with reference to Vishisht Advaita
+ madhavcharya, ek hindu darshanik jinhone vaishnavvaad ke haridas sampradaay kii sthapana kii, krishna ke upadesho ko dwaitvaad ke rup main prastut kiya 
+ Jeeva Goswami, a saint of the Gaudiya Vaishnava school, described Krishna theology as Bhakti Yoga and Achint bheda-abheda
+ dharamshastri valbhacharya dwaara krishna ke die gaye gyaan ko advait ke rup main prastut, jo vaishnavvaad ke pushti panth ke sansthaapak the 
+ Madhusudan Saraswati, another philosopher from India, presented Krishna theology in the Advaita Vedanta, while Adi Shankara, who is known for integrating ideas and establishing main currents in Hinduism, mentions Krishna on Panchayatan worship in the early eighth century
+ Have done krishna par ek lokapriy granth bhagwat puraana,assam main ek shaastra kii tarah mana jaataa he, krishna ke liye ek advait, sankhya or yoga ke ruparekha kaa sanshleshan karata he, lekin vah krishna ke prati prempurna bhakthi ke maarg par chalate he
+ Bryant describes the synthesis of ideas in the Bhagavata Purana as such, —edwin bryant, krishna: e sorssbuk Both Sheridan and Pintchman confirm Bryant's views and state that the Vedantic view described in the Bhagavata is non-dualistic with variation
+ paramparaagat rup se vedant, vaastaviktaa main ek duusare par aadhaarit he or bhagwat yah bhi pratipaadit karata he ki vaastaviktaa ek duusare se judi hui he or bahumukhi he 
+ Apart from various theologies and philosophies, Krishna is generally presented as the essence and symbol of divine love, reflecting human life and the divine
+ krishna or gopiyon kii bhakthi or prempurna kinvadantiyaan or samvaad ,darshanik rup se divya or arth ke liye maanav ichha ke rupakon ke samatuly mana jaataa he or saarvbhaumik shakti or maanav aatma ke bich kaa samanvay he 
+ Krishna's Leela is a theology of love and spirituality
+ jon koller ke anusaar, "mukti ke saadhan ke rup main prem ko prastut nahin kiya jaataa he, yah sarvocch jivan he"
+ Human love is the love of God
+ hindu paramparaon main anya granth ,jinamein bhagavad gita sammilit hai ,ne krishna ke upadesho ko kai bhashya likhane ke liye prerit kiya he
+ Worship of Krishna is part of Vaishnavism, a major tradition of Hinduism
+ krishna ko vishnu kaa purna avatar mana jaataa he, yaa vishnu swayan avatarit hue aisa mana jaataa he
+ However, the exact relationship between Krishna and Vishnu is complex and varied, with Krishna sometimes considered an independent deity and supreme
+ vaishnav vishnu ke kai avtaron ko sweekaar karte hai, lekin krishna vishesh rup se mahatvapurn hai
+ The terms Krishnam and Vishnuism have sometimes been used to distinguish the two, which means that Krishna is the highest supreme being
+ sabhi vaishnav paramparaayen krishna ko vishnu kaa aathvaan avatar maanati hai; anya log vishnu ke saath krishna kii pahchaan karte hai, jabaki gaudiya vaishnavvaad, vallabh sampradaay or nimbaraka sampradaay kii paramparaon main krishna ko swami bhagwaan kaa mul rup yaa hindu dharm main brahman kii avadharana ke rup main sammaan karte hai
+ Jayadeva in his Gitagovinda considers Krishna as the supreme lord while the ten avatars are his forms
+ swaminarayan sampradaay ke sansthaapak swaminarayan ne bhagwaan ke rup main krishna kii bhi puja kii
+ In "vaishnavism", "great Krishnaism", Vasudeva of Vesulic period and Krishna and Gopal of Vedic period are prominent
+ ajbharat ke baahar bhi krishna ko maanane vaale evam anusaran evam vishwaas karne waalo kii bahut badi sankhya he
+ Prabhu Sri krishna-vasudeva is historically one of the earliest forms of the deity favored in Krishnaism and Vaishnavism
+ pracheen kaal main krishna dharm ko praarambhik itihaas kii ek mahatvapurn parampara mana jaataa he
+ Subsequently, various similar traditions were unified, including ancient Bhagavatism, the cult of Gopala, "krishna Govinda", Balkrishna and "krishna Gopivalabha"
+ andre coter ke anusaar, harivansh ne krishna ke vibhinn pahaluon ke rup main sanshleshan main yogadan diya
+ The use of faith in the devotional tradition is not limited to any deity
+ haalanki, hindu dharm ke bheetar krishna bhakthi, parampara kaa ek mahatvapurn or lokapriy centre rahaa he, visheshkar vaishnav sampradaayon main 
+ Devotees of Krishna considered the concept of Leela as the central principle of the universe which means 'divine drama'
+ yah bhakthi yoga kaa ek rup he, teen prakaar ke yogon main se ek bhagwaan krishna dwaara bhagavad gita main charchaa kii he
+ In the south, especially in Maharashtra, saint poets of the Varkari sect such as Dnyaneshwar, Namdev, Janabai, Eknath and Tukaram encouraged the worship of Vithoba
+ dakshini bharat main, karnataka ke purandara das or kanakadas ne udupi kii krishna kii chhavi ke liye samarpit geeton kaa nirmaan kiya
+ Rupa Goswami of Gaudiya Vaishnavism has compiled a comprehensive text of devotion called bhakti-rasamrita-sindhu
+ dakshin bharat main, shri sampradaay ke acharya ne apni kritiyon main krishna ke bare main bahut kuch likhaa he, jinamein andal dwaara thirupawai or vedant desica dwaara gopal vimashti shaamil hai 
+ There are several major Krishna temples in the states of Tamil Nadu, Karnataka, Andhra Pradesh and Kerala and Janmashtami is one of the widely celebrated festivals in South India
+ 1965 tak krishna-bhakthi andolan bharat ke baahar bhaktavedant swami prabhupad dwaara failaayaa gaya
+ From his native West Bengal, he went to New York City
+ ek saal baad 1966 main, kai anuyaayiyon ke sanidhya main unhone krishna chetana ke liye antarrashtriya sosayadi kaa nirmaan kiya tha, jise hare krishna andolan ke rup main janaa jaataa he
+ The aim of this movement was to write about Krishna in English and to spread the teachings of Saint Chaitanya Mahaprabhu
+ tathaa krishna bhakthi ke dwaara pashchimi duniya ke logon ke saath gauddy vaishnav darshan ko saajha karnaa tha
+ When he was initiated into Gaya, described in the autobiography of Chaitanya Mahaprabhu, he was described as Gyan Swarupa, a six-word poem of the kali-santarana Upanishad that read "hare Krishna Hare Krishna, Krishna Krishna Hare Hare, Hare Rama Hare Rama, Ram Ram Hare Hare "
+ gaudeey parampara main krishna bhakthi ke sandarbh ne yah mahaamantra yaa mahaan mantra he
+ Its chanting was known as hari-naam transmitted
+ maha-mantra ne betals rock band ke jorge harrison or jon lenon kaa dhyaan aakarshith kiya or harrison ne 1969 ko landan sthit radha krishna mandir main bhakton ke saath mantra kii recording kii
+ Titled "hare Krishna Mantra", the song reached the top twenty on the UK music list and was also highly popular in West Germany and Czechoslovakia
+ upanishad ke mantra ne bhakthivedaant or krishna ko pashchim main isckon vichaaron ko laane main madad kii
+ ISKCON built many Krishna temples in the west, as well as temples in other places like South Africa
+ krishna dakshinpurv asian itihaas or kala main paae jate hai, lekin unka shiv, durga, nandi ,agastya or buddha kii tulana main bahut kam ullekh he 
+ The temples of archaeological sites in Java, Indonesia do not depict their village life or their role as lovers
+ na hi java ke aitihaasik hindu granthon main iskaa ullekh hai
+ Instead, his childhood period or his life as a king and companion of Arjuna is more mentioned
+ krishna kii kalaon ko ,yogakarta ke nikat sabase vistrut mandir ,prambanan hindu mandir parisar main ,krishnayan mandiro kii ek shrinkhalaa ke rup main ukera gaya he
+ It dates back to 9th century AD
+ krishna 14 veen shatabdi isvi ke madhya se java saanskrithik or dharmik paramparaon kaa hissaa bane rahe
+ According to the remnants of Panatran, their temples were in vogue with the Hindu god Rama in East Java and lived until Islam replaced Buddhism and Hinduism on the island
+ vietnam or cambodia kii madhyakaalin yug main krishna kala kii visheshta he
+ The earliest surviving sculptures and relics have been found from the 6th and 7th centuries AD, these include the Vaishnavism statue
+ jon gaai ,asian kalaon ke nirdeshak,ke anusaar metropolitan musium of south east asia main, daanang main 6 ve / 7 ve shatabdi isvi ke vietnam ke krishna govardhan kala or 7 veen shatabdi ke cambodia, angakore 'bori main phnom da' gupha main, is yug ke sabase parishkrut mandir hai
+ Statues of Krishna with the Sun and Vishnu have also been found in Thailand, a large number of sculptures and icons have been found in si-thep
+ uttari thailand ke feetbun kshetra main thip or kalagne sthalon par ,pnon or jhenla kaal ke puratathvik sthalon se, ye 7 veen or 8 veen shatabdi ke avshesh paae gaye he 
+ Indian dance and music theaters consider ancient texts such as the Vedas and the Natyashastra texts as their base
+ hindu granthon main puranic kathaon or kinvadantiyon se prerit kai nritynaticao ko or chalchitro ko, jisamen krishna-sambandhit sahitya jaise harivansh or bhagwat puraana shaamil hai ,abhinit kiya gaya he 
+ The stories of Krishna have played an important role in the history of Indian theater, music, and dance, especially through the tradition of Raslila
+ ye krishna ke bachapan, kishoravastha or vayaskta ke naatakeey kaary hai
+ In one common scene, Krishna is shown playing a flute in Raslila, which is heard only by a few gopis, which theologically represent a divine voice that can only be heard by some enlightened beings
+ kuch paath kii kinvadantiyon ne geet govind main prem or tyaag jaise madhyamik kala sahitya ko prerit kiya he
+ Krishna-related literature, such as the Bhagavata Purana, recognizes its spiritual significance for performance and considers them as religious rituals and associates everyday life with spiritual meaning
+ is prakaar ek acha, eemaandaar or sukhi jivan vyateet karne kaa path pradarshit karte hai
+ Similarly, the performance inspired by Krishna aims to purify the hearts of faithful actors and listeners
+ krishna lila ke kisi bhi hisse kaa gayan, nrity or pradarshan, paath main dharm ko yaad karne kaa ek kaary he
+ It is in the form of paralysis
+ kisi bhi samay or kisi bhi kala main krishna ko yaad karne ke liye, unki shiksha par dete hue, unki sundar or divya puja kii jaati he
+ Particularly classical dance styles like Kathak, Odissi, Manipuri, Kuchipudi and Bharatanatyam are known for their Krishna-related performances
+ krishnattem ne apane mul ko krishna puranic kathaon ke saath rakhaa he or yah kathakali naamak ek anya pramukh shastreey bhartiya nrity rup se judaa hua he
+ Bryant summarizes the impact of Krishna stories in the Bhagavata Purana, "probably in the history of Sanskrit literature more than any other text, with the exception of the Ramayana, so much derivative literature, poetry, drama, dance, theater and art
+ Did not inspire 
+ The tradition of Jainism lists 63 Shalakapurushas, including twenty-four Tirthankaras and nine equations of Trideva
+ inamen se ek sameekaran main krishna ko vasudev ke rup main, balram ko baldev ke rup main, or jaraasandh ko prati -vasudev ke rup main darshaya jaataa he
+ In each era of Jain cyclical times, Vasudeva is born with an elder brother, called Baldev
+ teenon ke bich, baldev ne ,jain dharm kaa ek kendriya vichaar, ahimsa ke siddhant ko barkaraar rakhaa he
+ The villain is prati-vasudeva, who attempts to destroy the world
+ vishwa ko bachaane ke liye, vasudev-krishna ko ahimsa siddhant ko tyaagna or prati -vasudev ko maarna padataa he
+ The stories of these three can be read in the Harivansh Purana of Jinasena and are also mentioned in Hemachandra's trishakti-shalakapurusha-charitha
+ vimalsuri ko harivansh puraana ke jain sanskaran kaa lekhak mana jaataa he, lekin aisi koi pandulipi nahin mili he jo isaki pushti karti he
+ It is likely that later Jain scholars, probably 8th-century Jinasena, wrote a complete version of the Krishna legends in the Jain tradition and deposited them in the ancient Vimalasuri
+ krishna kii kahani ke aanshik or puraane sanskaran jain sahitya main uplabdh hai, jaise ki shwetambar agam parampara ke antagat dasao main ye varnit he
+ In other Jain texts, Krishna is said to be the cousin of Neminath, the twenty-two Tirthankaras
+ jain granthon main kaha gaya he ki neminath ne krishna ko sarv gyaan sikhaaya tha jisane baad main bhagavad gita main arjuna ko diya tha
+ According to Jeffrey de Long, this relationship between Krishna and Neminath is a historical reason that led Jains to accept, read, and quote the Bhagavad Gita as a spiritually significant text and that Krishna-related festivals and Hindus Had to accept as a spiritual cousin
+ krishna kii kahani buddha dharm kii jataka kahaniyon main milti he
+ Madura is mentioned in Vidurapandit Jataka, Ghat Jataka mentions Kansa, Devabhaga, Upasagara or Vasudeva, Govdhan, Baldev and Kanha or Kesava
+ krishna ko choubees avatar main krishna avatar ke rup main varnit kiya gaya he, jo paramparaagat rup se or aitihaasik rup se guru gobind singh ko samarpit dasham granth he 
+ Baha'i sects believe that Krishna is one of the "avatars of God" or prophets who have gradually revealed the teachings of God to mature humanity
+ is tarah, krishna kaa sthaan ibrahim, musa, joroster, buddha, mohammad ,yishu, bab, or bahaai vishwaas ke sansthaapak bahoullah ke saath saajha karte hai 
+ Ahmadiyya, a modern age cult, Krishna is considered one of his recognized ancient promoters
+ ahmadi khud ko musalmaan maanate hai, lekin ve mukhyadhara ke sunni or shiya musalamaanon dwaara islam dharm ke rup main khaarij karte hai, jinhone krishna ko apane bhavishyadvaktaa ke rup main manyata nahin di he
+ Ghulam Ahmed said that he himself was a prophet like prophets like Krishna, Jesus and Muhammad, who came to earth as the latter revival of religion and morality
+ krishna kii puja yaa sammaan ko 19 veen ke baad se kai nae dharmik andolanon dwaara apanaaya gaya he
+ Edvard Shure, for example, considers Krishna a great promoter, while theosophists consider Krishna as an incarnation of Maitreya, the most important spiritual master of the Buddha
+ sandarbh truti: "note" naamak sandarbh-samooh ke liye tag maujuud hai, parantu samooh ke liye koi tag nahin mila
+ It is also possible that an expiration tag is missing
+ anek pranaaliyon, paramparaon yaa vishwaason main ank vidya, ankon or bhautik vastuon yaa jivit vastuon ke bich ek rahasyavaad yaa good sambandh he
+ Numerology and numerology were popular among early mathematicians such as Pythagoras, but are no longer considered a part of mathematics and are recognized by modern scientists as pseudo-mathematics
+ yah usee tarah he jaise jyotish vidya main se khagol vidya or rasvidya se rasayan shaastra kaa aitihaasik vikaas he
+ Today, numerology is often invisible as well as associated with the arts of astrology and the like
+ is shabd ko unke logon ke liye bhi prayog kiya ja saktaa he jo kuch prekshkon ke vichaar main, ank paddati par zyada vishwaas karte hai, tab bhi yadi ve log paramparaagat ank vidya ko vyavhar main nahin laate
+ For example, his 1997 book Numerology; Or what Pythagoras coined, the mathematician Underwood Dudley, has used the term to describe the experimenters of Eliot's wave theory of stock market analysis
+ aadhunik ank vidya main kai baar pracheen samskruti or shikshakon kii vividhtaon ke pahaluon kaa ullekh he jisamen babylonya, pithagoras or unke anuyaayi, helenistic alexendria, praarambhik isai rahasyavaad, praarambhik gudh gyaanavaad kaa rahasy, kabalah kii yahudee parampara, bhartiya veda, china kaa mrit logon kaa gheraa or egypt kii rahasyamay ghar ke maalik kii pustak shaamil hai
+ Pythagoras and other philosophers of the time believed that mathematical concepts had more practicality than physical concepts, so they had more reality
+ hippo ke sant augustin ne likhaa he, " ank sarvlokik bhashaa hai, jo paramatma dwaara satya kii pushti main hamen pradaan kiye gaye hai
+ "like Pythagoras, he also believed that every object had a numerical relationship and it was on the brain to investigate the mysteries of these relations to find them out, or to allow this mystery to be revealed by the grace of God
+ praarambhik isai rahasyavaad ke liye ank vidya or carch ke fadar dekhen
+ In 325 A
+D
+, after the first council of Nicaea, faith in the state church began to arise due to civil disturbances in the Roman Empire
+ ank vidya ko isai praadhikari se manyata nahin mili or ise shakun ke anya roopon or jaadu tonon ke saath amaanya vishwaason ke kshetra main rakh diya gaya
+ By this religious purification, the importance that was given to the "holy" numbers until now has begun to wane
+ phir bhi, anek sankhyaon, jaise yishu sankhya " par tippanee kii gai he or yah gaja ke doroths dwaara vishleshit kii gayi he or rudhivaadi greek kshetron main ab bhi ank vidya kaa prayog kiya jaataa he
+ An example of the influence of numerology in English literature is Sir Thomas Browne's Discourse the Garden of Cyrus in 1658
+ In it, the author has described five points and related quinquins style in art, nature and mysticism
+ aadhunik ank vidya main anek purv vrittant he
+ The power of numerals, Ruth Adriar's book, Numerology, states that by the turn of this century Mrs
+ L
+ Dow Beliet had combined Pythagoras' work with biblical references
+ phir 1970 ke madhya tak, beliet ke ek vidhyaarthee, dow juno jordan ne us ank vidya ko or parivartit kiya or vah pranali viksit karne main sahyog diya jo aaj "pythagorian" ke naam se jaani jaati he
+ There are no definitions set for the meaning of special numerals
+ saamaanya udaahranon main shaamil hai : 0
+everything or wholeness 1 
+personal
+ Union
+ Receptive
+ Yin
+ 3
+ Communication / Interaction Status
+ 4
+ Generation 5
+ Restlessness 6
+ Response / Fluency
+ 7
+ Deliberation / Consciousness
+ 8
+ Rights / Renunciation
+ 9
+ Fullness
+ 10
+ ank vaigyanik bahut baar ek sankhya yaa shabd ko ek prakriya dwaara kam kar dete hai, jise ankon ko jodna kaha jaataa he, phir praapt ekal ank ke aadhaar par nishkarsh tak pahonchte hai
+ In adding digits, as the name implies, all the digits of a number are summed and the process is repeated until a single digit answer is found
+ ek shabd ke liye, varnmaala main prayek akshar ke sthaan se sambaddh maan ko liya jaataa he ko jor jaataa he
+ Examples : ek ekal ank ke yoga par pahunchne kaa sabase tej tarika he, 9 se 0 parinaam ko badalakar sirf maan madulo 9, praapt karnaa
+ Various methods of calculation are available, including Shaldian, Pathogorian, Hebraic, Helene Hitchcock's method, phonetic, Japanese, and Indian
+ ruth ebrams dryer kii pustak ke anusaar, ank vidya, ankon kii shakti, yadi aap ek aise desh main janme ho jahaan kii maatr bhashaa angreji nahin thi, to aap apni swayan kii shabdamala len or use unhi nirdeshon ke anusaar akshar kram main jamaa len jis prakaar angreji shabdamala ke anusaar bataaya gaya he
+ The above examples are calculated using decimal arithmetic
+ anya sankhya pranali bhi hai, jaise dwiadhari, ashtadhari, shodash aadhari or vigesimal ; inke aadhaar par sankhyaon ko jodne par alag-alag parinaam praapt hote hai
+ The first example shown above, will look like this when calculated according to the octal: kuch maamalon main, ek prakaar ke ank ganitiya shakun main, vyaktitv or ruchiyon ke aankalan ke liye uske naam or janm tithi kaa istemaal kiya jayega
+ Some Chinese provide different combinations of meanings to numerals, and certain combinations of numbers are considered more fortunate than others
+ saamaanya taur par, sam sankhyaon ko bhaagyashaalee mana jaataa he, kyonki yah mana jaataa he ki saubhaahgya jodi main aata he
+ Cantonage repeatedly specified the following definitions, which may be different from other types of sugar: kuch saubhagyashaalee sankhya sanyojanon main shaamil hai : Some astrologers believe that every digit from 0 to 9 is controlled by a divine power of our solar system
+ anek rasvidya siddhanton kaa ank vidya se nikat kaa sambandh tha
+ The inventor of many chemical processes still in use today, the Persian scholar Zabir ibn Hayyan, based his experiments on numerology based on the names of substances in the Arabic language
+ yadi unki praathmik prerana vaigyanik ke bajaay ganitiya ho to vaigyanik siddhanton ko kabhi-kabhi "ank vidya" ke naam se pukaara jaataa he
+ Calling words like this is quite common in the scientific community and is mostly used to rule out a theory like questionable science
+ vigyaan ke kshetra main "ank vidya" ke sabase adhik gyaat udhaaharan main shaamil he, kuch nishchit badi sankhyaon kii samanta kaa sanyog, jisane ganitiya bhautik vaigyanikon paul diraaq, ganitagya harman wel or khagolgy arthur stanley edington jaise pratishthit logon ko apane jaal main le liya
+ These numerical coincidences refer to such quantities as the ratio of the age of the universe to the atomic unit of time, the number of electrons in the universe, and the difference between the force of gravity and the force of power for the electron and proton
+ prishth 3)
+ a large number of coincidences continue to fascinate mathematical physicists
+ udhaaharan ke liye, james jigilson ne "gurutv kaa pariman siddhant" nirmit kiya jo thodaa bahut direk kii badi sankhya kii pariklpana par aadhaarit he
+ Biblical numerology is a symbolism that]
+ bibal main kai sankhyaayein, khaas taur par dainiel or rahasyodghatan kii pustak main pratikatmak arth he, adhiktar sankhyaayein, kisi sankethik mahatv se pare sirf unke shabdic, ganitiya sanketarth pradarshit karti hai
+ a well-known example of the Bible is 666, the number of the animal
+ bible kii ank vidya ke adhyayan ke pramukh aankadon main shaamil he, i
+ dablyoo pavitra lekh main sankhya, ke lekhak, bullinger, jo dow milo mahaan kii pustak palmoni; se prabhavit the or evan panin jinke dwaara ank pranali banaai gayi, jiske bare main unka daawa tha kii unhen yah bible main mili thi
+ Paniyan systems are sometimes called the numerology of the Bible
+ sankhya 3 pratik he " purnataa," yaa "divya purnataa" kii
+ Examples include, the Holy Trinity as "god" and Ishu were dead for 3 days before being resurrected
+ hebrew main sankhya 7 ke mul shabd kaa arth he, "purna" yaa "puraa"
+ Its meaning is derived from "spiritual perfection"
+ udaahranon main shaamil he, ki saptaah main 7 din hote hai
+ Ten indicates ordinal perfection
+ sankhya 12 ko sarkaar kaa pratinidhitiv karne ke liye mahatvapurn samajha jaataa he or " baarah darshata he sarkari purnataa";, ek varsh main 12 maheene hote hai, din or raat ko 12 kii hi do avritiyaan niyantrit karti he, isroyal kii 12 janajatiyaan he or unke carch ko niyantrit karne ke liye ishu dwaara sthapit 12 anuyaayi - is mahaan kaary ko puraa karte hue or roman disemvirs ne niyam likhe, jo tuilv tebles kahalaaye
+ It was noted by critics of the Bible that there is no order in the Holy Writ to follow numerology
+ or in shikshaaon ko apane khud ke jivan par lagu karne ke mahatvapurn maamalon par se pathak kaa dhyaan khinchati he
+ Numerology is a popular plot device in fiction
+ isaki seemaa aakasmik se hasya prabhaav tak ho sakati he, jaise ki 1950 main tivi citkamke di sians sheershak ke ek prasang main, aay lav lusi, main hota he, jab lusi kahani ke ek pramukh tatv ke kaaran ank vidya main ruchi leti he, isi prakaar film titi main hota he jab torah main chuphi ank pranaaliyon ko khojane ke liye nayak ek ank visheshgy se miltaa he
+ Dryer, RA Numerology, the power in numbers, a right and left brain approach
+ ISBN: 0-9640321-3-9 tadap ke do arth hai - 1) kisi ke prati bhavuk lagaav
+ 2) Pain
+ MAIN HAMESHA ** SHIKHA ** KE LIYE **TADPTA** HU xxrep 5 
+ It is a major volcano
+ kusapur kahalgaam, bhagalpur, bihar sthit ek gaanv he
+ 2477 BC refers to the years before the birth of Christ
+ isa ke janm ko adhaar maanakar uske janm se 2477 isa purv yaa varsh purv ke varsh ko is prakaar pradarshit kiya jaataa he
+ It is considered a collective year based on the Julian calendar
+ adhikansh vishwa main isi paddati ke aadhaar par puraane varshon kii gananaa kii jaati he
+ In India, there are many famous Panchagas like Vikram Samvat which begins 57 or 58 years before the birth of Jesus
+ iske alaava shaq samvath bhi prasiddh he
+ Shaka Samvat is the ancient era of India which begins 78 years after the birth of Jesus
+ shaq samvath bharat kaa rashtriya calendar he
+ Some other ancient era prevalent in India are as follows- uparokt antar ke aadhaar par 2477 isa purv ke anusaar vikrami samvath, saptarshi samvath, kaliyug samvath or pracheen saptarshi aadi main varsh aadi nikaale ja sakate he
+ Srikrishna karnamrutam is a famous work of Bilvamangala Swami composed in Sanskrit
+ shubaman gil ek bhartiya cricket khilaadi he farvari 2017 main inhone england ke khilaaf bhartiya under-19 team kii jeet kaa hissaa the
+ He made his List a cricket debut for Punjab in the Vijay Hazare Trophy on 25 February 2017 in 2016-17
+ inhone 2017-18 main ranjai trophy main punjab ke liye apana pratham shrenee cricket match baad main usee maheene, inhone apane duusare pratham shrenee match main apana pehla shatak banaaya
+ In December 2017, he was named as the vice-captain of the Indian Under-19 cricket team for the 2018 ICC Under-19 Cricket World Cup
+ shubaman gil ko 2018 indian premier lig kii nilaamee main kolkata nite rides ne 1 karod 80 lakh rupee main kharida tha
+ Coordinates: 27 ° 30′N 79 ° 24′E / 27
+5 ° n 79
+4 ° e / 27
+5; 79
+4 pattee badanpur amritpur, farrukhabad, uttar pradesh sthit ek gaanv he
+ Petha or Kushmand), a vine-bearing fruit, is eaten as a vegetable
+ yah halke hare varna kaa hota he or bahut bade aakaar kaa ho saktaa he
+ When fully ripened, it becomes a white dusty surface, excluding superficial hair
+ isaki kuch prajatiyaan 1-2 meter tak ke fal detii hai
+ Most of its cultivation is in southern and southeast Asia including India
+ isse bharat main ek mithai bhi banati he, jise petha hi kehete hai
+ The fruit of Kushmand or Kushmand is also known by the names Petha, Bhatua, Konhra etc
+ iskaa latin naam 'beninkesa hispida' he
+ This creeper has 5-6 inch diameter leaves covered with hard white follicles
+ pushp ke saath andakaar fal lagate hai
+ The raw fruit is green, but white, when ripe, is large
+ yah varsha ke prarambh main boyaa jaataa he
+ The fruit ripens in the Shishir
+ beej chipte hote hai
+ a distinction is called kshetrakushmand, bhatua or kohda, which is green in raw condition, but turns yellow on ripening
+ kushmand kheton main boyaa jaataa athwa chappar par lata ke rup main chadhaaya jaataa he
+ Kushmand grows everywhere in India
+ ayurveda main yah laghu, snigdh, madhur, sheetavaary, baat, pitt, kshay, apsmaar, raktpitta or unmaad naashak, baldaayak, mutrajnak, nidrakar, trishnashamak or beej kriminashak aadi kaha gaya he
+ All its parts - fruit, juice, seed, skin, root, stalk, oil are used in medicines and other works
+ iske murabbe, paak, avaleh, thandhai, ghrit aadi banate hai
+ In addition to water, starch, alkali elements, proteins, myosin sugars, fatty resin etc
+ are present in its fruits
+ kushmand ke falon ke khaadya ansh ke vishleshan se praapt aankade is prakaar hai Poultry seeds are used as food items
+ iske taaje beej kriminashak hote hai
+ Therefore its seeds are used as medicine
+ ise jharkhand / bihar main jeth maheenaa ke aarambh hone se pehle dhulaa hua urad daal, thodaa chanaa daal, garm masala, ke saath kaddukas kiya hua kushmand ko mila kar tej dhup main sukha kar adori banaaya jaataa he
+ Which people eat by keeping canned throughout the year
+ Winter melon
+ Long batua jyamiti main kisi samtal main sthit kisi vakr kii kisi bindu par sparsharekha yaa sparshi us saral rekha ko kehete hai jo us vakr ko us bindu par 'bas sparsh karti' he, arthath us vakr ko keval usee bindu par chooti he or anya kisi bindu par nahin
+ The curve passes through the tangent point at the point y = f of y = f) and its slope is equal to f '
+ jab vakr kaa sameekaran y = f ke rup main diya ho to sparshi kii pravanta kaa maan d y d x { \ displaystyle { \ frac {dy}{dx}}} dwaara nikaala ja saktaa he
+ Following is the equation of the given slope and the straight line going from a given point
+ jahaan us sparsharekha ke upar sthit koi bhi bindu hai or avkalaj kaa maan x = x { \ displaystyle x=x} ke liye nikaala gaya ho
+ Let the equation of the tangent be obtained at the point of the curve: y = f = x2
+ yahan f' = -2 he
+ Hence, the equation of tangent will be as follows- yaa, y = -2x-1 a perpendicular to a point of a curve is a straight line that passes through a given point and is perpendicular to the tangent at that point
+ do paraspar lambavat rekhaon kii pravantaaon kaa gunanfal −1 hota he, atah yadi diye gayi vakr kaa sameekaran y = f ho to abhilamb kii pravanta kaa maan And the equation of the normal line will be europe main maanav isapurv 35,000 ke aasapaas aayaa
+ After this, there is evidence of organized settlements i
+e
+ settlements since 7000 BC
+ kaansya yugin sabhyataa ke samay yahan kuch adhik basaav nahin hua - dhaskar misr, iraq, china or bhartiya sabhyataa ke mukaable
+ But Roman and Greek empires emerged from 500 BC which greatly influenced the culture of Europe
+ sainya, kala or chintan ke maamle main unaniyon ne europe ke ek kone main hote hue bhi puure europe or baad main vishvabhar main apana prabhaav jamaaya
+ Today the countries of Europe are members of the European Union which runs the euro, a currency
+ madhyakaal main europe chote rajyon main vibhakt ho gaya tha
+ Religious beliefs retained their influence in terms of science and research
+ pandrahavin sadi ke baad yah punah viksit hua
+ a small account of military history is written below, please see there
+ europe ke itihaas ko samajhane ke liye dakshini, purvi or uttari kshetra jisne german mul kii nord or viking tathaa kelt or galle ko samajhnaa aavashyak he
+ Greek and Latin states were established in the first half of the first millennium
+ in donon samskritiyon ne aadhunik europe kii samskruti ko bahut prabhavit kiya he
+ Around 480 BCE, the Persian invasion of Yunnan occurred, in which the Yavan had to retreat frequently
+ 330 isapurv main sikandar ne farsi samrajya ko jeet liya
+ In 27 BCE, the Roman Republic ended and the Roman Empire was established
+ san 313 main constentine ne isai dharm ko sweekaar kar liya or yah dharm roman samrajya kaa rajdharm ban gaya
+ By the fifth century the Roman Empire weakened and the Eastern Roman Empire remained in Istanbul until the fifteenth century
+ is dauraan purvi roman samrajyon ko arabon ke akraman kaa saamana karnaa padaa jisamen unhen apane pradesh arabon ko dene pade
+ After the fall of Istanbul in 1453, a new population developed in Europe that wanted to rise above religious bonds
+ is ghatana ko punarjagran kehete hai
+ The Renaissance urged people to abandon traditional ideas and believe in practical and scientific facts
+ is kaal main bharat tathaa america jaise deshon ke samudri maarg kii khoj hui
+ In the sixteenth century Portuguese and Dutch sailors dominated the maritime routes of the countries of the world
+ isi samay pashchimi europe main audyogic kranti kaa sutarapaat ho gaya tha
+ Culturally, Europe had progressed a lot
+ sahitya tathaa kala ke kshetra main abhootpurv pragati hui thi
+ After the discovery of printing, knowledge from books increased rapidly
+ san 1789 main france kii rajyakranti hui jisane puure europe ko prabhavit kiya
+ Personal freedom, public participation and generosity were reinforced in this
+ roosi samrajya dhire-dhire vistrut hone laga tha
+ But its expansion was mainly towards its south in Asia
+ is samay britain tathaa france apane nausena kii takneekee pragati ke kaaran dachon tathaa portugaliyon se aage nikal gaye
+ Portugal was ruled by Portugal and the Portuguese colonies were mostly occupied by the British and the Franciscans
+ roosi sarfarajya kaa patan 1861 main hua
+ The Balkan territories became independent of the Osmani Empire
+ 1914-8 tathaa 1939-45 main do vishwayuddh hue
+ Germany was defeated in both
+ isek baad vishwa shityudh ke daur se gujara
+ America was Russia and emerged as two superpowers
+ praayah purvi europe ke desh rus ke saath rahe jabaki pashchimi europe ke desh america ke
+ Germany was partitioned
+ san 1959 main rus ne apane cosmonot euri gagarin ko antariksh main bheja
+ In 1969, the US successfully claimed to have brought humans to the lunar surface
+ antat america aage nikal gaya or 1989 main germany kaa ekikaran hua
+ The Soviet Union disintegrated in 1991
+ rus sabase bada parvarti rajya bana
+ The European Union was established in 2007
+ satrahavin shatabdi main pehali baar bharat kaa britain se sampark hua
+ This interaction was a mere collision of two conflicting cultures
+ un dinon samoochaa britain ardhsabhy kisaanon kaa ujaad desh tha
+ Their huts were made of narsal and reed, with mud or slurry on them
+ ghaas-phoos jalaakar ghar main aag taiyaar kii jaati thi jisase sari jhopadi main dhuaan bhar jaataa tha
+ There was no way for the smoke to escape
+ unki khuraaq jau, matar, urad, kand or darkhton kii chaal tathaa maance thi
+ His clothes used to be full of lice
+ aabaadi bahut kam thi, jo mahamari or daridrata ke kaaran aae din ghatati jaati thi
+ The condition of cities was no better than the villages
+ shaharawaalon kaa bichhauna bhus se bharaa ek thilaa hota tha
+ a round piece of wood instead of a pillow
+ shahari log jo khushhaal hote the, chamade kaa kot pahante the
+ Poor people used to save lives from Sardi by hanging straw on their hands and feet
+ na koi kaarkaana tha, na karigar
+ Neither the cleaning arrangements nor the medical arrangements in case of sickness
+ sadakon par daaku phirte the or nadiyaan tathaa samudri muhane samudri daakuon se bhare rahete the
+ In those days, misbehavior was common in all Europe and panic-syphilis disease was common
+ vivaahit yaa avivaahit, grihasth padri, yahan ki pope dasven lui tak bhi is rog se bache na the
+ The priests had corrupted one lakh women of England
+ koi padri bade se bada aparaadh karne par bhi keval thode-se jurmaane kii sazaa paata tha
+ Even killing a man had to pay a fine of only six shillings eight pence - about five rupees
+ dhong-pakhand, jaadu-tona unka vyavsaay tha
+ In the last phase of the seventeenth century the city of London was so dirty and the houses there were so ugly that it could hardly be called a city
+ sadakon kii haalat aisi thi ki pahiyedaar gadiyon kaa chalanaa khatre se khaali na tha log laddu tattuon par daaen-baayen palnon main asabaab kii bhanti ladakar yatra karte the
+ In those days, the fastest train could travel thirty to fifty miles in England in a day
+ adhanangi striyaan junglee or bhadde geet gaati phirti thim or purush kataar ghuma-ghumaakar ladaai ke naach nacha karte the
+ Very few people knew how to read and write
+ yahan tak ki bahut-se lard apane hastakshar bhi nahin kar sakate the
+ Often husbands used to beat their women with whips
+ apradhi ko tikatica se baandhakar pathar maar-markar maar daalaa jaataa tha
+ The legs of the women were broken tightly in the sole market
+ shaam hone ke baad landan kii galiyaan suuni, daraavnee or andheri ho jaati thim
+ At that time only a living man could dare to get out of the house
+ use lut jane yaa galaa kaat jane kaa bhay tha
+ Then any dirty water could be thrown at him by opening the window
+ galiyon main laalaten thim hi nahin
+ To intimidate people, criminals were beheaded and hung on the old bridge of the Thames
+ dharmik swatantrata na thi
+ It was a death sentence to go to the church of any other community other than the king's community
+ aise aparaadhiyon ke ghutane ko shikaje main kasakar tod diya jaataa tha
+ The women used to tie the girls in the Sahyatras and leave them on the sea shore to swallow them by the slowly rising sea waves
+ bahudhaa unke gaalon ko laal lohe se daagdar america nirvasit kar diya jaataa tha
+ In those days the Queen of England also participated in the trade of slaves for profit
+ england ke kisaan kii vyavastha us udbilav ke samaan thi jo nadi kinare maand banaakar rahata ho
+ There was no such business-employment that farmers could survive the drought in the absence of rain
+ us samay samooche ingalistaan kii aabaadi pachaas lakh se adhik na thi
+ Wild animal were wandering everywhere
+ sadakon kii haalat bahut kharaab thi
+ In the rainy, all the roads were closed
+ dehaat main praayah log rasta bhul jate the or raat-raat bhar thandi hawa main thithurate phirte the
+ It was the era of misconduct
+ raajnneetik or dharmik aparaadhon par bhayanak ammanushik sajaaen di jaati thim
+ This condition was not only in Britain, but in Europe as a whole
+ praayah sab deshon main vansh-kram se aae hue ekatantr, swechhachari nirankush raja rajya karte the
+ His main principle of governance was - we are the representatives of God on earth and our will is the law
+ janata kii do shreniyan thi
+ Those who were noble were considered high; Those who were born as schedule caste will remain to be from lower caste
+ aisa ek bhi raja na tha jo praja ke sukh-dukh se sahanubhuti rakhata ho
+ He used to stay cool in the same way
+ ve apni sab praja ke janomal ke swami the
+ To be the king was his birthright
+ unki praja ko bina soche-samajhe unki ajna kaa paalan karnaa hi chahie
+ Fourteenth King of France, Louis, was somewhat like this
+ europe main vah sabase adhik kaal tak takhtanshin rahaa
+ He sat on the throne twelve years before Aurangzeb and sat on the throne eight years after his death
+ puure bahattar varsh
+ He was gentle, intelligent and ambitious
+ or chahta tha ki france duniya kaa sabase adhik shakti-sampann raashtra ban jaae
+ But whenever he thought of the power and progress of France, then he was not only in relation to the people of France, but only in relation to himself and his nobles
+ vah apane hi ko rajya kahata tha or yah uskaa takiya-kalam ban gaya tha
+ He astounded the whole world with his courtly sizzle and France became famous for fashion in the then civilized world
+ usne praja par baari–baari tex lagaae the tathaa praja kii gadhi kamaayi se bade-bade rajmahal banaae the
+ He made the glory of Vasai and Paris that he did not have in Europe
+ usne ajey sena kaa sanghathan kiya tha, jise europe ke sab rashtron ne milakar badi hi kathinaayee se parrast kiya
+ When he died in 1715, Paris was equipped with its fashion literature, beauty and big palaces and fountains, and France became the dominant political and military power of Europe
+ parantu sara desh bhookha or santusht tha
+ At that time, Europe's main rival was Austria, whose king was Hashburg
+ pavitra roman samrajya ke samraat kaa gauravpurn pad isi rajvansh ko praapt tha
+ Although there was no increase in the power of the kings of Austria due to this position, their honor and influence and dominance was over Europe
+ us samay german na koi ek raashtra tha, na ek rajya kaa naam hi germany tha
+ At that time, Germany was divided into about three hundred and sixty small states, in which there was no political unity at all
+ ve nammaatr ko austria ke dharmasamraat kii adheenta maanate the
+ The same situation was of Italy
+ italy kaa raashtra he, yah koi na jaanata tha
+ There were also many small independent states, whose kings were autocratic autocrats
+ janata ko shashan main kahin koi adhikaar praapt na tha
+ Spain was the most capable state in Europe during this period
+ pandrahavin-solahavin shatabdi main hi usne america main upnivesh sthapit karke apni apaar samruddhi badha lee thi
+ The kings of Spain were the rulers of many countries of Europe
+ poland solahavin shatabdi tak europe kaa ek samarth rajya tha
+ Peter's campaigns in the seventeenth century had shaken and disorganized him, and there was no development of a powerful central government
+ sweden, denmark, norwein, holland or swetoland kaa vikaas abhi hua hi nahin tha
+ These countries were backward as of now
+ aaj kaa soviet rus sansar kaa sabase bada or samarth pratatantra he
+ Today one end of it extends from the Baltic Sea to the Pacific Sea and the other is touching the borders of India and China with the Arctic Sea
+ parantu un dinon vah chota-sa pradesh tha, masco nagar ke aasapaas ke ilaakon tak hi simit tha or jiskaa adhikansh jangal tha
+ His relationship with the sea was different
+ ek bhi samudr-tat uske paas na tha
+ Then the entire coast of the Baltic Sea was under the Shah after Sweden and the whole south of the sea and the Caspian Sea coast was under the authority of Tatars and the chieftains of the Ottoman kings
+ chaudaavin shatabdi ke antim charan main peter ne zaar ke singhaasana par baithkar rus kii kayapalat karne kaa upkram kiya
+ In those days the people of Russia kept long beards and wore loose-fitting robes
+ ek din usne apane sab darbariyon ko apane darbar main bulaayaa or sabaki dadhi apane haath se mund deen
+ And made to wear crisp clothes
+ usne sweden ke badshaah ke haathon se baltic tat chin liya or samudr-tat par apni nai rajdhani saint petersburg jo aaj lenin grad ke naam se vikhyath he
+ But even this great reformer Peter was not free from the faults that were the kings of the world in those days
+ vah swechhachari tha
+ He used to do what he wanted, who did not care how much he would have to suffer in obeying his orders
+ isa ke baad Seth Govinddas was a freedom fighter of India, MP and Hindi writer
+ unhen sahitya evam shiksha ke kshetra main san 1961 main padam bhushan se sammanit kiya gaya tha
+ He was a strong supporter of Hindi as the official language of India
+ seth govinddas hindi ke anany sadhak, bhartiya samskruti main atal vishwaas rakhane vaale, kala-marmajna evam vipul maatra main sahitya-rachana karne vaale, hindi ke utkrisht natyakaar hi nahin the, apitu saarvajanik jivan main atyant svachh, niti-vyavhaar main sulajhe hue, sevaabhaavi raajnneetijna bhi the
+ From 1947 to 1974, he was an MP from Jabalpur
+ ve mahatma gandhi ke nikat sahyogi the
+ He had to undergo eight months of imprisonment in Damoh where he wrote four plays - "prakash", "duty", "navaras" and "competition"
+ seth govind das kaa janm samvath 1953 ko vijayadashami ke din jabalpur ke prasiddh maheshwari vyapaarik parivaar main raja gokuldaas ke yahan hua tha
+ Raised in the Raj family, Sethji's education and initiation were also of high order
+ angreji bhashaa, sahitya or samskruti hi nahin, skating, nrity, ghudsawaari kaa jaadu bhi in par chadha
+ At that time, Gandhiji's non-cooperation movement had a profound effect on Tarun Govindadas and he abandoned the glorious life and joined the team of servants along with the oppressed and, due to the rate of arrest, went to jail, paid fines and rebellion from the government
+ He also lost the inheritance of ancestral property
+ sethji par devakinandan khatri ke tilsmi upanyaason 'chandrakanta santati' kii tarj par unhone 'champavati', 'krishnalata' or 'somalata' naamak upanyaas likhe, vah bhi maatr solah varsh kii kishoravastha main
+ The second influence in literature was Shakespeare on Sethji
+ shakespeare ke 'romeo-juuliyat', 'azeyu like it', 'petevkies prince of tair' or 'winters tail' naamak prasiddh naatakon ke aadhaar par sethji ne 'surendra-sundari', 'krishnakamini', 'honhaar' or 'vyarth andeh' naamak upanyaason kii rachana kii
+ In this way, the literature of Sethji began with the novel
+ isi samay unki ruchi kavita main badi
+ Not only did he use poetry in his novels, he also composed poetry called 'vayanasura-parabhava'
+ san 1917 main sethji kaa pehla naatak 'vishwa prem' chapa
+ It was also staged
+ prasiddh videshi naatakkaar ibson se prerana lekar aapane apane lekhan main amul-chul parivartan kar daalaa
+ He wrote plays in the symbol style using new techniques
+ 'vikaas' unka swapn naatak he
+ 'navaras' is his play
+ hindi main mono drama pehle-pahal sethji ne hi likhe
+ Seth Govinddas proved to be a very successful chairman of Hindi Sahitya Sammelan, attached to body, mind and wealth in the interest and concern of Hindi language
+ hindi ke prashn par sethji ne congress kii niti se hatakar sansad main dridhtaa se hindi kaa paksh liya
+ He was a strong proponent of Hindi and an architect of Indian culture
+ music recording bikri pramaan patr vishwa bhar main adhikansh deshon main kisi sangeet yaa film ke album kii bikri ke aadhaar par vaarshik puraskaar swaroop diye jate hai
+ These are given in specific countries
+ inkaa aadhaar rashtriya str par release hue albamon kii bikri hota he
+ They are mostly divided into three categories: - inhen is hi variyata kram main diya jaataa he
+ At the time when prose Khadi Boli was in its initial form, Bharatendu Harishchandra, fortunate in Hindi, entered the field of literature
+ unhone raja shivaprasad tathaa raja lakshmana singh kii aapas main virdohi shaileyon main samanvay sthapit kiya or madhyam maarg apanaaya
+ In this period, in the promotion of Hindi, magazines and magazines, which gave special yoga, Udanta Martand, poet word Sudha and Harishchandra magazine are pioneers
+ is samay hindi gadhy kii sarvangin pragati hui or usamen upanyaas, kahani, naatak, nibandh, aalochana, jeevani aadi vidhaon main anudit tathaa moulik rachanaaen likhi gayin
+ Bhartendu Harishchandra, a man of multifaceted genius, created enlightened literature and inspired and inspired many litterateurs with his talent
+ in lekhakon main baalkrishna bhatta, pratapanarayan mishra, badrinarayan choudhary 'premaghan', radhacharan goswami evam raikrishnadas pramukh hai
+ He enriched Hindi literature
+ yahi bharatendu kaa samakaleen evam sahyogi sahityakar mandal bharatendu mandal ke naam se prasiddh hua
+ In Hindi literature, this time is designated as Bharatendu era
+ katha sahitya ke antargat upanyaas evam kahani ko grahan kiya jaataa he
+ Both of these writings began in the Bharatendu period, whose separate discussions are as follows
+ bharatendu kaal main hindi kii up vidha kaa vikaas hua
+ Pt
+ Balkrishna Bhatt's 'sau Ajan Ek Sujan' is a preaching-oriented idealistic novel of the time
+ isamen us paripurna shyama-swapn upanyaas kavy-soundarya se bharaa hua he
+ Ambikadatta Vyas's 'surprise Chronicles', Balakrishna Bhatt's 'nutan Brahmachari' and Radhakrishnadas's 'helpless Hindus' are other novels of this period
+ kahani kaa krambaddh vikaas bharatendu yug se hota he
+ In this era only translations of Bengali and English stories were made
+ moulik rup main jo kahaniyaan likhi gayi, un par inkaa prabhaav dikhaai detaa he
+ Bharatendu ji wrote a wonderful story called Apoorva Swapna, which most scholars consider to be the first literary and original story of Hindi
+ saraswati patrika ke prakaashan ke saath-saath hindi kii shreshth kahaniyaan prakaash main aayin
+ Among the early story writers of Saraswati are Kishori Lal Goswami, Parvatinandan, Bang Mahila, Ramchandra Shukla, Dr
+ Bhagwandas etc
+ is yug main moulik tathaa anudit donon hi prakaar ke naatak likhe gayi
+ Among the original plays of Bharatendu are Chandravali, Niladevi, Bharat-plight
+ anudit naatakon main kuch bangala se or kuch sanskrit se anudit hai
+ In this period, Pratapnarayan Mishra wrote plays like Gau Sankat, Kali Effect, jwari-khwari, hamir-hatha, Radhakrishnadas, Maharani Padmavati, Maharana Patap, Dukhini Bala, Babu Gokulchand, Old Mouth Pimples, People Chall Tamas, etc
+ shrinivas das, badrinarayan choudhary premaghan, ambikadutt vyas aadi is kaal ke anya naatakkaar hai
+ Essay literature in Hindi begins with the journals of the Bhartendu era
+ praayah tatkaaleen patr-patrikaon main unke sampadak us samay kii saanskrithik tathaa raajnneetik samasyaon par lekh likhaa karte the
+ Bhartendu first wrote the poems Sudha and Harishchandra magazine in a literary manner
+ iske baad pan pratapanarayan mishra tathaa pan baalkrishna bhatta tathaa badrinarayan choudhary premaghan ne kramshah hindi pradeep, brahaman tathaa anand kadambini naamak patrikaon main nibandh likhe, jinhen saahitiyik koti ke nibandh kaha ja saktaa ha
+ At the same time, Pt
+ Balakrishna Bhatt wrote critical, critical and emotional remarks in a humorous and serious style
+ balmukunda gupt, premaghan, ambikadutt vyas, radhacharan goswami is yug ke anya prasiddh nibandh lekhak hai
+ In the Bharatendu era, along with other parts of prose, the criticism genre also moved forward in a new form
+ uske swaroop or prakaar main naye tatwon kaa samavesh hua
+ Intellectualism has predominated in literary inquiry
+ upanyaas, kahani, nibandh, naatak aadi ke saath-saath unki aalochanaayen bhi likhi jane lageen
+ The then journals and magazines had a major hand in the development of this new criticism
+ is samiksha ke pravarttakon main bharatendu, premaghan, baalkrishna bhatta, shri nivas das, balmukunda gupt, pratapanarayan mishra, gangaaprasad aginhotri aadi prasiddh hai
+ Through a magazine called Anand Kadambini, Premaghan started a wide and serious criticism of the books
+ inhone shrinivas das ke sanyogita swayamvar naatak kii badi vishad or kadi aalochana likhakar prakashit kii
+ Akoni has a village in Aurangabad district of Magadh division under Bihar state of India
+ gazani afghanistan kaa ek aitihaasik shahar he or gazani praant kii rajdhani bhi he
+ In mathematics, computing and other disciplines, the group of steps required to perform a task is called algorithm
+ kalan vidhi ko kisi spasht rup se paribhaashit gananaatmak samasya kaa samaadhaan karne ke aujaar ke rup main bhi samajha ja saktaa he
+ The inputs and outputs of that problem are described in common language; The algorithm, as a solution, describes in a systematic way how this input / output relationship can be obtained
+ kuch udhaaharan : 1) Some numbers are given randomly; How to decorate them in ascending order? 2) do purnank sankhyaayein di hui hai ; unka mahattam samapvartak kaise nikaalenge ? In the ancient Sanskrit mathematics texts, many Algorithms are given as verses
+ udhaaharan ke liye nimnlikhit kalanvidhi dhanath / rinatmak sankhyaon ke gunan / bhaajan kaa niyam bataata he- Anvay - Swayo:, Aaswayo: Slaughter: Self self-debt-loss Slaughter: Decay: | Bhaghare Apich and Niruktam
+ arth : do dhanatmak yaa do rinatmak sankhyaon kaa gunanfal dhanatmak hota he
+ Multiplication of positive negative numbers is negative
+ yahi baat bhaajan par bhi lagu hoti he
+ Indian mathematics is replete with algorithms
+ kalanvidhi ke saath-saath un kalanvidhiyon ke peeche sthit siddhanth tathaa unki upapattiyaan bhi tikaa granthon main di gayin hai
+ In the Aryabhatiya, the algorithms for extracting square, cube, square root and cube root of a number are given
+ iske pehle rachit kuch granthon main bhi kuch kalanvidhiyaan vidyaman hai (jaise shulbasutron main vibhinn prakaar kii yajna-vediyaan banane kii vidhiyaan di gayin hai
+ Similarly, there are other algorithms like kuttak, class nature, chakraval etc
+ nimnlikhit shulbasutra main do virgon ke kshetrafal ke antar ke baraabar kshetrafal vaale varg kii rachana kii vidhi di gayi he- Similarly, the method of extracting cube root in Aryabhatiya is clearly given - kulhadi yaa kulhada, ek aujaar he, jisko sadiyon se lakdi ko aakaar dene yaa tukade karne, jangal se lakdi kaatane, yuddh me ek hathiyaar ke rup main or ek aupchaarik pratik ke rup main istemaal kiya jaataa he
+ The ax has been given many forms according to different functions, but a common ax has an iron or steel head and a wooden handle
+ kulhadiyon ke pracheen prakaaron me inkaa hattha lakdi kaa or sir or phal pathar kaa hota tha
+ With the advancement of civilization and the development of techniques, ax heads were made of copper, brass, iron and steel
+ papua new ginia kaa dhvaj new gini kaa rashtriya dhvaj he
+ Aris is the largest known dwarf planet in our solar system
+ antarrashtriya khagoleey sangh dwaara rakhaa gaya iskaa aupchaarik naam "136119 siris" he
+ Aris is the ninth largest of all known celestial objects orbiting the sun in our solar system
+ iskaa vyas 2,300-2,400 kimi anumaanit kiya jaataa he
+ Its mass is 27% more than Yama and only 0
+27% of the Earth's mass
+ siris kii khoj san 2005 main kii gayi thi
+ It is a transcendental object that is outside the orbit)
+ siris suraj se behad dur he or kyper ghere se bhi baahar ek bikhare chakra naam ke kshetra main sthit he
+ In 2011 it was 96
+6 astronomical units away from the sun, which is three times more than Pluto
+ siris ke ird-gird iskaa upgrah disnomia parikrama karata he
+ Today, Aris and Dysnomia are natural objects located at a distance from our solar system
+ siris ko angrezi main "eris" or disnomia ko angrezi main "dysnomia" likhte hai
+ Aris is derived from Aris, a goddess of ancient Greek religion, who was considered the goddess of disputes and quarrels
+ siris ko suraj kii ek puri parikrama lene main 557 saal lag jate hai
+ Aris's orbit is oblique from the flat circle of the solar system
+ parikrama karata hua yah aadhe samay ke liye us chakra se upar uth hota he or baaqi aadhe samay ke liye neeche aa jaataa he
+ Its orbiter has an angle of 44 degrees from the circle of the solar system
+ siris kii sataha kaa albido 0
+86 he, jo saura mandal kii kisi bhi anya vastu se adhik he, sivaay shani ke upgrah ansaoods ke
+ Scientists tell the reason that Aris is in a very cold area far away from the sun and there is always a bright snow of methane gas on its surface
+ is roshan chhavi kii vajah se apni prithvi se gambhir duuri ke baavjood siris ko saadhaaran gair-vaigyanik log bhi kuch doorabeenon se dekh sakate hai
+ The temperature at the surface of Aris has been estimated as -243 to -217 degree centigrade
+ siris kii sataha bhuri he, jo kii pluto kii laalimaa se bhinn he
+ Scientists think that methane does not stick to Pluto and substances such as the red colored tholin appear below it
+ siris pluto se adhik sard he isliye methane kii barf aise tholino ko hameshaa ek bhuri rang kii barfili chadar se dhake rakhti he
+ The Shadow Lines is a novel composed by noted English-language writer Amitav Ghosh, for which he was awarded the Sahitya Akademi Award for English Language in 1989
+ } Coordinates: 25 ° 09′N 85 ° 27′E / 25
+15 ° n 85
+45 ° e / 25
+15; 85
+45 kiratpur bhagavanpur, begusarai, bihar sthit ek gaanv he
+ Sogdai or Sogdi was an eastern Iranian language that was spoken in ancient times in the Sogda region of Central Asia
+ yah kshetra aadhunik uzbekistan or tajikistan main sthit he
+ By the 9th century the language had disappeared, although an eastern Iranian language called Yagnobi survives in modern times, a descendant of the Sogdai language
+ turafaan or doonhuang main mili likhaeeyon main soudai likhaaiyaan bhi mili hai, jinamein kai buddha dharm, maani dharm or isai dharm se sambandhit hai
+ Note that the pronunciation of 'G' in 'sogdai' is slightly different from 'G'
+ ishvarbhai ramanbhai parmaar ek bhartiya raajnneetijna tathaa vartmaan gujarat sarkaar main saamaajik nyaay, pichhadaa varg vikaas mantri hai| ve surat ke bardoli vidhansabha kshaitra se vidhayak hai tathaa bhartiya janata party ke rajaneta hai| ve 2012 or 2017 ke vidhansabha chunaav main chune gaye
+ Uranium is the third element of the actinide series, an interconnected series of the periodic table
+ is shrenee main aantarik electroneey parikksha ke electron sthaan lete hai
+ It is the heaviest element found in nature
+ kuch samay pehle tak is tatv ko chathe antarvarti samooh kaa antim tatv mana jaataa tha
+ The isotopic and half-life periods of uranium are as follows: samasthanik--- ardhajivan avadhi--- mukt kan strot Uranium 238 --- 4
+51x109 years --- Alpha Particles --- Natural uranium 235--- 7
+07x109 varsh--- alpha kan--- prakritik Uranium 234 --- 2
+35x105 years --- Alpha Particle --- Natural uranium 239--- 23minute--- beta kan--- kritrim Uranium 237 --- 6
+8 days --- beta particles --- artificial uranium 233--- 1
+62x105 varsh--- alpha kan--- kritrim Uranium 232 --- 70 years --- Alpha Particle --- Artificial uranium 231--- 4
+2 din--- ke electron grahan--- kritrim Uranium 230 --- 20
+8 days --- Alpha Particles --- Artificial uranium 229--- 58 minute--- ke electron grahan --- kritrim Uranium 228 --- 9
+3 minutes --- Alpha Particles --- Artificial prakritik sroton se praapt uranium main 238 samasthanik 99
+28 pratishat, 235 samasthanik 0
+71 pratishat or 234 samasthanik 0
+006 upasthit rahete hai
+ The uranium element was discovered by Claprot in 1789 AD from an ore called pitchblend
+ usne nae tatv kaa naam kuch varsh pehle gyaat uranus grah ke aadhaar par uranium rakhaa
+ 52 years after this discovery, Peligat demonstrated in 1841 that the substance discovered by Klaprot produced uranium metal from the reduction of potassium to uranium tetrachloride
+ 1896 i0 main henry bekwarel ne uranium main radiyon activata kii khoj kii
+ His research showed that this property is present in all compounds of uranium and also in some other ores
+ in nirikshanen ke falswaroop hi pichabland ayask se radium kii aitihaasik khoj sambhav ho saki thi
+ Uranium is spread over the entire upper surface of the Earth
+ aisa anumaan he ki prithvi kii papadi main uranium kii maatra lagbhag 1014 ton he
+ Thus its volume will be 4x10-6 in about 1 gram of shell
+ isaki maatra amleey shail main adhik or kshareey shail main kam rahati he
+ Uranium is also present in seawater, although its volume in seawater is 1 / 2000th of the amount present in the rock
+ itane vistaar se faile hone ke pashchaat bhi iske keval do mukhya ayask gyaat hai, ek pichabland or doosraa cornotite
+ The pitchblend is a dark blue-black ore, with uranium oxide present
+ cornotite mukhyat: potacium or uranium kaa jabli vanedet, gyaat hota he
+ The main deposits of pitchland ore are in the Congo, Africa and Canada
+ inke atirikt checkoslovakia, australia america, purvi africa, england main bhi yah ayask miltaa he
+ Cornotite is found in the United States and Australia
+ bharat ke jharkhand main uranium ke ayskon kii khoj hui he
+ Uranium reacts with acid on the ore to dissolve uranium
+ tatpashchaat sodium carbonate tathaa anya yogicon kii abhikriya se ashuddhiyaan dur kii jaati hai
+ Finally, uranium oxide is formed
+ oxide kaa carbon dwaara bhatti main apchayan ho saktaa he
+ The metal thus obtained is obtained by oxidation of uranium fluoride
+ uranium chamakdaar shwet rang kii dhaatu he
+ Its sign is U, atomic number 92, atomic weight 238
+03, melting point 1,130 ° C, boiling point approximate 3,500 ° C, density 19
+05 g per cubic cm, electrical resistivity 32
+76x109 ohm to m and crystal structure at three-dimensional, room temperature
+ uranium sakriy tatv he
+ In full state it can automatically burn in air
+ iske dwaara jal kaa vighatan hokar hydrogen mukt hota he
+ It reacts with oxygen at 190 ° C, chlorine at 180 ° C, bromine at 210 ° C, iodine at 260 ° c and hydrogen at 250 ° C
+ inke atirikt uranium nitrogen, carbon dioxide, carbon monooxide evam anek gaison se abhikriya karata he
+ By reacting with acids, trivalent and tetravalent compounds of uranium are formed and hydrogen is liberated
+ uranium kii 5 sanyojaktaayen hai
+ Its main valencies are 4 and 6
+ iske lavan badi saralata se jatil aayan banaate hai
+ It has the following compounds: uranium ke paanch auksaide gyaat hai
+ If any uranium oxide is combusted in air at a temperature of 700 ° C, it is formed
+ uranil nitrate ke 300° sein0 par ooshmaa vighatan se kaa nirmaan hoga
+ Has many crystalline transformations
+ saki 500° sein0 taap par kaa hydrogen dwaara apchayan kiya jaay, to ban jaayga
+ All oxides of uranium dissolve in nitric acid to form uranyl nitrate
+ uranium oxide ko 'yelo kek ' bhi kaha jaataa he
+ Uranium reacts with metal hydrogen at about 250 ° c temperature to form uranium hydrau
+ adhik taap par is hydride, kaa vighatan ho jaataa he
+ The dissolution of uranium hydride at high temperature gives the powdered uranium
+ is kaaran is hydride dwaara kriyasheel uranium churna banaaya jaataa he
+ Two carbides of uranium are known
+ ye carbon or drav uranium kii abhikriya dwaara banaae jate hai
+ It can also be formed by the reaction of carbon monoxide and uranium metal at high temperature
+ nitrogen ke saath pratikriya kar uranium anek yogic banaata he, jinamein sabase saral uranium mononitrid, he
+ Uranium forms many phosphate
+ iske saat fluoride, chaar chloride, do bromide or do iodide gyaat hai
+ Other halide compounds of uranium can be formed by the reaction of the elements, or by the action of halogen acid on the hydride
+ nabhik urja yug ke pehle uranium ke adhik upyog na the
+ It was used in certain types of fibers
+ iske lavan resham ko rangane kaa kaary karte hai
+ Sodium diurenet has been used to paint porcelain vessels
+ parmaanu urja prayogon ke kaaran uranium atyadhik upyogi tatv ho gaya he
+ It has been used in nuclear chain reactions
+ is kriya main 235 bhaar sankhya vaala samasthanik upyogi siddh hua he
+ In an uncontrolled state, this action can cause severe explosions, as in atomic bombs, but in a controlled manner
+ kuch riactor chalaane ke kaam aata he
+ Simple uranium is used in some reactors, but uranium enriched in many reactors is used
+ isamen 235 samasthanik kaa pratishat badha dete hai
+ In these actions, the neutrons of the uranium nucleus are fused by invasion and the neutrons are also released, from which the chain moves
+ 92uranium235 + neutron → vikhandit padaarth + nuton + urja a new element plutonium, plu, is formed by the neutron reaction on the accompanying uranium 238 isotopic, which has uranium-235 present fragmentary properties
+ 92uranium238 + nuton → 92uranium239 → nepchthunium239 → 94 plutonium239 238U + n → 239U → 239np → 239pu is prakaar 238 samasthanik bhi urjashil padaarth main parivartit ho saktaa he
+ It is also now known that uranium 238 isotopic can also be denuded by the attack of intense neutrons at very high temperatures
+ is kriya kaa upyog aajkal anek tapanabhikeey bamon main hua he
+ Uranium mines in India are still active in Jaduguda
+ iske alaava bharat ke kai or hisson main uranium paaya gaya he lekin un sthanon par khanan kaary nahin ho rahaa he
+ These areas include some areas of Nalgonda district of Andhra Pradesh and parts of Nagaland where locals oppose uranium mining
+ nirdeshaank: 27°11′N 78°01′E / 27
+18°N 78
+02°E / 27
+18; 78
+02 Mitaili Bah is a village in Agra, Uttar Pradesh
+ · ambedkar nagar jila · agra jila · aligarh jila · azamgarh jila · elahabaad jila · unnav jila · itawa jila · eta jila · auraiya jila · kannauj jila · kaushambi jila · kushinagar jila · kanpur nagar jila · kanpur dehaat jila · khayr · gajiabad jila · gorakhpur jila · gonda jila · gautam buddha nagar jila · chitrakoot jila · jalon jila · chandauli jila · jyotiba phule nagar jila · jhaansi jila · jonpur jila · devaria jila · pilibhit jila · pratapgarh jila · fatehpur jila · farrukhabad jila · firozabad jila · faijabad jila · balrampur jila · bareli jila · baliya jila · basti jila · badun jila · bahertch jila · bulandashahar jila · bagpat jila · bijanour jila · barabanki jila · banda jila · mainpuri jila · mahamayanagar jila · mau jila · mathura jila · mahoba jila · maharajaganj jila · mirzapur jila · mujhaffarnagar jila · meerut jila · muradabad jila · rampur jila · raibareli jila · lakhanu jila · lalitpur jila · lakhimpur khiri jila · varanasi jila · sultanpur jila · shahjahanpur jila · shravasti jila · siddharthanagar jila · sant kabir nagar jila · sitapur jila · sant ravidaas nagar jila · sonbhadra jila · saharanpur jila · hamirpur jila, uttar pradesh · hardoi jila Munirka Enclave is a residential area of delhi
+ qahtaani un arab logon ko kaha jaataa he jinaki mul mathrubhumi arabi prayadweep kaa dakshini yaa dakshinpurvi bhaag, visheshkar yaman kshetra, he
+ Many Qathani tribes now live in far-flung areas from their former homeland
+ inke vipareet 'adnan' un arab samudaayon ko kaha jaataa he jinaki mul mathrubhumi arabi prayadweep kaa uttar, pashchimi yaa madhya kshetra he
+ The Qathanis have two branches: Himyar and Kahalan
+ sabhi arab qabeelon ko 'qahtaani' yaa 'adanani' main vargeekrut kiya ja saktaa he or in donon shakhaon main aitihaasik kheenchaatani rahi he
+ In Arabic folklore, Qathanis were the original Arabs and Adnanis later became Arabs
+ barlagov, kapkot tehsil main bharat ke uttrakhand rajya ke antargat kumaun mandal ke bageshwar jile kaa ek gaanv he
+ Genetic engineering or genetic engineering is the collective name of the techniques and systems of an organism by interfering with its synthesis - and the effort to develop and study them
+ maanav pracheen kaal se hi paudhon va jeevon kii prajnan kriyaaon main hstkshep karke unamem naslon ko viksit karata aa rahaa he lekin iske vipareet janukeey abhiyantriki main sidhaa anvik str par rasinic or anya jaevpraudyogic vidhiyon se hi jeevon kaa jinom badla jaataa he
+ Genetic engineering is a very important invention
+ jaev praudyogiki dwaara kisi bhi praani ke jenom ke herpher ko hi janan vigyaanan abhiyantriki kii paribhaasha diya jaataa he
+ It is a set of technologies used to change the genetic makeup of cells, including transferring genes within and across species boundaries, or producing novel organisms
+ nae diene pehle alag-thalag karne or aanvik chloning tareekon kaa upyog kar ek diene anukram utpann karne ke liye byaaj kii anuvanshik saamagree ko copy karke mejabaan jinom main daalaa ja saktaa he, yaa diene sanshleshan,or phir daalane is mejabaan jeev main nirmaan ke dwaara
+ The gene can be removed, or a nucleus experiment "knocked out"
+ jin lakshyikaran ek alag takanic kaa ek antarjaat jin ko badalane ke mutabiq punarsangyojan kaa upyog karata he,or,ek jin ko nasht exonon ko dur ek jin jodne ke liye, yaa bindu utparivartan lagu karne ke liye istemaal kiya ja saktaa he
+ Plants, animals or micro-organisms that have changed through genetic engineering are called genetically modified organisms
+ jeevanu pehali jeevon anuvanshik rup se sanshodhit kiya ja karne ke liye kar rahe the
+ Plasmid DNA containing new genes can be inserted into the bacterial cell and the bacteria will then express those genes
+ in jeenon dawaaon yaa anzimon ki bhojan or anya substrate par karrwai ke liye code kar sakate hai
+ The plant has been modified for insect protection, herbicide resistance, virus resistance, enhanced nutrition, tolerance to environmental pressures and for the production of food vaccines
+ adhikansh jiemo ke keet pratirodhi vanijikaran kiya jaataa he or / yaa shaak sahishnu fasal paudhon
+ Genetically modified animals have been used for research, model animals and the production of agricultural or pharmaceutical products
+ 1) sabase pehle, ek jeev he ki swaabhaavik rup se vaanchit visheshta shaamil hai
+ 2) DNA is extracted from that organism
+ is puure rasoi kii kitaab baahar lene kii tarah he
+ 3) a desired gene must be located and copied from the thousands of genes that were extracted
+ is jin chloning kaha jaataa he
+ 4) The gene can be modified slightly to function in a more desirable manner once inside the recipient organism
+ 5) nae jin, ek transzin bulaayaa praptakarta jeev kii koshikaon main kar diya he
+ This change is called
+ sabase aam parivartan takanic apane swayan ke diene ke saath ek bacteria he ki swaabhaavik rup se anuvanshik rup se ejeeniyar paudhon kaa upyog karata he
+ Transgene is bacteria, which is then injected into the cells of the organism being engineered
+ ek or takanic, jin bandook vidhi kaha jaataa he, sookshm sone ke kanon praptakarta jeev kii koshikaon main transzin kii pratiyon ke saath lepit goli martha he
+ With either technique, genetic engineers have no control over where or if the transgene inserts into the genome
+ natijatan, yah bas kuch hi transgenic jeevon ko praapt karne ke prayaas ke saikadon letaa he
+ 6) Once a transgenic organism has been created, traditional breeding is used to improve the characteristics of the final product
+ to genetic ejineering paaramparik prajnan ke liye samaapt karne kii jarurat nahin he
+ This is simply a way to add new features to the pool
+ 1) dawa 2) Manufacturing 3) anusandhan 4) Gene therapy 5) audyogic 6) Agriculture 7) sangrakshan 8) Entertainment hindu dharm main darshan atyant pracheen parampara rahi he
+ In Vedic philosophies, conspiracy is more famous and ancient
+ vaidic darshanon main shaddarshan adhik prasiddh hai
+ It is known as Sankhya, Yoga, Nyaya, Vaiseshika, Mimamsa and Vedanta
+ inke praneta kapil, patanjali, gautam, kanad, jaimini or baadaraayan the
+ These philosophies are believed to have arisen around the birth of Jesus
+ inke aarambhik sanket upanishdon main bhi milte hai
+ The foundation of each philosophy is a philosophy
+ "sutara" bhartiya darshan kii ek adbhut style he
+ In numbered words, the essence of the principle remains in the formulas
+ sankshipt hone ke kaaran sutron par vistrut bhashya or anek tikaaon kii rachana hui
+ This style of Indian philosophy is different from the Western style of independent philosophies
+ guru-shishy-parampara ke anukool darshan kii shiksha or rachana iskaa aadhaar he
+ This tradition hindered the rise of new philosophies after the conspiracies
+ vyakhyaaon ke prasang main kuch naveenta or matbhed ke kaaran mukhya darshanon main upbhed avashya paidaa ho gaye
+ Evidence, creation, and salvation are common themes of conspiracies
+ ye chha: darshan kisi na kisi rup main aatma ko maanate hai
+ Salvation is the attainment of the soul
+ punarjanm, aachaar, yoga aadi ko bhi ye maanate hai
+ Some philosophy like justice, yoga etc
+ believe in God
+ sankhya or mimasaa darshan nirishvaravaadi hai
+ These four proofs, direct, inference, subhuman and word, are generally valid for all philosophies
+ mimasaa mat main arthapatti or anuplabdhi ye do pramaan or maane jate hai
+ Vedantadarshana is the most ancient among them, being Upanishadic
+ kintu brahmasutra main anya darshanon kaa khandan he tathaa uskaa pracheenatam bhashya aadi shankaracharya kaa he 
+ Other philosophy sources were composed in the early centuries of Christ
+ sankhyasutra sambhawatah lupt ho gaya
+ Ishvakrishna's "samkhikarika" is the authentic treatise of Samkhya philosophy
+ sankhya darshan nirishvaravaadi dwaitvaad he
+ According to this, nature and man are two independent and eternal entities
+ "prakruti" jad he or jagat kaa sookshm kaaran he
+ He is the name of samyavastha of the three qualities of sattva, rajas and tamas
+ prakruti ke saath purush kaa sampark hone se sarg kaa aarambh hota he
+ Canto is the bond of man
+ tatvagyan se moksh hota he
+ The man is freed from the knowledge of his pure conscious devotional nature
+ yoga darshan ke siddhant sankhya ke samaan hai
+ The commentaries and commentaries on the Yogasutra form the basis of the elaborate tradition of Yogadarshana
+ yogadarshan kaa mukhya lakshya samadhi ke maarg ko prashast karnaa he
+ In the samadhi all the practices of the mind are cleared
+ abhyaas, vairaygy or dhyaan yoga ke mukhya saadhan hai
+ God can also be made the target of meditation, so is the importance of God in Yogadarshan
+ yama, niyam, asana, pranayam, pratyaahaar, dharna, dhyaan or samadhi ke aath angon se yukt ashtaangyog yoga kaa sarvajan sulabh maarg he
+ Justice and Vaishika are proven philosophies
+ nyaay ek prakaar kaa bhartiya tarkshastra he
+ There are many famous commentaries on the Nyasutra
+ gangesh upaadhyaay kii "tatvachintamani" se navadweep main navy nyaay kii parampara kaa aarambh hua
+ In the very first sutra of the judiciary, 16 substances are mentioned
+ inke dwaara tatvagyan hota he jo ni:shreyas athwa moksh kaa saadhan he
+ The evidence is found in special detail in the Court of Justice
+ ishwarbhakti ko nyaay main moksh kaa saadhan mana gaya he
+ Vaisesika philosophy is a similar system of justice
+ vishesh athwa 'parmaanu' uskaa mukhya vishay he
+ Nuclear is the root cause of creation
+ ishwar ko nyaay-vaisheshik-dasharn sristi kaa nimitt kaaran maanate hai
+ In Vaisesika philosophy, the entire entity is divided into seven substances - matter, virtue, action, general, special, equipoise and absence
+ nyaay ke 16 padaarthon kii apeksha adhik sangat hone ke kaaran yahi vibhaajan aage chalakar adhik maanya hua tathaa nyaay-vaisheshik-darshan kii us sanyukt parampara kaa aadhaar bana jiskaa pratinidhitiv "nyaayamuktawali" aadi arvachin granth karte hai
+ The last two visions in the conspiracies are called "epistemology"
+ ye purvamimansaa or uttarmimasaa kehalaati hai
+ He has a more intimate relationship with the Vedas than other philosophies
+ ek prakaar se ye vaidic darshan kii vyakhyaayein hai
+ Poorvimamsa, Mantrasamhita and the rituals of Brahmins are explained
+ uttarmimasaa upanishdon ke aadhyatmadarshan kaa taarkik vivechan he
+ Being the last part of the Vedas, the Upanishads are called "vedanta"
+ uttar mimasaa kaa naam bhi "vedant" he
+ The principles of both these epistemologies are based in the Vedas, but they began in the form of systematic philosophies along with other philosophies
+ isiilie inaki gananaa shaddarshanon main kii jaati he
+ There are three stages in the history of both epistemologies
+ teenon hi charnon main inkaa vikaas ek hi purvottar kram main hua
+ In the Vedic era, rituals were enacted in the east of the Vedas
+ vedon ke uttar bhaag main aadhyatm kii pratishtha hui
+ The "mimamsasutras" and "brahmasutras" of Jaimini and Badarayana were probably composed in the same order in the early century of Christ
+ isa kii saatvin shatabdi main kumaril bhatta or shankaracharya ne isi purvapar kram main purv or uttarmimasaaon kaa uddhaar evam prachaar kiya
+ Being Buddhist, Buddhism is opposed to theistic Vedic philosophy
+ vaidic dharm ke viruddh kranti ke rup main hi isvi purv chhathi shatabdi main buddha dharm kaa udai hua tha
+ Buddhism began to decline in the sixth century CE due to several reasons
+ usee samay kumaril or shankaracharya ne vaidic dharm ke donon pakshon kii pratishtha kii
+ After them, Parthasarathi Mishra and Madhavacharya expanded the philosophy of Purvimamsa
+ madhavacharya vijaynagar ke raja vukka ke mantri the
+ Later, after taking sannyas, he occupied the post of Shankaracharya of Sringeri Peeth in the name of Vidyaranya and wrote the Pradhi Vedanta Granth called "panchadasi"
+ vedantamat kii pratishtha ke liye shankaracharya ne desh ke chaaron konon par jin chaar peethon kii sthapana kii unamem shrungery peeth dakshin main nilgiri parvat par sthit he
+ The other three benches are at Puri, Badarikashram and Dwarka
+ shankaracharya ne upanishdon, brahmasutra or gita par bhashyon kii rachana kii
+ After Shankaracharya, Vachaspati Mishra, Shri Harsha etc
+ Acharyas expanded the Vedanta tradition
+ purvamimasaa kaa mukhya lakshya vaidic karmkand kii vyavastha karnaa he
+ According to this, the main meaning of Vedamantras is in the order of law or karma
+ jin mantron main vidhivachak kriya nahan he ve "arthwaad" hai tathaa devataaon aadi kii prarochana karte hai
+ If Yajnadi Karma produces a divine power called "apoorva"
+ yahi apurv karmfal kaa niamak he
+ God is not valid in forethought
+ veda nity or apaurushey hai
+ The word kalp is perpetually exploded in the cycle, and the creation of the universe is created by the power of the extraordinary
+ purvamimasaa kii aatma vaisheshik ke samaan chetanaatit he
+ In addition to the variable proofs of justice philosophy, two proofs and unavailability are considered in philosophy and epistemology
+ uttar mimasaa vedon ke uttar bhaag par ashrith he
+ The Upanishads are the last part of the Vedas, hence they are called 'vedanta'
+ uttar mimasaa kaa adhik prasiddh naam "vedant" hi he
+ Vedanta is expanded by interpretations of the Brahmasutras and Upanishads
+ anek aacharyon ne bhinn bhinn drushtikon se brahmasutron or upanishdon kii vyakhya kii he
+ Many sects of Vedanta became based on different opinions of Acharyas
+ ye advait, vishishtadvait, dwait aadi ke naam se prasiddh hai
+ These sects of Vedanta are not philosophical like Sankhya etc
+; The religious benches of all these sects are revered in various places of the country
+ in peethon kii acharya-parampara aaj tak akshunn chali aa rahi he
+ Gitadarshan is also contemporary of Vedic conspiracies
+ gita kaa karmyog upanishdon ke brahmavaad ke baad ek mahatvapurn moulik darshan he
+ All Vedic philosophies have acknowledged the importance of Karmayoga
+ vyaavhaarik hone ke kaaran use pratinidhi bhartiya jeevandarshan kaha ja saktaa he
+ Spirituality and life have been wonderfully coordinated in the Karmayoga of Gita
+ aitihaasik drushti se yah vaidic karmkand or upanishdon ke brahmavaad kaa samanvay he
+ This coordination of spirituality and karma is very important
+ upanishdon ke vedant tathaa buddha or jain dharm ke sanyasawad ke prabhaav sa bhartiya janata main virakti or nivritti kaa prabhaav itnaa bad rahaa tha ki samaaj ke liye ghaatak ban jaataa
+ In such a situation, Gita gave the message of Karmayoga, giving the country a life-long mantra
+ aadhyatm ko sweekaar kar gita ne sanyas ko ek nai paribhaasha di
+ The common meaning of "sannyas" is "renunciation"
+ kintu is tyaag main praaia: bhranti ho jaati he
+ Natural deeds like food, sleeping etc
+ can be discarded
+ kamya karmon kaa bhi tyaag sambhav he
+ This is the renunciation of the Gita
+ fal kii kaamana tyaag kar lok sambhav he
+ This is the renunciation of the Gita
+ fal kii kaamana tyaag kar lok sangrah ke liye nishkaam karm karnaa jivan kaa adarsh he
+ This is the means of salvation
+ gita kaa yah nishkaam karmyog adhikansh bhartiya darshanon ne apanaaya he
+ Jnana Yoga is his spiritual foundation and Bhakti Yoga is his emotional philosophy
+ vedant ke in anek sampradaayon main shankaracharya kaa advaitamat sabase pracheen he
+ It is also probably the most prestigious
+ shankaracharya kaa advaitvaad upanishdon par ashrith he
+ According to him, Brahma is the only truth
+ jagat kaa vikshep or jeev ke brahmbhav kaa aavaran karti he
+ Upon the removal of ignorance, the organism is interviewed by his brahmabhav
+ yahi moksh he
+ Brahma is Sachchidananda
+ brahm kii satta or chetana tathaa uskaa anand anant he
+ Out of the awakened, dream and dormant states, and from external and internal matters, there is light of Brahma in past experience
+ vishyatit hone ke kaaran brahm anirvachaneey he
+ He is called "advaita" because of being numbered
+ tyaag or prem ke vyavhaaron main yah advait bhav vibhasith hota he
+ It has an internal interview in samadhi
+ advait bhav ko siddh karne ke liye brahm ko jagat kaa kaaran mana gaya he
+ Both are proved to be unanimous considering Brahm as the causal cause of the world
+ upadan ke parinaam kii ashanka ko vivartvaad ke dwaara dur kiya gaya he
+ The refraction is non-working
+ uskaa kaary mithyaa hota he jaise rajju main sarp kaa bhram
+ The rope snake and the dream are experimental realities
+ jagat vyaavhaarik satya he
+ It is valid till salvation
+ brahm hi parmaarthik satya he jo moksh main shesh rah jaataa he
+ Brahm containing Maya is called "god"
+ vah sristi kaa karta he kintu vah parmaarthik satya nahin he
+ Knowledge is the means of Brahmanabhav
+ karm ke saadhy shaashvat nahin hote
+ "brahma" is not practiced by karma
+ karm or bhakthi moksh ke sahakaari kaaran hai
+ Shravan, Manana and Nididhyasana are the three stages of Moksadhasana
+ moksh main aatma samast bandhanon se mukt ho jaati he or anant anand se aplavit rahati he
+ This salvation is attainable in the lifetime and it is fully compatible with the behavior of life
+ shankaracharya ke lagbhag 300 varsh baad 11veen shatabdi main ramanujacharya ne brahmasutron kii naveen vyakhya ke aadhaar par vishishtadvait mat kii sthapana kii
+ On the basis of Ramanujakrit "sribhasya", it is called 'srisapradaya'
+ ramanuj shankar ke mayawad ko nahin maanate
+ According to him, Jiva, Jagat and Brahma are the three ultimate truths
+ jagat brahm kaa vivart nahin varan brahm kii vaastavik rachana he
+ Brahma and God are synonymous with each other
+ jeev brahm kaa ansh he
+ The world does not merge in salvation and the organism remains independent
+ brahm nirvishesh or nirgun nahin varan savisheshya or sagun he
+ Brahma is the independent entity
+ jeev or jagat uske apruthxiddh visheshan hai
+ Their existence is not possible apart from Brahma
+ at: ramanuj kaa mat bhi advait hi he
+ Brahma, with the adjectives of Jiva and Jagat, has a distinct monotheism with them
+ brahm inkaa antaryami swami he
+ Bhakti is the main tool of salvation in Ramanuja's opinion
+ bhagwaan ke gunon kaa gyaan bhakthi kaa prerak he
+ For ordinary people and Shudras, Prasanti i
+e
+ Sharanagati is the best route
+ ramanuj ke kuch varsh baad 11veen shatabdi main hi nimbarkacharya ne dwaitadvait mat kii pratishtha kii
+ His commentary on the Brahmasutras with the name "vedanta-parijat-saurabh" is the basis of this view
+ ramanuj ke samaan nimbark bhi jeev or jagat ko satya tathaa brahm kaa ashrith maanate hai
+ Advaita is the chief in the opinion of Ramanuja
+ nimbark mat main dwait kaa anurodh adhik he
+ According to Ramanuja, Jiva and Brahm are formative equilibria, there are differences in their power
+ nimbark ke mat main unamem swarupagat bhed he
+ The basis of the Nimbarka Advaita is the organism's dependence on the Brahman
+ nimbark kaa brahm sagun ishwar he
+ His devotion as Krishna is the ultimate path to salvation
+ yah bhakthi bhagwaan ke anugrah se praapt hoti he
+ God is interviewed with devotion
+ yahi moksh he
+ Videha Mukti is valid in the opinion of both Ramanuja and Nimbark
+ nimbark ke baad 13veen shatabdi main madhwacharya ne dwait mat kaa pratipaadan kiya
+ He is also famous by the name of Purna Pragya and Anandatirtha
+ unhone shankaracharya ke advait or nimbark ke dwaitadvait kaa khandan karke dwaitvaad kii sthapana kii he
+ According to him, the combined position of both distinction and impregnation is not possible
+ shankaracharya kaa mayawad bhi unhen maanya nahin he
+ The world is not false, but the reality
+ sat or asat se bhinn maaya kii teesri anirvachaneey koti sambhav nahin he
+ God, Jiva and Jagat are all different from each other
+ bhed ke paanch prakaar hai
+ There is a difference between God, God, world, living world, living organism and roots
+ ishwar jagat kaa upadan kaaran nahin, nimitt kaaran he
+ Gratitude is nature
+ ishwar uskaa niamak he
+ Salvation is attained through devotion to God
+ mukt jeevon main paraspar bhed rahata he
+ They differ from God and participate in the glory of God according to their ability
+ 15veen shatabdi main vallabhacharya ne shuddhadvait mat kaa prachaar kiya
+ Vallabhacharya's "anubhashya" written on "brahmasutras" is the basis of this opinion
+ ve maaya se alipt shuddh brahm kaa advait bhav maanate hai
+ This Brahman is not virtuous, it is virtuous and is devoid of the relation of Maya
+ brahm apni anant shakti se jagatra ke rup main vyakt hota he
+ Because of the conflict of mind and bliss, there is only the true manifestation of Brahma in the world
+ jeev or brahm swaroop se ek hai
+ Like the spurs of fire, the living entity is part of Brahman, not an adjective
+ is prakaar sarvatra advait he, kahin bhi dwait nahin
+ Maryada and affirmation are two types of devotional salvation
+ 16veen shatabdi main chaitanya mahaprabhu ne achintya bhedabhed kaa pravartan kiya
+ His disciple Roop Goswami founded the Gaudiya Vaishnava sect
+ inke anusaar bhagwaan kii shakti achintya he
+ She can coordinate opposing qualities
+ bhedabhed kaa chintan na karke moksh kii sadhana karnaa hi jivan kaa dharm he
+ Moksha means the continuous experience of God's love
+ is prakaar vaidic yug ke uttarkaal main upanishdon main jis vedant kaa udai hua uskaa naveen utthan saatvin shatabdi se lekar 16veen shatabdi tak advait, vishishtadvait, dwait, shuddhadvait aadi sampradaayon ke rup main hua
+ The Vedanta of the Upanishads is the product of Western and Northern India
+ advait aadi sampradaayon kaa udai dakshin se hua
+ Their promoters were residents of South countries
+ chaitanya kaa mat bengal se udit hua
+ But all these sects made their backs in northern places like Vrindavan etc
+ shankaracharya ne desh ke chaaron konon par peeth sthapit kiye
+ People from all regions of North, South, East, West joined these sects
+ siddhant main bhinn hote hue bhi vedant ke ye vibhinn sampradaay bharatvarsh kii aantarik ekta ke sutara bane
+ See the veil vaidic or avaidic darshanon ke atirikt bhartiya darshan parampara main ek teesri dhara shaiva tathaa shakt sampradaayon kii pravaahit hoti rahi he
+ Being in the form of some mystical practice, it has been secret like some Saraswati in the confluence of Vedic and non-vedic streams
+ kintu pratyaksh upasna ke rup main bhi shiv kii manyata bahut he
+ Shiva's antiquity is attested by ancient historical discoveries
+ gaanv gaanv main shiv ke mandir hai
+ Shiva fasts per week and per side
+ mahadev parvati kaa divya daanpaty bhartiya pariwaron main adarsh ke rup se poojit hota he
+ The Rig Veda and Yajurveda describe Shiva as Rudra
+ kintu praaia: shiv ko avaidic lokadevataa mana jaataa he
+ Shiva's nonchalance is supported by the context of Daksha's Yajnaghavanas, even in the mythological era, there is a feeling of opposition in the context of comparison with the Trideva
+ kintu aage chalakar shiv ek atyant lokapriy devtaa ban gaye
+ Shaiva sects have often been in secret systems
+ unka bahut kam sahitya prakashit he
+ The published literature is also arduous due to being symbolic
+ shaiva parampara ke anek sampradaay hai
+ Among them, Shaiv, Pashupat, Veerashaiva, Kalamukh, Kapalik, Kashmir Shaivism and Dakshin Mat are more famous
+ inhen shaiva parampara ke shaddarshan kah sakate hai
+ Shaivism is propagated in the Tamil country in the south
+ iskaa aadhaar aagam granthon main he
+ In the 14th century, Neelkanth coordinated Shaivism with the Vedanta tradition by creating Shaivabhasya on the "brahmasutras"
+ pashupat mat, 'nakulish pashupat' ke naam se prasiddh he
+ The Pashupat Sutra is the original book of this sect
+ kalamukh or kapalik sampradaay kuch bhayankar or rahasyamay rahe hai
+ Kashmere Shaivism is similar to Advaita Vedanta
+ tantric hote hue bhi inkaa darshanik sahitya vipul he
+ It has two branches, the pulse and the obtuse
+ ek kaa aadhaar vasugupt kii spandkarika or duusari kaa aadhaar unke shishy somanand kaa "pratybhignashastra" he
+ The Jiva and Parameshwara's Advaita are valid in both branches
+ parameshwar "shiv" vedant ke brahm ke hi samaan hai
+ Veerashaivism is prevalent in South countries
+ inke anuyaayi shivlinga dhaaran karte hai
+ Hence, they are also called "lingayats"
+ 12veen shatabdi main vasav ne is mat kaa prachaar kiya
+ Veerashaivism is a type of specialism
+ shakti vishisht vishwa ko param tatv maanane ke kaaran ise shakti vishishtadvait kah sakate hai
+ The Shaiva sects prevailing in the north and south are also the sources of religious unity of India like the North Vedanta sects
+ kailas se rameshwaram tak poojit shiv bhartiya ekta ke mangal devtaa he
+ a practical ritual of Indian unity is performed through the visits of both
+ shaktipuja kaa strot sambhavat: pracheen bharat ke matrutantr main he
+ The Goddess is very much glorified in Indian families
+ striyon ke naam main praaia: utaarpad ke rup main "devi" shabd kaa prayog hota he
+ There are many forms of power
+ lakshmi, saraswati, parvati, kaali aadi ke rup main devi kii upasna hoti he
+ "shakti" is wishful
+ shivasutra main ichhashakti ko uma kumari kaa rup diya he 
+ But the coordination of willpower in the Chinmaya form of the element is an important aspect of philosophy
+ sandarbh truti: "N" naamak sandarbh-samooh ke liye tag maujuud hai, parantu samooh ke liye koi tag nahin mila
+ It is also possible that an expiration tag is missing
+ nirdeshaank: 24°49′N 85°00′E / 24
+81°N 85°E / 24
+81; 85 Habibullahpur is a village in Attari, Gaya, Bihar
+ mohammad raja hayaat hurraj ek raajnneetijna he pakistan ke rashtriya vidhansabha main | vah NA-156 nirvachan kshetra kaa pratinidhitiv karata he pakistani punjab ke liye | The 1020 is a leap year of Gregorian calendar
+ sanyukt rajya virgin dweepasmooh ne pehle 1968 main olympic khelon main bhaag liya, or 1980 ke alaava har greeshmakaleen olympic khelon main pratispardhaa karne ke liye athlete bheje, jab unhone masco khelon ke bahishkaar main bhaag liya
+ He has also participated in seven Olympic Winter Games since 1988, which only miss the 2010 Winter Olympics
+ virgin islander dwaara jiti hui ekmaatr olympic padak, 1988 main greeshmakaleen olympic main naukayan main peter holmbar dwaara ek rajat tha
+ The Virgin Islands Olympic Committee was formed in 1967 and recognized by the International Olympic Committee in the same year
+ junun 1978 main bani hindi bhashaa kii film he
+ In the sixth century BC, a caste called Lichchhavi lived in the northern part of Bihar state, ie Vaishali Nagar in Muzaffarpur district
+ licch naamak mahapurush ke vanshaj hone ke karan inkaa naam lichhavi padaa athwa kisi prakaar ke chihn dhaaran karne ke kaaran ye is naam se prasiddh hue
+ The Lichchavi dynasty is well known in history, whose kingdom was once in Nepal, Magadha and Kaushal
+ pracheen sanskrit sahitya main kshatriyon kii is shakha kaa naam 'nichhavi' yaa 'nicchhivi' miltaa he
+ The Pali form is 'licchavi'
+ manusmriti ke anusaar lichhavi log vratya kshatriya the
+ In it they are counted along with Jhal, Malla, Nat, Karan, Khash and Dravid
+ ye 'lichhavi' log vaidic dharm ke virdohi the
+ Many of their branches were spread far and wide
+ vaishaliwali shakha main jain tirthankar mahavir swami hue or koshal kii shakya shakha main gautam buddha pradurbhoot hue
+ Once upon a time, this dynasty ruled from Mithila to Magadha and Kosala
+ jis prakaar hinduon ke sanskrit granthon main yah vansh hin kaha gaya he, usee prakaar baudhon or jainon ke pali or praakrit granthon me yah vansh ucch kaha gaya he
+ King Bimbasar of Magadha, contemporary of Gautama Buddha, had relations with the Lichchhavis of Vaishali
+ peeche gupt samrat ne bhi lichhavi kanya se vivaah kiya tha
+ The history and history of this caste is found in one form or the other for one thousand years
+ pali sahitya main lichhavi vajji sangh kii pradhan jati thi atev angutar nikaay, mahavastu tathaa vinayapitak main shodash mahajanapad kii suchi main vajji kaa hi naam aata he, lichhavi kaa nahin
+ Probably this is the reason why Panini has mentioned Vrijjya Sangh
+ 
+ Kautilya has also confirmed this
+ vajji sangh kii aath jatiyon main lichhavi ko sabal tathaa sarvashaktisampann jati maanate the jisaki rajdhani baishali kaa ullekh ramayana main bhi aata he
+ According to Indian tradition, the Lichchhavis were Kshatriya descendants, which is why the Lichchhavi Sangha after Mahaparinirvana divided the relics of the Buddha
+ un logon ne us avshesh par stupa kaa nirmaan kiya tha jo vaishali kii khudaai se prakaash main aayaa he
+ Being a region of Buddhism and Jainism, special mention has been made of the Lichchavi caste in Palisakhtya
+ ise apaar shaktishaalee tathaa uttam dhang se sangathit sangh kaha gaya he
+ The second association of Buddhism also took place in Vaishali
+ aisa kaha jaataa he ki lichhavi logon ne bimbsaar ke shasankaal main magadh par chadhaai kii thi 
+ The treaty in Magadha and Vaishali states resulted in a matrimonial relationship, but after Bimbasar, Ajatashatru thought to avenge this war
+ sansar se virakt rahane par bhi buddha ne ajatshatru ko sachet kiya tha ki lichhavi sangh ajey he, abhedya he tathaa uske prajatantratmak sanghathan ko koi nirbal nahin kar saktaa
+ Aware of these words of the Buddha, Ajatashatru gave up the idea of making a direct attack and entrusted the vile task of breaking the Lichchhavi Sangh and making it distinct by creating distinction
+ ant main ajaat safal hua 
+ In order to invade Vaishali, the city of Pataliputra was established on the south bank of the Ganges, where Magadhasena was organized and the Lichchavi Sangha was defeated due to the schism
+ buddha dharmanuai hone ke kaaran lichhavi jati ne shanti tathaa ahimsa kaa samarthan kiya
+ Probably under the Magadha Empire, the Lichchavi caste continued to rule over the democratic system for centuries
+ isvi san ke aarambh se kushaan kaal main lichhavi sangh ne pun: swatantraaa kii ghoshnaa kar di
+ His organization prevailed and Vaishali became the head of state in northern Bihar
+ chauthi sadi main gupt vansh kaa udai hone par gupt naresh lichhavi vansh se vaivaahik sambandh ke kaaran shaktishaalee ho gaye
+ The emergence of the Gupta empire was made possible with the cooperation of the Lichchhavis
+ isaki pushti gupt abhilekhon tathaa swarnamudraon se ho jaati he
+ In the golden period of the Gupta period, there is a gold coin known as "chandragupta and Shri Kumar Devi", in the front of which is carved the figure of the king and queen and inscribed "chandragupta" and "sri Kumar Devi"
+ prishth bhaag par singh kii peeth par baithi ambika kii murti he
+ On the right is read the "lichchavaya:" Mudraksha
+ paryaapt vivechan ke pashchaat yah siddh kiya gaya he ki gupt naresh pratham chandragupta ne lichhavi rajkumaari kumaradevi se vivahoparaant yah sikaa nikaala
+ This marriage is confirmed by the Prayag pillar inscription of Samudragupta where Samudra is described in the following words: - "sri Maharajadhiraja Chandraguptaasya Lichhavi Dauhitrasya Mahadevayana Kumaradevamutpannasya Maharajadhiraja Sri Samudraguptaasya"
+ isse donon rashtron main parsparik sahanubhuti tathaa sahyog rahaa
+ Perhaps in the face of the imperialist imagination, the Lichchavi etc
+ could not preserve the existence of the kingdom
+ prajatantron ke bhartiya rangamanch se hat jane ke kaaran raajnneetik chetana ko navajivan pradaan karanevaala strot samaapt ho gaya
+ The Lichchhavi caste migrated from northern Bihar to Nepal in the sixth century
+ unhone kathmandu ke surakshit bhubhag main pravesh kar rajya sthapit kiya
+ The city of Kathmandu was founded by the Lichchavi king Gunakamdev
+ lichhavi jati ke kai abhilekh vahaan mili hai jo is baat ko pramanit karte hai ki is jati ne kai sadiyon tak nepal main shashan kiya
+ His reign has been called the "golden Age" in the history of Nepal
+ lichchhaviyon ko nepal main thakuri vanshi shaskaon nen haraa kar satta apane adheen main le liya
+ The Newar people of Nepal are children of Lichchhaviyans
+ lichchhaviyon ke parampara ko abhi tak in logon main jivit he
+ On the basis of Dighnikaya it can be said that in Vajjasingha, women were respected and respected by the elderly
+ kulkumariyon ke saath balaprayog nahin kiya jaataa tha
+ Members of the Sangh obeyed the chaityas, worshiped and performed religious functions properly
+ prashasaneey kaaryon ke sampaadan ke liye lichchhavigan kii sabha thi jiske 7707 sadsy the or sab raja kehalaate the
+ In the absence of clear evidence, it is difficult to say that all the members of the Sangh Sabha were elected
+ lalitvistar main varnan aata he ki lichhavi paraspar ek duusare ko chota bada nahin maanate the, sabhi apane ko raja samajhate the is sambandh main jataka kaa yah kathan bhi mahatvapurn he ki shashan nimitt vaishali nagar ke gana raajaaon kaa abhishek kiya jaataa tha
+ Lord Buddha had said in relation to Lichchhavi Gana that all the members were present in the convention in unison
+ bina niyam banaae koi ajna preshit nahin karte tathaa purv niyamon ke anusaar kaary karte the
+ Among the ancient republics located in Bihar was the largest and powerful kingdom in the Buddha period
+ is ganraajya kii sthapana suryavanshiy raja ishvaku ke putr vishaal ne kii thi, jo kaalaantar main ‘vaishali’ ke naam se vikhyath hui
+ The Lokayukta is an anti-corruption institution formed by the states of India
+ iskaa gathan scandinavian deshon main prachit 'ambudsman' kii tarj par kiya gaya tha
+ The term of the Lokayukta is 8 years
+ nil jihva rog ke liye raksha blue naam kaa vaxin launch kiya gaya he
+ On 8 January 2015, a vaccine called Raksha Blue was launched to combat deadly indigo tongue disease
+ ise hyderabad, telugana main indian immunologicals limited kii gachibauli suvidha dwaara shuru kiya gaya he
+ The objective of launching the vaccine is to reduce the economic loss to the animal farming community due to indigo tongue disease
+ nil jihva rog ke liye yah bharat kaa pehla vaxin he
+ vishaanu se failane vaali is bimaari ke puri duniya main 24 prakaar hai
+ inamen se paanch prakaar bharat main adhik prachilat hai
+ The vaccine has been introduced in the country to protect animals from five types of the blighting virus
+ kisaanon ke liye vaxin kii har khuraaq paanch rupaye main uplabdh hogi
+ This vaccine is the result of the collective efforts of IIS, TANUVAS and ICAR
+ is vaxin ko banane main teen varsh kaa samay laga he
+ The vaccine will be developed at iil's Hyderabad facility to produce the first batch of three million doses
+ yah vaxin chaar varsh kii umr vaale pashuon kii aabaadi ko diya jayega or teem maheenon main booster khuraaq evam har varsh ek khuraaq unhen di jaaegi
+ Indigo glossary disease is a non-contagious, pest-transmitted, ruminant viral disease that affects millions of sheep, goats, buffaloes, deer, camels and antelopes around the country
+ yah rogajanak virus– riyoviride parivaar ke orbivyres jinas ke bluetang virus kii vajah se hota he or yah midj kulikodij imicola, kulikodij varipennis or anya kulikodice ke jariye failata he
+ Constitution Day is celebrated to commemorate the adoption of the constitution in Denmark
+ 5 june 1849 een ko denmark main pehali baar samvidhan sweekrut hua or vah sanvaidhanik rajtantr ban gaya
+ 1953 AD main jab punah samvidhan nirmit hua to is din ke mahatv ko dhyaan main rakhkar isi din se use lagu kiya gaya
+ This day is also celebrated in Denmark as Pitra Divas
+ silahat bangladesh kaa ek upakshetra he iskaa mukhyalay silahat he
+ There are 4 districts in this sub-region or province
+ habibganj, maulavee bazaar, sunamganj, silahat
+ Bandarban · Brahmanbaria · Chandpur · Chittagong · Komila · Kauksbazar · Feni · Khagrachari · Laxmipur · Nokahali · Rangamati dhaka · gajipur · narsingedi · manikganj · munshiganj · narayanganj · kishorganj · tangile · faridpur · madaripur · shariahpur · rajbadi · gopalganj
+ Bagherhat · Chowdanga · Jessore · Zhenideh · Khulna · Kushtia · Magura · Mehrpur · Narail, Satkhira bogra · jaipurhat · naugaanv · natore · nawabganj · pabana · ranpur · sirajganj · 
+ Habiganj · Maulvi Bazar · Sunamganj · Sylhet
+ maimansingh · sherpur · jamalpur · netrokona · Dinajpur · Gaibandha · Kurigram · Lalmunirhat · Panchgarh · Rajshahi · Nilphamari · Thakurgaon
+ narhar amba main bharat ke bihar rajya ke antargat magadh mandal ke aurangabad jile kaa ek gaanv he
+ a reciprocating pump is a type of positive-displacement pump consisting of piston pumps, planer pumps, and diaphragm pumps, etc
+ iskaa upyog vahaan hota he jahaan apekshaakrit kam maatra main drav ko pump karnaa ho tathaa kaaryakari daab bahut adhik ho
+ The chamber in which the fluid is held back by the reciprocating pumps is in the form of a fixed cylinder in which the piston or plunger is located
+ ajmer lok sabha nirvachan kshetra bharat ke rajasthan rajya kaa ek lok sabha nirvachan kshetra he
+ Currently, the Ajmer Lok Sabha constituency consists of eight assembly constituencies
+ anya dal National political alliance raajnneeti praveshdwar The post of Chief Justice of Bangladesh, Bangladesh is the highest judicial post
+ is pad par virajman hone vaale pehle padaadhikari nyaayamurti ab saadaat mohammeh khan sayam the, joki 16 disambar 1972 se november 1975 tak is pad par rahe the
+ Subsequently, as of January 2015, a total of 21 people have sat on this post
+ vartmaan mukhya nyaayadhish surendra kumaar sinha is pad par 17 janvari 2015 virajman hai
+ He is a follower of Hinduism, and comes from the Bishnupriya Manipuri community, and is the first Chief Justice appointed from any minority ethnic groups in Bangladesh
+ nyaayamurti bhaavani prasad sinha bhi ek hi samudaay se hai
+ Justice Mahouday Nazman Ara Sultana was the first woman judge to embellish the post, and Madam Justice Krishna Debnath is the first female Hindu judge in Bangladesh
+ vartmaan main supreme court main chah mahila nyaayadhishon rahe hai
+ During the period of military rule in Bangladesh, between 1973 and 1975, two separate High Courts and Supreme Courts were established, bifurcating the Supreme Court
+ is bich, nyaayamurti ruhul islam ucch nyaayalay ke mukhya nyaayadhish the, or saiyad mahmud hossain sarvocch nyaayalay ke mukhya nyaayadhish the
+ The following table informs all the Chief Justices of Bangladesh
+ spirokit bacteria kaa ek jeevvaigyanik varg he jo spirokitis sangh kaa sadsy he
+ It is a two-membered gram-negative bacterium whose cells in most species have a spiral coil size, 3 to 500 μm long and 0
+09 to 3 μm diameter
+ spirokit rasaynahari hote hai or anya bacteria sanghon se apni lambi or sarpil kashabhikaon se pahachaane jate hai
+ These flagellates make the spirochete twisted
+ adhiktar spirokit jatiyaan swatantra rup se rahane vaali avayujeevi hoti hai lekin kuch anya jeevon main rogajanak hoti hai
+ Joshigaon Chakdak is a village in Bageshwar district of Kumaon division under Uttarakhand state of India in Kafligar tehsil
+ param vishisht seva padak, ati vishisht seva padak Admiral Jayant Nadkarni served as the Chief of Naval Staff of India from December 1, 1987 to November 30, 1990
+ unhone radhakrishna hariraam tahilyani se yah padbhaar grahan kiya tha tathaa unke pashchaat lakshminarayan ramdaas is pad par aae
+ The ICC Champions Trophy 2006 is a world-class cricket competition
+ yah bharat me 7 oktober se 5 navambar 2006 me yojit kii gai
+ It is the fifth competition in the ICC Champions Trophy series
+ is pratiyogita ke muky daur ke liye chaar tiimon westeindies, srilanka, bangladesh or zimbabwe ko kwalifaaing round khelaa gaya
+ The West Indies and Sri Lanka teams qualified for the main round
+ austrailia ne final mukaable me westeindies ko 6 wicket se haraa kar pratiyogita jiti
+ Ten test-playing countries are participating
+ preetam paal haryana rajya ke lokayukta ke pad se 18 janvari 2016 ko sevanivrutt hue hai
+ He was born on 3 June 1947 in Kandroli, a small village in Yamunanagar district
+ inhone apni snaatak shiksha san 1969 main punjab vishvavidhyalay, chandigarh se hasil kii
+ After this, he received his legal education from Kurukshetra University in 1972
+ inhone ek vakil ke rup main kurukshetra evam yamunanagar court main 14 varsh tak vakaalat kii
+ During this time he was active for Arya Samaj and in other political and social works
+ ye 1986 main haryana main atirikt jila nyaayadhish ke rup main niyukt hue
+ He was appointed as District Judge in Gurgaon, Rohtak, Ambala, Yamunanagar, Hisar, Mahendragarh, Bhiwani and Faridabad in Haryana
+ iske baad inhen punjab evam haryana ucch nyaayalay main register ke rup main janvari 2002 main niyukt kiya gaya
+ He held this post till November 2004
+ inhen mananeey nyaayalay main navambar 2004 main padasin kiya gaya
+ He remained in this post till his retirement
+ is dauraan inhone lagbhag 6900 maamalon kaa faisla kiya
+ In 2009, these services were retired
+ seva nivruti ke baad inhen rajya upabhokta vivaad nivaaran ayog main adhyaksh ke rup main niyukt kiya gaya
+ He remained in this post till 17 January 2011
+ 18 janvari 2011 ko inhen haryana ke lokayukta ke rup main pad va gopneeyata kii shapath dilaai gayi
+ Digha Express 2867 is a mail express train operated by Indian Railways
+ yah train shalimaar railway stesan se 08:00AM baje chhootati he or digha flag stesan railway stesan par 11:20AM baje pahunchati he
+ Its travel duration is 3 hours 20 minutes
+ amola devi,bharat ke uttar pradesh kii duusari vidhansabha sabha main vidhayak raheen
+ In the 1957 Uttar Pradesh Legislative Assembly elections, he participated in the election on behalf of the Congress from 306 - Atheha Legislative Assembly constituency in Pratapgarh district of Uttar Pradesh
+ kalimpong 1 bharat ke pashchim bengal rajya ke kalimpong zile main sthit ek saamudayik vikaas khand he
+ Kalimpong is the headquarters of this section
+ hung laga kandai, ghat tehsil main bharat ke uttrakhand rajya ke antargat gadhwal mandal ke chamoli jile kaa ek gaanv he
+ , Chauth's Barwada is a small town under the Sawai Madhopur district of Rajasthan, the grand temple of Mata ji is built on the Shaktigiri mountain of this small town
+ chouth mata hindu dharm kii pramukh devi maani jaati he jo swayan mata parvati kaa hi ek rup he
+ The oldest and most famous Chauth Mata temple of India is established in the Barwada town of Chauth where lakhs of visitors come to see Mata ji on the Chaturthi of every month
+ chouth kaa barwada shahar main har chaturthi ko striyaan mata ji ke mandir main maan ke darshan karne ke baad vrath kholti he evam sadaa suhagan rahane ashish praapt karti he
+ Millions of devotees arrive at the court of Mata ji at Karva Chauth and Mahi Chauth, so that the small town of Barwada of Chauth is resonant with the cheers of Mata ji
+ chouth mata ke striyon kii bheed purushon kii apeksha adhik rahati he kyonki suhaag ke liye sabase upyukt jagah maan kaa darbar jo jan jan kii aasthaa kaa centre he
+ Chauth ka barwada di
+ ve
+ krishna shastri telugu bhashaa ke vikhyath sahityakar hai
+ He was honored with the Sahitya Akademi Award in 1978 for his poetry and drama Krishna Shastri Kritul composed by him
+ mimasaa darshan hinduon ke chah darshanon main se ek he
+ Mimamsa is the name of the venerated meaning of Vedavakyas regarding the opposition
+ ukt vichaar purv arya parampara se chalaa aayaa he
+ But almost a quarter of five thousand years ago, the disciple of Samveda's Krishna Dvaipayana formulated it
+ sutron main pur paksh or siddhanth ke rup main baadaraayan, baadari, aatreya, ashmarathy, aalekhan, etishaayan, kaamukayan, karshnajini ar labukayan maharishiyon kaa ullekh miltaa he, jiskaa vistrut vivechan sutron ke bhashya ar vaarthik main kiya gaya he, jinase sahasraadhikaran ho gaye hai
+ This scripture is also known as Purvimamsa and Vedant's Uttermimamsa
+ purmamimasaa main dharm kaa vichaar he ar uttarmimasaa main brahm kaa
+ Therefore, the Dharmamimamsa of the East and the North, and the north-east is also called the Brahmanimansa
+ jaimini muni dwaara rachit sutara hane se mimasaa kaa jaimineey dharmamimasaa kaha jaataa he
+ The German scholar Maxmüller states that - "this philosophy cannot come in the category of philosophy, because it only discusses religion
+ isamen jeev, ishwar, bandha, moksh or unke sadhano kaa kahin bhi vivechan nahin he
+ " maxmooler mat ke pakshpaati kuch bhartiya vidvan bhi ise darshan kehane main sankoch karte hai, kyonki nyaay, vaisheshik, sankhya, yoga or vedant main jis prakaar tat tat prakarnon main pramaan or pramayon ke dwaara aatma-anatma, bandha-moksh aadi kaa mukhya rup se vivechan miltaa he, vaisaa mimasaa darshan ke sutara, bhashya or vaarthik aadi main drushtigochar nahin hota
+ The above thinkers have expressed their views after studying the scripture with a gross intellect
+ phir bhi spasht he ki mimasaa darshan hi sabhi darshanon kaa sahyogi kaaran he
+ Jaimini has novelized these subjects in his sutra form "satsamprayoga Purushyasendriyanam Budhi Jan Tat Tatam" In the fourth sutra two words have come - Purusha and Wisdom
+ purush shabd se "aatma" hi vivakshit he
+ This meaning is written by Kumaril Bhatt in "bhattadipika"
+ buddhi shabd se gyaan, pramaata, prameya or pramaan arth ko vyakt kiya gaya he
+ The Vrittikar has given a detailed explanation of the direct, inferential words, meaning and unavoidable evidences in the three sutras to "tasya nimitta parishti:" in his lecture and a special discussion of subjectivism in the justified sutra
+ isi kaa vishleshan shabar bhashya, shloke vaarthik, shastradipika, bhatt chintamani aadi granthon main kiya gaya he jisamen pramaan or pramayon kaa bhed, bandha, moksh or unke sadhano kaa bhi vivechan he
+ In the philosophy of Mimamsa, the ideas of Varnashrama system, Adhanadi, Ashwamedhant etc
+ have been discussed in the main life of religion of India
+ praaia: vishwa main gyani or virakt purush sarvatra hote aae hai, kintu dharmacharan ke saakshaat falwetta or karmkand ke prakand vidvan bharatvarsh main hi hue hai
+ Among these, the texts of Maharishi such as Katyayan, Ashwalayan, Apastamb, Bodhayan, Gautama etc
+ are still available
+ 
+ The Indian ritual ritual theory receives redemption and support in this philosophy
+ dow kunnan raja ne "brihati" ke dwitiya sanskaran kii bhoomika main iskaa samuchit rup se nirupan kiya he
+ Although the name of religion is mentioned in Kanad Muni's vaheesic philosophy - it is not considered further
+ kisi vidvan kaa kahana he - That is, just as a man goes into the Himalayas, desirous of going out to sea, in the same way, Kanad Muni, who was interested in lectures of religion, went on discussing the matter
+ uttar mimasaa ke siddhant ke anusaar karmatyag ke pashchaat hi atmagyaan prapti kaa adhikaar he, kintu purv mimasaa darshan ke anusaar - According to this Vedamantra, Mumukshu people should also do karma
+ vedavihit karm karne se karmbandhan swat: samaapt ho jaataa he - tasmanmumukshubhih kaary nityam naimittikan tathaa" aadi vachanon ke anusaar bhartiya aastik darshanon kaa mukhya praan mimasaa darshan he
+ The Mimamsa philosophy is of sixteen chapters, with twelve chapters in order
+ shastrasangati, adhyaysangati, padasngati or adhikarasangatiyon se susambaddha he
+ What has been missed in these twelve chapters is represented in the remaining four chapters, which is famous as 'sankarsakand'
+ usamen devtaa ke adhikaar kaa vivechan kiya gaya he
+ Therefore, it is also called 'devata Kand' or can be called an appendix of two chapters
+ bhaskar raay dikshit ne sankarshan cond kii vyakhya ke ant main likhaa he ki shodashadhai mimasaa ke rahete hue bhi pathnpathan madhya kaal main dwadashadhyay kaa hi hota tha
+ Just as the scholarly class chants Tripada Gayatri even when Chatupada Gayatri is living, similarly in the present day, the study of Dwadashadhyayi Mimamsa is the only teaching
+ kuch vidwaanon ke anusaar mimasaa ke bina vaakyarth kaa nirnay karnaa kathin he, kyonki amuk vaakya upasthit arth main pramaan he athwa anya arth main, is vichaar ke nirnay main jo nishkarsh aata he use mimasaa kaha gaya he, kintu yahan mimasaa shabd kaa arth darshan se he
+ The idea of the meaning of non-contradictory Vedamantras for theology is called Mimamsa
+ or vichaarpurvak praapt dharmagyaan mimasaa kaa fal he
+ This is what Jamini has said in his philosophy of philosophy - that is, curiosity of religion
+ 1
+1
+1
+ Kumaril Bhatt described it as - aage vaakyarth nirnyopayogi sahasron nyaayon kaa varnan kiya gaya he
+ Even six chapters have a brief theme
+ is darshan main praptaprapt vivek nyaay se, athwa adagdh dahan nyaay se uddeshy vidhey bhav kaa vichaar kar veda-vaakyarth-nirnay se kartavya-akartavya kaa gyaan hota he
+ Therefore, theology is the object of philosophy
+ is darshan main dharmavichaar se upkram he
+ Sanskrit literature is used in grammar for "grammar", grammatical justice, and "syntax" for epistemology
+ is shaastra main hi dharmavichaar kii charchaa hai
+ The main objective of the Indian public is religious worship
+ anushthan fal ke bina nahin ho saktaa or falsaadhanta bhi saadhan saamagree ke bina nahin ho sakati
+ Therefore, in short the means are also discussed
+ anushthan ke purv dharm kaa lakshan, pramaan or saadhan fal jaananaa aavashyak he
+ In this shastra, means, organs and balances are all three synonyms
+ aise hi saadhy, sheshi or angi ye teenon paryaayavachi hai
+ For example, if you want to perform the ritual of Darshan Purnamas for the attainment of heaven, then Darshan and Purnamas will be Angi and Prayas will be part of it
+ darsh yag amavasya tithi ko or poornmaas yag poornima tithi ko hota he
+ ) In this, the organ is the prime organ sponsor and the organ is usable
+ is prakaar dharmaprapti ke sadhano ko jaanakar anushthan ke liye paurvapary kaa bhi gyaan apekshit he evam fal ke liye anushthey agni hotradi karmon ke prakaran main purvang or uttarang sadhano kaa bhi vivechan he, jinke liye "prakruti" shabd kaa prayog hota he
+ But there is no recitation of the Anga in the Sannidhi of the solar day
+ us sthal par aakanksha ke udai hone par darsh poornmaas main pratipaadit angon ko lenaa hota he jise atidesh kehete hai
+ 
+ saamaanya rup se nirnay hone par bhi kis karm se kis karm main ang kaa aagaman hota he, iskaa vivechan visheshatidesh se kaha gaya he
+ In spite of the excesses of the limbs, due to the difference in nature, the text is read in place of Prakrit
+ udaahranarth "agney twa jushta nirvpaami"
+ In this Shrutivakya, by placing the Suryapada of "suryohyeshti" in place of fire post, "surya Tvajushtam Nirvapami" recites this shruti
+ aise vaakya ko "ooh" kehete hai
+ Without the knowledge of these things, it is not possible to understand which parts should be used where and how, so that the ritual can be properly fruitful
+ jis sthal par ang pathit na ho vahaan anya sthal se ang laana chahie, kintu jo vikruti yag ke upkaar kar sakate hon ve hi prakruti main liye ja sakate hai
+ Those who cannot do favors in deformity, there is no recitation of other organs
+ or unka anushthan bhi nahin hota
+ Such words are called "obstructions"
+ kis ang kaa baadh hota he or kiskaa nahin, iskaa nirnay "ooh" baadh ke adheen he
+ And the desired fruitful karma is only one
+ kintu kahin kahin anek bhi hote hai
+ Some organs are ritualized before the head and some are also performed after the head
+ udaahranarth samidheni prayajadi tathaa swisht krit anuyajadi
+ It has been said about using those organs at the same time or multiple times - ek baar prayog karne kaa naam tantra he or anek baar ke karne kaa naam "aavriti" athwa "awaap" he
+ Somewhere the organs are ritualized by mechanism and elsewhere by frequency
+ isliye tantra or awaap kaa vichaar bhi aavashyak he
+ For a particular fruit, do the ritual of the head organ and also perform its organs
+ un angon ko bhi anya angon kii apeksha hone par jiske prayog kii aavashyaktaa hoti he use prasangi kehete hai
+ It consists of the head mechanism, which is called context
+ udaahranarth agnishtomic pashu purodashadi purvokt vishyon kaa purnagyata vyakti hi sangopang dharmanushthan kar saktaa he, jisaki vivechna "mimasaa darshan" main jaimini ne kii he
+ The philosophy of this philosophy depicts the Dharmapramanas and depicts method, economism mantra, memory, etiquette, nomadism, conclusive sentences and strength
+ dwitiyadhyaay main shabdaantar, abhyaas, sankhya, sangya, gun or prakarnaantar, ye chah karm bhed ke pramaan hai
+ Shruti, gender, sentence, episode, place and Samakhya are the six evaluative evidences in Tritiyadhyaya
+ chaturthadhyay main, shruti arth, paath, sthaan, mukhya or pravriti main chah bodhak pramaan hai There are seven types of excesses in Panchmadhyaya, directive, directive, nominal order, hypothetical order, dependency order and place-of-order
+ ant ke do bhed saptavadhyay main varnit nahin hai
+ These are denoted in the sense of authority and placements mandate
+ navam adhyay main mantroh, samoh or sanskaroh ke bhed se teen prakaar ke "ooh" kaa nirupan he
+ In Dasamadhyaya, there are three types of obstruction representations of distinction between earthlope, pratyamnaya and prohibition
+ ekadshadhyay main tantra or aavaay kaa nirupan he
+ Dwadasadhyaya has a representation of "context"
+ is prakaar ek ek vishay kaa pratipaadan dwadashadhyaayaatmak mimasaa darshan main kiya gaya he jise "dwadashalakshani" bhi kaha gaya he
+ Here the word symptom is a textbook isko do prakaar se vibhakt kiya gaya he jise upadesh or atidesh kehete hai
+ Preaching is discussed in the first chapters
+ dwitiya ke chah adhyyon main atidesh kaa vivechan he
+ The above preaching is the overarching doctrine
+ shaastra deepikacar parthasarathi mishra ke anusaar upadesh vichaar ke ananthar atidesh vichaar kaa aarambh hota he
+ There are two chapters in present-day epistemology philosophy
+ prayek adhyay main chaar paad hote hai, kintu tritiy, shashth or dasham adhyyon main aath aath paad hai, jise "shabra" adhyay bhi kehete hai
+ In this way there are sixty feet in the whole book
+ is darshan kii sutarasankhya main vivaad he
+ In someone's opinion, two thousand six hundred fifty two, in another opinion two thousand seven hundred forty two sutras
+ uparyukt varnan "aesekit" kii "karmmimasaa" naamak pustak prishth chaar main pratipaadit he
+ "nyayamala", published from Anand Ashram Poona, has two thousand and forty five sutras
+ isi prakaar kuch vyaktiyon ke mat se adhikaran sankhya nau sau saat praapt hoti he
+ Some have nine hundred and fifteen sutras
+ kintu "mimasasar sangrah" ke karta shankar bhatta ke anusaar "purvashatk" main paanch sau tees, uttardatk main chaar sau sattar sutara hai
+ Thus the entire tribunal is divided into a thousand numbers
+ uparyukt shloke ke anusaar adhikranon kii sankhya ek sahasr do sau pachaas he
+ a tribunal is formed from many sutras, which consists of a principal sutra and other virtue sutras
+ pradhan sutara purv paksh kaa pratipaadan karata he or anya sutara siddhant kaa pratipaadan karte hai
+ Somewhere the northeast side has been rendered by two sources
+ aise hi kahin kahin par bina sutara ke hi purv paksh kaa utthapan karke sutara se siddhant kaa pratipaadan kiya gaya he
+ Somewhere, in principle, the ex-party tax doctrine has been rendered by the undertaking
+ ek paad main katipay adhikaran hote hai
+ For example, there are eight tribunals in the first foot
+ adhikaran main chha: padaarth hote hai - vishay, sanshay, purvapaksh, siddhant prayojan or sangati
+ Consistency is of three types - scriptural consistency, chapter consistency, and foot consistency
+ pratham sutara - pratham adhikaran kaa naam jigyaasa adhikaran he
+ Thought is the subject of science
+ vichaar shaastra aarambh karne yogya he yaa nahin, yah sanshay he
+ Not initiable, this is the former side
+ siddhant he ki vichaar shaastra aarambh karnaa chahie
+ The origin of this subject is the study method in the opinion of Kumaril Bhatt and the teaching method in the "prabhakar" view
+ purvapaksh main adhyayan kaa adrishy prayojan he or siddhant paksh main arth-gyaan-rup drusht prayojan he
+ Since the religion of religion is related to philosophy, its interpretation in this school of thought is relevant
+ is adhikaran main adhyayan drushtaarth hota he, yahi siddh kiya gaya he
+ Therefore, the basic method of thinking is the study method
+ arthgyan kaa saadhan adhyayan vidhi se akshipt hota he
+ That is why the beginning of the scripture is valid
+ dwitiya sutara - dwitiya adhikaran main dharm kaa lakshan or pramaan he, jisaki kartavyata vidhivaakya se prathit hoti he
+ He is a means of credit
+ yahan shrey shabd se aihik or aamushmik donon arth abhipret hai
+ Gumak is a legal proof in the religion
+ jo nishedh dwaara pratipaadit hota he vah anarth kaa saadhan hota he, use hi adharm kehete hai
+ Third Sutra - The third sentence is the proof of the law sentence
+ yahan pratigya maatr kii gai he
+ They are said to be of two types - "chodnaiv Symptom Yasya, Chodana Symptom Me Yasya" ie here the direct evidence is not proof from religion, but legalism is considered as proof in religion
+ chaturth sutara - is sutara main pratham pratigya ke samarthan ke liye chaturth adhikaran he
+ Characterization of the Lok Siddha direct evidence in this tribunal - "indriarthasanikarsjanyajanam gyanam pratham"
+ arthath pratyaksh vartmaan sannikrusht ko hi grahan karata he or dharm utpadyman he, atev pratyaksh dharm main pramaan nahin ho saktaa, kyonki dharm bhavishyat kaalik he
+ From these words, the philosopher has not even considered the evidential inference heat and economics
+ pancham sutara - chaturth sutara main chaturth adhikaran kii pratham jigyaasa kaa samarthan karke pancham sutara ke pancham adhikaran main dwitiya pratigya kaa samarthan kiya gaya he
+ Law is the only proof in this tribunal, this pledge has been supported
+ isi prasang main pramaanon kaa pramanya swat: utpann or swat: gruhit hota he
+ That is, the knowledgeable material generates authenticity, and from the same material also becomes authentic
+ vaakya do prakaar ke hote hai - loukik or vaidic
+ Because of the proverbial sentence being masculine, malevolent delusions are accompanied by faults, pramad, vipralambha, karanapatava etc
+, therefore, the sentence is not proof
+ mantra brahmanatmak shabdarashi veda apaurushey he
+ Therefore, due to not being illusory due to imperfection in legalism, legalism is the only proof in religion
+ is dwitiya pratigya kaa samarthan karne ke liye pramaan kaa lakshan or shabdaarth kaa sambandh nity he
+ Badarayana has also not accepted transcendence in Pramanya
+ padaarth-pratipaadan main sanket dwaara shabd se padaarthon kaa, vaakyarth-pratipaadan main granth kaa or rachana dwaara purush kaa tridha sambandh hota he
+ The entry of the man into the Veda has been denied by assuming the words and the meaning of the word-reader-relationship regularly
+ arthath, veda purush ke dwaara pranit hai -aisa kehane kaa kaaran yah he ki hamanen vaakyon ko bina vyakti ke kabhi nahin suna, padhaa yaa janaa he
+ Whereas, in the opinion of the Mimansakas, the relation of the word and the word Ghatpatadi-meaning is constant
+ atah 'ye pad is arth ko bataata he'- is baat kaa hamen pataa na hone par bhi pad apane pratipaadya ko bataata hi he
+ That is, even if there is no Shakti Graha, there is only the ability of rendering in the verse
+ or vaakyarth sambandh ke dwaara purush sambandh ko pruthak karne ke liye vaakyadhikaran kii pravriti he
+ In this tribunal, as the substance of the verse has power, the sentence has power in the sentence, such is not required for those who render, because the substance present in the verse is discovered by aspiration, merit and attachment
+ Renders vaiyaakaran mat se vaakyarth vaakyashakti se bhaasith hota he
+ According to this opinion, the relation of substances in word sense is related to the connection of dignity
+ yah naiyayikon kaa mat he, jisase vaakya kii vaakyarth main pruthak shakti kii pratiti hoti he, kintu kumaril bhatta ne abhihitanvay kaa samarthan kiya he
+ Prabhakar has supported Anavitabhidhan
+ is tarah vaakyarth main purush sandendh dwitiya prakaar se nirast hua
+ The third type is through scripture
+ sandarbh vaakya kaa purush ke saath do prakaar se sambandh hota he, ek kartri-karm-bhav-sambandh dwaara or dwitiya prayukt-pravachan-bhav-sambandh dwaara hota he
+ The discourse is common and the composition is extraordinary
+ asaadhaaran visheshan hota he
+ Therefore Veda is Pourusheya
+ kuch vidwaanon ke anusaar vedon main purush, desh, nadi, vriksh aadi ke nirdesh hone ke kaaran vedon ko purushpranit athwa paurushey kehete hai, kintu mimasaa darshan ke anusaar pravachan bhi asaadhaaran mana gaya he
+ For example, the legend about "katasamhita" or "kat brahmana" is the legend that "sorrow" was studied completely by Maharishi among many branch chapters
+ dwitiya hetu he ki veda main purush, nadi aadi kaa naam aata he, isse bhi veda paurushey siddh hota he, kintu yah kalpana chatur-buddhi-vihit nahin; kyonki praaia: sarvapratham sansaarik vastuon ke naam veda se hi aae hai, usee drushti se lok -naam kii parampara chali he
+ That is, the Vedas do not consider history to be impermanent, but it represents the continuity of history, its detailed interpretation is visible in the "shabarbhyas" of the epistle
+ nity vishay or vaakya athwa vachan ko yathanupurvi brahmarshigan samadhi main darshan karte hai, atev veda main purvapurush kartrutvkalpana kaa lesh bhi samavesh nahin he
+ "cosmic creations are masculine due to their male special curiosity, such as Mahabharata, Ramayana etc
+ kumaril bhatta ke anusaar adhyayan parampara anadi he
+ Therefore, Vedas are also extraordinary
+ aise hi adhikaran siddhant nyaay se hi veda granth rachana ke dwaara purush sambandh nahin ho saktaa, atev vidhi vaakya hi dharm main pramaan he
+ There is no fundamental formula in the philosophy of epistemology
+ yadhyapi uttarmimasaa ke '"ek evatman: sharire bhavat" is sutara ke bhashya main shankaracharya ne likhaa he ki "purv-tantra" main atmpratipadak sutara nahin he, is vachan ko kahkar aatm swaroop kaa vivechan kiya he
+ Quoting the Vrittikārā मतa doctrine authentically, it is written: "atmabhidhanprasaktau yathatmastitvam and sharike vakshyam:"
+ abhipraay yah hua ki purvamimasaa bhi uttarmimasaa kii tarah advay aatma ko maanakar hi nirmit hue hai, tathaapi purvamimasaa sharir ke atirikt kartta-bhokta aatmatatv ko maanakar hi prachlit hua he, kyonki karm-siddhant ke antargat "kritahani" or "akrutabhyagam" nihit he
+ And from here there is the accomplishment of rebirth etc
+ "chodana punararambh:" "satsamprayoge purushasyendryanam" in donon sutron se aatmbeej kaa pratipaadan kiya gaya he
+ And Vapan etc
+ is the sacrament of pod
+ purusharth main purush shabd se asthi yajna or krit yag se aatma ko fal prapti hoti he
+ Shabar Swami, without specifying the sutra, considered the "yagyayudh Sentence" as an instrument, refuting the opinion of the non-believer, and proved the form of self through logic and srutis, which also proved the Vedas authenticity
+ uttar-mimasaa main aatma ko ek hi mana gaya he; kintu "sankhya yoga", nyaay, vaisheshik or purvamimasaa main aatma ko anek mana gaya he, jiskaa karm ke dwaara sharir, indriya or man se sambandh hota he
+ Therefore, body, sense and subject are called bandhas
+ ukt tray aatma ko bandhan main daalate hai, jisase aatma sukhdu:khadi dwandv ko bhogata he
+ While doing routine katattavya buddhi to routine moral deeds, the creature keeps on consuming the destiny deeds
+ sharir indriya se atirikt jo brahm buddhi se aatma kii upasna karata he uskaa sharir indriya aadi se sambandh kaa koi kaaran nahin he, aisa vyakti vartmaan sharir ke naash ke pashchaat swa swaroop main sthit ho jaataa he
+ According to Uttarmimamsa, body, senses and subject have been called bonds which are the cause of ignorance; His retirement is salvation
+ udaahranarth - "nivritiratma Mohsya Known purvamimasaa bhi yahi sweekaar karata he ki sharir, indriya or vishyon kaa sambandh hi bandhan hai, tathaa uskaa vilay hi moksh he, jiskaa saadhan, gyaan or karm samucchy he
+ There are two types of enlightenment
+ shariratirikt atmagyaan ritu kaa ang hota he, jo ni:shreyaskaarak he
+ Vedic and temporal sentences have been interpreted by a number of thousands of sentences for judicial usable judgments
+ atev bhartiya darshanon main pratham sthaan karm pratipadak purvamimasaa darshan kaa hi he
+ Uttarmimamsa considers creation from ignorance and destruction of creation from enlightenment
+ nyaay, vaisheshik darshan ne dvanukadi kram se mahabhoot paryant mahasrishti or mahabhoot se parmaanu paryant vinaash ko mahapralay kaha he
+ That is, the entire gesture functions are generated in a double order and are destroyed from macro to nuclear
+ panch mahabhuton main prithvi, jal, tej or vaayu ke parmaanu nity hai
+ The sky itself is continual, but according to the earlier epistemology, there are two types of creation and three types of holocaust, in which the word Mahasrishti and Khand Srishti are called two creation
+ aise hi pralay, mahapralay or khand pralay shabd se teen pralay kahe gaye hai
+ Among them, Khandi Srishti and Khanda Pralaya have been considered similar to nowadays
+ udaahranarth kisi sthal vishesh kaa bukamp aadi se vinaash ho jaataa he or kahin par naveen vastu kii sristi ho jaati he
+ In Mahasrishti, the creation of atoms in the Panchamabhuta by the atom from the atoms in the Mahasrishti, which is mentioned in the tenth mandala of the Rigveda - matsaypuranadi main bhi khand pralay ke antargat vidyaman padaarthon kii sthiti kaa vivaran praapt hota he, kintu purv mimasaa mahasrishti or mahapralay ko sweekaar nahin karata
+ According to him, no evidence is available in the destruction of all substances
+ jaisaa ki vaarthikkaar ne kaha he - Mimamsa philosophy considers block creation and block holocaust
+ bhartiya chha: aastik darshanon main nyaay, vaisheshik or vedant kii ishwar sadhak yuktiyaan praaia: samaan hi hai
+ For example "yato va Imani Bhoothani Jayante", "dyavabhumi Janayan Dev Ek:" "vishvasya Kattra Bhuvanasya Gopta" through these Srutis and "janmadasya Yatra": This Vedanta Sutra proves God
+ isi prakaar nyaay shaastra ke "kshityankuradik kartrujanrya kaaryatvat ghatavat" anumaan se bhi ishwar kii siddhi kii gai he, kintu vedantiyon ne shrutiyon se ishwar ko siddh kar anumaan pramaan ko unka sahakaari kaaran mana he
+ And Naiyayikas have supposedly proved God to be the cooperative cause of Shrutis
+ sankhya darshan main do mat hai - seshwar or nirishwar
+ The Sesvara Samkhists believe in God, but treat him with a special word
+ nirishwar sankhyavaadee ishwar kaa nishedh karte hai, "kintu vigyaan bhikshu ne "ishwarasiddhe:" is sutara main "pramanabhavat" is pad kaa ullekh kar ishwar ko sweekaar kiya he
+ Mimamsa philosophy does not prohibit the support of God in the same manner as the Naiyayikas, and like the Nirishvara Samyakists, but in the "sambandesh Parihar" treatise, Kumaril Bhatt has resolved the meaning of God in relation to the word
+ abhipraay yah he ki sambandh kaa karta ishwar nahin he
+ By accepting the above words, it is popular that Mimamsak is an atheist
+ kumaril bhatta, nandishwar aadi mimasakon ne anumaansiddh ishwar kaa niraakaran kiya he or vedasiddh ishwar ko sweekaar kiya he
+ In fact, Mimamsa accepts Siddha Brahma or God from the Veda
+ kyaaki mimasaa darshan veda kaa swatah pramaan maanata he
+ Mimamsa is also known as Purvimamsa and Vedantaka Uttermimansa
+ isse bhi veydant kaa mimasaa ke sidbhant ar mimasaa kaa veydant ke siddhanth maanya hai yah baat spasht haati he
+ Vedhita Yagadi Karma Dravya and Deity are compatible with these two
+ dravya dadhyadi he or devtaa shastrake samadhigamya he
+ That is, the sentence which the deity says is considered the deity
+ yahan devtaa ke vishay main teen paksh dashamadhyay ke chaturthpad main or shabar bhashya aadi granthon main bhi sweekaar kiya gaya he
+ The meaning deity is the specific deity and the word deity
+ in teenon main antim paksh hi siddhant he, kyonki arth kaa samaran shabd ke dwaara hua karata he
+ Therefore, because of the first appearance of the word, the word itself has been considered a deity
+ udaahranarth "indraay swaha, takshakaay swaha" shabdon main indraay or takshakaay ye chaturthaant pad hi devtaa hai
+ Even those who accept the meaning of the deity cannot ignore the word
+ at: teenon pakshon main shabd mukhya hone ke kaaran mimasakon ne shabd ko hi devtaa sweekaar kiya he
+ There is a rule here - the deity word which is in the method sentence should be pronounced in evacuation, renunciation and hymn, etc
+, not its synonyms
+ udaahranarth "aagneyamshtakapalam" main agni ke paryaayavachi "jatvedas" shabd kaa prayog nahin karnaa chahie
+ It is known from the above things that the "word goddess" is the principle of Mimamsa philosophy
+ devtaa ke vigrahadi sadasad bhav kaa vichaar - agni aadi devtaa ke vigrahadi paanch is darshan main maane jate hai
+ That is, Vigraha, Havish, Bhoga, Aishwarya, happiness and fruitfulness are these five Vigrasha
+ ukt vachan ke aadhaar par hi vedantiyon ne devtaa ke vigrahadi paanch swaroop maane hai
+ The idea is that just like humans etc
+, the taxes, steps etc
+ are also of the gods, they accept Havish, eat and eat and give happiness to the Yajaman
+ at: devtaa vigrahadiman hai
+ The above thought is the same Yasak Maharishi has proved masculinity with the sentence "athakaar Chintanam" of "nirukta"
+ mimasaa darshan ke anusaar "shabdamayi devtaa" kaa samarthan kiya gaya he, kintu shabar swami ne apane shashth devataadhikaran bhashya main devtaa vigrah kaa khandan kiya he
+ Generally, all the scholars like Parthasarathi, Khandadeva etc
+ have followed this path, but in his commentary, Kumaril Bhatt has considered the deity as a part of it and not the deity as the head, and has accepted karma primarily and said that karma is the fruit
+ gives
+ swami ke rahete hue das se koi fal kii yachana nahin karata
+ Karmana Phaljakantavam and Shabdmayi Devta, the above two principles have been supported by other minders by considering the deity Vigrahadi
+ bhashyakaar shabar kaa devtaa vigrah kaa niraakaran prodhiwaad se jaananaa chahie
+ Therefore, Purvimamsa accepts the "word goddess"
+ uskaa gyaan, taddhit, chaturthi vibhakti or mantravarna in teenon se hota he
+ The only difference between them is that with the frequency of the corresponding power, the deity realizes
+ chaturthi vibhakti lakshanya or mantravarna adhishthan kaa bodhan karata he
+ Mimamsadarsan has considered the part of the deeds of the deity in the above manner in terms of his ritualism
+ vastutah devatashastra ta nirukt he
+ Nirukta is Vedang and epistemology is Vedapang
+ atah vaidic devataatatvavichaar ke prasang main nirukt ke vivechan kaa swatantra ar mukhya devataatatvavichaar maananaa avashyak haata he
+ The realization through sentences is called sentence comprehension or word comprehension
+ vaakya bhi aakhyaant hi hota he - Subantachaya: Sentence, Tingantachayavakyam, Suptingantachayo Sentam
+ usamen ye teen paksh hai, jinamein karkanvit kriya honi chahie
+ According to Amarkosh - "tidd
+subant chayo sentence verb va karkhavitaita"
+ arthath subant or tingant vaakyon kaa karkanvit kriya paryavsaan hota he
+ The three views of Kumaril Bhatt, Prabhakar and Murari are famous in the East India, but in the last, a famous text with the name "tripad Niti Nayan" has also been known
+ mimasakon main abhihitanvayavaad ar anvitabhidhanwaad naam se do prasthaan prasiddh hai
+ Among them, first is the opinion of Kumaril Bhatt and second Prabhakar
+ shaabdh bodh main bhaavana ko mukhya rup se bhatta ne sweekaar kiya he
+ Prabhakar has accepted the task as the main one
+ abhihitanvay shabd kaa yah arth he ki padon se pratipaadit padaarth gyaan aakanksha, yogyata or aasakti samanvit hokar lakshana ke dwaara shaabdabodh karaate hai In the Nyayamat, there is power in the substance of the posts and the verses signify knowledge
+ padon se padaarth kii upasthiti hoti he
+ Similarly, it is said in Mimamsa, for example Jyotishtomen Swarga Kamo Yajet "
+ yahan "yajet" main do ansh hai -"yaj" dhaatu or "t" pratyay
+ The suffix represents the emotional sense of exposition
+ us bhaavana kii teen aakankshaayen hoti hai - saadhyaakanksha sadhanakanksha or "itikartavyatakanksha"
+ On attaining realization, there is a true discovery of heaven
+ sadhanakanksha hone par dhatworth kaa kaarantven anvay hota he
+ 
+ iti kartavyatakanksha hone par itikartavyatatven anvay hota he
+ The sentence states that vishisht arth kaa bodh karne ke liye vaakya lok main prayukt hota he
+ Padraavana leads to separate knowledge of substances
+ yah vaacharth he, kintu jo padaarthagyan hota he vah shrota ko abhipret nahin or jiske liye vaakya prayukt hua usase shrota kaa kaary nahin hota, aise sthal main vaakya taatpary kii anutpatti hoti he
+ Consequently, symptoms have been considered for prevention of deficiency
+ sabhi darshanikon ne taatparyanupapatti ko lakshana kaa beej sweekaar kiya he
+ Two types of meanings are considered, first meaning and second meaning
+ pratham avaantar taatpary padaarth vishay kaa pratipaadan karata he or mahataatpary vaakyarth vishay kaa pratipaadan karata he
+ In aphorism, there is a sense of sentence by sentence
+ kumaril bhatta ne nimna shlokon se pratipaadan kiya he - By this word, the form of Bhatt Padaka Orientalism is shown
+ kuch vidwaanon kaa kathan he ki "ananvitavasth" padaarth padon se abhihit hote hai
+ Their discovery is only targeted
+ atev "anvitabhidhanwaad" kumaril bhatta kaa he, kintu bhatta mat kaa anuvadak anvitabhidhanwaad maanakar jo khandan karte hai, yah uchit nahin he, kyonki unke granthon main uparyukt lekh kii charchaa kahin bhi nahin he
+ This is what the word Anavitabhidhan means - the verses are called Anvirtha Bodhan
+ atev pad shakti se hi padaarth or vaakyarth donon kaa bodh ho jaataa he
+ There is no need to assume additional signs etc
+ from the position of power
+ vayovruddh purush kisi vastu ko laane le jane ke liye shabd kaa prayog karata he
+ The child next to him understands the meaning of the word by hearing the word and seeing the other man carrying and carrying it
+ yahi pravriti kaa kaaryatagyaan kaaran he
+ In folk, action is also considered as action, similarly in Vedas, Yagadi action is considered as primary work
+ yagadi kriya kshanik he or swarg kalantar bhavi he
+ Therefore, the said Veda is considered as an object called "apurva," apart from the sentence discussion
+ yahan par "ek kaary shabd" kii purvokt do shaktiyaan do arthon main sweekaar kerani padati hai
+ One has to accept strength and the other is to be characterized
+ usamen bhi alokik kaary main vishesh shakti he, jaisaa vidwaanon main prachlit he - In folk, there is a symptom in action form
+ veda main pad hi vaakya hote hai or padaarth hi vaakyarth hota he 
+ In this opinion, synonyms, anvay and sangaras are all synonymous
+ arthath anvit hi anvay main nimitt hota he
+ Prabhakar has considered customer eclipse, that proves investigative
+ is mat main - "yajet swargkaam:" is vaakya se anvitabhidhan kaa shaabd bodh hota he
+ In this darshan, there is only the provision of Yag for heaven
+ swarg se abhipraay yah he - jo du:kha se grast na ho tathaa du:kha utpann kii usamen sambhaavna na ho or abhilaashaa ko purna kare use swarg kehete hai
+ By means of sentences like "dashapurnamasabhyam swargakamo yajet" etc
+, the instrument of heaven has been constituted by Darshanamasam Yag
+ yag ko kshanik mana gaya he, kyonki kisi devtaa ke uddeshy se dravya ke tyaag kaa naam yag he
+ "indray Idan Na Mama" renounces the psyche business with this sentence
+ us kshan main us vyapaar kaa naash ho jaataa he
+ The subject of imperfect love is called heaven
+ vah kalantar athwa janmaantar main praapt hota he
+ This is the rule of philosophy, reason must remain in the disorganized prior moment of Kayapatti, and transient yag birth is not possible in the haphazard predecessor of future self-consciousness
+ etdarth ukt shruti ke aadhaar se yag kaa saadhy, swarg kaa saadhan athwa yag kii uttaravastha evam fal kii purvavastha, ye sab ek vastu siddh hoti hai, jise atishay, apurv, yaa yogyata kehete hai
+ It has been elaborately analyzed by Kumaril Bhatt in Unreasonable Action
+ yaganushthan ke purv purush main swarg ke upbhog karne kii yogyata nahin hoti
+ Even before the rituals, there is no ability to give Swargadi fruit and by resolving the inefficiency of the man and the inefficiency of karma, the scriptural ability is now considered to be incomparable
+ yatha This is called as pre-emptive or preplanned
+ jahaan ek hi pradhan ho vahaan pradhan yag se jo apurv utpann hota use utpatypurv kehete hai
+ The phenomena that arise from the organs are called Angaapurava
+ angaporesv or pradhanapurv donon milakar parmapurv ko utpann karte hai
+ From it, you get the fruit of Swargadi
+ kuch yaagon main anek pradhanon se fal hota he
+ For example - Darsha has three Yagas and Pournamas also has three Yagas
+ yahan teenon pradhanon se utpann honevaale teen utpatypurvo se ek samudaya purv utpann hota he
+ a pre-eminent arises from both communities
+ abhipraay yah hua ki uparyukt pratham udhaaharan main teen apurv maane jate hai
+ In the second example, preterm, premenstrual, preclinical and preclinical, four are considered incomplete
+ ye hi mimasakon kaa sarvasv he
+ In it Bhatt Mimansak Shabar Bhasya 2
+ 1
+ 2 according to "yagen Apurva Kritva Swarga Bhavayet", accomplishes Apoorva with words and with eloquence
+ or use lingadi kaa vachya tathaa shabdabodh main mukhya visheshya maanate hai
+ Apoorva has been refuted by all philosophers, it is a refutation of speech and precept
+ darshan shastron main padaarthvivechna ke liye chaar kotiyaan maani gai hai - Proof theorem theorem
+ pramaan - pramaan use kehete hai jisase vishay kaa nishchayatmak gyaan ho or vishay kaa nirdhaaran ho
+ Theorem - One who has knowledge through proof is called a theorem
+ pramiti - pramaan ke dwaara jis kisi bhi vishay kaa nishchayatmak gyaan ho, use pramiti kehete hai
+ Pramata - One who knows theorem knowledge through proof - is called Pramata
+ yahan vibhinn bhartiya darshanikon ne gyaan ke vishay main dwividh vichaar kiya he - The authenticity of knowledge is automatically admissible or layer: admissible
+ swat: koti main mimasak, vedanti or buddha aate hai
+ Layer: Justice, Vaiseshika, Yoga, Jain and Charvak are included in the category
+ yahan pramanya shabd se arthtathatv lakshan pramanya samajhnaa chahie, na ki agyatarth gyaapakatv lakshan pramanya
+ Chodanalakshanodharm: In the sutra - "naanu Athatabhumapayartha Bruyat Chodana", etc
+, the meaning of the subject is explained
+ "tachch abadhitatvan, arthnirutho dharm vishesh:, tasya gyanen niruprana"
+ Chaudna Sutra's commentary "athaattva Bhootam Artha" refers to the non-objective meaningless religion, which is represented by knowledge
+ atev pramanya ko gyananishtha kaha jaataa he
+ That layer is generated and layer is admitted
+ yah naiyayikon kaa siddhant he
+ That is, the material from which knowledge is generated, does not originate from other material, and from which knowledge is acquired, from which knowledge is acquired rather than from other qualities, knowledge is acquired from knowledge
+ isse yah aayaa ki gyanotpadak saamagree se bhinn saamagree se pramanya utpann hota he or gyaan graahak saamagree se bhinn saamagree ke dwaara pramanya gruhit hota he
+ In this opinion, there is both the primordial and the imperfect layer
+ yah naiyayik sammat vivechna he
+ In the above opinion, Mimansak people tell infidel dosha, due to which knowledge can never be proved valid
+ arthath lokvyavahaar vicchhinn ho jayega
+ Therefore, knowledge is self-generated and automatically acquired
+ abhipraay yah he ki jis samagri se gyaan utpann hota he, usee saamagree se pramanya bhi utpann hota he; or jis saamagree se gyaan gruhit hota he usee saamagree se pramanya bhi gruhit hota he
+ This is the self-authenticity of the Authentic Mimanskadikas, which Kumaril Bhatt has endorsed in his treatise Bhatta Vartika with many tips - yahan bhattamat main gyaan anumey he
+ Something excessive arises in the subject of knowledge, from which it is known
+ isse gyatata naamak ek dharm ghatadi vishay main utpann hota he, jise practyam, bhasana, prakaash: aadi shabdon se kaha jaataa he
+ From this it came to be known that knowledge is derived from the presumption of gender
+ isi se pramanya kaa bhi grahan hota he
+ Knowledge itself is light in Prabhakarism
+ at: gyaan se hi gyananishtha pramanya kaa bhi grahan hota he
+ Therefore, the automatic belief is the same in both opinions, which are discussed in detail in "shloka Vartika", "case Panjika", "nyaya Ratnamala"
+ pratyaksh anumaanadi se anavgat arth ke bodhak vaakya ko vidhi kehete hai
+ That is, the name of the sentence which is unknowable, objectionable promoter
+ vidhyarth ke sambandh main mimasakon ke do paksh hai - ek pravartana ko vidhyarth maanata he
+ Almost all the parents come here
+ doosraa kaary ko vidhyarth maanata he
+ This is Prabhakar's theory
+ is paksh main is prakaar kaa utpaadan hota he - Promoters in folk, Acharya or Raja use the sentence "gamanay" etc
+ to instill their disciples or acts
+ shishy yaa bhrity ukt vaakya ko sunakar uske arth kaa anusandhan karata he
+ After this, "gavanayan" comes into the act
+ isliye pravartak purush kaa jo abhipraay vishesh he, use lok main vidhyarth kehete hai
+ It is the action of man who lives in man
+ atev ise purushabhipraay bhi kehete hai
+ The Vedic Lingadis cannot be called Purushabhipraya because Vedas are apaurusheya
+ at: purush ke sthaan par lingadi shabd kaa prayog hota he
+ His business specialty is the same
+ shabdanishth hone ke kaaran ise shabdi bhaavana bhi kehete hai
+ It has been characterized as "purushaapravakanutika: Promoter Lingadinishtho trade especially: Shabdi Bhavna"
+ shaastra main ise hi pravartana, prerana aadi kaha gaya hai
+ There are two types of instincts in the world - first, the male instincts by his will
+ dwitiya pravartak purush, athwa shabd ke dwaara vyakti pravrutt hota he, jise "prerana janya" kehete hai
+ Where there is a tendency after inspiration, enlightenment is considered to be the promoter, which Mandan Mishra, Parthasarathi Prabhriti scholars have considered as "favors"
+ nyaay sudhakar ne ise alokik dharm vishesh mana he
+ Prabhakar Mishra has considered working knowledge towards the tendency, which leads to obsolescence etc
+ at: "chodana lakshano dharm:" sutara main likhaa he - "acharya chodith" karomi" is bhashya kii vyakhya karte hue shalikanath ne kaha he - chodith: pravartit:, kaaryamvabodhit: ityarth:, kaaryatagyaan vina pravriterasambhavaditi" atev prabhakar mat main kaha gaya he - "kaary vidhyarth:, tachch kaary dhatvarthatiriktam, apurv shabd vachyam tadev vidhyarth iti" Four types of methods have been presented in the philosophy of Mimamsa, which is for the decision of the Vedas
+ uttpattividhi : jis vaakya se karm swaroop kii katrtavyata prathmat: vidit hoti ho use utpattividhi kehete hai
+ For example, "agnihotra Juhoti" means to get favored from a house called Agnihotra
+ viniogvidhi : angapradhan kaa sambandh jis vidhivaakya se gyaat hota he, use viniogvidhi kehete hai
+ For example, "dadhna Juhoti" explains the meaning of havana with curd
+ isamen dadhi saadhan he or home saadhy he
+ Here the relation of the word appropriation should be understood in the appropriation method
+ vah sambandh saadhy-saadhan-bhav, angangi bhav athwa sheshsheshi bhav main samaapt hota he
+ Experimental method: One who makes sense of order in the ritual of head and organ is called experiment
+ udaahranarth prayajadi ang se upakrit pradhan darshapurnmaas yag se swarg kii prapti hoti he
+ It is with this intent that the symptom is described as "anganam serial method; Methodology:" adhikaravidhi : jis vidhi se karmjanya fal kaa bhokta karta ko mana jaataa ho use adhikaravidhi kehete hai
+ For example, "yajet Swarga Kama:" The one who is the priest here is the one who is the bearer of heaven
+ isi prakaar se apurv vidhi, niyam vidhi or parisankhya vidhi ke bhed se teen prakaar kii vidhiyaan prasiddh hai - There are two types of methods mentioned above, it should be understood in this way that the origin, appropriation experiment and authority law are all around in the invention
+ niyam tathaa parisankhya vidhi, viniyog vidhi main hi antargat he
+ Special knowledge of this subject is visible in Bhatt Chintamani
+ balbhadra singh rajowar 1857 kii kranti main avadh, uttar pradesh ke pratinidhi charitra hai
+ Amritlal Nagar, a literary writer, has dedicated his book 'gadar Ke Phool' to Shaheed Balabhadra Singh and his six hundred companions
+ sipaahiyon ke vidroh ke liye to gaay-suar kii charbi ke kaartoos kaaran bane, jabaki avadh ke jameendaaro, talukedaaron ke liye, jo angrejon ke tantra ke hi bhaag the, aisa koi kaaran bhi nahin tha, lekin saikadon naam hai jo videshi raaj kii pratikriya main is kranti or shahaadaton kaa hissaa bane
+ This rebellion exposes the revolutionary character of Uttar Pradesh
+ 1857 kaa kalevar vishwa kii mahanatam francisi rajya kranti se kaaphi bada tha
+ The Indian Revolution of 1857 also heralded a nation
+ agar america kranti america ekta kaa maarg prashast karti he to 1857 ne bharat ke raajnneetik ekikaran kaa rasta dikhaaya he
+ This was the biggest revolt against the British Empire in the history of the world

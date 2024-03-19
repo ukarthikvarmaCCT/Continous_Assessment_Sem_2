@@ -1,0 +1,2001 @@
+ Mobile phones often have a number of features in addition to text messaging and voice calling feature, including - call register, GPS navigation, music and video playback, RDS radio receiver, alarm, memo and document recording, personal organizer and personal digital assistant
+ Functions, the ability to watch streaming videos or to watch later, video downloads, video calling, built-in cameras and camcorders, autofocus and f With lashes, ringtones, games, tails, memory card readers, USB, infrared, Bluetooth and wifi connectivity, instant messaging, Internet email and browsing and serve as a wireless modem for PC and soon it will play online games and other high Will serve as a console for quality games
+ kuch phone main sparshascreen shaamil hai
+ The largest categories of mobile services are music, picture downloads, video games, adult entertainment, gambling, video / TV
+ nokia or cambridge vishvavidhyalay ek modane yogya cellphone kaa dikhaava kar rahe hai jisko morf kaha jaataa he
+ The most commonly used data application on mobile phones is SMS written messaging, of which 74% of mobile phone users are active users
+ Sums messaging was valued at over $ 100 billion in annual revenue in 2007 and based on the total number of mobile phone users
+ But messaging has an average of 2
+6 SMS per day per person
+ 
+ In 1992, the first SMS written message was sent to a mobile phone from a computer in the UK in 1992, while in 1993 the first person-to-person phone call was sent to a person in Finland
+ 2007 main mobile phone ke dwaara prayog kiye jane vaale anya anu SMS data sevaaon kii qeemat 31 arab dollar thi or yah mobile sangeet, logo downlod or chitra, game, jua, vayask manoranjan or vigyaapan dwaara netritv kiya gaya 
+ The first downloadable mobile content was sold to a mobile phone in Finland in 1998, when Radiolinza launched a downloadable ringtone service
+ 1999 main japani mobile oparator NTT docomo ne apni mobile internet seva, i-mode kii shuruyaat kari, jo aaj duniya kii sabase badi mobile internet seva he or lagbhag google kii vaarshik rajasav jitani badi
+ The first mobile news service, made available via SMS, was launched in Finland in 2000
+ mobile samachar sevaayen kai sanghathanon ke saath SMS se "maang-pradaan" samachar sevaaon ke dwaara bad rahe hai
+ Some also provide "pal Ki" news via SMS
+ mobile telephoni sakriyata suvidha bhi pradhan karti he or riters or yahuu! dwaara khoj kii hui saarvajanik patrakarita or chote swatantra samachar companiyaan jaise kii srilanka main jaismine samachar
+ Companies such as Monster
+com have started providing mobile services for job search and career advice
+ upabhokta anuprayog vruddhi par he or inamen sab kuch shaamil he, sthaneey gatividhiyon or ghatnaon par jaankaree guide se lekar, mobile coupon or discount bhent tak, jo kisi bhi kharid par paise bachaane ke liye upyog kar sakate hai
+ Tools for building web sites for mobile phones are becoming more available
+ 1998 main finland main mobile bhugtan kii pehali koshish kii gai thi, jab aspo main do coca-cola vikray mashin, SMS ke bhugtan ke saath kaam karne main sakasham the
+ The idea eventually spread and in 1999 the Philippines launched the first commercial mobile payment system on mobile operators Globe and Smart
+ aaj mobile bhugtan, mobile banking se mobile credit card se mobile vyapaar tak, asia or africa or chune hue europea bazaaron main bahut hi vyapak rup se prayog kiye jate hai
+ For example, in the Philippines it is not uncommon for someone's entire salary to be paid for a mobile bill
+ kenya main ek mobile banking khate se duusare main dhan ke hastantaran kii seemaa 10 lakh amareeki dollar he
+ In India, utility bills get 5% discount on mobile payments
+ esthonia main sarkaar ne aparaadhiyon ko nakad parking shulk lete hue paaya, isliye sarkaar ne ghoshit kiya ki parking ke liye keval SMS ke madhyam se hi mobile bhugtan maanya hoga or aaj esthonia main purna parking shulk mobile ke dwaara niyantrit kiya jaataa he or is kriya main se aparaadh khatm ho chukaa he
+ Mobile applications have evolved using the Six m service-development principle, created by author Tommy Ahonen with Joe Barrett of Nokia and Paul Golding of Motorola
+ yah chah m hai- chalan, pal, mai, bahu-upyogkarta, dhan or mashin 
+ The Six m / Five m principle is widely used in the telecom application literature and by most of the core industries
+ UMTS ke liye sevaayen, is siddhant par charchaa karne vaali pehali kitaab thi jo 2002 main ahonen or barret dwaara likhi gai thi
+ Mobile phones usually receive energy from a battery, which can be recharged from a USB port, from a portable battery, from a power cord or from a cigarette lighter socket using an adapter in a car, or from a solar panel or a dynamo
+ Can
+ 17 farvari 2009 ko, GSM association ne ghoshnaa kari ki ve mobile phone ke liye ek maanak charger par sahamat hue hai
+ The standard charger adopted by the 17 manufacturers, including Nokia, Samsung and Motorola, should be the micro USB connector
+ nae charger, maujuuda chargeron se adhik yogya honge
+ Having a standard charger for all phones means that manufacturers will no longer have to supply a charger for every new phone
+ purv main, nikal dhaatu-hydride, mobile phone kii betrion kaa sabase saamaanya rup tha, kyonki unka aakaar or vajan kam hota he
+ Lithium-ion batteries are sometimes used, as they are lighter and do not have voltage degradation like nickel metal-hydride batteries
+ kai mobile phone nirmaataaon ne puraani lithium-aayan ke vipareet lithium-bahulak betrion kaa upyog shuru kar diya he, bahut kam vajan or ghan ke alawa kisi bhi anya aakaar main bananaa hi iskaa mukhya laabh he
+ Mobile phone manufacturers, including solar cells, are experimenting on alternative sources of energy
+ bydaree ke alaava, GSM mobile phone ko kaam karne ke liye ek choti si microchip kii aavashyaktaa hoti he, jise graahak pahchaan maapdand yaa sim card kaha jaataa he
+ The SIM card of approximately a postage stamp size is usually placed at the back of the unit under the battery and stores the configuration data and information about the phone, such as which call scheme the user is using
+ jab graahak sim card ko hataa detaa he, to ise pun: duusare phone main daal kar saamaanya rup se upyog kiya ja saktaa he
+ Each SIM card is activated by the use of a unique numeric identifier; Once activated, the identifier is localized and the card is permanently clad in the active network
+ is kaaran se, adhikansh khudara vikreta ek sakriy kiye gaye sim card ko vaapis lene se inkaar kar dete hai
+ Cell phones that do not use a SIM card have data programmed into their memory
+ ek vishesh aankik kram kaa upyog karke is data kaa upyog kiya jaataa he he, "NAM" ko "naam" yaa number kramadesh suchi ke rup main upyog karne ke liye
+ From here, one can get any information such as a number for your phone, new service provider number, new emergency number, change of their authentication key or A-key code and list or perl to rotate their favorites
+ However, to prevent someone from accidentally deactivating their phone or deleting it from the network, service providers use a master assistant shut down or MSL on this data
+ MSL yah sunishchit karata he ki seva pradaata khride gaye yaa patte par liye gaye phone ke liye bhugtan praapt karen
+ For example, the Motorola RAZR V9C costs more than CAD $ 500
+ lagbhag $200 main, vaahak ke aadhaar par, aapako ek mil sakati he
+ The difference is paid by the customer as a monthly bill
+ yadi graahak ne ek MSL kaa upyog nahin kiya, to ve $300 - $400 kaa antar kho denge jo unke masik bill main bhugtan kiya jaataa he, kyunki kuch graahak maujuuda seva ko radd karke duusare vaahak ke paas phone le jate hai
+ The MSL applies to the SIM only because once the contract is completed, the MSL still applies to the SIM
+ phone haalanki, shuru main bhi seva pradaata MSL main nirmaataa dwaara band kiya jaataa he
+ This lock can be disabled so that this phone can use another service provider's SIM card
+ america ke baahar kharide gaye phone khule phone hai kyonki vahaan zyaadaatar phone ek duusare ke nikatataa main kai seva pradaata yaa ativyapee vyapti he
+ The cost of unlocking a phone varies but is usually very inexpensive and sometimes provided by independent phone vendors
+ saamaanya vyapti kshetra ke baahar MSL seva pradaata ke upyog main ucch laagat kii vajah se ek khulaa phone yatriyon ke liye behad upyogi hota he
+ This can sometimes be 10 times the price of using a closed phone as a foreigner in the general service area, even with discounted rates
+ t-mobile allows its account holders to open a SIM code after a good 90 days Provide according to the FAQ
+ udhaaharan ke liye, jamaika main, ek AT&T graahak bhunaai antarrashtriya seva ke liye $1
+65 prati minute kaa atirikt bhugtan kar saktaa he jabaki ek B-mobile graahak ko samaan antarrashtriya seva ke liye $0
+20 prati minute kaa bhugtan karnaa padegaa
+kuch seva pradaata apane bikri ko antarrashtriya bikri par kendrit karte hai jabaki kuch kshetreey bikri par kendrit karte hai
+ For example, the same b-mobile customer will pay less on local calls but more on international calls than in Jamaica's national phone C&W company
+ yah mulya antar mukhyatah mudra parivartan ke kaaran hota he kyonki sim kii kharid sthaneey mudra main hoti he
+ In the US, competition in these types of services does not exist because some major service providers do not offer pay-when-you-go service
+ Q3 / 2008 main, Nokia duniya kii sabase badi mobile phone nirmaataa thi, 39,4% ke vaishvik upakarna bazaar hissedari ke saath, iske baad Samsung, Sony Ericsson, Motorola or LG Electronics 
+ These manufacturers sold over 80% of the mobile phones sold at that time
+ anya nirmaataaon main shaamil hai Apple Inc
+, Audiovox, Benefon, benq-siemens, CECT, High Tech Computer Corporation, Fujitsu, Kyocera, Mitsubishi Electric, NEC, Neonode, Panasonic, Palm, Matsushita, Pantech Wireless Inc
+, Philips, Qualcomm Inc
+, Research in Motion Ltd
+, Sagem, Sanyo, Sharp, Siemens, Sendo, Sierra Wireless, SK Teletech, T&A Alcatel, Huawei, Trium and Toshiba
+ mobile phone se sambandhit visheshgy sanchaar pranaliyaan bhi hai The mobile phone became a media channel in 1998 when the first ring tone was sold by Radiolinja in Finland
+ jald hi anya media avyav prakat hui jaise kii samachar, video game, chutkule, janamapatri, TV saamagree or vigyaapan
+2006 main mobile phone bhugtan media avyav kii kul keemat ne internet bhugtan media avyav ko paar kar diya or isaki keemat 3100 karod dollar thi 
+ The value of music on the phone in 2007 was $ 930 million and the game was worth $ 500 million
+ mobile phone ko aksar chauthaa chitrapat kaha jaataa he yaa teesraa chitrapat 
+ It is also called the seventh in the mass media
+ mobile kii shuruuaati avyav hai viraasat media kii pratiyaan, jaise kii binar vigyaapan yaa TV samachar ujagar ke video kartan
+haal hi main, mobile ke liye adwitiya avyavon kaa vikaas hua he, ring tone or waapas ring karne vaale tone se lekar "mobisod" tak, video avyav jo vishesh rup se mobile phonon ke liye taiyaar kii gai he
+ The advent of media on mobile phones has created an opportunity to locate and identify alpha users or centers, who are the most effective members of any social community
+ AMF ventures ne 2007 main teen maas media kii saapeksh sateekta kaa maapan kiya or paaya ki mobile par darshak kaa aankna, internet se thik no guna or TV se thik 90 guna adhik sateek tha
+ Nowadays, in the busy life of today, we feel the need for more chalfone
+ kisi bhi rishtedaar, bhai bandhu se vartalap karne ke pray ham is yantra kaa upyog kar sakate hai
+ We are able to help anyone with this device in any event
+ is yantra se ham duniya ke kisi bhi kone mai asani se apni aavaz pahunchaa sakate hai
+ Students, entrepreneurs, office workers, teachers and other employees who resign this machine can easily do their work with this machine
+ is yantra ko sakriy karne ke liye kai companyyaan sim card ki uplabdhi karaten hai, jaise ertel, vodaphone, bi es en el, virgin, adia, tata docomo, em tii es, rilians, aadi
+ Some of these companies are private and some are government, for example, Artel, Vodafone, Idea, Tata Docomo, etc
+ are private companies and BSNL is government
+ graahak is chaalaphone ko kai dukaan se kharid sakaten hai or ek din main lakho phone kii bikri hoti he
+ Customers can buy different brands of Chalfones according to their wishes and needs such as Nokia, Samsung, Vargine Mobel, Reliance, Macromyx, Anya brands according to their budget
+ chaalaphone ke kai laabh hai: The Chalophone has many uses and uses
+ upyog se zyaada dhurupyog adhik hai
+ We must set up for our need as a mobile phone control
+ yah yantra hamare zarurat ko puri karne ke liye banaai gai hai naa ki ham kisi ko vyakul karen
+ Reference error: Expiry tag not found for tag saamanytah mobile phone bhi sthaan data ekatra karne ke liye upyog kiya jaataa he
+ The geographical location of a mobile phone can be easily determined, using a technique called multilateration that allows a signal to travel over time from the cell phone to each of the many cell towers near the phone's owner
+ Calculation takes place
+ mobile phone kaa vikiran maanav swasth or vaataavarna par gaharaa prabhaav daalata he
+ Most people in the world use mobile phones, so mobile phone radiation has become a topic of discussion
+ kuch logo kaa maananaa he ki mobile phone jo vidyut chumbakeey vikiran kaa prayog karata he, iske kaaran maanav jeev ke swasthya ko nuksaan pahunchataa he
+ According to the World Health Organization on 31 May 2011, using mobile phones for a long time can be harmful
+ vaigyaniko ne mobile phone vikiran ko "manushya ke liye sambhawatah kasinjan " naamak vargeekrut kiya he
+ Mobile phones and coffee, both possibly with carcinogenic substances, are classified in class 2B
+ kuch naye adhyayano se yah suchi mili he kii mobile phone ke prayog or mastishk or laar granthi ke tumor ke bich sambandh paaya gaya he
+ According to Lenard Hardell and Uske colleagues' 2009 meta analysis conducted on eleven students, the risk of brain tumors is doubled if people who use mobile phones for more than ten years
+ mornigan said recovery punarvaas kendra ke anusaar america me log solah ghante kii avadhi ke dauraan 144 minute mobile phone par bitaate he
+ With an estimated six billion approvals of mobile phones worldwide, cell phones have become one of the fundamental means of communication in society
+ sangheey sanchaar ayog ke anusaar mobile phone ke upyogkartaaon ko nunatam 20 centimetre kii duuri apane handset se rakhana zaruri he usse vikiran kaa prabhaav kam hota he
+ The following are the following important effects on health: 1) mobile phone nakaaratmak bhaawanaao ko prabhavit karata he: jab do log ek duusare se baat karte he tab agar ek vyakti phone k upyog karata ho to usse duusare vyakti ke nakaaratmak bhavnaae utpann hoti he
+ According to two researches, due to the presence of mobile phones, 2) stress level increases in human relationships: due to high frequency of mobile phones, the level of stress is negatively affected
+ lagaataar phone bajane se, alert aane se, anusmarak aane se phone ke upyogkarta par tanaav padataa he
+ According to a research, the relationship between high mobile phone usage is found in both men and women, symptoms of sleep disturbances, stress, depression
+ kul milakar, atyadhik mobile phone ke upyog se yuva peedi ke maansik swasthya par khatra ho saktaa he
+ 3) The risk of diseases in the immune system increases: By constantly touching your mobile phone, the germs are kept on the phone
+ aap ek din ke upyog ke baad apane mobile phone par dekh sakate he kii jo chikne, tel avasheshon dikhaai padhate he uski tulana un keetanuon kii bimario ke jaisi he jo shauchalay kii seat par pai jaati he
+ An investigation has shown that 92 percent of the insects accumulate on mobile phones - 82 percent of the insects live in our hato - this toxic material can be transferred from one phone to another, from one person to another
+ 4) mobile phone ke banane me kai hanikara dravyo kaa prayog kiya jaataa he
+ The fluids used in the making of mobile phones are cadmium, lithium, copper, lead, zinc and mercury, which are considered toxic
+ in hanikara padaartho ke ghulne se or mitti ke andar risane se mitti pradushit ho jaataa he, iske alaava bhumi jal ko bhi jaharila bana detaa he
+ The production of mobile phones is not just dumping, but their production also has many negative effects on the environment
+ nae mobile phonon ke utpaadan jalwaayu parivartan or green haus prabhaav ke liye bhi kara hote he
+ With the recycling of mobile phones, about ninety percent of the grin can gases can be sold
+ 5) iske alaava mobile phone ke prayog se sharir ke kai ango mein dard kaa uttpann ho saktaa he
+ Due to the rapid response of e-mails and messages, there is a feeling of pain and swelling in the joints
+ peeth me dard bhi mobile ke atyant prayog ke kaaran hi hota he
+ 6) Staring at the mobile for a long time also has a wrong effect on our drift
+ unke adhiktar prayog se aankhon par tanaav bed jaataa he
+ Mobile screens are many times smaller than a computer and they have to be crawled to see, this causes tension in the eyes and more
+ aage jake isi kaaran se netra sambandhit samasyon logon mai upastit hote he
+ Extreme use of mobile can also cause changes in the posture of our body, due to which negative effects can be found on the back and neck
+ 7) ham yah bhi dekh sakate he ki motor durgatanon ke pramukh kaaran he mobile phone ko ghadi chalaane ke vakth upyog karnaa
+ In many countries, it is considered illegal to use a hammer while walking
+ 8) iske alava ham yah bhi dekh sakate he ki mobile phone ke upyog se garbhvatee mahilaon ko vyavhaar ki samasyaon ke saath paidaa hone vaale bacchon ki sambhavana ki suchana bhi diya gaaya he
+ Two or three times a day, they have been informed about the emergence of emotional problems in their children using mobile
+ vah bachche agar saath saal ke umr se pehale agar mobile phone kaa upyog kare to samasyaow ki badane ki suchan bhi di gayi he
+ 9) Use of mobiles also causes fluctuations in brain temperature
+ mobile phonon se utpann hone vaale vikiran ke kaaran hi mastishk me taapmaana kaa utaar chadaav hota he
+ 10) As of now, there has not been a complete page about the ill effects on the health caused by the mobile phone tower
+ kintu kuch reports ke anusaar mobile phone tower se kai prakaar kii swasthy haani ho sakati he jaise ! koshikaon main asamanya vruddhi, mastisk tumor, pratiraksha pranali kii kshamta main kami, neend main kami or chintaa, bacchon main rakt kaa cancer, baanjhapan or garbhpaat tathaa anya kai prakaar kii swasthy se judy hue asuvidhaayen
+ Mobile phones and other electronic products have high quality capacitors, including tantalum
+ tentalam kaa ek pramukh strot colton kii kachi dhaatu he jo loktantric ganraajya congou main grih yuddh kosh ke liye paise laane ke liye kuch avaidh khaanon se vidrohi guton dwaara sanchalit he
+ a typical mobile phone contains 40 mg of tantalum
+ australia ke perth ke paas pilbara kshetra ke vodgina ke khan main tentalam kaa ek sangharsh-mukt strot he
+ !, 2004 ISBN 1-4039-6041-0 kahaniyaan hamaare mahabharat kii ekta kapur dwaara nirmit balaji telefilms kaa ek bhartiya doordarshan puranic dharawahik tha
+ It was first broadcast on 7 July 2008
+ ye puranic mahakavy mahabharat kaa aadhunik evam pashchimikrut sanskaran tha or somvaar se guuruuvaar, raatri 9 baje, 9eks channel par prasaarit hua karata tha
+ Due to its low TRP level, it had to be closed long before its closing date
+ chhagalanaibia upjila, bangladesh kaa ek upazila he, joki bangladesh main tritiy str kaa prashasnic anchal hota he 
+ It is a sub-district of the Feni district of the Chattagram division, which has a total of 6 sub-districts, including the district Sadar, and the headquarters is the Feni Sadar sub-district
+ yah bangladesh kii rajdhani dhaka se dakshin-purv kii disha main avasthit he
+ It is primarily a rural area, and the majority of the population lives in rural areas
+ yahan kii aadhikarik str kii bhashaayen bangla or angrezi he
+ And like any other region of Bangladesh, Bangla is the main oral language and mother tongue here
+ bengali ke alaava angrezi bhashaa bhi kai logon dwaara jaani or samajhi jaati he, jabaki saanskrithik or aitihaasik nikatataa tathaa bhashaai samanta ke kaaran, kai log simit maatra main hindustani bhi samajhane main sakasham hai
+ The majority religion here is Islam, while the major minority religion is Hinduism
+ chattagram vibhaag main, janasankhyikeek rup se, islam ke anuyai, aabaadi ke ausatan 86
+98% he, jabaki shesh jansankhya pramukhtah hindu dharm kii anuyai he, tathaa, chattagram vibhaag ke parvaty ilaakon main kai buddha janajati ke log nivas karte hai
+ It is predominantly rural, and the majority of the population lives in rural areas
+ chhagalanaibia upjila bangladesh ke dakshin-purvi bhaag main, chattagram vibhaag ke feni jile main sthit he
+ Part of a category on Sikhism guru hargobind sikhon ke chhathen guru the
+ Sahib has been praised in the Sikh history of Guru Arjun Dev Ji's son, Guru Hargobind Sahib, as a dal-bhanjan warrior
+ guru hargobind sahib kii shiksha diksha mahaan vidvan bhai gurdas kii dekh-rekh main hui
+ Guru ji was equally blessed with Baba Budaji
+ chathe guru ne sikh dharm, samskruti evam isaki aachaar-samhita main anek aise parivartanon ko apni ankhon se dekha jinke kaaran sikhi kaa mahaan bootaa apni jade majboot kar rahaa tha
+ Guru Hargobind Sahib gave protection to this great plant of heritage with his divine vision and gave it an opportunity to flourish
+ apane pita shri guru arjuna dev kii shahidi ke adarsh ko unhone na keval apane jivan kaa uddeshy mana, balki unke dwaara jo mahaan kaary prarambh kiye gaye the, unhen safalataa purvak sampoorn karne ke liye aaajeevan apni patibaddhta bhi dikhalaai
+ According to the changing circumstances, Guru Hargobindsaheb also took up the education of arms and scripture
+ vah mahaan yoddha bhi the
+ He had a wonderful practice of wielding a variety of weapons
+ guru hargobindsahib kaa chintan bhi krantikari tha
+ He wanted the Sikh community to be empowered to fight atrocities and oppression along with peace, devotion and religion
+ vah aadhyatm chintan ko darshan kii nai bhangimaaon se jodna chaahate the
+ Guru - He assumed the two swords of Miri and Piri as soon as he assumed the throne
+ miri or piri kii donon talavaarein unhen baba boddaji pahanaai
+ It is from here that Sikh history takes a new mode
+ guru hargobindsahib miri-piri ke sankalp ke saath sikh-darshan kii chetana ko nae aadhyatm darshan ke saath jod dete hai
+ In this process politics and religion became complementary to each other
+ guru ji kii prerana se shri akaal takht sahib kaa bhi bhavy astitv nirmit hua
+ Sangat of different parts of the country started giving weapons and horses as a gift to Guru ji
+ akaal takht par kavi or dhadiyone guru-yash va vir yoddhaon kii gaathaayen gaani prarambh kii
+ a rebellion of the Mughal Sultanate began to awaken in the people
+ guru hargobindsahib nanak raaj sthapit karne main safalataa kii ore badhane lage
+ Jahangir made Guru Hargobindsaheb a prisoner in the fort of Gwalior
+ is kile main or bhi kai raja, jo mughal sultanate ke virdohi the, pehle se hi karawas bhoga rahe the
+ Guru Hargobindsaheb was imprisoned in the fort of Gwalior for almost three years
+ mahaan sufi fakir miyanmir guru ghar ke shraddhalu the
+ Jahangir's wife was a servant of Noor Jahanmiyanamir
+ in logon ne bhi jahangir ko guru ji kii mahanata or pratibha se parichit karavaaya
+ Baba Budav Bhai Gurdas also opposed the arrest of Guru Sahib
+ jahangir ne keval guru ji ko hi gwalior ke kile se aaazaad nahin kiya, balki unhen yah swatantrata bhi di ki ve 52raajaaon ko bhi apane saath lekar ja sakate hai
+ That is why in Sikh history, Guru Ji is called a prisoner and a donor
+ gwalior main is ghatana kaa sakshi gurudwara bandi chhod he
+ Guru ji fought with Shah Jahan four times while remaining firm on his life values
+ ve yuddh ke dauraan sadaiv shant, abhaya evam adol rahete the
+ He had so much military power that Mughal soldiers were often afraid
+ guru ji ne mughal sena ko kai baar kadi paraajay di
+ Guru Hargobindsaheb created an indomitable wave with his personality and deeds, which later created a new consciousness of devotion and power in the Sikh Sangat
+ guru ji ne apni sujh-boojh se guru ghar ke shraddhaluon ko sugathit bhi kiya or sikh-samaaj ko nai disha bhi pradaan kii
+ Akal Takht Sahib emerged as the supreme institution for the Sikh society, which concentrated Sikh power in the future and gave it a distinct social and historical identity
+ iskaa shrey guru hargobindsahib ko hi jaataa he
+ Guru Hargobindsaheb Ji was a very philanthropic warrior
+ unka jivan darshan jan-saadhaaran ke kalyaan se juda hua tha
+ This is why Gurmatidarshan reached every nook and corner of the nation during his time
+ shri guru granth sahib ke mahaan sandesh ne guru-parampara ke un kaaryo ko bhi prakaashmaan banaaya jiske kaaran bhavishya main maanavtaa kaa maha kalyaan hone ja rahaa tha
+ Due to these untiring efforts of Guru Ji, the Sikh tradition was also taking a new form and redefining the dignity of its heritage in new contexts
+ guru hargobindsahib kii chintan kii disha ko nae vyaavhaarik arth de rahe the
+ In fact it was the effect of his aura and power
+ guru ji ke vyaktitv or krittitvaka gaharaa prabhaav puure parivesh par bhi padane laga tha
+ Guru Hargobindsaheb used all his strength to establish the ideals of Harmandirsahib and Akal Takht Sahib
+ guru hargobindsahib praaia: punjab se baahar bhi sikh dharm ke prachaar hetu apane shishyon ko bheja karte the
+ Guru Hargobindsaheb not only linked Sikh life philosophy to contemporary problems, but also created a life vision that also highlighted the possibility of glorious solutions
+ sikh lahar ko prabhaavshaalee banane main guru ji kaa adwitiya yogadan rahaa
+ Guru Ji included Jyoti-plots in Kiratpur Sahib
+ gurudwara patalpuriguru ji kii yaad main aaj bhi hajaaron vyaktiyon ko shaanti kaa sandesh detaa he
+ Bhai Gurudas has mentioned the glory saga of Guru Hargobindsaheib in these words: Panj Pialepanjpeer Chhatampir Bait Gur Heavy, Arjuna Kaya Palat's idol Hargobindaswari, chali peedhisodhiyanrup dikhaavanavaaro-vaari, Dal Bhanjan Guru Surma Vadayodha is the ten guru of multi-benevolent teachings
+ guru hargobind sahib ji jab kashmir kii yatra par the tab unki mulaakaat mata bhagbhari se hui thi jinhone pehali mulaakaat par unase poocha ki kya aap guru nanak dev ji hai kyonki unhone guru nanak dev ji ko nahin dekha tha
+ He had made a big chola for Guru Nanak Dev Ji, which had 52 cloves, he had made this cloth a little bigger after hearing about him that his body is a little heavier
+ mata kii bhaawanaaon ko dekhte hue guru sahib ne ye chola unase lekar pahan liya
+ When Guru Sahib was freed from the fort of Gwalior, he wore this same chola, whose 52 kings, holding 52 buds, came out one by one in the prison of the fort, since then Guru Hargobind Sahib Ji called "donor Bandi Chod"
+ 
+ guru nanak dev · guru angad dev · guru amar das · guru ram das · guru arjuna dev · guru hargobind · guru har raay · guru har kishan · guru teg bahadur · guru gobind singh History · Ramanand · Baba Farid · Bhagat Kabir • History · Gurudwara · Harimandir Sahib · Khalsa · Khanda · Literature · Music · Name · Place · Politics · Satguru · Sikh · Waheguru · History of Punjab · Sardar · Takht · Sikh Ratna · Islam · Criticism ramkishor singh,bharat ke uttar pradesh kii pandrahavi vidhansabha sabha main vidhayak rahe
+ In the 2007 Uttar Pradesh Legislative Assembly election, he participated in the election on behalf of SP from Haraiya Legislative Assembly constituency of Basti district of Uttar Pradesh
+ shah jahaan paanchave mogul shahenshaah the shah jahaan apni nyaaypriyata or vaibhavvilas ke kaaran apane kaal main bade lokapriy rahe
+ But his name is not taken in history only for this reason
+ shahjahan kaa naam ek aise aashiq ke taur par liya jaataa he jisane apni begham mumtaz begum ke liye vishwa kii sabase kuubasurat imaarat taj mahal banane kaa ytn kiya
+ After the death of Emperor Jahangir, he was chosen as the heir to the Mughal throne at an early age
+ 1627 main apane pita kii mrityu hone ke baad vah gaddi par baithe
+ His reign has been called the golden age of Mughal rule and the most prosperous period of Indian civilization
+ 1658 main aurangzeb ne shahjahan ko tajmahal main shahi khajaane ko karch karne ke zurm main bandi bana liya tha iske baad shahjaha ne apane jivan ke antim aath barsh agra ke kile main ek bandi ke rup main vyateet kiye jaha use aurangzeb pine ke liye napa-tula pani ek phooti hui matki main bhejtaa tha 
+ As long as Shah Jahan survived, Shah Jahan's daughter 'jahan Ara' served him while in jail
+ shahjahan ko nazarband kar aurangzeb ne apane ko badshaah ghoshit karavaaya
+ Shah Jahan is said to have written a letter to his son Aurangzeb before he died
+ is patr ke aakhri panktiyon main shahjahan ne likhaa tha ki “i pisar tu ajab musalamaani ba pidare jinda aab tarasaaniafreen baad hindwan sad baar main dehdan pidare murdarawa daayam aab” 
+ This means that you are also a bizarre Muslim son who is craving for water for his living father
+ un hinduon ko shat shat naman jo apane mrit purvajo ko bhi pani dete hai 
+ In response to this letter, Aurangzeb wrote that drink the ink with which this letter is written and die
+ andaman or nicobar kii janajatiyaan bharat ke andaman or nicobar dweepasmooh kii janajatiyon ko kehete hai
+ The major tribes and their numbers are as follows: tuntobisht, lohaghat tehsil main bharat ke uttrakhand rajya ke antargat kumaun mandal ke champavat jile kaa ek gaanv he
+ Namokar Mantra is the most important mantra of Jainism
+ ise 'navkar mantra', 'namaskara mantra' yaa 'panch parameshthi namaskara' bhi kaha jaataa he
+ In this mantra, Arihants, Siddhas, Acharyas, Upadhyayas and Sadhus are greeted
+ namokar mahaamantra' ek lokottar mantra he
+ This mantra is considered to be the ultimate sacred and eternal root mantra of Jainism
+ isamen kisi vyakti kaa nahin, kintu sampurna rup se viksit or vikasman vishuddh aatmaswaroop kaa hi darshan, samaran, chintan, dhyaan evam anubhav kiya jaataa he
+ Hence it is eternal and Akshayaswari mantra
+ loukik mantra aadi sirf loukik laabh pahunchaate hai, kintu lokottar mantra loukik or lokottar donon kaary siddh karte hai
+ Therefore, the Namokar Mantra is considered to be the universal work of extraterrestrials
+ 162 isapurv main hathigumpha abhilekh main namokar mantra evam jain raja kharbela kaa ullekh he
+ This Mahamantra is considered the most influential in Jainism
+ ye paanch parameshthi hai
+ This Pancha Namaskar done to these holy souls in pure spirit is going to destroy all sins
+ sansar main sabase uttam mangal he
+ This mantra has 35 letters in the first five verses and 33 letters in the remaining two verses
+ is tarah kul 68 aksharon kaa yah mahaamantra samast kaaryon ko siddh karne vaala va kalyankari anadi siddh mantra he
+ Its worshiper attains heaven and liberation
+ namokar-samaran se anek logon ke rog, daridrata, bhay, vipattiyaan dur hone kii anubhav siddh ghatnaayen suni jaati hai
+ Experiences have been heard even if the mind is easily created
+ istapha hossain,bharat ke uttar pradesh kii pratham vidhansabha sabha main vidhayak rahe
+ In the 1952 Uttar Pradesh Legislative Assembly election, he participated in the election on behalf of Congress from 301 - Gorakhpur Legislative Assembly constituency of Gorakhpur district of Uttar Pradesh
+ purasari 12bisawa eta jila ke aliganj prakhand ek gaanv he
+ Dinesh Nandini Dalmia was a Hindi writer
+ unako bharat sarkaar dwaara san 2006 main sahitya evam shiksha ke kshetra main padmabhushan se sammanit kiya gaya tha
+ George Washington was the first President of the United States
+ unhone america sena kaa netritv karte hue britain ke upar amareeki kranti main vijay hasil kii
+ He was elected the first President of the United States in 1789
+ aaj bhi america main unke naam kaa sikaa chalata he
+ His mother's name was Mary Ball and father's name was Augustine Washington
+ ve dono ek sthaneey vishvavidhyalay main shikshak the
+ As a child, Washington did not attend any school for very long
+ jorge washington ke bare main ek prachlit lekin juthi kahani he ki ek baar unhone bachapan main apane pita ke cheri vriksh ko kaat diya
+ When his father asked, he did not tell a lie and tell the truth that he has cut the tree
+ yah kahani yah bataane ke liye bataai or kahi jaati he ki washington kitne eemaandaar the
+ But the funny thing is that this story is not honest and it was coined by Parson Weems
+ dharmasthal karnataka rajya ke belathangdi taluk main netravati nadi ke tir par sthit ek mandir gaanv he
+ It falls in Dakshina Kannada district
+ bv Template: Holy cities of India nirdeshaank: 12°56′49′′N 75°22′53′′E / 12
+94685°N 75
+38132°E / 12
+94685; 75
+38132 Coordinates: 25 ° 06′N 85 ° 54′E / 25
+10 ° n 85
+90 ° e / 25
+10; 85
+90 habatganj suryagadha, lakhisarai, bihar sthit ek gaanv he
+ Using a mathematical model of a circuit to describe its behavior is called electronic circuit simulation
+ aajkal computer software is kaam ke liye upyog kiye jate hai
+ Most colleges and universities teach electronics to students using software in this way because these software gives very pure results and very quick results
+ nirdeshaank: 25°06′N 85°54′E / 25
+10°N 85
+90°E / 25
+10; 85
+90 Rahua Lakhisarai is a village in Lakhisarai, Bihar
+ robert abdeselum france ke tennis khilaadi the
+ He was born on 27 January 1920 and died on 26 July 2006 at the age of 86
+ yah 1947 se 1953 tak kai baar davis cap ke liye khel chuke hai
+ Coordinates: 11 ° 40′N 92 ° 46′E / 11
+67 ° n 92
+76 ° e / 11
+67; 92
+76 port blair bharat ke andaman evam nicobar praant kaa jila he
+ The city is also the capital here
+ port blair kendra shasit kshetra he
+ Apparently, there are all the headquarters to conduct life
+ yah kshetra pahari bhoorachana he
+ Timber-like wood is found here in abundance, greenery is also abundant
+ yahan samudr kaa pani dekhne main nila he
+ Anant lagoons will be found in this watershed of the Bay of Bengal, in which colorful fish will be found doing stamina
+ cellular jail, maanav vikaas ke itihaas ko chitrit karata sangrahalay, samudr sangrahalay, laghu ughog sangrahalay, mini zu, chatham sa mil, korbine cove bich, marine park, viper island, sipighat water sports complex
+ Indian services are available for airplane tourists
+ choi, kolkata se ye pakadi ja sakati hai
+ It is also brought here by sea
+ choi se teen jahaaj yahan aate hai, duuri kareeb 1190 kilometre he
+ The distance from Kolkata to Port Blair is 1255 km and from Vijayawada is 1200 km
+ vishakhapatanam se bhi rajdhani port blair ke liye jahaaj jaataa he
+ There are direct flights from Kolkata, Chennai and Delhi to the capital Port Blair
+ yahan aane ke liye samudri jahaaj saugat jaisi lagati he! haalanki yahan yatra kii kuch bandishen hai yani kuch chune hue dwipon main paryaton kii anumati he
+ The same is true for a vast water area with beautiful beaches and corals
+ mahabodhi 2397 bhartiya rail dwaara sanchalit ek mail express train he
+ The train leaves from Gaya Junction railway station at 02:30 PM and arrives at New Delhi railway station at 05:20 AM
+ isaki yatra avadhi he 14 ghante 50 minute
+ Hattrick is a 2007 Hindi language film
+ tilfariyasera-u0va0-3, yamakeshwar tehsil main bharat ke uttrakhand rajya ke antargat gadhwal mandal ke paudi jile kaa ek gaanv he
+ Abu Mikhnaf or Ibn Yahya ibn Saeed ibn Mikhnaf al-qufi was a classical Muslim historian of the 8th century
+ kisi ke saath kis tarah aap rahete hai vah vyavhar kehalaata he
+ The professors of this university are not well behaved towards their students
+ nirdeshaank: 31°31′32′′N 76°27′38′′E / 31
+5255129°N 76
+4606468°E / 31
+5255129; 76
+4606468 The Badsar Assembly constituency is one of the 68 constituencies of the Himachal Pradesh Assembly
+ hamirpur jile main sthit yah nirvachan kshetra anarakshit he
+ There were a total of 75,582 voters in the region in 2012
+ yah kshetra saal 2008 main, vidhaan sabha nirvachan kshetron ke parisemen ke anusaran main astitv main aayaa
+ Inder Dutt Lakhanpal was elected MLA of this region in the 2012 assembly elections
+ nashik bhartiya rajya maharashtra kaa ek jila he
+ The headquarters of the district is Nashik
+ kshetrafal - 15,535 varg ki
+me
+ Population - sakshartaa - lagbhag 88 % s
+ T
+ d Code 0253 jiladhikari - pi velrarasu "number of Tehsils: 15" samudr tal se uchai - Latitude - North deshaantar - purv Average rainfall - mm nasik yah ek dharmik sthaan he
+ It is located in the Indian state of Maharashtra
+ nasik shahar godavari nadi par basaa he
+ Kumbh Mela is held here after every 12 years
+ desh videsh se hajaaro sadhu, shradhhalu ram kund par snaan karne aate hai
+ Kala Ram Temple and many other ancient temples are here
+ yahan bhagwaan ram unki patni sita or majala bhaai lakshman ke saath vanvaas ke vakt rahete the
+ Coordinates: 27 ° 53′N 78 ° 04′E / 27
+89 ° n 78
+06 ° e / 27
+89; 78
+06 hajipur chauhatta koil, aligarh, uttar pradesh sthit ek gaanv he
+ Yashpal & Grover - History of Modern India Page-527 baanh yaa bhujaa kisi praani ke sharir ke aise upang ko kehete hai jiske ant par aamtaur par haath laga hota he
+ In the bodies of Narwanar Gana, such upper appendage is called arm and lower appendage is called leg
+ baanh ko sharir ke dhad se jodne vaala bhaag kandhaa kehalaata he or baanh ke bich kaa jod kohni
+ James Madison was an American politician and political philosopher who also served as America's fourth president in 1809–1817
+ unhone america ke samvidhan banavaane main ahm bhoomika adaa kii jis kaaran se unhen 'america samvidhan kaa pita' bhi kaha jaataa he
+ He also wrote and got the famous Bill of Rights of America
+ 1776 main america ke swatantra ho jane ke baad medisson ne anya america rajnatik vichaarkon ke saath milakar samvidhan kii rachana kari
+ After this, this document needed to be approved and implemented in the new nation
+ kai rajaneta iske virodh main the or ve chaahate the ki america ke teraah upnivesh ek sutara main bandhane kii bajaae alag-alag rashtron kii tarah hon
+ Madison, along with Alexander Hamilton and John Jay, published a series of articles in 1788 calling for support for the constitution under the name 'federalist Papers'
+ 1789 main yah samvidhan manzur hone ke baad lagu ho gaya
+ Madison is condemned in modern times for having fully participated in the slavery of the time in America
+ rajneti ke saath-saath vah krishi karte the or ek samrudh zameendaar the
+ He kept hundreds of slaves for the cultivation of tobacco and other crops
+ is baat par vivaad he ki vah aage chalakar daspratha ko khatm karnaa chaahate the ki nahin
+ Some reviewers say that their statements seem to indicate that they wished to end the practice, but did not value it at that stage of American history
+ \ The National Integration and Solidarity Party is a Javanese political party of Suriname
+ pichle vidhaayi chunaavon, main yah dal pragatisheel jan gathbandhan kaa ek ghatak dal tha jise 14
+5% mat mili the or rashtriya vidhansabha kii kul 53 siton main se 5 par vijay praapt hui
+ Political Parties of Suriname
+ purvi nagari lipi brahmi parivaar kii lipi he
+ It mainly writes Bangla, Assamese and Vishnupuria Manipuri languages
+ dhoop chaanv 1977 main bani hindi bhashaa kii film he
+ According to the census of India, this village is located in Tehsil Thakurdwara, District Moradabad, Uttar Pradesh
+ sambandhit janaganana code: Abhijit or Vega, whose bier name is "alpha Lyre", is the brightest star of the Lyra planetarium
+ yah prithvi se dikhne vaale taron main se paanchava sab se roshan tara bhi he
+ Abhijit is 25 light years away from Earth
+ khagolashastri hazaron saalon se abhijeet kaa adhyayan karte aae hai or kabhi-kabhi kaha jaataa he ke yah "suraj ke baad shaayad aasmaan main sab se mahatvapurn tara he"
+ Abhijit is moving in the sky - in 12,000 BC it was the star of the North Pole
+ yah vahaan se hill chukaa he lekin san 13,727 isvi main yah phir se uttar dhruv kaa tara ban jayega
+ Abhijit's age is only 45 crore years
+ hamaare suraj kii umr is se das guna zyaada he
+ Its mass is about 2
+1 times the mass of the sun and its diameter is about 2
+26 times the solar diameter
+ isamen nabhikeey sanlayan itani furti se chal rahaa he ke abhijeet apana hydrogen indhan bahut tezi se khatm kar rahaa he or iskaa puraa jeevankaal prithvi ke suraj ke jeevankaal kaa dasva hi hoga
+ Abhijit has spent almost half of his entire lifetime
+ shreneekaran ke hisaab se yah ek A0V shrenee kaa tara he, yani ek nila-se rang kaa mukhya anukram tara he
+ Abhijit is rotating very fast
+ ghurnan kii yah 274 kilometre prati sekkind kii raftaar itani tej he ke yadi yah thodi si adhik tej hoti to yah tara tuutakar bikharana shuru ho jaataa
+ With such a fast rotation, it is also slightly pinched - its width is 23% more than its length
+ abhijeet se aane vaale avarakt vikiran ko parakhane se gyaat hua he ke is taare ke ird-gird ek malbe kaa chakra parikrama kar rahaa he jo saura mandal ke bahari ilaaqon main suraj kii parikrama karte hue kyper ghere jaisaa he
+ Scientists believe that this dust has arisen from mutual collision of celestial objects near Abhijit
+ adhyayan se yah bhi gyaat hua he ke ek brihaspati jaisaa gas daanav grah bhi shaayad abhijeet kii parikrama kar rahaa he
+ Comparison of Abhijit and Sun sizes - Sun is on right shaayad aise hi do boune grahon ke takaraa ke dhwast ho jane se abhijeet ke ird-gird kaa malba chakra ban gaya ]] Jakh is a village in Almora district of Kumaon division under the state of Uttarakhand in Sult Tehsil
+ nirdeshaank: 28°36′50′′N 77°12′32′′E / 28
+61389°N 77
+20889°E / 28
+61389; 77
+20889 New Delhi is the capital of India
+ yah bharat sarkaar or rashtriya rajdhani kshetra dilli sarkaar ke centre ke rup main kaary karata he
+ New Delhi is located within the Delhi metropolis, and is one of the eleven districts of the Union Territory of Delhi
+ bharat par angrej shasankaal ke dauraan san 1911 tak bharat kii rajdhani kalakatta tha
+ The British rulers felt that if Delhi was made the capital instead of Calcutta for better governance of the country, it would be better because it is in the north of the country and from here the governance of governance would be more effective
+ is par vichaar karne ke baad angrej maharaja jorge pancham ne desh kii rajdhani ko dilli le jane ke aadesh de die
+ The population of Delhi metropolis in the year 2011 was 22 lakhs
+ dilli kii jansankhya use duniya main paanchavin sabase adhik aabaadi vaala, or bharat kaa sabase bada mahanagar banaati he
+ Even by region, Delhi is one of the largest metros in the world
+ mumbai ke baad, vah desh kaa doosraa sabase amir shahar he, or dilli kaa sakal gharelu utpaada dakshin, pashchim or madhya asia ke shaharon main duusare nambar par aata he
+ New Delhi is known for its wide roads, tree-lined roads and many of the country's top institutions and landmarks
+ 1911 ke dilli darbar ke dauraan, 15 disambar ko shahar kii neenv bharat ke samraat, jorge pancham ne rakhi, or pramukh british vaastukar sar edwin lutyans or sar herbert baker ne isaki ruparekha taiyaar kii
+ New Delhi was inaugurated on 13 February 1931 by Lord Irwin, the Governor General of British India
+ bolchaal kii bhashaa main haalaanki dilli or nayi dilli yah donon naam rashtriya rajdhani kshetra dilli ke adhikaar kshetra ko sanderbhit karne ke liye ke prayog kiye jate hai, magar yah do alag-alag sanstha hai or nayi dilli, dilli mahanagar kaa chota sa hissaa he
+ The capital of India was Calcutta during the British Raj until December 1911
+ dilli, pracheen bharat or dilli sultanate ke kai samrajyon ke raajnneetik or vittiya centre ke rup main rah chuki thi, khaskar 1694 se 1857 tak chale mughal samrajya ke shashan ke dauraan
+ During the early 1900s, the British administration was offered a proposal to change Delhi from Calcutta on the east coast, the capital of the British Indian Empire
+ british bharat sarkaar ne mahasoos kiya kii uttari bharat ke centre main, dilli se bharat kaa prashasan karnaa aasaan hoga
+ Land acquisition for the construction of a new city of Delhi was done under the Land Acquisition Act 1894
+ 12 disambar 1911 ko, dilli darbar ke dauraan, coronaton park, kingsve camp main viceroy ke nivas ke liye neenv rakhte hue, tatkaaleen bharat ke samraat, george pancham tathaa unki rani mairi dwaara ghoshnaa kii gai ki shashan kii rajdhani ko kolkata se dilli main sthanantarit kiya jayega| 15 disambar 1911 ko kinguez camp main apni shahi yatra ke dauraan, george pancham or rani mairi ne 1911 ke dilli darbar par nai dilli kii neenv rakhi
+ The construction of large parts of New Delhi was planned by Edwin Lutyens, who first visited Delhi in 1912 and Herbert Baker, both heads of 20th century British architects
+ nirmaan kaa anubandh sobhaa singh ko diya gaya
+ The construction work was to be started from the fort of Tuglakabad in Tuglakabad, but it was stopped due to the delhi-calcutta trunk line, which passed through the fort
+ vastav main nirmaan kaary pratham vishwa yuddh ke baad shuru hua or 1931 main purna hua
+ The name of the city was changed to "lutyens Delhi", inaugurated on 10 February 1931 by the then Governor of India, Lord Irwin
+ Edwin Lutyens considered British imperialism as the base and created the central administrative areas of the city
+ jald hi lutiuns ne anya sthanon ke nirmaanon par vichaar karnaa shuru kar diya
+ Indeed, the Delhi Town Planning Committee, set up to plan the construction of Delhi, George Swinton as chairman and John A
+ Brodie and Edwin Lutyens as members, presented reports for both the north and the south
+ parantu, adhik laagat hone ke kaaran viceroy ne ise asweekaar kar diya
+ The central axis of New Delhi, which is to the east of India Gate, was to make it a north-south axis, which was planned to connect Rashtrapati Bhavan on one end and Paharganj on the other end
+ pariyojna ke praarambhik varshon ke dauraan, kai paryatakon kaa maananaa tha ki yah dharti ko swarg se jodne vaala ek dwaar tha
+ Eventually, due to space constraints and the presence of a large number of historical sites in the north, the committee selected the southern part
+ raisina kii pahari ke upar ek sthal, pehle raisina gaanv, ek mev gaanv ko raashtrapati bhawan ke nirmaan liye chunaa gaya
+ The Caucasus mountain range is a mountain range in the Caucus region between the Krishna Sea and the Caspian Sea, including the highest mountain in Europe, the Elbrus Mountains
+ cocks parvaton ke do mukhya bhaag hai - mahakocus parvat shrunkhlaa or hincocus parvat shrunkhlaa
+ The Mahakokas Mountains start from the Russian city of Sochi, located on the northeastern end of the Krishna Sea, and reach Baku, the capital of Azerbaijan, on the Caspian Sea in the east
+ hincocus inke dakshin main 100 kimi kii duuri par saath-saath chalate hai
+ The Meskheti mountain range of Georgia is a part of the Hincock
+ mahaan kakeshas parvat shrunkhlaa plate vivartaniki se bani, jab dakshin kii ore se aayaa arabi plate uttar main tike hue ureshian plate se ja takaraayaa
+ This collision has been going on for millions of years and still continues, due to which strong earthquakes occur in this region from time to time
+ hin kakeshas parvat shreniyon kii kahani is se thodi alag he - inamen se bahut se parvat jwalamukhiyon kii vajah se bane hai
+ In Georgia, there is a plateau named Javakheti Plateau which is formed by the formation of these volcanoes and the erupted lava deposits of their ages
+ is puure ilaake main zamin ke neeche bahut petrol or gas jamaa he, khaaskar iske caspian sagar ke paas vaale kshetra main
+ Ichhod is a village in Adilabadu district under the state of Andhra Pradesh, India
+ lava tub ek prakritik rup se bani hui pipe, tub yaa surang kii akruti kaa dhaancha hota he jo lava bahaav se ban jaataa he
+ It is formed by the continuous lava flowing under a lava canal after the cold lava on the surface becomes solidly solid
+ lava tuben sakriya ho sakati hai, yani kisi jwalamukhi ke visphoton ke samay us se nikal rahe lava ko bahane kaa sthaan detii hai yaa mrit ho sakati hai, yani lava bahaav bahut kaal se samaapt ho chukaa he or ve thandi hokar ek lambi gufa-jaisi surangen ban gai hai
+ In many places of the world, people go for a walk in dead lava tubes and they are known as tourist places
+ nirdeshaank: 29°01′12′′N 79°21′18′′E / 29
+020°N 79
+355°E / 29
+020; 79
+355 Raipur Assembly Constituency is one of the 70 constituencies of Uttarakhand
+ dehradun jile main sthit yah nirvachan kshetra anarakshit he
+ The constituency came into existence by the 2008 Assembly Constituency Delimitation Order
+ 2012 main is kshetra main kul 120,008 matadaata the
+ Umesh Sharma 'kau' was elected MLA from this region in the 2012 assembly elections
+ america main pravasi hindi lekhak
+ 2032 BCE represents the years before the birth of Christ
+ isa ke janm ko adhaar maanakar uske janm se 2032 isa purv yaa varsh purv ke varsh ko is prakaar pradarshit kiya jaataa he
+ It is considered a collective year based on the Julian calendar
+ adhikansh vishwa main isi paddati ke aadhaar par puraane varshon kii gananaa kii jaati he
+ In India, there are many famous Panchagas like Vikram Samvat which begins 57 or 58 years before the birth of Jesus
+ iske alaava shaq samvath bhi prasiddh he
+ Shaka Samvat is the ancient era of India which begins 78 years after the birth of Jesus
+ shaq samvath bharat kaa rashtriya calendar he
+ Some other ancient era prevalent in India are as follows- uparokt antar ke aadhaar par 2032 isa purv ke anusaar vikrami samvath, saptarshi samvath, kaliyug samvath or pracheen saptarshi aadi main varsh aadi nikaale ja sakate hai
+ d Block Connaught Place is a section of Connaught Place area of delhi
+ yahaan anekon karyaalay or vanijyik parisar hai
+ Iron Man is the superhero of Marvel Comics
+ charitra lekhak or sampadak stan lee dwaara banaaya gaya tha, or isaki script lari libear dwaara viksit kii gai thi, or dizin kalakaar don hack or jaik kirbi dwaara banaaya gaya tha
+ The character made his first appearance in Tales of Suspense # 39
+ ek amir america vyapaaree, plaboy, or vaigyanik, anthony edward "tony" stark ko us samay chaati main gambhir chot lagati he, jab kuch log uskaa apharan kar use bade paimaane par vinaash ke hathiyaar banane ke liye baadhya karne kaa prayaas karte hai
+ Instead, he prepares an armed suit to save his life, and to be released from captivity
+ baad main, stark apane suut main hathiyaar or anya takneekee upkaran lagata he, jise usne apni company, stark industries ke liye dizin kiya tha
+ For some time he begins to protect the world under the name Iron Man, hiding his real identity
+ asian vikaas bank ek kshetreey vikaas bank he jisaki sthapana 19 disambar 1966 ko asian deshon ke aarthik vikaas ke sugamikaran ke liye kii gayi thi
+ The bank includes members from the UN Economic Commission for Asia and Far East and non-regional developed countries
+ is bank kii sthapana 31 sadasyon ke saath hui thi, ab edibi ke paas ab 67 sadsy hai - jisame se 48 asia or pacific se hai or 19 sadsy bahari hai
+ The ADB format was largely based on the World Bank, and like the World Bank, it also has a weighted vote system in which votes are distributed based on the members' capital contribution ratio
+ vartmaan main, sanyukt rajya america or japan donon ke hi paas 552,210 share hai - in donon ke paas sheyaron kaa sabase bada hissaa he jo kul kaa 12
+756 pratishat he
+ The highest policy-making body of the bank is the Board of Governors, formed by a representative from each member country
+ iske badale main, board of governors, apane samooh main se 12 sadasyon ko board of diarectors or unke sahaayak ke rup main chunate hai
+ Of these 12 members, 8 are drawn from regional members while others are from non-regional members
+ board of governors, bank ke adhyaksh kaa bhi chunaav karte hai jo board of diarectors kaa bhi adhyaksh hota he or edibi kaa prabandhan dekhtaa he
+ The term of the Speaker is 5 years and can be re-elected
+ paramparaagat rup se ab tak adyaksh sadaiv japan se hi rahe hai or yah sambhawatah isliye bhi he kyonki japan bank ke sarvaadhik bade shairdharakon main se he
+ The current chairman is Takehiko Nakao
+ jinhone 2013 main haruhiko kuroda se padbhaar liya tha
+ The bank is headquartered at 6 ADB Avenue, Mandaluyong City, Metro Manila, Philippines and has representative offices throughout the world
+ bank main lagbhag 2,400 karmchaaree hai, jo iske 67 pratinidhi deshon main se 55 deshon se hai or aadhe se bhi adhik karmchaaree philippines ke rahanevaale hai
+ The ADB was actually planned by some influential Japanese who in 1962 formulated a "private plan" for a regional bank, which was later supported by the government
+ japaniyon ko aisa anubhav hua ki asia se unka hitsaadhan world bank ke dwaara nahin ho paa rahaa he or isliye vah ek aisa bank sthapit karnaa chaahate the jisame japan ko sansthagat laabh praapt ho
+ After the establishment of the ADB in 1966, Japan acquired a distinctive position in the bank; It received the chairmanship and some other "reserved posts" such as the post of director of the administrative department
+ By the end of 1972, Japan had contributed $ 173
+7 million in general capital resources and $ 122
+6 million in specific funds
+ iske vipareet, sanyukt rajya ne vishisht kosh main maatr 1
+25 million dollar kaa yogadan kiya
+ ADB proves Japan's economic interests as its debt mostly goes to Indonesia, Thailand, Malaysia, South Korea and the Philippines, all of which are countries with which Japan has significant commercial ties; In 1967-72, 78
+48 percent of the total loan issued by ADB was given to these countries
+ iske alaava, japan ko isse anya thos laabh bhi mili hai, 1967-76 main ise kul adhiprapti kaa 41
+67 pratishat praapt hua
+ Japan has reserved its own contribution to the Special Fund for certain areas and segments and procurement of its goods and facilities, as reflected by a $ 100 million grant to the Special Agricultural Fund in April 1968
+ takeshi vataneb 1966 se 1972 tak edibi ke pehle adhyaksh rahe
+ Japan's share in cumulative contribution increased from 30
+4 percent in 1972 to 35
+5 percent in 1981 and 41
+9 percent in 1981
+ iske alawa, japan edibi kaa ek mahatvapurn rin strot bhi rahaa he, edibi ne japan se 1973-86 main 29
+4 pratishat rin liya jabaki isaki tulana main europe se 45
+1 pratishat or sanyukt rajya se 12
+9 pratishat rin liya
+ Japanese president Inaus Shiro and Yoshida Taroichi became very popular
+ Fujioka Masao, who was the fourth president, adopted an autocratic leadership style
+ He announced an ambitious plan to expand ADB into a high impact development agency
+ unki yojana or bankig siddhant ke kaaran sanyukt rajya ke nideshak ke saath vivaad badhane laga, jisaki americavsiyon ne 1985 kii vaarshik baithak main mukt rup se aalochana kii
+ During this period, there was a strong institutional alliance between the ADB and the Japanese Ministry of Finance, especially with the International Finance Bureau
+ sanchayi yogadan main japan kii hissedari 1986 main 41
+9 pratishat se badhkar 1993 main 50
+0 pratishat ho gayi
+ In addition, Japan also became a major lending provider for ADB, with ADB taking 30
+4 percent of its total debt from Japan between 1987–93, 39
+8 percent from Europe and 11
+7 percent from the United States
+ haalanki, purv ke vyavhaar se hatate hue ab japan 1980 ke dashak ke madhya se adhik nirankush ho gaya tha
+ Japan's plan was to use ADB as a carrier for recycling its huge additional capital and as a "catalyst" to attract private Japanese capital to the region
+ 1985 ke plaza samjhaute ke baad, yen ke badhate mulya ke kaaran japani udpadankarta dakshinpurv asia kii ore badhane ke liye vivash ho gaye
+ ADB has played a role in directing Japan's private capital to Asia by improving local infrastructure 
+ edibi ne swayan ko saamaajik sarokaaron, jaise shiksha, swasthya or jansankhya, shahari vikaas or paryaavaran ke liye apane kul rin kaa 40 pratishat dene ke liye bhi patibaddh kiya joki us samat 30 pratishat tha
+ ADB offers "hard" loans on business terms from Ordinary Capital Resources and the Asian Development Fund affiliated with ADB offers "soft" loans at discounted rates from specific funds
+ osiar ke liye, sadasyon dwaara abhidanit puunji, jisame bhugtan kii hui or pratideya puunji shaamil hoti he, praarambhik abhidaan ke liye kiye gaye bhugtan ke 50 pratishat ke anupaat main, 1983 main hui teesri saamaanya puunji vruddhi kaa 5 pratishat or 1994 main hui chauthi saamaanya poonji vruddhi kaa 2 pratishat, he
+ ADB takes loans from international capital markets to guarantee its capital
+ 2009 main, edibi ne apni saarvajanik puunji main 200 pratishat kii vruddhi ke paanchaven satr ke liye sadasyon se yogadan praapt kiya, yah gyi20 ke netaaon kii us sambodhan kii pratikriya ke falswaroop kiya gaya tha jisame unhone bahupaksheeya bainkon ke sansaadhan main vruddhi kii baat kii thi jisase ki vaishvik vitt sankat ke is samay main vikaas sheel deshon ke vikaas ko sahaayta mil sake
+ For 2010 and 2011, it was possible to have a loan of $ 12
+5–13
+0 billion in 2010 and $ 11
+0 billion in 2011 by a GCI of 200 percent
+ is vruddhi ke saath bank kaa puunji aadhaar 55 billian dollar se badhkar tiguna ho gaya arthath 165 billian dollar ho gaya
+ Given the annual loan volume of ADB, the return on investment in training studies for operational and developmental impact is likely to be high and maximizing this is a reasonable concern
+ edibi dwaara poshit sabhi pariyojnaayen yah jaanane ke liye moolyankit kii jaati hai ki inase kya parinaam praapt kiye ja rahe hai, kin sudhaaron par vichaar karne kii aavashyaktaa he or inase kya sikh milti he
+ There are two types of assessment: independent and self-assessment
+ Self-assessment is done by the units that are responsible for formulating and implementing planning, programs, projects or technical assistance activities in a country
+ isamen kai saadhan sammilit hote hai, jisame pariyojna / kaarykram kii pradarshan report, madhyavadhi samikshatmak report, takneekee sahaayta yaa pariyojna / kaarykram samaapan report or us desh ke portpholio kii samiksha report shaamil hai
+ All projects in the project completion report are self-rated by the appropriate units
+ edibi kii pariyojna samaapan report uski internet sait par saarvajanik rup se jari kii jaati hai
+ Customer governments are also required to prepare their own project completion reports
+ swatantra moolyankan kisi sansthanmak adhyayan kaa pramukh avrodh hota he: yah aavashyak he ki anubhav ke aadhaar par uchit or ucch gunvattta yukt gyaan ke vardhit bhaag ko niti nirmaataaon, dizinkartaaon or kriyanvan karne waalon ke haathon main sthanantarit kiya jaye edibi kaa oparation evaluation vibhaag nitiyon, yojanaon, rashtriya kaaryakramon or pariyojnaon kaa vyavasthit or nishpaksh moolyankan karata he, jisame unki dizin, karyanvan, parinaam or unase sambandhit vyapaarik prakriyaayein shaamil hoti hai jisase ki nirdhaarit tareekon or nirdeshon ke anusaran dwaara unke auchity, prabhavakaarita, kshamta or nirantarata kaa nirdhaaran kiya ja sake
+ It also recognizes self-assessment
+ moolyankan kii is prakriya dwaara, edibi kushal shashan ke teen tatwon kaa pradarshan karata he: uttardaayitv, edibi ke parichaalanon kii prabhavakaarita ke moolyankan ke dwaara; paardarshita, parichaalanon kii swatantra samiksha or jaankariyon va sujhaavon kii saarvajanik reporting dwaara; or sanshodhit pradarshan, jari or bhavishya ke parichaalanon main vruddhi ke liye edibi or uske graahakon ko pichley anubhavon se seekhney main sahaayta karne ke dwaara
+ The evaluation of operations has changed since ADB began its evaluation in 1978
+ shuruyaat main, pariyojna ke samaapt ho jane par is baat ke moolyankan par dhyaan kendrit kiya jaataa tha ki pariyojna ne kis had tak apekshit aarthik or saamaajik hitlabh ko praapt kiya he
+ Now project evaluation shapes the decision making process throughout the project cycle and in a way overall ADB
+ 2004 main isaki swytt kii pratishtha ke baad se, oidi board kii vikaas prabhavakaarita samiti dwaara sidhe edibi ke board of diarectors ko report detaa he
+ Behavioral independence, avoidance of conflicts of interest, prevention of external influences and institutional independence have made evaluation a dedicated tool - to improve the level of accountability and development support work even more - usability, reliability, transparency and independence Is governed by the principles of
+ asian deveopment bank kaa independent evaluation, edibi main shuruyaat se hi apanaaye gaye moolyankan drushtikon ko prastut karata he or aise bhavishya kii aashaa karata he jisame gyaan prabandhan kii bhoomika or adhik mahatvapurn ho jaye
+ In recent years, the nature of oid's operational program has changed drastically, and in the past the importance of evaluating each project has now shifted to broader and more strategic studies
+ moolyankan adhyayan ke liye variyata praapt vishyon ke chunaav ke liye oidi, edibi prabandhan kii deveopment effectiveness cameti or edibi ke vibhaagon or karyaalayon ke pramukh padaadhikariyon se sahaayta leti he
+ Important issues at present are: Enhancing the quality of evaluations through more robust working practices; To prioritize nation / territory assistance programs; Increasing the number of joint evaluations, recognizing self-evaluation to shorten the learning cycle; Conduct even more effective effective evaluations; Development of evaluation capability in both ADB and DMC; Encourage portfolio performance; Evaluation of business processes; Ensuring publicity and use of information and suggestions
+ ek adhik spasht rup se paribhaashit parinaam nirmaan or parinaam dhaanche main sansthanmak adhyayan par bal dene ke liye oidi ke parichaalan kaaryakramon kii punarvyakhya bhi kii gayi he
+ This makes the following indispensable: conducting and disseminating plan evaluations, harmonizing between performance indicators and evaluation methods, and developing the ability to evaluate and evaluate mentality
+ All assessment methods are publicly released on the OED website
+ Assessments of oeds are displayed by resource, resource type, subject, region and nation, and date
+ sabhi adhyayanon ko ek online evaluation information system par ekatra kiya jaataa he jo in adhyayanon, sujhaavon or inke prati edibi ke prabandhan dwaara di gayi pratikriyaaon kaa ek databes prastut karata hai
+ Detailed information on ongoing evaluations and updates related to their progress are also made public
+ 2006 kii shuruyaat se, edibi ke gyaan prabandhan dhaanche ke antargat kaary karte hue, oidi ne gyaan pradarshan matrikon ke prayog dwaara gyaan prabandhan kaa anuprayog prashikshan adhyayan main kiya he
+ Training studies at ADB establish a planning framework for knowledge management in operational evaluation
+ jo sanshodhan kiye gaye hai ve aise hai kii ve sirf oidi main hi nahin balki usase bhi adhik mahatvapurn rup se sadsy rashtron or antarrashtriya moolyankan samudaay kaa viks karne main bhi mahatvapurn siddh honge, yah edibi main anya karyaalayon or vibhaagon se bhi sanmukhin rup se sambandhit rahata he
+ In the mid-term, the OED will continue to improve institutional culture, management systems, business processes, information technology solutions, practice communities, and external relationships and mechanisms for study training
+ Newly developed knowledge products and features have study curves useful and simple, in the form of a two-page short and quick reference that provides information on assessment news reports regarding supervision and evaluation events from a wide range of customers and Provide suggestions
+ evaluation prastutikaran, moolyankan ke vishay par sankshipt chitra sahit yaa power point pradarshan prastut karte hai
+ Auditing the Lessons Architecture highlights the contribution that can be gained through institutional studies and knowledge testing in relation to institutional health
+ ab tak edibi ke 1,106 moolyankit or shreneegat pariyojnaon main se, 65 pratishat ko safal ke rup main moolyankit kiya gaya tha, 27 pratishat ko aanshik rup se safal or 8 pratishat ko asafal ke rup main moolyankit kiya gaya tha
+ Since the early days of ADB, critics have been accusing two major providers, Japan and the United States, of influencing decisions related to large-scale lending, policies and staff recruitment
+ oxfam australia ne sthaneey samudaayon ke prati gaiyr-samvednaatmak ravaiye ke liye asian deveopment kii aalochana kii he
+ "working on the global and international, these banks undermine human rights of the people through projects that have insufficient and lamentable consequences for the poor and the marginalized community
+ " bank ko sanyukt raashtra ke paryaavarniya kaarykram kii ore se bhi aalochana mili, jisane ek report main kaha "ghatit vikaas main adhikanshtya yahaan kii gramin jansankhya ke 70 pratishat se bhi adhik bhaag kii upeksha kii he, jisame se adhikansh apni aay va jeevika ke liye prakritik sansadhano par nirbhar karte hai
+ It has also been criticized that large scale projects of ADB cause social and environmental damage due to lack of foresight
+ edibi se sambandhit pariyojnaon main ek sarvaadhik vivaadit pariyojna thailand kaa me moh koyala-chaalit power stesan rahaa he
+ Environmental and human rights activists state that adb's environmental protection policy, as well as policies regarding natives and involuntarily arranged people, are internationally international in paper but often not followed in practice, They are too vague and weak to be effective, or simply put, the bank's rights They accepted is not applicable
+ ann sankat ke sambandh main isaki bhoomika or auchityatata ke liye bhi bank kii ninda kii gayi he
+ The civic body has accused the ADB of ignoring the warnings in relation to the crisis and that in the view of many people, the bank has deliberately changed the terms of the loan so that the national governments are privatizing and regulating the agricultural sector Forced - which gave rise to other problems such as decreased supply of rice in Southeast Asia, thus creating a crisis Switch to contributions made
+ vietnam yuddh ke sevanivrutt sainikon ne bhi laos pariyojna ke vittaposhan hetu bank kii aalochana kii kyonki karon ke aarthik samarthan ke anusaar bank main sanyukt rajya kii 15 pratishat hissedari thi
+ When the United States withdrew from Vietnam, Laos became a communist nation and the civil war of Laos was won by Pathet Lao, in connection with which it is popular that it had the support of the North Vietnamese army
+ 2009 main, bank ne bharat main prastaavit pariyojna ke liye 2
+9 billian dollar ke yojanagat kosh ko manjuuri de di he
+ The projects under this scheme were only indicative and they still required to get approval from the Bank's Board of Directors even further; However, PRC Foreign Ministry spokesman Qin Gang claimed that, "the Asian Development Bank, despite all the concerns of China, has approved a partnership plan with the nation of India, including the territorial dispute between China and India
+ Is included
+ china ne is vishay par kadaa asantosh vyakt kiya he
+ 
+
+ This activity of the bank does not only tarnish the name of the bank but also disregards the interests of its members
+ edibi main 67 sadsy hai 
+ unheen naamon kaa prayog kiya gaya he jinhen edibi dwaara manyata praapt he
+ Years written after a member's name indicate the period for which he or she is a member
+ edibi ke sabase bade share dharakon main japan or sanyukt raashtra hai, jinamein se prayek 15
+57 pratishat share kaa swami he
+ When a nation ceases to be a member, the bank, according to paragraphs 3 and 4 of this article, attempts to repurchase the shares of that nation on its own for the purpose of settling the account with that nation
+ chini ganatantr ne pehle sansthaapak sadsy ke rup main puure china kaa pratinidhitiv karte hue china ke naam se sadsyta lee thi
+ Although its share in the bank's capital was based on Taiwan's capital, it was a system different from the Worls Bank and the IMF where the Taiwanese government had a stake in the representation of the whole of China, subscribed only by the People's Republic of China And it was only before the Chinese Republic was replaced
+ 1986 main, jab china ke piples republic ne sadsyta lee to kuch samjhaute prabhavit hue
+ aaraosi ko apni sadsyta banaaye rakhane kii anumati thi, lekin taipei, china ke naam se - yah ek aisa naam tha jiskaa vah virodh kar rahe the
+ Specifically, it allows both ends of the Taiwan Straits to be represented in the institution
+ sanyukt rashtron ne 1978 main asian deveopment bank, world bank or vishwa ke anya kai bade bainkon kii sahaayta se deveopment bijness kii shuruyaat kii
+ Today, development business is the primary publication for all major multilateral development banks, institutions of the United Nations, and many national governments, many of which have now made it a mandatory requirement to publish their tenders and contracts in the development business
+ yah lekh swami ram ke bare main he, swami ramtirth ke liye us lekh par jaany
+ Swami Ram was a yogi who established many institutions including 'himalayan International Institute of Yoga Science and Philosophy'
+ unhone lagbhag 44 sarvaadhik vikrit pustakon kii bhi rachana kii
+ Mark Andrew Wood is a cricketer who plays Test and ODI cricket for the England cricket team
+ ye ek mukhyatah gendbaaj he jo daahine haath se gendbaaji karte he
+ Mark Wood plays for domestic cricket Durham, while in the 2018 Indian Premier League auction he was bought by Chennai Super Kings, thus making it the first IPL
+ bharat kii janaganana anusaar yah gaanv, tehsil sanbhal, jila muradabad, uttar pradesh main sthit he
+ Related Census Code: State Code: 09 District Code: 135 Tehsil Code: 00721 uttar pradesh ke jile Arvind Kumar, along with his wife Kusum Kumar, is known for creating the first parallel dictionary of Hindi
+ abhi haal main unhone sansar kaa sabase adwitiya dwibhashi thesaras taiyaar kiya
+ The Penguin english-hindi / hindi-english Thesaurus and Dictionary is the only and amazing linguistic resource of its kind
+ yah kisi bhi shabdkosh or thesaras se aage kii chiz he or sansar main koshkarita kaa ek nayaa kirtiman sthapit karata he
+ The combined bilingual thesaurus and thesaurus with such a large and so many titles subtitles was not there before this
+ arvind kumaar kaa janm uttar pradesh ke meerut nagar main hua
+ He got his primary education in the municipal school of Meerut
+ san 1943 main unka parivaar dilli aa gaya
+ Here he matriculated
+ ve angrezi sahitya main eme hai
+ Presently is the unpaid editor-in-chief of the Hindi Folk Dictionary Project of the Central Hindi Institute, Agra
+ arvind film patrika maadhuri or sarvottam ke pratham sampadak the
+ His entry into journalism came from Delhi Press Group magazine Sarita
+ kai varsh isi samooh kii angrezi patrika karevan ke sahaayak sampadak bhi rahe
+ In addition to art, drama and film reviews, many of his retail poems, articles and stories have been published in prestigious magazine magazines
+ unke kavyanuwaad shakespeare ke julius sijar kaa manchan rashtriya natya vidhyalay ke liye ibrahim alkaji ke nirdesan main hua
+ In 1998, Julius Caesar was staged by the Asmita Natya Sanstha at the Shakespearean Drama Festival and Prithvi Theater Festival, India Habitat Center, under the direction of Arvind Gaur
+ arvind kumaar ne sindhu ghati sabhyataa kii prishthbhumi main isi naatak kaa kavy roopaantar bhi kiya he, jiskaa naam he - vikram saindhav
+ The extermination or non-planetary planet is called a planet which is situated outside our solar system
+ san 1992 tak khagolashastriyon ko ek bhi gair-saureey grah ke astitv kaa gyaan nahin tha, lekin uske baad bahut se aise grah mil chuke hai
+ As of 1 September 2018, 3,823 outbreaks had been known
+ yah 2,860 grahiy mandal main the or inamen se 632 mandalon main ek se adhik grah the
+ Because the technologies for observing most of these have not yet been developed, it cannot be said with hundred percent confidence that all these planets actually exist, but the scientific effect and other signs on their stars, scientists are aware of their existence
+ Are confident about anumaan lagaaya jaataa he ke suraj kii shrenee ke lagbhag 10% taron ke ird-gird grah parikrama kar rahe hai, haalanki yah sankhya us se bhi adhik ho sakati he
+ On the basis of information collected by the Kaplar space probe, some scientists have estimated that there are likely to be at least 50 billion planets in the galaxy
+ california institute of technology ke vaigyanikon ne janvari 2013 main anumaan lagaaya ki akashganga main is anumaan se bhi dugane, yani 100 arab, grah ho sakate hai
+ The bhaskar-i and II satellites were the two satellites built by the Indian Space Research Organization to form India's first low-orbit Earth observation satellite series
+ unhone telemetary, samudr vigyaan or jal vigyaan par aankade jutaaye hai
+ Bhaskar-1, weighing 444 kg, was launched from Kasputin Yar on 7 June 1979 on an Intercosmos launch vehicle
+ yah bhu - sameepak 394 kilometre or 399 kilometre kii apoji kaksha main 50
+7 degree ke jhukaav par rakhaa gaya tha
+ Satellite included upgrah ne samudr or bhoomi kii sataha kaa data pradaan kiya he
+ However, the cameras later broke down
+ grih vyavastha telemetary 17 farvari 1993 par punahpravesh tak praapt kii gai thi
+ Bhaskar-2, weighing 436 kg, was launched from Kasputin Yar on 20 November 1981
+ yah bhartiya up mahadweep kii 300 televijan chhaviyon kii prapti ke baad parichaalit ghoshit kiya gaya tha
+ Housekeeping telemetry was obtained by 1991
+ isane 30 navambar 1991 par kaksha main punah pravesh kiya
+ It was set at a geostation of 368 km and an inclination of 37
+7 km at 50
+7 degree in orbit
+ govind sahay,bharat ke uttar pradesh kii duusari vidhansabha sabha main vidhayak rahe
+ In the 1957 Uttar Pradesh Legislative Assembly election, he participated in the election on behalf of the Congress from 54 - Nagina Legislative Assembly Constituency in Bijnor district of Uttar Pradesh
+ chausath yogini mandir madhya pradesh ke jabalpur main sthit devi kaa ek mandir he
+ This temple was built by Maharana Aruna Devi of Maharaja Karnadev of Tripuri royal family
+ ayaan chawla / Ayaan Chawla ek bhartiya vyavsaayee or lokopkaarak he
+ At the age of 13, he became the founder and CEO of Asian Fox Developments Asian Fox Developments which manages over 100,000 enterprise, SMB, SOHO and retail customers and users across multiple geographies
+ unhen bharat ke sabase yuva mukhya kaaryakari adhikari ke rup main manyata mili or bharat ke sabase chote siio sahit swarna, pradhan mantri karyaalay, varsh ke yuva vyavsaayee main prashansa patr sahit prashansa / khitaab praapt hue
+ He received the Youngest Award of Udyog Ratan Award by Odisha Governor Dr
+ SC Jamir in the year of 2017
+ chawla pramukh akhbaaron, patrikaayen or samachar portalon dwaara cover kiya gaya he or ek vishesh spikar jahaan unhen vibhinn sansthaanon or sanghathanon dwaara aamantrit kiya gaya he
+ Pania Valla-id 04 is a village in Pauri district of Garhwal division under the state of Uttarakhand in Pauri Tehsil
+ nirdeshaank: 21°36′10′′N 71°13′05′′E / 21
+602871°N 71
+21817°E / 21
+602871; 71
+21817bada maachiala bharat desh main gujarat praant ke saurashtra vistaar main amarelli jile ke 11 tehsil main se ek amarelli tehsil kaa mahatvapurn gaanv he
+ The main occupation of the people of big Machiala village is farming, agricultural labor, animal husbandry and gemstones craftsmanship
+ yaha pe gehun, moongfalee, tal, bajra, jira, anaaj, saim, sabji, alphala ityadi kii kheti hoti he
+ The village has facilities like school, panchayat ghar
+ gaanv se sabase najdiki shahar amarelli he
+ 1737 is an ordinary year of Gregory calendar
+ gym corbett rashtriya udyaan bharat kaa sabase purana rashtriya park he or 1936 main luptpraaya bengal baagh kii raksha ke liye hali neshnal park ke rup main sthapit kiya gaya tha
+ It is located in the Nainital district of Uttarakhand and was named after Jim Corbett who played an important role in its establishment
+ baagh pariyojna pahal ke tahat aane vaala yah pehla park tha
+ It is a glorious animal sanctuary
+ yah ramganga kii patlidoon ghati main 1318
+54 varg kilometre main basaa hua he jiske antargat 821
+99 varg kilometre kaa gym corbett vyaghr sangrakshit kshetra bhi aata he
+ The park has geographical and ecological features of the sub-himalayan belt
+ yah ek ecotorism gantavy bhi he or yahan paudhon kii 488 prajatiyaan or jeevon kii ek vividhta he
+ Increase in tourism activities and other problems are posing a serious challenge to the ecological balance of the park
+ corbett ek lambey samay ke liye paryatakon or vanyajeev premiyon ke liye adda rahaa he
+ Tourism activity is permitted only in selected areas of the Corbett Tiger Reserve so that people get a chance to see its spectacular landscape and diverse wildlife
+ haal ke varshon main yahaan aane vaale logon kii sankhya main naatakeey rup se vruddhi hui he
+ Currently, more than 70,000 visitors visit the park every season
+ corbett neshnal park main 520
+8 varg kimi main pahari, nadi ke belt, daldaleey gadde, ghaas ke maidan or ek badi jhil shaamil he
+ Elevations range from 1,300 to 4,000 feet
+ yahan sheetakaaleen raaten thandi hoti hai lekin din dhupadaar or garam hote hai
+ It rains from July to September
+ ghaney nam parnpaati van main mukhya rup se saal, haldu, pipal, rohini or aam ke ped hote hai
+ The forests cover about 73% of the park, with 10% of the grasslands in this area
+ yahan 110 ped kii paprajatiyaan, 50 stanadhariyon kii prajatiyaan, 580 pakshi prajatiyaan or 25 sarisrup prajatiyaan hai
+ The distance of Corbett National Park from Delhi to Moradabad - Kashipur - Ramnagar is 290 km
+ corbett neshnal park main paryatakon ke bhraman kaa samay navambar se may tak hota he
+ Travel agencies in this season arrange to roam the tourists in Corbett National Park
+ kumaun vikaas nigam bhi prati shuukravaar ke dilli se corbett neshnal park tak paryatakon ko le jane ke liye sanchalit bhramanon kaa aayojan karata he
+ The buses of the Kumaon Development Corporation have experienced guides who keep talking about the animals and their habits
+ yahan par sher, hathi, bhaaluu, baagh, suar, hiran, chital, sambhars, pandas, kakad, nilgai, ghural or chita aadi 'vanya praani' adhik sankhya main milte hai
+ Similarly, python and many types of snakes also live in this forest
+ jahaan is vanya pashu vihaar main anek prakaar ke bhayanak jantu paye jate hai, vahaan is park main lagbhag 600 rang - birange pakshiyon kii jatiyaan bhi dikhaai detii hai
+ This country is a sanctuary in which there are many species of wild animals along with birds
+ aaj vishwa kaa aisa koi konaa nahin he, jahaan ke paryatak is park ko dekhne nahin aate hon
+ The British were also fond of protecting wild animals
+ san 1935 main ramganga ke is anchal ko vanya pashuon ke raksharth surakshit kiya gaya
+ The park was named 'heli National Park' after the then Governor Malkam Haley
+ swatantraaa milane ke baad is park kaa naam 'ramganga neshnal park' rakh diya gaya
+ After independence, the name Jim Corbett spread to the world as a famous hunter
+ gym corbett jahaan achook nishanebaaj the vahiin vanya pashuon ke priy saathi bhi the
+ He killed hundreds of man-eating lions of Kumaon and saved hundreds of lives
+ hajaaron ko bhay se mukt karavaaya tha
+ a man-eating lion also killed many people in Garhwal
+ us aadamkhor ko bhi gym corbett ne hi maaraa tha
+ He had killed many people around Rudra Prayag in Adamkhor Garhwal
+ gym corbett ne 'da main iter aaf rudra prayag' naam kii pustaken likhin
+ When the Government of India understood the popularity of Jim Corbett and realized that this area was his area B, the park was renamed as 'jim Corbett National Park' in 1957 and tourists going to Jim Corbett National Park would go through this route
+ Huh
+ nainital se aanevaale paryatak is sangrahalay ko dekhakar hi aage badhate hai
+ Jim Corbett's full name was James Edward Corbett
+ inkaa janm 25 july 1875 i
+ main hua tha
+ Jim Corbett was a very hardworking and fearless person since childhood
+ unhone kai kaam kiye
+ He also worked in Driver, Station Mastery and Army and went on to become a Transport Officer in Anet but his love of wild animals continued to attract him
+ jab bhi unhen samay miltaa, ve kumaun ke wanon main ghoomane nikal jate the
+ Loves wild animals very much
+ jo vanya jantu manushya kaa dushman ho jaataa - use ve maar dete the
+ Jim Corbett's father was a partner in a building company called 'matthew and Sons'
+ garmiyon main gym corbett kaa parivaar ayayarpata sthit 'gurni house' main rahata tha
+ They lived in that house till 1945
+ thandiyon main corbett parivaar kaalajhuungi vaale apane makaan main aa jate the
+ In 1947, Jim Corbett moved to Kenya with his sister
+ ve vahiin bas gayi the
+ He died in Kenya at the age of eighty
+ aaj yah park itnaa samrudh he ki iske atithi-grih main 200 atithiyon ko ek saath tehraane kii vyavastha he
+ Beautiful guest houses, cabins and tents are available here today
+ khaane kaa uttam prabandh bhi he
+ There is every kind of facility in Dhikal, then there is adequate arrangement in the guest house of the main gate
+ ramnagar ke railway stesan se 12 kimi kii duuri par 'corbett neshnal park' kaa get he
+ The park can be reached from Ramnagar railway station by small trains, taxis and buses
+ bas sevaayen bhi uplabdh hai
+ Buses can be availed from Delhi to Dhikala
+ yahan pahunchne ke liye ramnagar kalagarh margon kaa bhi prayog kiya ja saktaa he
+ Dhikala is 297 km from Delhi
+ dilli se gajiabad-hapur-murdabad-kashipur-ramnagar hote hue dhikaala tak kaa maarg he
+ The motor road is very beautiful
+ bhrikuti devi licchhvi rajkumaari evam tibet ke sabase pehle samraat sronchan gampo kii patni thim
+ She is considered an avatar of Tara Devi
+ tibeti log unhen balmo ja thrichun, 'balja thrichun' yaa keval 'thrichun' naam se jaanate hai
+ She was also known as 'besa'
+ nai-valikand0i, paudi tehsil main bharat ke uttrakhand rajya ke antargat gadhwal mandal ke paudi jile kaa ek gaanv he
+ varsudi-nand 03 is a village in Pauri district of Garhwal division under the Uttarakhand state of India in Pauri Tehsil
+ kisi anu main do yaa do se adhik parmaanu jis bal ke dwaara ek duusare se bandhe hote hai use rasinic aabandh kehete hai
+ These bonds are formed after chemical conjugation and the atoms acquire the electron configuration of the nearest inert gas
+ duusare shabdon main, rasinic aabandh vah parighatna he jisamen do yaa do se adhik anu yaa parmaanu ek duusare se aakarshith hokar or judakar ek nayaa anu yaa aayan banaate hai 
+ This process takes place at a microscopic level, but its result can be viewed in a macro form, as the same process happens with many molecules and atoms
+ gas main ye naye anu swatantra rup se maujuud rahete hai, drav main anu yaa aayan deele taur par jude rahete hai or thos main ye ek aavarti dhaanche main ek duusare se sthirataa se jude rahete hai
+ The chemical bond is generally divided into three parts - 1
+ ynic bandh- yah bandh yanon ke madhya aakarshan se banataa he
+ 2
+ Covalent bond - is formed by sharing the same electron
+ 3
+ upasahsanyojak aabandh - electron ke asmaan saajhedaari se banataa he
+ Connectivity Bond Principles san 1927 main hitler tathaa landan ne vipareet electron chakranon ke yugman tathaa udaasinikaran par aadhaarit siddhant banaaya 
+ According to Hitler and London, the electronic pair bond is formed only when the participating electrons rotate in opposite directions
+ is prakaar ve aabandh banaakar apane chakran kaa udaasinikaran kar lete hai jisase unki urja main kami aa jaati he jo bandha ko sthayitv pradaan karti he 
+ In modern times chemical bonds are classified as follows: pai bandha: pai bacobonding · konjugeshan · hyperconjugeshan · aromaticity · dhaatu aromaticitidelta bandha: quadrupal bandha · quintupal bandha · sextupal bandha Chiaki Mukai is a Japanese doctor, and Jaksa's astronaut
+ vah antariksh main jane vaali pehali japani mahila thi jinhone do antariksh udaanen bhari thim
+ They both had flying space shuttle missions
+ unki pehali udaan 1994 july main antariksh shatal colombia par ests -65 spackelaab mishan kii thi
+ His second space flight was the STS-95 on the Space Shuttle Discovery in 1998
+ unhone antariksh main kul 23 din bitaye hai
+ He was born on 6 May 1952 in Tetbayashi, Gunma, Japan
+ unhone apni skool kii shiksha 1971 main tokyon ke kio girls senior hai skool se praapt kii
+ He received his doctorate in medicine in 1977 from Cao University School of Medicine, doctorate in physiology, in 1988 from KO University School of Medicine and in 1989 from the Japan Surgical Society, certified as a board cardiovascular surgeon
+ 1985 main chiaki mukaai ko pehali saamagree processing test ke liye teen japani pelod visheshgy ummidavaaron main se ek ke rup main chunaa gaya tha,jahaan unhone ests -47 main udaan bhari thi
+ He also worked as a back-up payload specialist for the Neurolab mission
+ chiaki mukaai ne 566 ghanto tak antariksh main pravesh kiya hua he
+ He flew on STS-65 in 1994 and STS-95 in 1998
+ vah antariksh main udne vaali pehali japani mahila he, or pehle japani naagarik jo do baar udaan bhar chuki he
+ As a NASDA astronaut, she has worked as a visiting scientist in the Cardiovascular Physiology Division of the Space Biomedical Research Institute, nasa's Johnson Space Center, from 1987 to 1988
+ mukaai ko ests -107 ke liye up mishan vaigyanik saunpa gaya tha
+ In this capacity, he coordinated the science work for this science mission
+ 2009 main international spes uniwarsity main mukaai ek atithi vyaakhyaata thi
+ Bilawal Bhutto Zardari is the current president of the Pakistan People's Party
+ ve pakistan kii purv pradhanmantri divangat benazir bhutto or asif ali jaradaari ke eklaute putr he
+ The Indian National Satellite System is a series of multipurpose geostationary satellites launched by ISRO that are used for telecommunications, broadcasting, meteorology and search and rescue operations
+ 1983 main shuru kiya hua insat, asia-prashanth kshetra main sabase badi deshiy sanchaar pranali he
+ It is a joint venture of Government of India, Department of Space, Department of Telecommunications, Indian Meteorological Department, All India Radio and Doordarshan Channel
+ sachiv-str insat samanvay samiti ke upar insat pranali ke samgr samanvay or prabandhan tiki hui he
+ INSAT satellites provide transponders in various bands to serve India's TV and communication needs
+ isro antarrashtriya kospus-sarast kaarykram ke ek sadsy ke rup main dakshin asian or hind mahaasaagar kshetra main khoj or bachaav abhiyaan ke liye sankat chetavanee sanketon ko praapt karne ke liye upgrahon ke transponder kaa istemaal karte he
+ The Indian National Satellite System was commissioned in August 1983 with the launch of INSAT-1B
+ insat pranali bharat ke doordarshan or radio prasaaran, doorsanchaar or mausam sambandhi kshetron main ek kranti kii shuruyaat kii
+ It has a hand in enabling rapid expansion of TV and modern telecommunications facilities to remote areas and off shore islands
+ saath main, pranali sanchaar sevaaon ke liye si, vistaarit si or you main transponder kaa pradaan karte he
+ Kalpana-1 is a special meteorological satellite
+ upgrahon par najar rakhane or niyantran karne ke liye hasan or bhopal main master niyantran suvidha maujuud he
+ Bhadu is a Jat and a tribe of Bishnoi caste
+ parashar ek mantradrashtaa rishi, shastravetta, brahmagyani evam smritikar he
+ He is also the grandson of Maharishi Vasistha, gotrapravartak, the seer and author of the Vedic hymns
+ parashar shar-shayya par pade bhishma se milane gayi the
+ He was also among the many sages present at the time of Parikshit's atonement
+ ve chhbbeeswein dwapar ke vyas the
+ Was present in the snake sacrifice of Janmejaya
+ ★ bhartiya jyotish ke pravartakon main maharishi parashar agraganya hai
+ In Maharishi Prokant texts, only these complete texts are available under the name 'brihatparasharhorashastra'
+ anya pravartak rishiyon ke vachan to itastatah milte hai, lekin kisi sampoorn granth ke adyavadhi darshan nahi hote hai
+ This is a testament to the generality and universality of Parashar's view
+ 'parashrahorashastra' kii gungrahita va sampoornataa ke kaaran hi inaki yah rachana sarvatra prachlit he
+ ★ If you look at all the texts of astrology, then one feels that the original mural of the mantras of the later masters are parasitic thoughts
+ ek prakaar se parashar ke jyotishiya vichaaron kaa prastaar hi avaantar granthon main newnaadhik rup se dekhne main aata he
+ So it is also said - tirthodakan c vahnishch nanytah shuddhimarhatah
+ - That is - just as the evidence of the Vedas themselves is self-evident, the water and fire of the pilgrimage itself is pure, no purification is required to purify, authenticate and make them valid, in the same way to quote the words of Parashar as proof
+ The practice is everywhere
+ parashari kathanon va nirnyon ko pramanit karne ke liye kisi anya rishi vaakyon kii aavashyaktaa akinchitkar hi he
+ ★ Parashar Sampradaya or Parasriya ideology is similar to that Ganga of thoughts, which reaches all the land of India by its nectar at its peak speed or destination, and in the intermittent rivers of many ideologies, it moves within itself
+ atah 'parashar matt' ganganad he to anya vichaardhaaraein yaa matt nadiyaan hi he
+ It is an uninterrupted, Sadanira river
+ is drushti se dekhne par maharishi parashar kaa sthaan jaimini muni se unchaa hi siddh hota he
+ We do not find the tradition of nourishment of Gemini Matt in the form of attu in later times
+ jaimineey matt kii sabhi baaten parashar sampradaay main sarvatobhaven samahit ho gayi he, iskaa abhas parashrahorashastra ko dekhne se mil jaataa he
+ ★ Acharyas like Varahamihira also bow down to the principles of Parashar
+ ve apane granthon main bahut parashar matt kaa ullekh karke uskaa angikaran karte hai
+ Therefore, the Parashar Sampradaya has been cultivated, flowered and flourished all over India and 'brihadparasharhorashastra' written by him is considered to be the final decisive text in the subject of astrology
+ parashar, 'falit jyotish' ke aadhaar stambh hai isamen koi andeh nahi he
+ ★ The period of Parashar is allowed to be around Mahabharata period
+ kaliyug naamak kalkhand ke prarambh main hone ke kaaran uttarottar baliyastv ke siddhant se kaliyug main parashar matt kii sarvopari manyata spasht he
+ ★ At one or two places in Kautilya's Arthashastra it is felt that the Vashistha and Pitamah doctrine was propagated at that time, so after assuming the time of Parashar after Narada, Vasistha, Pitamahadi astrologers, their existence seems to be in the beginning of Kali Yuga
+ ★ parasharah kaa sristi tatv nirupan surya siddhant ke tadeey prakaran se mail khaataa he
+ Hence Parashar existed around the event of the Mahabharata war, in the Puranic era, after the Vedic creation period, before the modern Matha from Panini, even before Chanakya, in the Puranic period
+ ★ arthshaastra main parashar kaa namollekh paaya jaataa he
+ Parasrasmriti shlokas are collected in Garuda Purana
+ ★ brihadaaranyakopenishad va taittiriyaranyak main vyas va parashar ke naam aate hai
+ ★ Yask also mentions the origin of Parashar in his ' # Nirukta'
+ ye krishnadwaipayan vyas ke pita the tathaa inke pita kaa naam 'shakti' tha
+ Varaha calls Parashar as Shaktiputra or Shakti East
+ ★ agnipurana main spashtatya inhen shakti kaa putr hi kaha he
+ This Parashar was fascinated by Matsyagandha Satyavati and Parashar son Krishnadvapayan Vyas was born from Satyavati's womb, it is well known
+ ★ inhi parashar ne kaliyug main vyavastha banaaye rakhane ke liye 'parasharasmriti' yaa 'dwadashadhyaayi' dharmsamhita kii rachana kii thi
+ Krite tu manavo dharmastrayatayein gautam: smritah
+ dwapare shankhalikhitah kalau parasharah smritah
+ ★ When Krishnadvapayan Vyas ji took some sages to his father Parashar located in Badarikashrama, Parashar gave him the knowledge of Varnashrama Dharma system
+ ★ varah ne inhi shaktiputra parashar ko horashastra kaa pravaktaa bhi mana he
+ Varahamihira is believed to have occurred in the fifth century
+ atah prayek paristhiti main aaj se lagbhag 2000 varsh purv parashar ke samay kii nichali seemaa he
+ ★ The conversation of Vidur and Maitreya is mentioned at one place in Srimad Bhagwat
+ isse bhi # maitrey, # parashar va # mahabharat kii kadiyaan milti prathit hoti he
+ Maharishi Parashar, who described Maitreya as Hora Shastra, was a sage who attained old age or fourth quarter in the Mahabharata period
+ mahabharat kaa samay paramparaya kam se kam 3000 varsh purv mana jaataa he
+ Hence Parashar took place in India 2-3 millennia ago
+ ★ 'parashar tantra' kaa ullekh # bhattotpal ne anek sthanon par kiya he
+ He has admitted to seeing and reading 'parashari Samhita' in the commentary of # Brihajatak
+ 'parashar tantra' naam se jo uddhran die gaye hai, unka vishay tantra arthath siddhant jyotish se kam va samhita se adhik mail khaataa he
+ ★ Lord Brahma ji tells Narada ji- brahma ji bole - he naarad ! ab ham shivaji ke chhbbeeswein avatar kii katha kehete hai, tum man lagaakar suno
+ ★ Twenty-sixth Avatar of Lord Shiva - chhbbeeswein dwapar main # parashar ne vyas kaa janm liya, jo hamaare # praputra the tathaa # shakti se utpann hue the
+ # his_saman_shiva- # Bhakta # koi_nahi_hua
+ unhone veda ke 1
+ rik2
+ yaju3
+ sam evam4
+ atharvanaye chaar bhaag kiye tathaa unki shakhaon ko badhaayaa
+ After that, made eighteen Puranas, because the wisdom of earthly creatures was destroyed by the entry of Kali Yuga
+ unhone veda kii reetiyaan yukti purvak puraanon main is prakaar mila di, jisase log prasann ho
+ Just as a doctor does not give bitter medicine, sweet medicine makes the patient happy
+ unhone anya vyaason kii apeksha jo ki pehle hue the, adhik achche puraana banaaye
+ Although we and # Vyas made many kinds of efforts to make Vyasamatta famous but our efforts were fruitless and nobody read the Puranas
+ tab # vyas_parashar ne chintit hokar shivaji kaa dhyaan kiya tathaa stuti karte hue unase kaha ki he prabho ! dwapar yug vyateet ho gaya tathaa kaliyug aa gaya
+ Although i have revealed the intentions of the Vedas in the Puranas, but no one understands them due to the influence of Kali Yuga, the path of progress is increasing, but the end of Nibriti is coming to an end
+ he prabho ! he bhaktavatsal ! kisi ne bhi puraanon ko nahin chhua, atah meraa matt prasiddh nahi hota isliye aap meri prarthana sunakar sahaayta kijiye tathaa mere dharm ko drudh kijiye
+ You should increase my opinion by taking an avatar
+ he naarad ! # mere_praputra_vyas_parashar kii is prarthana ko # shivaji ne sweekaar kar liya tathaa chhbbeeswein dwapar ke ant main or kaliyug ke prarambh main " # sahishnu" naamak avatar grahan kar liya tathaa 1
+ uluk2
+ vidyut3
+ sambal tathaa4
+ ashvalyanaye chaar shishy utpann kiye tathaa unhen yoga kaa gyaan sikhaaya tathaa unhone yoga ko prakat kiya
+ The worldly creatures learned that yoga very diligently
+ phir unhone veda evam puraanon se achche dharm evam matt prakat kiye
+ These four disciples of Shiva were learned ashrams, yoga practitioners and sinless
+ he naarad ! is prakaar bhagwaan shiv ne apane in chaar shishyon sahit yoga ko prakat kar puraanon ko prasiddh kiya tathaa vyasaji ko prasann kiya
+ Sanandan Sanatan Hee Kheu Vodhu Panchsikh Naam Raheu ॥11॥shukra Chavan Nara Shakri, # Parashar He Vyas paulastya shardwan, agastya arishtanemi hi
+ Shamik Hee Wise, Mandavya Pal Panini This ॥15॥ Where is Bhaguri Yajnavalkya, # Dwaipayan Piplad
+ kakshivan bharadwaj kahije, vedashir shankuvarna lahije
+ Shaunak # Parashuram Kahave, Indrapramad and Kavash Rahaway ॥18॥ - # sriharicharitramritasagar Namo Vasisthaya Mahavrataayaprasharam Vedanidhi Namasya
+ namostvanantay mahorgay,namostu siddhebhy ihakshayebhyah 
+10
+namostvrishibhyah paraman pareshan deveshu devam varadan varanam 
+ Sahastrashirshaaya Namah Shivaya Sahastranamaya Janardanay ॥11॥ arthath - - mahaan vratadhari # vasishtha ko namaskara he, vedanidhi parashar ko namaskara he, vishaal sarp-rupadhari anantko namaskara he, akshay siddhgan ko namaskara he, rishi vrund ko namaskara he tathaa paratpar, devadhidev, varadaata parameshwar ko namaskara he evam sahastra mastak vaale shiv ko or sahastron naam dhaaran karne vaale bhagwaan janardan ko namaskara he
+ - Mahabharatam taponidhi, tapomurti bhaktavatsal parashar kaa ashram - badrikashram Tatste rishya: survey religion rishin vyasan puraskruty gata badarikashraman 
+5
+nanapushpalatakirnam falpushparalankrutam
+ Nadipraastravanopetam puneyarthirshopithamcha ॥6॥ Mrigapakshininadadhayam Devataanavrittam
+ yakshagandharvasiddhaisch nrityangitairalankrutam 
+7
+tasminnrishisabhamdhye shaktiputran parasharam
+ Sukhacinam Mahateja Munimukhyaganavrittam ॥8॥kritanjaliputto Bhootva Vyāsastu Rishibhi: Sah
+ pradakshinabhivadaishch stutibhi: sampujyat
+9
+ That is, the whole sage who aspired to the element of religion, hearing this, went ahead to Shri Vyasji and went to # Badarikashram
+ # yah # ashram anek bhanti pushpon_kii_lataaon_se_purna, # fal- # pushpon se shobhyman, # nadi_or_jharanon se vibhooshit, # pavitra_tirthon se shobhyman, # mrug_or_pakshiyon ke shabd se shabdyman, # devamandiron se aavruth, # yaksha_or_gandharvon ke nritygan se # shobhyman, or # siddhaganon se alankrita tha
+ # In that ashram, # Shakti_ Rishi's son - parashar smriti ■ The name 'parashar' in Sanskrit literature is not only revered but also very ancient
+ sansar kii pracheenatam pustak rugveda main vashishtha, shatayu ke saath parashar kaa bhi naam aayaa he
+ ◆ Praya Grihaat Mammadustvaya Parasarah: Shatayuvarshishta
+ 
+ ● Reference - Second Volume Rigveda Mandal 7, Chapter 2 Sukta 18, Mantra 21) ● in teenon ne raja sudas kii vijay kaamana ke liye indra se prarthana kii thi
+ ■ The first section of the Rig Veda, the first mandal, the fifth chapter Sukta 65-73, the seer of the suktas, the divine seer, the Vedic seer, the future seer Adhubhakkarma is considered to be the Lord of Gods
+ ■ ek anya ullekh ke aadhaar par parashar naam vaali ek veda shakha bhi he
+ ● Reference - Kathak index, 'istu' 3 / 460, page 7 ■ nirukt main parashar ke mul par likhaa paaya jaataa he
+ ◆ Dwत्रिrīच्छच्छच्छच्छपददेष Parasura: ● Reference - 4 / 3 ■ panini muni ne apane vyakaran shaastra main 'parashar' ko bhikshu-sutara praneta ke rup main uddhrut kar parasharyon kaa bhi ullekh kiya he
+ ◆ "parasaryen prokta monk-sutramadhyate
+ parasharino bhikshavah
+ And 'parasaryashilalibhyana Bhiksunat Sutrasoha'
+ ● sandarbh - ashtaadhi - 4 / 3 / 110 ■ Ramayana - Parashar is discussed in Valmiki Ramayana as the grandson of Vashistha and son of Shakti
+ ■ mahabharat - adiparv, shantiparv, anushaasan parv main parashar ko lekar paryaapt ullekh miltaa he
+ In the Mahabharata, a snake named Parashar is also discussed with Shakti son Parashar
+ ◆ parashrastarun ko mani: skandhstaruni:
+ Iti nama
+
+
+
+ ● sandarbh - ■ Kautilya Arthashastra - In Kautilya Arthashastra, the names Parashar and Parasarya are mentioned six times
+ ◆ 'saadhaaran esh dosha iti parasharah' ● sandarbh - kautilya arthshaastra - 1
+8 pri
+34, tathaa 1 / 15 / 59, 1 / 17 / 68, 2 / 17 / 119, 8 / 1 / 572, 8 / 3 / 583 ■ In the Puranas such as Brahmanda Purana, Matsyapuran, Vayu Purana, Devi Bhagwatpuran and Vishnu, Parashar and his opinions were inscribed
+ ● brahmadpurana -khand 2, adhyay 32 shloke 115, 2 / 33 / 3, 2 / 35 / 24,29, 4 / 4 / 65-66, 1 / 1 / 9, 3 / 8 / 11, aadi
+ ● Vayu Purana - Chapter - 23,59,61,65,77 ● matsya-purana - Adhyaya - 14,53,145 ● Devibhagavat Purana - First and Dwadash Wing ■ varahamihir - ● The name of Acharya varah-mihir is very important in Indian astrology
+ inhone anek purvavarti aacharyon ke saath apni samhita main parashar ke naam or siddhanto ko uddhrut kiya he
+ Writing on Rohini Yoga, he has discussed Parashar with Garg and Kashyapa
+ vaarahi samhita ke tikaakar bhattotpal ne parashari samhita ko uddhrut karte hue likhaa he - dhanishthadyat pusthardhanthan charah shishirh
+ Vasant Pooranardhat Rohinayam
+ saumyaadashleshardhanatan greeshm:
+ Pravadashalasardhathaastantam
+ chitradyaat jyeshtharddhat shravanantam
+ ● Tikkar Bhattottapal of Varahamihira quotes the ritu-avasthana text of Parashar
+ ■ siddheshwar shastri-siddheshwar shastri chitrav ke anusaar parashar ayurvedacharyon main ayurvedashastra praneta hai
+ Earthwatch: - tathanumpamanen yajvanathamitaujasa 
+ 
+ 76
+ 
+ parasharen dayadah saudasasyabhirakshitah 
+ Sarvakarmani Kurute Shudravat Tasya sa Dwijah
+ 
+ 77
+ 
+ Sarvakarmaityabhikhaya: sa maam rakshatu parthivah
+ 
+ That is to say - Prithvi Devi says - This is how the mighty Yajnaparayana Maharishi Parashar has saved the life of the son of Saudas with compassion, he does all the deeds like a Shudra even after being a prince
+ isliye 'sarvakarma' naam se vikhyath he
+ He should protect me as a king
+ - prithvi devi The word 'parashar' means - 'parasharnati Papaniti Parasarah', that is, one who destroys all sins only by having a darshan
+ he parashar paraagatya shrinati hinasti shatrun iti parashar:
+1
+ That is, the person who defeats enemies and destroys them is called # Parashar
+ - sayan bhashya Parashatayita yatunam iti parasarah
+ 
+
+
+para paritah yatuunaan
+
+
+ rakshasam
+ 
+
+
+ Silence Destroyer: ॥30॥ arthath - jo chaaron ore se rakshason kaa vinaash karne main samarth ho vah # parashar he
+ - Free / Nig paran maaturnimaturnijayayadadran tadyan ytah
+ Richmucharya Nirbhidya Nirgat sa Parashar
+ 
+ 1
+ 
+ That is, it was extracted from the stomach of the mother while speaking to the Vedas, hence it was named Parashar
+ ★★★parasya kaamdevsy sharah sammohanadayah
+ Neither Vidyante Yatasten Rishirukta: Parashar
+ 
+ 2
+ 
+ That is, due to Kamadev's hypnosis, hypnosis, exploitation, heating, stagnation, the diligence of not allowing the effects of these five arrows on himself, the sages also called him "parashar"
+ ★★★parakritah shara yasmaat rakshasanaan vadharthinam
+ Hence the name Parashro: Rishirukta: Manishibhi:
+ 
+ Parashatayita yatunam iti parasarah
+ 
+ 
+ 3,31 / 2
+ 
+ arthath - vadh kii ichha rakhane vaale rakshason ke baanon ko inhone pare kar diya
+ Hence, the wise called his name "parashar"
+ ★★★parasuh sa yatasten vashishtha sthapito munih
+ Garbhasthen tato loke parashar iti smritah
+ 
+ 4
+ 
+ That is, that child came into the womb and encouraged the great monk to live again; Therefore he became known as "parashar" in the world
+ ★★★parashrinati papaniti parashar: 
+ 
+ 5
+ 
+ arthath - jo darshan samaran karne maatr se hi samast paap-taap ko chhin-bhinn kar dete hai ve hi parashar hai
+ ★★★ Hence being the basis of a vashistha wishing to give up his life, or by defeating the sex-effect effects, or by taking them away from the bodies, or by being the enemy's vanquisher
+ This boy's name # Parashar came into practice
+ 
+ # parashar_shabar_mantra mentioned in Vedas - vedon main varnit # satyawadee_munishreshth_mahaamanaa # parashar ke gunon kaa varnan - Aparajito Jitarati: Sadanando Dayayut: Gopalo Gopathirgopta Kalikalparashar: ॥58॥ arthath - shatruon ke dwaara ajey, shatruon ko jeetne vaale, sadaa anandit rahane vaale, dayaalu, prithvi kaa paalan karne vaale, indriyon ke swami, bhakton ke rakshak # kalikaal ke # munishreshth_parashar arthath katha vaachakon ke utpaadak # mahamuni_parashar 
+ ★ The divinity of Rishisrestha Parashar is specified in the Atharvaveda
+ atharvaveda main vedamurti, taponishth, taponidhi, bhagwaan parashar kii gananaa rishiyon main na hokar devataaon main kai gayi he
+ ★ Rishi- The sage of most Suktas of Atharvaveda is ‘atharva’ sage
+ anya anek rishiyon ke sookhton ke saath bhi atharva kaa naam sanyukt he
+ Such as Atharvacharya, Atharvakriti, Atharvangira, Bhrigavangira Brahma etc
+ ★ athrveda main in nimnlikhit sabhi ko rishitv praapt he - 1
+ Bhrigu Arthavan 2
+ Vashistha 3
+ Agatsya 4
+ Angira 5
+ Atharva, 6
+ Bhrigu 7
+ Jamadagni, 8
+ Kashyapa 9
+ Kanva, 10
+ Vishvamitra xxrep 5 
+ etc
+ ★ athrveda main nimnlikhit sabhi ko devatv praapt he - Deity - The number of deities in the Atharvaveda is more than double that of other Vedas
+ 1
+ ansh 2
+ agni 3
+ agnavishnu 4
+ arundhati naamak aushadhi 5
+ ashvinikumar 6
+ indra7
+ kashyap 8
+chandramaa 9
+dhanvantari 10
+ # parashar ★ In this mantra of Atharvaveda, # Parashar is prayed to destroy the enemy
+ 【rishi - atharva, devtaa - # parashar, chand-1 pathyaapankti, 2-3 anushtup】 Ava manyuravayatva bahu manoyuja
+ arthath - krodh evam shastrastra dur hon
+ The arms of the enemies are impaired and the mind is courageous
+ he dur se hi shar-sandhan main nipun dev ! aap un shatruon ke bal ko parangamukh karke nasht karen tathaa unke dhan hamen pradaan karen
+ Parashar's father's name was Shaktimuni and his mother's name was Adyashyanti
+ shaktimuni vasishtharishi ke putr or vedavyas ke pitamah the
+ Parashar was the grandson of Vasistha on this basis
+ shaktimuni kaa vivaah tapasvi vaisya chitramukh kii kanya adrishyanti se hua tha
+ While in the mother's womb, Parashar had heard the cosmic Purana from the father's mouth, in the course of time he preached it to the famous Jitendriya Muni and Jatukarnya, the councilor of Yudhishthira
+ parashar bashkal ke shishy the
+ Rishi Vashkal was the teacher of Rigveda
+ yajyavlky, parashar, bodhya or agnimathak inke shishy the
+ Bashkal taught these disciples by doing four divisions of a branch of the Rigveda
+ parashar yajyavlky ke bhi shishy the
+ Ikshvakuvanshi was the grandson of Rituparna, the king of Ayodhya
+ unke putr virasah hue, jo sudas-putr hone se saudas bhi kehalaate the
+ Due to the curse of Maharishi Vasistha, he became the male demon Kalmashapad
+ rakshas rup kalmampaad ne shakti sahit vasishtha ke sau putron ko kha liya
+ Due to this, Vasishta made many attempts of suicide, but did not succeed
+ atah shakti kii patni adrishyanti ko saath lekar ve himalay par pahunche
+ Once Vasisthan heard the sound of Vedhyayana, he was surprised because no one who was reciting Vedas was seen there
+ tab adrishyanti ne unhen bataa diya ki shakti kaa putr mere garbh main he or usee ke vedadhyayan kii dhwani suni gayi he
+ Vasistha was so pleased to hear that he gave up the desire for death
+ janmoparant parashar ne sun liya ki rakshas kalmampaad ne unke pita shakti ko kha liya tha
+ Hearing this, there was fierce opposition to demons in his mind and he decided to put an end to demons from the world
+ is aashay se unhone apana rakshas-satr aarambh kiya jisamen rakshas marate ja rahe the
+ When many demons were killed, Maharishi Pulastya went to Parashar after getting the permission of Niruti and prayed to complete the demon-session to save the demon dynasty
+ unhone ahimsa kaa upadesh diya
+ Vyas also explained to Parashar that it is improper to kill all demons without any blame, so you should complete your yagna because Bhushan of the sages is forgiven - pulasthya tathaa vyas ke sadupadeshon se prabhavit hokar parashar ne apana rakshas-satr purna kiya
+ They put Agni in the flat region of the Himalayas
+ pulasthya ne rakshas-satr purna karne ke uplakshya main unhen kai prakaar ke aashirwad diye
+ He said that despite anger, you did not destroy my dynasty
+ uske liye tum ko ek vishesh var pradaan karata hoon
+ You will become the author of the Purana Samhita
+ devtaa tathaa parmarthatatva ko yathavat jaan sakoge or mere prasad se nivrutt or pravritimulak dharm main tumhaari buddhi nirmal evam asandigdh rahegi - On the northern bank of the Narmada, Parashar did austerity for the attainment of son and Parvati gave a direct darshan and assured him of his wish
+ chediraj naamak uparichar vasu ek baar mrugaya ke liye niklaa, to sugandhit pawan, sundar vaataavaran aadi se prabhavit raja ko apni patni yaad aayi or uskaa veery-skhalan hua
+ To take him to his wife, the king prayed to a xenon bird
+ shyen jab use le ja rahaa tha, use mansapind samaj kar maarg main ek doosraa shyen pakshi hadapney laga
+ Then the semen fell into the water of Kalindi, which was swallowed by the apsara named Adrika, who was living in Kalindi as a fish due to the curse of Brahma
+ faltah us machhlee ke garbh se ek putree or ek putr kaa janm hua
+ The son's name was Matsya, who became the great king
+ putree kaa naam kaali rakhaa gaya or vah ek dhivar ke yahan palit hui
+ When Kali or Matsyagandha grew up a little, she used to help her paternal father in the boat work
+ ek praatavkaal parashar yamuna paar karne ke liye aaye
+ The fish girl Kali only floated the boat
+ use dekh parashar muni mugdh ho gayi or usase kampurti kii prarthana kii
+ For the sake of seeing no one else, the monk created a fog and had sexual intercourse with him, which led to the birth of Parashar-son Vyas
+ parashar ke anugrah evam aashirwad se kaali kaa comar rah gaya
+ With Parashar's astonishment, Kali became Satyavati with a breath
+ satyavati ko yojangandha hone kaa vardaan diya
+ This Satyavati was later Shantanu's wife, from whose womb Chitrangad and Vichitravirya were born
+ vichitraveery ne kashiraj-putree ambika tathaa ambalika ko byaaha, par vah nissantan mar gaya
+ At the insistence of Satyavati, Vyasa's engagement with Ambika and Ambalika took place and consequently Pandu and Dhritarashtra were born
+ parashar-putr vyas vedon kaa vibhaajan karke vedavyas kahalaaye
+ Vyasa is also credited with being the author of Mahabharata and Puranas
+ parashar ke uluk aadi putr bhi the
+ According to Bhavishpuran, Uluk's sister Uluki's son became the spokesperson of the Vaiseshika branch
+ ek baar chandravanshi raja manojav ko shatruon ne desh par akraman karke parivaar sahit bhaga diya
+ Then they reached a forest near Setubandh
+ bhukhe-pyaase putr tathaa patni ko dekhakar raja moochhit ho gayi
+ Then Parashar Muni, who had gone out on that route, reached there
+ pati kii moochha par vilaap karti rani sumitra ko unhone aashwast kiya tathaa apane haath se raja kaa sparsh kiya
+ The king came to his senses
+ usne muni ko pranaam kiya
+ Then Parashar preached to him to bathe in the Mangalthirtha of Sethubandha to get victory over the enemies
+ muni ne use shriramji ke ekakshar mantra kaa upadesh kiya
+ On his duly chanting, the bow, arrow, chariot and charioteer required for battle appeared before the king himself
+ muni parashar ne pavitra jal se raja kaa abhishek kiya tathaa divyastron kii prayog-vidhi samajhaai
+ The king again conquered the enemy and regained his lost kingdom
+ parashar ne maharaj janak se milakar aadhyatm ke sambandh main charchaa kii
+ Once King Janak wanted to know the solution for welfare, Parashar preached virtue and piety
+ arthath manishiyon kaa kathan he ki dharm ke vidhipurvak anushthan se ihalok evam paralok mangalakaari banate hai
+ There is no other source than that
+ satsang ko parashar ne mahatva diya
+ There are six distinctions in Gaur, Neel, Krishna, Shwet, Shyam and Smoke in Parashar gotra
+ gaur parashar aadi ke bhi anek upbhed milte hai
+ His Parashar, Vasistha and Shakti are the three suras
+ rugveda main parashar kii kai richaayen hai
+ The Gita referred to Vishnupurana, Parashar Smriti, Videharaja Janaka, which is a part of Shantiparva of Mahabharata, Brihatparashar Sanhita etc
+ are the compositions of Parashar
+ bhishmacharya ne dharmraj ko parasharokt gita kaa upadesh kiya he 
+ Several texts related to his name are known: 1
+ brihatparashar hora shaastra, 2
+ shorthand 3
+ brihatparashari dharmsamhita, 4
+ Transnational religion , 5
+ parashar samhita , 6
+ Parasarya Puranam, 7
+ parasharauditan nitishastram , 8
+ Parashroditin, Vastu Shastra
+ parashar smriti ek dharmsamhita he, jisamen uganuroop dharmanishtha par bal diya gaya he
+ It is said that once the sages prayed to Vyasa to explain the religions worthy of Kali Yuga
+ vyasaji ne apane pita parashar se iske sambandh main poochna uchit samajha
+ So they went to Parashar in Badarikashram with the sages
+ parashar ne samajhaayaa ki kaliyug main logon kii shaareerik shakti kam hoti he, isliye tapasya, gyaan-sampadan, yajna aadi sahaj saadhy nahin hai
+ Therefore, donation form is the importance of religion in Kalikala
+ kaliyug main parashar prokt dharm ko vishesh manyata praapt hui he
+ It has been said that - arthath satyayug main manu dwaara prokt dharm mukhya tha, treta main gautam kii mahatta thi
+ Dvapara had a reputation for the religion spoken by conch-written sages
+ par kalikaal main parashar se nirdisht dharm kii pratishtha he
+ Parashar Muni attaches great importance to non-violence
+ parasharasmriti main gomata ko na keval avadhya, api tu poojaneey bhi kaha gaya he
+ In the same way, a detailed description of the Vanaprastha and Sannyas ashrams is in his memoir
+ granth ke ant main yoga par jor diya gaya he
+ Parashar has also presented his works on Ayurveda and astrology
+ maharishi parashar stuti" - Jayati Jayati Maharishi Parashar
+ sakal lok vandit parashar 
+ Jayati Jayati Maharishi Parashar
+ sakal lok vandit parashar 
+1
+ Vishnu Roop Diwakar Diwakar
+ veda vijna samruti rachanaakaar 
+ Jayati Jayati Maharishi Parashar
+ sakal lok vandit parashar 
+2
+ Mahatapasvi Maharishi Parashar
+ dev purohit muni parashar
+ Jayati Jayati Maharishi Parashar
+ sakal lok vandit parashar 
+3
+ Brahma's son Vashisht Guru Gyani
+ jinke putr shakti maha praani
+ Jayati Jayati Maharishi Parashar
+ sakal lok vandit parashar 
+4
+ Born at his home
+ dhanya adrishyanti sut paakar
+ Jayati Jayati Maharishi Parashar
+ sakal lok vandit parashar 
+5
+ Pitra legal blood killer
+ anya anek asur vidaarak 
+ Jayati Jayati Maharishi Parashar
+ sakal lok vandit parashar 
+6
+ Blessed, having found Brahmavar
+ param bhakt shiv bhakt sudhakar 
+ Jayati Jayati Maharishi Parashar
+ sakal lok vandit parashar 
+7
+ Of Janaka Dvaipayana Vedavyas
+ kaaran veda samruti prakaash ke 
+ Jayati Jayati Maharishi Parashar
+ sakal lok vandit parashar 
+8
+ Great grandson Shukdev Gunakar
+ aadi purush nijvansh vibhakar 
+ Jayati Jayati Maharishi Parashar
+ sakal lok vandit parashar 
+9
+ Punya Kshetra Pushkar multi-minded
+ darshan kar devgan harsith
+ Jayati Jayati Maharishi Parashar
+ sakal lok vandit parashar 
+10
+ Lived in Himavan Pradesh, thank Mandavya Nagar
+ parashar dhar main tapasya karke,adbhut,anupam jhil kaa nirmaan kiya 
+ The beauty of Parashar Lake is incomparable, floating plots of wonder
+ jayati jayati maharishi parashar 
+ Gross Lok Vandit Parashar ॥11॥ vaas kiya ashram rachnaakar 
+ Blessed is the total pride
+ jayati jayati maharishi parashar 
+ Gross Lok Vandit Parashar ॥12॥ yug beete santati path bhatki
+ Hanging in malice, raga, item, fascination
+ jayati jayati maharishi parashar 
+ Gross Lok Vandit Parashar ॥13॥ punah karpur prakaash jalaakar
+ Do welfare, rain nectar
+ jayati jayati maharishi parashar 
+ Gross Lok Vandit Parashar ॥14॥ parashar rishi" vandana - Potro Munarvishisthasya Shaktai Shwatmajastha
+ adrishyanti suto yashch munirvandyah parashar:
+vaidagyan mantradrashtaaran tapah siddhipratishthitam
+ Namami Religionist xxrep 17 ★ "parashar gaatha" - We are proud that we are all children of Parashar
+ jisane vishwa ko gyaan diya us rishiver ko pranaam he
+ We are all proud, we are children of Parashar ॥1॥ guru vashishtha ke kul main, parashar kaa avatar hua
+ From the penance of Parashar, sage power was borrowed
+ shakti putr parashar kaa rishiyon main ooncha naam he
+ We are all proud, we are children of Parashar ॥2॥ arundati ke pautra bane, adrishyanti putr kehalaae
+ Became the father of Vedavyas, called Shukdev's grandson
+ rishiyon main sarvshereshth bane, vedon kaa purna gyaan he
+ We are proud that we are all children of Parashar ॥3॥ vaastu,jyotish or ayurveda ke granthon kaa vistaar kiya
+ Welfare the public by creating theology
+ "parashar smriti granth", "brihatparashar horashastra kaaljayi granth", "parashar gita" rishiver kii pahchaan he
+ We are all proud, we are children of Parashar ॥4॥ pushkar ji main vaas kiya, devon kaa tirth kahalaaya
+ Brahma Ji made his place at this place
+ tirthraj pushkar kaa sarovar is bhoomi kii shaan he
+ We are proud we are all children of Parashar ॥5॥ xxrep 18 ★ xxrep 17 ★ parashar janm katha - Vashishta Muni was distraught, when the whole family was destroyed
+ vansh chalaane vaala dharti par, bachaa na koi sahaara 
+ 
+ 1
+ 
+ xxrep 4 
+ With the blessing of Devvani Gagan, the sufferers endured
+ maan ke garbh se us balak ne, veda shloke sunaaya 
+ 
+ 2
+ 
+ xxrep 4 
+ This ascetic boy will give a high name to the dynasty
+ apane pita se badhkargyani or parakramee banegaa 
+ 
+ 3
+ 
+ xxrep 4 
+ Was born Parashar ji, Vashisht ji did not budge
+ sadhu sant anya jeev sabhi, vahaan darshan karne aaye 
+ 
+ 4
+ 
+ xxrep 4 
+ It shone brightly on the face, like divine power
+ darshan pate hi vichlit man ko, milti thi shanti 
+ 
+ 5
+ 
+ xxrep 4 
+ At a young age, the sage increased his knowledge
+ bane tapasvi or parakramee, chamatkaar dikhalaayaa 
+ 
+ 6
+ 
+ xxrep 4 
+ With his father's heavens, he saw his mother
+ shakti rishi kii mukti hetu, sabhi anushthan karaae 
+ 
+ 7
+ 
+ xxrep 4 
+ Knowing the death of the father, the sage got angry
+ rakshas-viheen karuun dharaa, yah sankalp uthaaya 
+ 
+ 8
+ 
+ xxrep 4 
+ Started Yajna to destroy the demons
+ vyakul hue pultsay rishi, vashishtha ji ko jaakar batalaaya 
+ 
+ 9
+ 
+ xxrep 4 
+ Then Vashistha explained to Parasharji
+ bure ke saath bure na bano, unhen yah sandesh sunaaya 
+ 
+ 10
+ 
+ xxrep 4 
+ xxrep 17 ★ 
+ 1
+ main kisi ko bhi pidaa nahi duungaa; 2
+ main dusron kii,kisi kii bhi sampati grahan nahi karunga;3
+ main sadaa satya hi boluungaa;4
+ mere paas kabhi kuch dene yogya hoga to upyukt samay aane par use main kisi supaatr ko hi daan karunga;5
+ vaasana or lobh se main sadaa mukt rahoonga;6
+ devataaon or purvajon kii main sadaa puja karunga;7
+ meraa jivan shruti ko samarpit rahegaa;8
+ shruti ko dhaaran karne vaale devataaon kii krupa kaa main aakankshi rahoonga,kyonki shruti hi rut ko - brahmad kii niyam-vyavastha ko - dhaaran karti he
+ 
+ xxrep 17 ★ "maharishi parashar" siddhant - 1
+ Principle should be elemental, practical and should have an interest in family life
+ 2
+ satya siddhanton ko puraa karne ke liye vrath liye jaaven
+ For this, strengthen the intellect, mind and body power
+ 3
+ buddhi, vitt, sharir shakti – ye teenon milakar ek uddeshy main lagen, alag-alag disha main na jaaven
+ 4
+ May life be confirmed
+ vasundhara par swarg laane ke liye jivan ko nirantar pusht banane kii aavashyakt he
+ 5
+ Kshatriyas should have valor and retaliation capacity yani aaj ke sandarbh main sena main va janata main in gunon kaa vikaas hona chahie, jisase koi bhi dusht aankh uthaakar na dekh sake
+ 6
+ Must have effective leadership
+ 7
+ gyani, shaktishaalee or vaibhavshaalee purushon ko milakar samaaj ko sab prakaar se shaktishaalee bananaa chahie, samaaj main gyaan ho, shakti or vaibhav ho
+ 8
+ Increase kindness, love and affinity towards God
+ xxrep 17 ★ xxrep 18 ★ "maharishi Parashar" message - "maharishi parashar" kaa sandesh tha ki prithvi par swarg laayaa ja saktaa he
+ He said, "heaven is the mental instinct of human beings, if the mental instinct is introduced in a specific way, then it is heaven itself
+ " Parasharmatam punya piousam papanashanam
+ chintitan brahmanarthy dharmsansthapanaay c 
+ 
+ 36
+ 
+ arthath - parampavitra sampoornpaapon kaa naash karne vaala muni parashar ji kaa mat brahmanon ke nimitt tathaa dharm kii sthapana karne ke liye chintvan kiya gaya he 
+ Or arthath - main jo kah rahaa hoon vichaar kar rahaa hoon, yah punya or pavitrataa ko dene vaala he
+ Is about to destroy sin
+ dharm kii sthapana or brahmanon ke liye he
+ - Maharishi Parashar ★ is prakaar ham kah sakate hai ki parashar smriti kaa visheshya / uddeshy he, punya or pavitrataa ko dena, paap kaa naash karnaa, brahmanadi, samaaj ke har mukhiya dwaara manushya ke jivan main aachaar vyavastha laana or shaashvat dharm kii sthapana karnaa tathaa logon ko dehaantar swarg kii prapti karwaanaa
+ Tasastu Yojna 
+ Tasya Yojnagandheti Tato Namaparam Smritam
+ iti satyavati hrishtaa labdhwa varamanuttamam
+ 
+ parasharen sanyukta sadyo garbhan sushav sa
+ Jajné f Yamunaadvipe Parasarya: s semen
+ 
+ s Mataramanuganapya Tapasyaev Manodhe smritohan darshayishyaami krityeshviti c sobravit
+ 
+ evam dwaipayano jajne satyavatyaan parashara
+ Nyastodvipe Yadbalastasmaddvapayana: Smritah
+ 
+ Padapasarinam Dharmayuga Yugayuga Yuga
+ ayuh shaktin c martyanaa yugavasthamavekshyach
+ 
+ mahabharat 1,64,124-129 Laghu Udyog Bharti is a registered All India Organization of Micro and Small Scale Industries in India established in 1994
+ puure desh main 250 shakhaon ke saath 400 se adhik jilon main isaki sadsyta he
+ Small Scale Bharti provides assistance to small scale industries as follows: bharat sarkaar ne ikaayiyon ko niryaat karne ke liye utpatti pramaan patr jari karne ke liye laghu udyog bharti ko adhikrut kiya he
+ The Certificate of Origin is a document used in international trade
+ yah ek mudrit prapatr he, jise niryaatak yaa uske agent dwaara jari kiya jaataa he or nikaay dwaara pramanit kiya gaya he
+ This certifies that the goods in a particular export shipment have been fully produced, manufactured or processed in a particular country
+ short "e certificate of origin ek dastavej he jo pramann ke liye upyog kiya jaataa he ki niryaat kiye gaye utpaada kisi vishesh desh main puri tarah se praapt, utpaadit yaa nirmit kiye gaye hai yah aamtaur par niryaat dastavejon kaa abhinn ang he laghu udyog bharti is pramaan patr ko jari karne ke liye adhikrut agenciyon main se ek he ,ise videsh vyapaar mahanideshaalay, vaanijya or udyog mantralay,bharat sarkaar kii is website par satyapit kar sakate hai
+ SSI Bharti is being represented in all important committees / boards / agencies set up by the Government of India
+ georgia — purvi europe main sthit ek desh he
+ Transcaucasia is a state located on the southeast coast of the Krishna Sagar in the central and western part of the region
+ san 1991 tak yah georgian soviet samaajawaadee ganatantr ke rup main soviet sangh ke 15 ganatantron main se ek tha
+ Georgia is bordered by Russia in the north, Azerbaijan in the east and Armenia and Turkey in the south
+ saamaanya jaankaree Jefferson City is the capital of the state of Mizuri, United States of America, at a height of 625 feet on the southern bank of the Mizuri River, 110 miles west of the city of St
+ Louis
+ sthiti : 38degree 38' uthho akshansh tathaa 92o 15' patto deshaantar
+ It is named in memory of Thomas Jefferson, the third president of the United States
+ yahan teen pramukh sadakon, mizuri pacific rail maarg tathaa vaayu yatayaat kii suvidhaayen uplabdh hai
+ Apart from being a political center of the state, it is also a big center for trade and industry
+ yahan kii pramukh udyog juute, poshaak, fernichar, iten, pustaken tathaa plastic nirmaan ke hai
+ There are also businesses related to food, flour, ghee, milk and oil
+ yahan kaa 'state capitol' sangemarmar nirmit bhavy bhawan he
+ There are 'state Office Building', 'executive Mansion', 'state high-way Commission', 'mizuri Supreme Court' and other grand buildings
+ 1886 itho main nigro jati ke liye sthapit yahan kaa linkan vishvavidhyalay vikhyath he
+ The 'la Library' here has the best collection of law related texts etc
+ of the country
+ iske saath hi saarvajanik pustkaalay tathaa 'kol county historical socity' bhi hai
+ Other small towns named Jefferson as county centers in the territories of Iowa, Wisconsin, Texas, etc
+ isi naam kii ek choti nadi morntna pradesh main tathaa ek pahaad oregon pradesh main hai
+ Rual Amunsson was a Norwegian adventurer who made adventurous trips to the polar regions
+ usne 1910-12 main dakshini dhruv kii khojayatra kaa netritv kiya jisase san 1911 main uski khoj hui
+ He was the first undisputed explorer to reach the North Pole in 1926
+ usne hi sabase pehle 1903–06 main uttar-pashchim maarg kii yatra kii
+ Rual Amunson was born in the countryside, but received education in Christiana
+ san 1890 main usne bi
+e
+ paas kiya or ayurvigyaan padhanaa aarambh kiya, parantu man na lagane se use chhod usne jahaaj par naukari kar lee
+ In 1903–6 he continued to search for the North Pole with his six companions in a boat or small ship called 'gioia' and discovered the North Magnetic Pole
+ 1910-12 main vah dakshin dhruv kii khoj karata rahaa or vahi pehla vyakti tha jo dakshin dhruv tak pahunch sakaa
+ Due to World War i he had to sit quietly for many years
+ 1918 main usne phir uttar dhruv pahunchne kii cheshtaa kii, parantu safalataa na mili
+ She then flew in a controlled balloon called the Norge, twice reaching the North Pole and traveling 2,700 miles in 71 hours, successfully landing again
+ jab general nobil kaa hawaii jahaaj uttar dhruv se lautate samay maarg main durghatnagrast ho gaya to aamunsan ne badi bahaduree se usko khojane kaa bidaa uthaaya
+ On 17 June 1928, he left for this work in an airplane, but then no news of this could be received to the world
+ devla talla simlar, haldwani tehsil main bharat ke uttrakhand rajya ke antargat kumaun mandal ke nainital jile kaa ek gaanv he
+ 588 BC refers to the years before the birth of Christ
+ isa ke janm ko adhaar maanakar uske janm se 588 isa purv yaa varsh purv ke varsh ko is prakaar pradarshit kiya jaataa he
+ It is considered a collective year based on the Julian calendar
+ adhikansh vishwa main isi paddati ke aadhaar par puraane varshon kii gananaa kii jaati he
+ In India, there are many famous Panchagas like Vikram Samvat which begins 57 or 58 years before the birth of Jesus
+ iske alaava shaq samvath bhi prasiddh he
+ Shaka Samvat is the ancient era of India which begins 78 years after the birth of Jesus
+ shaq samvath bharat kaa rashtriya calendar he
+ Some other ancient era prevalent in India are as follows- uparokt antar ke aadhaar par 588 isa purv ke anusaar vikrami samvath, saptarshi samvath, kaliyug samvath or pracheen saptarshi aadi main varsh aadi nikaale ja sakate he
+ Adra is a major railway station in Purulia district in West Bengal, India
+ aadra 26
+5 uttar evam 88
+67 degree akshans 23°30′N 86°40′E / 23
+5°N 86
+67°E / 23
+5; 86
+67
+ par sthit he evam yahan kii ausat oonchai 154 meter he The major subdivisions of Adra Nagar are Adhara, Badabagan, Jiada, Dubaddih, Beniasol, Palashkola, Jhariadih, Panchudanga, Kalikend, Subhashnagar, Jibanpur, Majhidih, Daulatpur, Beko etc
+ yah chotanagpur ke pathaar kaa sabase nichalaa hissaa he
+ Adra Division comes under the Railway
+ yah diviginal hedkwater ha
+ Experimental linguistics, or indicatology, is a subfield of linguistics that studies how meanings change according to context
+ reddy, bharat kii ek pramukh jati hai
+ These castes reside in Andhra Pradesh, Tamil Nadu, Kerala, Karnataka and North India in Bihar, Uttar Pradesh, Madhya Pradesh, Jharkhand and all states of India
+ dodhia • khond • bhoi • rathva • What reddy cast ranjana gauhar prasiddh odissi nrutyaangna, keriographer tathaa film nirmaatri hai
+ He has also been awarded the Padma Shri and Sangeet Natak Akademi awards
+ vah odissi nrity ke sandarbh main ek kitaab bhi likh chuki hai
+ Ranjana Gauhar was born and raised in Delhi
+ mata-pita bantwaare ke baad pakistan se dilli aa gaye the
+ He has three sisters and one brother
+ unke pita ji ko sangeet main gahari dilchaspee thi
+ He used to play almost all instruments
+ vah jab saaj bajaate the, to ranjana nrity karne lagati thi
+ Seeing his passion for music and dance, the family members got him enrolled in Kathak School at the age of five
+ mishramanjari telugu bhashaa ke vikhyath sahityakar acharya raiprolu subbarao dwaara rachit ek kavita–sangrah he jiske liye unhen san 1965 main telugu bhashaa ke liye sahitya academy puraskaar se sammanit kiya gaya
+ Pipana is a village in Almora district of Kumaon division under the state of Uttarakhand in Salt Tehsil, India
+ aankhon main tum ho 1997 main bani hindi bhashaa kii film he
+ Malai Kofta is a Mughlai dish
+ yah bharat evam pakistan main bahut prachlit he
+ Rao Bahadur was "dharmapravartha" Gubbi Tottappa, an Indian businessman and philanthropist
+ unhone desh bhar ke paryatakon ke liye "totdappa chhatra" naamak ek muft awaas sthaan kii sthapana kii
+ He was conferred with the title "rao Bahadur" by the British Government and "dharmapravartha" by Krishnaraja Wodeyar IV, the Maharaja of Mysore
+ totdappa kaa janm 1838 main gubbi ke lingayat parivaar main hua tha
+ In later years his family moved to Bangalore where he started his business in Mamulpet
+ apane bachche naa hone ke kaaran, totdappa ne apni sari sampatti kaa upyog paryatakon or chaatro ke laabh ke liye karne kaa nirnay liya
+ He established a trust called Rao Bahadur Dharmapravartha Gubbi Tottappa Charity
+ 1897 main, trust ne bengalooru city railway stesan ke paas jameen kaa ek tukdaa kharida or 11 farvari 1903 ko krishnaraj wodeyar chaturth ne aadhikarik taur par dharmachatra or muft chatravaas kholaa
+ During his last days he donated all his assets to the RBDDGTTC trust and appointed KP Puttana Chetty as the first chairman of that trust
+ trust aaj bhi apana kaam jari rakhata he
+ This hostel facility was extended throughout Karnataka
+ varsh 2005 main, chatravaas kaa punarnirmaan kiya gaya
+ For its centenary, the Trust built the Bell Hotel at Kempegowad Bus Station as a source of income
+ awaas suvidha ek maamuli dar par awaas pradaan karti he or sabhi ke liye khuli hoti he, chaahe vyakti kaa dharm kuch bhi ho
+ The use of the hostel is special for students belonging to the Veerashaiva community
+ ab tak chatravaas main sarkari anudaan praapt nahin hua he
+ Every year the Lingayat awards the Trust to merit students of religion
+ 21 farvari 1910 ko totdappa kii 72 varsh kii aayu main mrityu ho gai
+ Abkhazia is a partially internationally disputed territory with an independent government
+ yah kshetra kaala sagar ke purvi tat or cocks ke dakshin pashchim main sthit he
+ It was a part of Georgia that still does not give it the status of an independent country
+ abkhaazia apane aap ko abkhaazia ganraajya athwa apsani ke rup main ek samprabhu rajya kaa darja detaa he
+ Russia, Nicaragua, Venezuela and Nauru have kept it as a sovereign state and South Ossetia as a sovereign state and Transnistria and nagorno-karabakh as an unknown state
+ cordilyera prashasnic kshetra, jise car bhi kehete hai, dakshinpurvi asia ke philipinoz desh ke luzone dweep dal par sthit ek prashasnic kshetra he
+ The region was established on July 15, 1987, and most of the territory of the highest mountain range of the Philippines, Kordilyera Central, falls under this administrative region
+ pashchimi visaaya main 6 praant, 1 ati-nagarikrut shahar, 1 sanghatak shahar or 1,176 barangay hai
+ † Banguio is a "highly urbanized city" and therefore its figures are not included in Bengt Province nirdeshaank: 20°16′N 85°50′E / 20
+27°N 85
+84°E / 20
+27; 85
+84bhubaneshwar odisha kii rajdhani he
+ The world famous Sun Temple is located in Konark near here
+ bhubaneshwar bharat ke purv main sthit odisha rajya kii rajdhani he
+ It is a very beautiful and green region
+ yahaan kii prakritik sundarataa dekhte hi banati he
+ This place also holds its important place in history
+ teesri shatabdi isa purv main yaheen prasiddh kaling yuddh hua tha
+ As a result of this war, Ashoka turned from a warrior to a famous Buddhist follower
+ bhubaneshwar ko purv kaa kaashi bhi kaha jaataa he
+ But very few people know that it has also been a famous Buddhist site
+ pracheen kaal main 1000 varshon tak buddha dharm yahaan faltaa-phulataa rahaa he
+ Like Buddhism, this place is also important for Jains
+ pratham shatabdi main yahaan chedi vansh kaa ek prasiddh jain raja kharvel' hue the
+ Similarly, famous Hindu temples were built here in the seventh century
+ is prakaar bhubaneshwar vartmaan main ek bahusaanskrithik shahar he
+ The present capital of Odisha has been constructed by engineers and architects on the basis of utilitarian theory
+ is kaaran nayaa bhubaneshwar pracheen bhubaneshwar ke samaan bahut sundar tathaa bhavy nahin he
+ There is no other cultural place worth seeing here except for the amazing temples and caves
+ "bhubaneshwar" naam do shabdon se milakar bana he, bhuvana – hindu devtaa shiv kaa rup, jinka naam tribhuvan dev he – or ishwar, "devtaa" ko oriya main kehete hai
+ According to Anushruti, there were 7000 temples at Bhubaneswar at some time, which were constructed in 700 years
+ lekin ab keval 600 mandir hi bache hai
+ Three Buddhist viharas have been unearthed by excavation 100 km from the capital
+ ye buddha vihaar thea ratnagiri, udaygiri tathaa lalitgiri
+ From the relics found from these three Buddhist viharas, it can be inferred that Buddhism was in advanced stage here till the 13th century
+ buddha dharm kii tarah yahaan jain dharm se sambandhit kalakritiyaan bhi milti he
+ The caves of Udayagiri and Khandagiri, 6 km from the capital, have found artifacts of Jain king Kharavel which are in a very good state
+ is mandir kii sthapana 11veen shatabdi main hui thi
+ The temple has a magnificent statue of Shiva and Parvati
+ is mandir ke naam se aisa lagata he maano iskaa naam kisi raja-rani ke naam par rakhaa gaya ho
+ But local people say that because this temple is made of a special type of stone called Rajarani stone, this temple is named raja-rani temple
+ is mandir ke deevaaron par sundar kalakritiyaan bani hui hai
+ These artifacts are reminiscent of Khajuraho temple artifacts
+ pravesh shulk: bharatiyon ke liye 5 ru
+, videshiyon ke liye 100 ru
+
+ Rotation time: 6 am to 6 pm
+ yah mandir sabhi din khulaa rahata he
+ There is no charge for capturing this temple with a steel camera
+ lekin is mandir kii videography kaa shulk 25 ru
+ he
+ a little ahead of the raja-rani temple, the 'brahmeshwar' temple is located
+ is mandir kii sthapana 1060 i
+ main hui thi
+ Four small temples are situated on the four ears of this temple
+ is mandir kii deevaaron par adbhoot nakkashi kii gai he
+ Some of these artefacts depict the masculine in various stages of art
+ raja-rani mandir se 100 gaj kii duuri par mukteshwar mandir samooh he
+ There are two important temples in this group: Parmeshwar Temple and Mukteshwar Temple
+ in donon mandiron kii sthapana 650 i
+ ke aasapaas hui thi
+ The Parameshwara Temple is in the safest state
+ yah mandir is kshetra ke puraane mandiron main sabase aakarshak he
+ Its Jagmohan has a beautiful work of counterfeiting
+ isamen aakarshak chitrakaari bhi kii gai he
+ a painting depicts a dancer and a musician very well
+ is mandir ke garbhagrih main ek shivlinga he
+ This Shivling is more luminous than the Shivling of its later Lingaraja temple
+ parameshwar mandir kii apeksha mukteshwar mandir chota he
+ This temple was established in the 10th century
+ is mandir main nakkashi kaa behtareen kaam kiya gaya he
+ The painting done in this temple is in a good condition
+ ek chitra main krushkaay saadhuon tathaa daudte bandaron ke samooh ko darshaya gaya he
+ Another picture depicts the story of Panchatantra
+ is mandir ke daravaaje arq style main bane hue hai
+ The pillars and pillars of this temple are also carved
+ is mandir kaa torana magaramchh ke sir jaise aakaar kaa bana hua he
+ There is a small well on the right side of this temple
+ ise log marichi kunda kehete hai
+ Local people say that bathing with the water of this tank removes the burden of women
+ is mandir samooh kaa nirmaan somvanshi vansh ke raja yayati ne 11veen shatabdi main karavaaya tha
+ This 185 feet tall temple represents the Kanliga School of Architecture
+ yah mandir nagar style main bana hua he
+ According to historians it is the most important temple in Odisha
+ is mandir parisar main pravesh karte hi 160 me x 140 me aakaar kaa ek chaturbhujakar cameraa miltaa he
+ The timber of this temple is made in such a way that it gives a sense of wonder and curiosity together
+ is mandir kaa aakaar ise anya mandiron se alag rup main prastut karata he
+ The sculptures installed in this temple are made of Charcolith stone
+ ye murtiyon samay ko jhuthalaate hue aaj bhi usee prakaar chamak rahi hai
+ The current status of these sculptures shows the skill of the sculptors of that time
+ is mandir kii deevaaron par khajurahon ke mandiron jaisi murtiyon ukeri gai hai
+ The outer wall of the Bhoga mandapa of this temple is shown sexting humans and animals
+ parvati mandir jo is mandir parisar ke uttari disha main sthit he, apni sundar nakkashi ke liye prasiddh he
+ Note: non-hindus are not allowed to enter the Lingaraja temple
+ is mandir ke chaaron ore kai chote-chote mandir hai lekin 'vaital' mandir inamen vishesh mahatv rakhata he
+ This temple was established around the 8th century
+ is mandir main chamunda devi kii murti sthapit he
+ This statue seems quite frightening to see
+ yah mandir chaturbhujakar he
+ In this temple, Tantric, Buddhist and Vedic traditions all have their characteristics
+ bhubaneshwar jane par yahaan kaa rajya sangrahalay zarur ghoomana chahie
+ This museum is located on Jaidev Marg
+ is sangrahalay main hastlikhit taarapatron kaa vilakshan sangrah he
+ There is also a collection of incredible paintings of ancient times
+ in chitron main prakruti kii sundarataa ko darshaya gaya he
+ The same museum houses the ancient handwritten book 'geetgovind' from which Jayadeva wrote in the 12th century
+ pravesh shulk: 1 ru
+ maatr
+ Timings: 10 am to 5 pm
+ somvaar band
+ Places to see around Bhubaneswar hirapur bhubaneshwar se 15 kilometre dur ek chota sa gaanv he
+ In this village, India's smallest yogini temple 'chausath Yogini' is located
+ kaha jaataa he ki is mandir kaa nirmaan 9veen shatabdi main hua tha
+ It was excavated in 1958 AD
+ yah mandir golakaar akruti ke rup main bani hui he jiskaa vyas 30 feet he
+ The height of its walls is not more than 8 feet
+ yah mandir bhure balue pathar se nirmit he
+ Idols of 64 Yoginis have been made in this temple
+ inamen se 60 murttiyaan deevaaron ke aale main sthit he
+ The remaining sculptures are located on a platform in the middle of the temple
+ is mandir kaa bahari diwaar bhi kaaphi rochak he
+ There are nine niches in these walls, in which statues of female guards are installed
+ pravesh shulk: 10 ru
+ maatr
+ Timings: 10 am to 5 pm
+ sabhi din khulaa rahata he
+ Dhauli is located on the highway number 203, south of Bhubaneswar
+ yah vahi sthaan he jahaan ashok kaling yuddh ke baad pashchaattap kii agni main jala tha
+ After this he embraced Buddhism and spread the message of non-violence throughout his life
+ ashok ke prasiddh pathar stambhon main ek yaheen he
+ Ashoka's life philosophy is described in this column
+ yahaan kaa shanti stupa bhi ghoomane laayak he jo ki dhauli pahari ke chotii par bana hua he
+ In this stupa, idols of Lord Buddha and various events related to his life are enshrined
+ is stupa se 'dayaa nadi' kaa vihangam najaara dikhataa he
+ Entry fee: free
+ samay: subah 6 baje se shaam 6 baje tak
+ Open for all days
+ udaygiri or khandgiri kii pahariyaan bhubaneshwar se 6 kilometre kii duuri par sthit hai
+ In the Udayagiri and Khandagiri hills, caves are cut by cutting stones
+ in gufaaon kaa nirmaan prasiddh chedi raja kharvel jain muniyon ke nivas ke liye karwaaai the
+ Most of the paintings in these caves have been destroyed
+ gupha sankhya 4 jise rani gupha ke naam se bhi janaa jaataa he, do tal kaa he
+ It is an attractive cave
+ isamen banaai gai kai murttiyaan abhi bhi surakshit avasthaa main hai
+ There was a good arrangement for cleanliness in this cave
+ aisa lagata he ki ise banane vaale kaarigaron kaa takneekee gyaan kaaphi unnat tha
+ In cave number 10, which is also known as Ganesh Cave, there is a beautiful idol of Ganesha
+ is gupha ke daravaaje par do haathiyon ko darban ke rup main sthapit kiya gaya he
+ But all the idols of Jain Tirthankaras built in Khandagiri cave are in a ruined state
+ odisha or bengali bhojan ko lagbhag ek samaan mana jaataa he lekin swaad ke maamle main ek-duusare se bahut bhinn
+ Rice is the staple food of Odisha
+ 'pakhal bhaat' yahaan kaa ek lokapriy dish he
+ This meal is made by frying the rice of the day before with potatoes
+ iske saath aam, aalu bharta, bady chura, poi- saag khaaya jaataa he
+ If you go to Odisha, then definitely eat 'chhatu Tarkari'
+ yah ek tikhaa bhojan he jo masarum se banataa he
+ It is customary to add Panchaforan to every meal here
+ yah ek khaas tarah kaa masala hota he
+ Which is added to every meal
+ ise bhojan main milaane se khaanaa swaadisht ho jaataa he
+ Apart from this, eat Tadka, Dalma, Peetha and Pudi made in coconut oil
+ odisha ke logon ko bengali kii tarah hi machhlee khaane kaa bahut shauk he
+ Many fish dishes are popular here
+ 'mahurali-chadchdi' ek prakaar kaa dish he jo choti machhlee se banaaya jaataa he
+ 'chingudi' is also a type of dish made of shrimp fish found in Chilka Lake
+ yah bhojan tarkari kii tarah banaaya jaataa he
+ Another similar food is 'mach-bhaja' which is made from rohu fish found in fresh water
+ odia log 'mansa' machhlee ko sarson ke tel main tal kar bhi khate hai
+ Some meals in Bhubaneshwar should be eaten at certain places like Dalma Nikko Park or at Rajpath, ODC Bapuji Nagar, Swastha Plaza, Fair Laguna and Hotel Crown
+ shaakaahaari vyaktyon ke liye hotel harekrishna sabase acha mana jaataa he
+ There is a famous Kalinga sweet shop in Pahal village on the way to Cuttack on National Highway No
+5, 12 km from Bhubaneswar
+ yahaan bharat ke teen prasiddh mithaiyaan rasagulla, chennapoda tathaa chennagaja milti hai
+ If you go to Bhubaneswar then these sweets must be tasted
+ saath hi yahaan kaa dahibada bhi kaaphi prasidv he joki imali kii chatnee ke saath parosa jaataa he
+ There are many beautiful items made of stone here
+ in saamaanon main murttiyon se lekar barttan tak shaamil he
+ Some stones made of stone must be purchased
+ jaise, pathar ke bane cap jise 'pathori' kaha jaataa he
+ Local people believe that this is the best port for yogurt
+ pathar ke bane in saamaanon ko rajya ke hastshilp haat se khareednaa chahie
+ Apart from this, other useful items can also be purchased from around the temples
+ pattharon se bane vastuon ke alaava sing se bane vastuon jaise, pen stand, kanghee, cigarette pipe tathaa anya sajaavati vastuon ko bhi kharida ja saktaa he
+ The saris of Odisha are also very famous
+ khaas kar jaridaar kaam vaali sari
+ These saris can be purchased from Priyadarshani ODC Handloom, 11 Werston Tower, Kalaniketan, Kalpana Chowk or Naya Road
+ chambal vanya jeev abhayaarany bharat desh main rajasthan praant main savai madhopur, kota, bundi, dhaulpur evam karauli jilon ke antargat aata he
+ Its area is 280 sq km
+ ise rajasthan rajya sarkaar ne 1983 isvi main vanya jeev abhayaarany ghoshit kiya tha
+ It is mainly known for crocodiles
+ iskaa vaanik mukhyalay ranthambhore se sanchalit hota he
+ Its administration is in the hands of three states, Madhya Pradesh and Rajasthan
+ 1979 main sthapit is abhayaarany ke kor kshetra main 400 kimi lambii chambal nadi aati he
+ Amylase or amylase is an enzyme that breaks down starch into glucose and maltose
+ maanav tathaa kuch anya stanposhiyon ke laar main emilage paaya jaataa he jo pachan main sahaayak hota he
+ Ekgaon is a village in Adilabadu district under the Andhra Pradesh state of India in the Buffalo Circle
+ bhrashtachar 1989 main bani hindi bhashaa kii film he
+ Abu 'ubaid' Abd Allah ibn 'abd al-aziz ibn Muhammad ibn Ayub ibn' Amir al-bakari, or al-bakari was an Andalusian Arab historian
+ or inhen muslim pashchim kaa sabase bada bhugolkar maanate hai
+ 
+ nirdeshaank: 27°53′N 78°04′E / 27
+89°N 78
+06°E / 27
+89; 78
+06 Fazalpur Atrauli is a village in Aligarh, Uttar Pradesh
+ kaatiganikalve main bharat ke andhrapradesh rajya ke antargat ke anantpur jile kaa ek gaanv he
+ Tezaab is a Hindi language film made in 1988
+ ection romani is film main anil kapur or maadhuri dikshit mukhya bhoomika main he
+ The film won four Filmfare Awards
+ geet "ek do teen" se maadhuri bahut lokapriy hui
+ The film was also the most successful Hindi film of 1988
+ isse maadhuri kii safalataa kii shuruyaat bhi hui
+ Mahesh Deshmukh joined the armed forces of the country because he could serve the country honestly and patriotically
+ apane college ke dinon main uske saathi sahpaathee mohini ke saath jhagada hua
+ He falls in love with Mohini after a betrothal between his friends and himself, who later realizes that he has actually fallen in love with her and she also sympathizes
+ mohini ke pita sharaabi he or unki ichha he ki mohini nrity or veshyavriti main chali jaae he taaki vah apni dainik khuraaq praapt kar sake
+ Mohini attempts to seek refuge with Mahesh, however, Mahesh is confused to the extent that he is arrested, proved to be an accused, and is sentenced to live in extortion from the city of Bombay
+ jab mahesh lautataa he, to vah ab eemaandaar or deshbhakt mahesh nahin he, balki munna naamak ek gangster he, jisko kai puraane hisaab chuktaa karne hai
+ All lyrics written by Javed Akhtar; All music composed by lakshmikant-pyarelal
+ geet ek do teen ko film baagi 2 ke liye punah nirmit kiya gaya jise shreya ghoshaal dwaara gaaya gaya
+ The film was a superhit and was a commercially successful 1988 film
+ "ek do teen" geet ke liye bhi ye film prakhyat he
+ Yukta Mukhi is an Indian actress
+ ve vishwa sundari vijeta rah chuki hai
+ Yukta Mukhi was born on October 7, 1979
+ vah mumbai main rahati thime
+ ab yukta mukhi kii shaadi ho chuki he
+ The length of Yukta is also the reason for failure in films
+ yukta kaa kad 6 foot 1 inch he
+ Whereas most of our Bollywood actors are of low stature
+ shulparni, ilex jinas kaa saamaanya naam he
+ It is found in the warm and temperate tropics of both hemispheres
+ yah apni sundar pattiyon evam aakarshak laal beriyon ke kaaran lagaaya jaataa he
+ The trees or tusks of this dynasty are deciduous, or Sadhrit
+ parnpaati spishiz adhikanshat: kshup hote hai, jabaki sadahrith spishiz ke vriksh chote, yaa madhyam oonchaai ke hote hen
+ The height of the tree is usually 40 to 50 feet and sometimes 100 feet
+ shulparni ke padap ekalingi yaa ubhayalingi hote hai
+ Its leaves are usually prickly, floral green and red, black or sometimes yellow berries, which remain on the branches till winter
+ is vriksh kii lakdi, kathor, baari, safed tathaa sundar gathan vaali hoti he, jiskaa upyog maapne ke paimaane ko banane tathaa fernituron main astr dene ke liye hota he
+ Shulparni is used for fencing in gardens
+ patjhad yaa vasant ritu sadahrith spishiz lagane kaa sarvottam samay he
+ About 300 species of shulparni are known
+ Ilex anomala Ilex chinensis Ilex pedunculosa Lex rotunda Ilex verticillata Ilex yunnanensis a contorted hedgehog holly
+ Ilex anomala Ilex chinensis Ilex pedunculosa Ilex rotunda Ilex yunnanensis nirdeshaank: 25°36′40′′N 85°08′38′′E / 25
+611°N 85
+144°E / 25
+611; 85
+144 Gopipur is a village in Paliganj, Patna, Bihar
+ kannepalli, kautal mandal main bharat ke andhrapradesh rajya ke antargat ke adilabadu jile kaa ek gaanv he
+ Graduation is a graduate degree
+ 692 isa purv isa messiah ke janm se purv ke varshon ko darshata he
+ The year of the year 692 BC or the year before his birth is represented as the birth of Jesus
+ yah julian kalendar par adhaarit ek samuhik varsh mana jaataa he
+ In most of the world old years are calculated based on this method
+ bharat main iske alaava kai panchag prasiddh he jaise vikram samvath jo isa ke janm se 57 yaa 58 varsh purv shuru hoti he
+ Apart from this Shak Shanvant is also famous
+ shaq samvath bharat kaa pracheen samvath he jo isa ke janm ke 78 varsh baad se armbh hota he
+ Sak Sanwat is National Calendar of India
+ bharat main prachlit kuch anya pracheen samvath is prakaar he- Based on the above difference, according to 692 BC, the year etc
+ can be extracted in Vikrami Samvat, Saptarshi Samvat, Kali Yuga Samvat and ancient Saptarshi etc
+ dakshin bihar kendriya vishvavidhyalay bharat ke bihar rajya main sthit ek kendriya vishvavidhyalay he
+ It has been established by the Central University Laws 2009 and Act, 2014
+ iskaa adarsh vaakya he -collective Reasoning, yani 'samuhik tark' or yah vishvavidhyalay bihar ke patna or gaya main asthaayee parisar se apni academik or prashasnic gatividhiyon kaa aayojan kar rahaa he
+ It was established in the name of Bihar Central University, which was later changed to South Bihar Central University
+ adhinium kii dhara 5 main kaha gaya he, vishvavidhyalay ke uddeshy hoga: "
+
+
+ to disseminate and advance knowledge by providing instructional and research facilities in such branches of learning as it deems appropriate; integrated courses in humanities, social sciences, science and technology in its academic programs To make special provision for; teaching-learning process and innovations in inter-disciplinary studies and research To take appropriate steps to promote; To educate and train manpower for the development of the country; To liaise with industries to promote science and technology; and social and economic status and people
+ To pay special attention to the improvement of welfare, their intellectual, educational and cultural development
+ " The main campus is located in a rented building in the campus of Birla Institute of Technology, Patna
+ vishvavidhyalay kiraaye ke bhawan main patna or gaya main donon ladakon or ladakiyon ke liye chatravaas kii suvidha pradaan karata he
+ It has developed a library having 20,000 books to support academic curriculum, teaching and research in various science and social science disciplines
+ pustkaalay 100 patrikaon or duniya bhar se pratishthit patrikaon, or 8000 se adhik patrikaon digital signechar ikthe kiye gayi he
+ The library is equipped with modern facilities such as online services, online catalogs and digitization
+ apni sthapana ke baad vishvavidhyalay kai paathyakram or shiksha pradaan karata he
+ In December 2013, the university got possession of 300 acres of land from the Government of India to establish a campus at Panchanpur, about 12 kilometers from Gaya
+ is vishvavidhyalay kii chancelar mira kumaar ke anusaar site par 27 farvari, 2014 se nirmaan kaa kaary pragati par he
+ According to the recent news, teaching work has started in its Campus in Gaya Panchanpur
+ buunga, kaladhugi tehsil main bharat ke uttrakhand rajya ke antargat kumaun mandal ke nainital jile kaa ek gaanv he
+ According to the census of India, this village is located in Tehsil Thakurdwara, District Moradabad, Uttar Pradesh
+ sambandhit janaganana code: Platform-1 → south extansion metro stesan dilli metro kii pink line par sthit ek nirmaanadhin metro stesan he
+ The South Extension will be a part of the Pink Line being constructed under Phase III of the Delhi Metro
+ savitri rajarshi ashwapati kii kanya thi| usne vanavaasi raja dyumtsen ke putr satyavan ko patirup main sweekaar kiya tha
+ After the death of Savitri's husband Satyavan, Savitri revived Satyavan on the strength of his penance
+ savitri kii kahani mrityu par manushya kii vijay kii kahani he| Mild is an extreme point in the orbit of another object revolving around a large object
+ jab parikrama karti hui vastu kendriya vastu se sabase kam duuri par hoti he to vah sthaan upmand or vah sthaan jahaan parikrama kar rahi vastu kendriya vastu se sarvaadhik duuri par ho apmand kehalaata he
+ For some special items, special names are given to the status of the eagerness and the euphoria: burugupalli, manda mandal main bharat ke andhrapradesh rajya ke antargat ke adilabadu jile kaa ek gaanv he
+ Duniya Bhatti Hai is a 1996 Hindi language film
+ paara surinam kaa jila he, yah desh ke uttar main sthit he
+ Its northern border is with the Atlantic Ocean
+ 2004 kii janaganana ke anusaar jile kii aabaadi 18,958 he
+ Its area is 5,393 sq km and density is 3
+5 per sq km
+ jile main paanch resort hai
+ The district is the center of mining and forestry in Suriname
+ yahan badi maatra main boxite kaa khanan hota he
+ Coordinates: 5 ° 26′48 ′′ n 55 ° 13′50 ′′ w / 5
+44667 ° n 55
+23056 ° w / 5
+44667; -55
+23056 landan brij ek landan kaa sethu he
+ Coordinates: 25 ° 06′N 85 ° 54′E / 25
+10 ° n 85
+90 ° e / 25
+10; 85
+90 sirkhindi halsi, lakhisarai, bihar sthit ek gaanv he
+ Sirchindi is one of the ancient villages
+ is gaanv se dakshin disha 02
+50 kilometre sikandara shekhpura road ko jodta he
+ The north direction connects Chevala Billo Road
+ ye sirkhindi gaanv main jameendaaron ke pracheen kachhari sthit he
+ There are three Shiva temples, a Ram temple Yagyashala, an empress place, a Baba Vishwakarma temple, a Hanuman temple, a Maa Bhagwati temple, a mother Durga temple, an Aryasamaj temple and Mahadev place, Jagadamba place etc
+ sirkhindi ke purab disha main som nadi he
+ Sirchindi Panchayat Raj is of eight villages
+ sirkhindi ke pashchimi bhaag main bistaar teen aahar he jo ki sirkhindi gaanv ke jalastr he
+ Theragatha is the eighth text of the Khudak body
+ isamen 264 theron ke udaan sangruhit hai
+ The scripture is in 21 niches
+ pehle nipaat main 12 varg hai, duusare nipaat main 5 varg hai or shesh nipaton main ek ek varg he
+ The number of saga is 1279
+ thergatha main parampad ko praapt theron ke udaan arthath udgaarpurn gaathaayen hai
+ These are lyrical expressions emanating from his mouth in Vimuktisukh's ecstasy
+ aadhyatmik sadhana ke ucchtam shikhar par pahunche hue un mahaan saadhakon ke, arya maarg ke un safal yatriyon ke, ye jaighosh hai
+ These are the victories of those great conquerors who conquered the birth of death by understanding the sense of the world
+ in gaathaon main aadhyatmik parishuddhi kii, aatmavijay kii or param shanti kii harshadhvani goonjati he
+ Most of the stories have direct allusions to nirvana
+ kuch gaathaon main saadhakon kii sadhana ko safal banane main sahaayak preranaon kaa ullekh he
+ Some gathas also mention sermons given to the Brahmacharis or the general public by the Theras received by the Supreme Father
+ thergatha main bhagavan buddha dwaara sthapit sangh kaa ek sundar chitra miltaa he
+ On one side there were ordinary people from the pockets of poor people; On the other hand Kapilvastu, Devdah, Vaishali, Rajgriha, Shravasti etc
+ were high-ranking people descended from the royal palaces and palaces of the capitals
+ tathagat kii sharan main aakar ve sab ek ho gaye the
+ Cosmic wealth, strength and position were not respected in the Sangh
+ keval sheel, samadhi tathaa pragna kaa maan tha
+ They were beyond spiritual inequality and attained spiritual equality
+ isi kaaran ek hi swar main unki hridaytantriyon se vimuktisukh ke madhur geet nikalate the
+ Along with the self-experience in the Theragatha, there is also a beautiful description of natural beauty
+ samaaj main man ko veikshipt karanevaale anek saadhan hai
+ But the mind becomes calm and concentrated in the environment of nature
+ isaliye ve mahaan yogi prakruti kii god main hi sadhana karte the
+ They were meditated and interviewed at Nirvana in uninhabited places like gardens, deep forests, Uttutung Hills, secluded caves and riversides
+ unki gaathaon main pashupakshiyon ke madhur gaan kaa, nadiyon or nirjharriniyon ke colorav kaa, wanon or parvaton kii chata kaa or meghon ke garjan kaa sundar varnan he
+ Thergatha has a special place in santasachthya
+ in gaathaon main ve mahaan sadhak apane jivan ke anubhav hamaare liye chhod gaye hai
+ They provide sufficient motivation for the development of Bodhichitta to the path of Aryamarga, for the eradication of the apostle Dharmachakshu
+ satyadarshan se praapt paramanand kii ore sanket karte hue mahakssap ther kehete hai : "samyak rup se dharm ke darshan se, jo anand praapt hota he, vah panch turyon se bhi sambhav nahin
+ " son ther, jo ki pehle senapati the, apane drudh sankalp ko is udaan main prakat karte hai : "sangram bhoomi main aage badhkar hathi par se bhale hi gir jaay par parajeet hokar jeene kii apeksha sangram main praapt mrityu hi mujhe abhisht he
+ " ve raatri main taron ke drishy se prerit hokar is prakaar gaate hai : "nakshatrasamooh se sushobhit raatri sone ke liye nahin he
+ Such nights are meant to keep the knowledgeable awake
+ " Pleased with the sound of rain, Girimananda Ther sings: "god rains as if an anthem is happening
+ meri kuti chai he, sukhadai he or hawa se surakshit he
+ i am nervous about it
+ dev! man bhar barso
+ Usb Ther also sings, impressed by the sight of the rain: "trees are waving on the mountains, moistened by the new rain
+ ekantapriya, aranyavasi usabh ke man main adhikadhik sphurti utpann karti he
+ " sankichch ther isi drishy se prerit ho kar gaate hai : "jab varsha ritu main jhanjhaavat meghon ko uda le jaataa he, tab mere man main nishkaamta se yukt vichaar uthte hai
+ " parvaton ke drishy se prerit hokar mahakssap ther gaate hai : "varsha ke pani se prafullit, moron ke naad se pratidhwanit or rishiyon se sevit jo ramya parvat hai, ve mujhe priy hai
+ " chittak ther mor kii aawaaj se uthakar gaate hai : "nil greeva or shikhawaale mor karviya van main gaate hai
+ They are awakened by the cool breeze, they wake up to a sleeping yogi singing sweet songs
+ " The Lahore Metro is an automated fast traffic transport system under construction in Lahore, Punjab, Pakistan
+ isamen metro linon kaa prastaav diya gaya he jinamein se orange line nirmaanadhin he
+ While operating in May 2018, it will become Pakistan's first metro line
+ lahore metro kaa pehla prastaav 1991 main rakhaa gaya tha or 1993 main lahore yatayaat or parivahan adhyayan dwaara iskaa adhyayan kiya gaya tha
+ And it was funded by the World Bank
+ kuch hi samay ke baad pariyojna ko dhakaa diya gaya tha
+ In 2005, the Ministry of Transport reviewed the project and conducted a feasibility study
+ 2007 main, asian vikaas bank ne pariyojna par adhyayan karne ke liye 1 arab ru pradaan kiye
+ As per the initial plan, four separate phases were constructed with 60 stations for the 82 km rail network
+ pehle charan main 11
+6 kimi section bhumigat ke saath gajju matta or shahdara baag ke bich 27 kimi rail line kaa nirmaan shaamil tha
+ Construction was expected to begin in 2008 and be expected to be completed by 2010
+ haalanki, 2008 main, pariyojna ko phir se dhanka diya gaya tha kyonki praathamiktaaon ko anya pariyojnaon main sthanantarit kar diya gaya tha
+ In June 2010, Malaysia-based Sokomi International proposed a $ 1
+15 billion mono-rail based option, although this option was not approved
+ may 2014 main, ek samjhaute par hastakshar kiye gaye taaki orange line kaa nirmaan shuru ho sake
+ Chief Minister Punjab Shahbaz Sharif signed the agreement at a ceremony with President Mamnoon Hussain and Chinese President Xi Jinping
+ orange line nirmaanadhin 27
+1 kilometre line he
+ The Orange line will be 27
+1 km long, of which 25
+4 km will be on the bridge at altitude
+ blue line chouburji se college road, township ke liye 24 kilometre kii prastaavit line he
+ The Purple Line is a proposed 32 km line that will be connected to the airport rail link
+ bowing 777, bowing commercial airplance dwaara nirmit lambi-shrinkhalaa, chaudee-sanrachana or judawaan-ingine vaala ek jet airliner he
+ It is the world's largest twinjet, commonly referred to as the "triple intake"
+ vimaan main 300 se adhik yatriyon ke baithne kii suvidha he or model ke aadhaar par iske udaan kii seemaa 5,235 se 9,380 samudri mile he
+ Its distinctive features include the largest diameter turbofan engine of any aircraft, six wheels in each main landing gear, a circular aerodynamic sub-cut and blade-shaped conical tail
+ aath pramukh airlinon ke paraamarsh par viksit kiye gaye is 777 ko puraani chaudee sanrachana vaale airlineron ko pratisthapit karne or 767 evam 747 kii kshamta ke antar ko samaapt karne ke liye taiyaar kiya gaya tha
+ Being the first fly-by-wire airliner, Boeing is controlled through computer intermediation; It is also the first commercial aircraft to be designed entirely by computer
+ 777 ko do vimaanakbandh lambaaiyon main prastut kiya gaya he
+ The original 777-200 model first served in 1995 followed by the introduction of its wide range 777-200ER in 1997; Its next series 777-300 began service in 1998 which is 33
+3 feet longer
+ adhik lambi shrinkhalaa 777-300iaar or 777-200elaar bhinnarupon ne kramshah 2004 or 2006 main apni seva pradaan karnaa shuru kiya jabaki ek malwahi sanskaran, 777epa, ne 2008 main apni pehali seva pradaan kii
+ donon adhik lambi shrinkhalaa vaale sanskarnon or malwahi sanskaran main general electric jeei90 injanon ke saath-saath vistrut or raced wingtips bhi lage hue hai
+ Other models have either the GE 90, Pratt and Whitney PW4000, or rolls-royce Trent 800 engines
+ 777-200elaar ko duniya kii sabase lambi shrinkhalaa vaala airliner kaa darja mila he or isane ek bina phir se eendhan bhare hue vanijyik vimaan dwaara sabase zyada dur udaan bharne kaa kirtiman sthapit kiya he or saath main isane duniya bhar ke aadhe se zyada raaston main udne kii kshamta kaa pradarshan bhi kiya he
+ United Airlines first incorporated the 777 into commercial airline service in 1995
+ july 2010 tak, 59 graahakon ne sabhi prakaar ke 1,143 vimaanon kaa order diya he jisamen se 881 kaa vitaran kar diya gaya he
+ The most common variant used worldwide is the 777-200ER which has 415 aircraft delivered and Emirates operates the largest number of 777 aircraft with 86 aircraft
+ October 2009 ke anusaar, is airliner ko ek baar vimaan-kshati durghatana se guzarana padaa he jisamen kisi bhi yatri kii maut nahin hui thi jiskaa shrey trent 800 ingine ke ek eendhan ghatak ko diya jaataa he
+ From the early 2000s to the end, the 777 has emerged as one of its manufacturer's best-selling models
+ eendhan kii badhati laagat kii vajah se airlinon ne anya chaudee sanrachana vaale jeton kii tulana main ek eendhanksham vikalp ke rup main is tarah ke vimaanon ko apanaaya he or lambi duuri vaale paar-mahasagariya margon ke liye uttarottar is tarah ke vimaanon kaa istemaal kiya he
+ Direct marketing competitors include the Airbus A330-300 and A340, with the upcoming A350 XWB and Boeing 787 currently under development
+ 1970 ke dashak main shuru main, bowing 747, mcdonal duglas disi-10 or lochid el-1011 trister seva main pravesh karne vaale pehali peedi ke chaudee sanrachana vaale yatri airliner bane
+ 1978 main bowing ne teen nae modelon par se pardaa uthaaya: sammanneey 727 ko pratisthapit karne vaala judawaan ingine vaala 757, airbas e300 ko chunauti dene vaala judawaan ingine vaala 767 or disi-10 or el-1011 ke saath pratispardhaa karne vaala ek triget 777 concept
+ madhyam aakaar vaale 757 or 767 ko aanshik rup se 1980 ke dashak ke vistrut-shrinkhalaa judawaan-ingine sanchaalanaatmak pradarshan maanak ) ke vinium shaasi paar-mahasagariya twinjet sanchalanon kii vajah se vipanan safalataa hasil hui
+ in viniyamon ke anusaar judawaan ingine vaale airlineron ko apatkaaleen dikparivartaneey hawaii addon se teen ghante kii duuri tak mahaasaagar ko paar karne kii anumati thi
+ Under ATOPS rules, airlines began operating the 767 on long-distance crossroads that did not require the capacity of large airliners
+ triget 777 ko baad main 757 or 767 bhinnarupon ke samarthan vaale vipanan adhyayanon ke baad tyaag diya gaya
+ The product range between the 767-300ER and 747-400 left Boeing with differences in size and range
+ 1980 ke dashak ke antim daur tak, disi-10 or el-1011 model sevanivritti ke kagaar par pahunch rahe the or nirmaataaon ko inaki jagah anya modelon kaa dizin viksit karne ke liye utsahit kar rahe the
+ mcdonnell Douglas was working on the MD-11 which was an enlarged and improved version of the DC-10 while Airbus was developing the A330 and A340
+ 1986 main bowing ne disi-10 jaisi pehali peedi kii chaudee sanrachanaon vaale airlineron ke pratisthaapan vipanan kaa lakshya lekar or company kii linep main maujuuda 767 or 747 modelon kii purti ke liye asthaayee taur par 767-eks naamak ek abhivardhit 767 ke prastaavon par se pardaa uthaaya
+ aarambhik prastaav main winglates ke saath-saath, maujuuda 767 kii tulana main adhik lambe vimaanakbandh or bade daine shaamil the
+ Subsequent plans have extended the avionics cross-section but the existing 767 flight deck, nose and other elements were kept intact
+ airline graahak 767-eks ke prastaavon se naakhush the or iske bajaay ek adhik chaude vimaanakbandh anuprastha-kaat, puri tarah se lacheela aatanrik vinyas, antaramahadwipiya-seemaa kshamta se kam or kisi bhi 767 vistaar kii tulana main kam sanchaalanaatmak laagat vaale airliner chaahate the
+ The requirements of large aircraft of airline planners became increasingly specialized which further increased the competition of aircraft manufacturers
+ By 1988, Boeing felt that the only answer was a new design that took the form of the 777 Twinjet
+ company ne ateetkaaleen dizin kii safaltaaon, prastaavit ingine ke vikaason or kam laagat laabhon ke aadhaar par judawaan-ingine vinyas kaa vikalp chunaa
+ 8 disambar 1989 ko bowing ne airlinon ko 777 kii peshkash kerani shuru kar di
+ The design phase of Boeing's new twinjet was different from the company's previous commercial jetliners
+ pehali baar, airliner ke vikaas main ol nippon airways, american airlines, british airways, cathe pacific, delta air lines, japan airlines, kwants or united airlines naamak aath pramukh airlinon ne bhaag liya tha
+ It was an industry departure practice where manufacturers largely designed aircraft with minimal customer input
+ dizin prakriya main apana yogadan dene vaale aath airlinon ko bowing ke bheetar "varking tugedar" samooh ke rup main janaa jane laga
+ janvari 1990 main hui is samooh kii pehali baithak main, airlinon ko 23 pannon vaali ek prashnawali vitarit kii gai jahaan prayek se yahi poocha gaya ki nae dizin main kya-kya shaamil karnaa chaahate hai
+ By March 1990, Boeing and the airlines had decided on a basic design configuration: a cabin transverse-cut, largely similar to the 747, with a capacity to carry 325 passengers, flexible interior, a glass cockpit, fly-by- Wire control and 10 percent better seat-miles or passenger-carrying costs than A330s and md-11s
+ Boeing also selected its Everett factory at 747 manufacturing center Washington as the final assembly site
+ 14 oktober 1990 ko united airlines 777 kaa aarambhik graahak bana jab isane 34 atirikt vimaanon ke vikalp ke saath 11 billian america dollar mulya vaale 34 prat and whitney sanchalit vimaan kaa order diya
+ vikaas charan ke dauraan hi united ne bhi apane puraane ho chale disi-10 ko pratisthapit karne kaa kaarykram banaaya
+ united chahta tha ki nae vimaan main teen alag-alag margon: chicago se hawaii, chicago se europe or denwar, ek garm or ooncha hawaii adda, se bina ruke hawaii tak udne kii kshamta ho
+ atops pramanikaran bhi united ke liye ek praathamikta thi jiske tahat united ke hawaii margon kaa samudr-paar vaala hissaa diya gaya
+ In January 1993, a team of developers from United joined the team of other airlines and Boeing's designers at the Everett factory
+ adhiktam 40 sadasyeey 240 dizin tiimon ne vyaktigat vimaan ghatakon ke dizin ko lekar lagbhag 1,500 muddon ko sambodhit kiya
+ The diameter of the aircraft was increased to make it more suited to Cathay Pacific, the base model for All Nippon Airways was further lengthened and the input from British Airways included built-in testing and internal flexibility as well as the original aircraft For higher operable weight options included
+ 777 aisa pehla vanijyik vimaan tha jise puri tarah se computer par dizin kiya gaya tha
+ Each design drawing was made on a three-dimensional software system known as Catia, the source of which was Dassault Systemes and IBM
+ isse baadhaon kii jaanch karne ke liye or hajaaron purjon ke uchit samaayojan ko satyapit karne ke liye banaavati dhang se ek abhaasi vimaan ko sanyojit karne kaa avasar praapt hua jisase mahange punarkaarya kii jarurat kam ho gai
+ Boeing developed its own high-performance monsoon system, Fly Through, which was later renamed IVT to assist in large-scale collaborative engineering design reviews, production illustrations and other uses of CAD data outside of engineering
+ bowing shuru main katiya kii kshamtaaon ke prati aashwast nahin the or unhone iske parinaamon ko satyapit karne ke liye ikse naak vaale bhaag ke ek bhautik nakli sanrachana kaa nirmaan kiya
+ This test was so successful that additional spurious structures were canceled
+ utpaadan prakriya main ek bowing jetaliner ke liye ek bemisaal darje ke vaishvik upanubandhikaran ke saath paryaapt antarrashtriya saamagree shaamil thi jise sirf parvarti 787 dwaara atikaramit kiya gaya
+ International contributors included Mimsitsubishi Heavy Industries and Kawasaki Heavy Industries, Fuji Heavy Industries Limited, Hawker de Havilland and Aerospace Technologies of Australia
+ japani airospes thekedaaron kaa netritv karne vaale japan aircraft deveopment korporation or bowing ke bich hue ke samjhaute ke tahat sampoorn vikaas kaarykram ke 20 pratishat ke liye parvarti jokhim kii bhagidaari karne vaale bhagidaaron kaa aagaman hua
+ The initial 777-200 model was launched with propulsion options from three manufacturers, General Electric, Pratt & Whitney and rolls-royce, giving the airlines the engines of their choice from competing companies
+ prayek nirmaataa duniya ke sabase bade twinjet ko shakti sampann banane ke liye ucchtar thrust class or 77,000 pound-bal main ek ingine kaa vikaas karne ke liye raji the
+ To optimize the production of its new airliner, Boeing doubled the size of the Everett factory at a cost of approximately US $ 1
+5 billion to provide space for two new assembly lines, ie, combination galleries
+ New methods of production were developed and a rotating machine was also developed that could rotate the subcomponents of the avionics up to 180 degrees making it easier for employees to reach the upper sections of the structure
+ pehle vimaan kaa pramukh sangyojan kaary 4 janvari 1993 ko shuru hua
+ By the start of production, the program had received 118 firm orders, with the option to open 95 more orders from 10 airlines
+ is kaarykram main lagbhag bowing kii taraf se 4 billian america dollar se bhi zyada or aapurtikartaaon kii taraf se alag se lagbhag 2 billian america dollar kaa nivesh kiya gaya tha
+ On 9 April 1994 the first 777, line number WA001, was commissioned in a series of 15 ceremonies organized during the day, arranging space for 100,000 invited guests
+ pehali udaan 12 june 1994 ko mukhya pareekshan vimaanchaalak jon i
+ casshman kii kaman ke tahat bhari gai thi
+ It marked the beginning of an 11-month flight test program intended to be more comprehensive than any previous Boeing model program
+ general electric, prat and whitney or rolls-royas injanon vaale nau vimaanon ke udaan kaa pareekshan california ke edwards air force base ke registani hawaii adde se laakar alaska ke kaaphi thande ilaakon main kiya gaya
+ Eight test flights with a single engine with 180 minutes were performed to meet the needs of Etopes
+ pratham nirmit vimaan kaa istemaal 1994 se 1996 tak bowing ke gaiyr-vinaashaatmak pareekshabhiyaan main kiya gaya or -200iaar or -300 kaaryakramon ke liye data uplabdh karaayaa gaya
+ On successful completion of the flight test, the 777 was awarded synchronous airworthiness certification by the Federal Aviation Administration) and the Joint Aviation Authority) on 19 April 1995
+ bowing ne 15 may 1995 ko united airlines ko pratham 777 kaa vitaran kiya
+ Fa awarded a 180-minute Atops clearance on 30 May 1995 for aircraft with Pratt & Whitney PW4084 engines, thus becoming the first airliner to receive an ATOPS-180 status at the time of its entry into service
+ iske baad oktober main 207 minute vaale adhik lambe atops nikasi ko manjuuri di gai
+ The first commercial flight took off from Heathrow Airport in London to Dulles International Airport near Washington, DC on 7 June 1995
+ 12 navambar 1995 ko bowing ne british airways ko general electric jeei90-77bi injanon vaale pehle model kaa vitaran kiya jiske paanch din baad us vimaan ko seva ke liye prayog main laayaa gaya
+ Initial service was impacted by gear box bearing casing issues, which led to the airline temporarily discontinuing its 777 flight from cross-atlantic service in 1997
+ Later that year, British Airways' aircraft began to provide full service again and General Electric later announced an engine upgrade
+ pratham rolls-royas trent 877 sanchalit vimaan kaa vitaran 31 march 1996 ko thai airways international ko kiya gaya, jab shuru main airliner ke liye viksit kiye gaye teen bijligharon ko shuru karne kaa kaam puraa ho gaya
+ Each engine-aircraft combination had secured the ATOPS-180 certification from the time it entered service
+ june 1997 tak 777 ke liye 25 airlinon kii taraf se 323 order mil chuke the jisamen santusht shuruuaati graahak bhi shaamil the jinhone atirikt vimaan kaa order diya tha
+ The operational performance data provided evidence of the twinjet's favorable capabilities on long-distance cross-ocean routes, resulting in additional sales of these aircraft
+ By 1998, dispatch reliability figures had reached a 99
+96 percent rate of flying without delays due to technical issues and an increasing number of aircraft flying hours to 900,000
+ aarambhik model ke baad, bowing ne 777-200iaar ko viksit kiya jo adhik duuri tay karne vaala or adhik maal vahan kii kshamta rakhane vaala vardhit sakal vajan vaala bhinnrup tha
+ The -200ER made its first flight on 7 October 1996, received Fa and Ja certification on 17 January 1997, and commenced service on 9 February 1997 with British Airways
+ This variant aircraft achieved the status of the highest-order variant aircraft in the early 2000s by covering a longer distance
+ 2 april 1997 ko malaysia airlines ke "super ranger" naamak ek -200iaar ne 21 ghante 23 minute main sietal ke bowing field se purv kii taraf kuala lampur tak kul 10,823 samudri mile duuri tak udaan bharkar ek airliner ke mahaan vrutt "landing rahit duuri" kaa record tod diya
+ After the arrival of the -200ER, Boeing began to focus on an expanded version of the airliner
+ On 16 October 1977, the 777-300 made its first flight
+ The 242
+4 ft long-300 was the longest airliner ever built and its overall capacity was 20 percent higher than the standard length model
+ -300 ko 4 may 1998 ko ek hi samay pha or ja dwaara tip pramanikaran se sammanit kiya gaya or 27 may 1998 ko shuruyaat graahak cathe pacific ke saath seva main pravesh kiya
+ From the beginning of the development program, Boeing had considered making variants with very long limits
+ aarambhik yojanaayen 777-100eks ke ek prastaav par kendrit tha jo -200 kaa ek sankshipt sanskaran tha jiskaa vajan kam or udaan kshamta adhik thi jo 747espi kii tarah tha
+ However, the passenger carrying capacity of -100X was less than -200 while the operating costs were the same, resulting in higher per passenger costs
+ 1990 ke dashak ke antim daur tak, dizin yojanaon ko badalakar maujuuda modelon ke adhik lambi duuri vaale sanskaran ke liye banaaya jane laga
+ 100,000 pound-bal vaale adhik shaktishaalee ingine or ucchtar thrust class kii jarurat thi jiske falswaroop bowing or ingine nirmaataaon ke bich sakriy rup se vichaar-vimarsh hone laga
+ general electric ne jeei90-115bi ingine ko viksit karne kaa prastaav diya jabaki rolls-royas ne trent 8104 ingine ko viksit karne kaa prastaav diya
+ 1999 main, pratidwandvi prastaavon ko thukrakar bowing ne general electric ke saath ek samjhaute kii ghoshnaa kii
+ general electric ke saath samjhaute ke bhaag ke rup main, bowing is baat par sahamat the ki jeei90 ingine 777 ke nae sanskarnon ke liye prastaavit ekmaatr bijlighar honge
+ On February 29, 2000, Boeing launched its next-generation Twinjet program, initially called the 777-X, and began issuing offerings to airlines
+ The pace of development of long-range models was slowed by the airline industry's losses that persisted until the early 2000s
+ The first model to emerge from the event, the 777-300ER, was inaugurated by Air France with an order of ten aircraft as well as additional commitments
+ 24 farvari 2003 ko -300iaar ne apni pehali udaan bhari or pha or iyasa kaa uttaradhikari) ne 16 march 2004 ko is model ko pramanikrut kiya
+ The first delivery to Air France was made on 29 April 2004
+ -300iaar, jisamen -200iaar kii seemaa ke saath -300 kii atirikt kshamta ko shaamil kiya gaya tha, 2000 ke dashak ke antim daur main sabase zyada bikne vaala 777 bhinn rup bana, or airlinon ne tulaneey chaar ingine vaale modelon kii jagah kam sanchaalanaatmak laagton kii vajah se twinjeton kaa order dene lage
+ The second model, the 777-200LR, originating from the next generation program, arrived on 15 February 2005, making its first flight on 8 March 2005
+ The -200LR was certified by both Fa and Iyasa on 2 February 2006 and the first delivery of the model was made to Pakistan International Airlines on 26 February 2006
+ 10 navambar 2005 ko pratham -200elaar ne honkong se purv kii taraf landan tak 11,664 samudri mile duuri tak udaan bharkar ek yatri airliner kii sabase lambi aviraam udaan kaa ek record kaayam kiya
+ The 22-hour 42-minute flight surpassed the standard design limit of -200LR and made its way into the Guinness World Records
+ agali peedi vaale malwahi model, 777epa, kaa aagaman 23 may 2008 ko hua
+ The 777F made its first flight on July 14, 2008, with the -200lr's structural design and engine specifications, as well as the fuel tanks of the -300ER
+ On 6 February 2009, the freighter received Fa and Iyasa certification and on 19 February 2009 made its first delivery to early customer Air France
+ prarambh main, 747 ke baad bowing ke sabase phydemand jetaliner ke rup main 777 ne uske baad se company ke sabase laabhprad model kaa sthaan hasil kar liya he
+ In 2000, Boeing's pre-tax earnings from the sale of the program were approximately US $ 400 million, US $ 50 million more than the 747
+ 2004 tak, is airliner se bowing ke vanijyik hawaii jahaazon ke prabhag ke liye chaudee sanrachana kaa thok rajasav shaamil tha
+ In 2007, the number of orders for the next generation 777 models reached 350 aircraft, and in November of that year Boeing announced that all production slots had been sold for 2012
+ is kaarykram ke baaki 356 orderon kaa mulya 2008 kii suchi keemton ke anusaar 95 billian america dollar tha
+ In the late 2000s, the 777 faced increased competition from Airbus's planned A350 XWB and the proposed variants of the 787 internally, both of which promised to improve fuel efficiency in airliners
+ udyog kii reporton ke anusaar, is vimaan ko ant main ek nae utpaada parivaar, bowing yalostone 3, dwaara pratisthapit kiya ja saktaa he jisamen 787 kii praudyogikiyon kaa istemaal kiya jayega
+ Boeing introduced several advanced technologies with the 777 design including full digital fly-by-wire control, full software-configurable acoustics, Honeywell LCD glass cockpit flight display, and the use of a fiber optic aerodynamic network for the first time on a commercial airliner
+ Included
+ bowing ne radd bowing 7je7 kshetreey jet par kiye gaye kaam kaa istemaal kiya jisamen chaynit praudyogikiyon ke samaan sanskarnon kaa istemaal kiya gaya tha
+ In 2003, Boeing began offering cockpit electronic flight bag computer display options
+ pratham fli-bai-vir vanijyik vimaan ke rup main 777 kaa dizin banaate samay bowing ne kai fli-bai-vir ladaaku vimaan or kai airbas airlineron main istemaal kiye jane vaale sidstic niyantrakon ko badalane ke bajaay paaramparik niyantran jodiyon ko banaae rakhane kaa faisla kiya
+ The cockpit incorporates a simple layout, along with traditional yoke and radar controls that uphold the similarity to previous models of Boeing
+ fli-bai-vir pranali main udaan aavaran suraksha bhi shaamil he jo sanchaalaneey maapdandon ke ek computer-pariklit fremawork ke bheetar vimaan chaalkon kaa maarg nirdesan karne vaali ek pranali he or baadhaon or bahut zyada tanaavpurn yuddhayaason kii rokthaam karata he
+ This system can also be disregarded if felt by the aircraft pilot commanding the need
+ 777 ke dainon kii dizin ek supercritical airfoil dizin kii tarah hoti he jo 31
+6 degree par waapas gum jaati he or maa 0
+83 par paribhraman ke liye anukool he 
+ dainon ko pichley airlineron kii tulana main adhik motaa or adhik failaa hua banaaya gaya he jiske parinamswaroop adhik se adhik pelod or seemaa kshamta aa gai he, udaan pradarshan main sudhaar hua he or adhik oonchai par udne kii kshamta praapt hui he
+ While launching the aircraft, it was proposed to have folding wingtips for the choice of airlines which could use the gates made as per the convenience of small aircraft but no airline purchased this option
+ airfrem main mishrit samagriyon kaa upyog kiya gaya he jiskaa vajan mul sanrachanaatmak vajan kaa nau pratishat he
+ The cabin floor and radar have been made from composite materials
+ mukhya vimaanakbandh anuprastha kaat ek blade kii akruti vaale shankvakar poonch main vrittakar or peeche kii taraf shundakaar he jiske saath port kii taraf sahaayak bijli kii ikai he
+ The aircraft also has the largest landing gear and the largest tires, which have not been used in any commercial jetliner before
+ 777-300iaar ke chah pahiyon vaale mukhya landing gear kaa prayek tair 59,490 pound boj vahan kar saktaa he jo 747-400 jaise anya chaudee sanrachana vaale vimaanon se adhik baari he
+ The aircraft has three redundant hydraulic systems, of which a system is required for landing
+ ek ram air tarabine, ek chota sikudne yogya ingine jo apatkaaleen bijli pradaan kar saktaa he, ko bhi daine ke mul fering main lagaaya gaya he
+ The 777's interior or interior architecture, known as the Boeing Signature Interior, features curved panels, large overhead bins and indirect lighting
+ baithne ke vikalpon main pratham darje main agal-bagal chah siton se lekar nichle darje main das siton kii shrenee shaamil he
+ At 15-inch by 10-inch, the 787 had the largest windows fitted to any current commercial airliner
+ cabin main bhi "namyata kshetra" shaamil he jisamen aatanrik sthal main har taraf aprihaary rup se jal, vidyut, hawa or anya hook-ap kii sahi vyavastha he jisase airline aasaani se cabin kii vyavastha ko samyojit karte samay siton, gali or shauchalayon ko turant sthanantarit kar sakate hai
+ VIP interiors have also been arranged for non-airline use in many aircraft
+ 2003 main bowing ne 777 par ek vikalp ke rup main upree chaalak dal vishram sthal kaa bhi intjaam kar diya
+ mukhya cabin ke upar sthit or sidhiyon ke madhyam se jude aage ke udaan chaalak dal vishram sthal main baithne ke liye do seat or sone ke liye do bistar kii vyavastha he jabaki peeche ke cabin chaalak dal vishram sthal main sone ke liye kai bistaron kaa intjaam he
+ The signature interior has since been refined for Boeing's other wide-body and narrow-body aircraft including the 737 NG, 747-400, 757-300 and Nutan 767 models
+ 747-8 or 767-400iaar main bhi 777 ke adhik badi or adhik gol khidakiyon ko shaamil kiya gaya he
+ Boeing uses two features, length and range of avionics, to define its 777 models
+ vimaanakbandh kii lambaai kaa vahan kiye jane vaale yatriyon kii sankhya or maal kii maatra par asar padataa he; 777-200 or vyutpaadon kaa aakaar buniyadi aakaar he or 1998 main vimaan ko 777-300 main vistrut kiya gaya
+ In terms of range, aircraft are classified into three areas based on design criteria; These were initially defined as: vibhinn bhinn roopon kaa zikr karte samay bowing or airline aksar model number or bhinn rup nirdharak ko ek sankshipt rup main vyakt karte hai
+ The International Civil Aviation Organization aircraft type determinant system adds a preceding manufacturer letter
+ kshamta sankhya ke baad, padanaamon ko seemaa pahachanakarta ke saath joda yaa nahin joda ja saktaa he 
+ ye sanketan vimaan minial yaa airline samay saraniyon main mil sakate hai
+ The 777-200 was the initial A-market model
+ pratham -200 kaa vitaran 15 may 1995 ko united airlines ko kiya gaya tha
+ With a maximum range of 5,235 nautical miles-200, the main objective was on US domestic airline operators
+ july 2010 tak das vibhinn -200 graahakon ko 88 or saath main airline seva main 62 vimaanon kaa vitaran kar diya gaya he
+ Airbus's competing aircraft is the A330-300
+ 777-200iaar, -200 kaa bi-bazaar sanskaran, ko iske vardhit sakal vajan ke liye vastav main 777-200aijeedblyoo ke naam se janaa jaataa tha
+ The -200ER features additional fuel capacity of -200 and an increased maximum takeoff weight)
+ antarrashtriya airlinon kii sanchaalaneey paar-atlantic margon ke uddeshy par -200iaar kii adhiktam seemaa 7,700 samudri mile he

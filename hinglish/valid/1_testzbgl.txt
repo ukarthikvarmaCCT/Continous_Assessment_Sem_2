@@ -1,0 +1,1923 @@
+saamaanya hone ke in prayaason ke baavjood, UI ko spasht rup se pratispardhi companiyon ke bich vibhajit kiya gaya: jaise crystal yaa safaire Nokia the, quartz Ericsson tha
+ DFRD was abandoned by Symbian in late 2002, part of an active withdrawal from UI development in favor of 'headless' distribution
+ Nokia ko parl de diya gaya, UIQ praudyogiki AB ke rup main quartz ke vikaas ko vistaar diya gaya or japani companiyon ke saath kaam ko shighratham MOAP ke maanak tak sameta gaya
+ First came in 2003
+ It is an important Symbian release that appeared with all contemporary consumer interfaces including UIQ, such as Series 80, Series 90, Series 60, as well as many FOMA phones in Japan
+ It also added Edge support and ipv6
+ Java samarthan ko pjava or javapona se ek Java ME aadhaarit maanak main badla gaya
+ In 2003, one million Symbian phones were imported in Q1 and it increased in late 2003 at the rate of one lakh per month
+ simbian OS 7
+0, 7
+0 vishesh kaa sanskaran tha jise simbian OS 6
+x ke saath adhik se adhik pasch sangatta or aanshik rup se communicator 9500 or uske purvavarti communicator 9210 ke bich sangatta hasil karne ke liye apanaaya gaya
+ In 2004, Psion sold its stake in Symbian
+ In the same year, the first mobile phone worm to use Symbian OS, Cabir, was developed, which uses Bluetooth to spread itself to nearby phones
+ cabir or simbian OS khatra dekhen
+ One of the many advantages of commercially shipping it for the first time in 2004 would have been the choice of two different colonels
+ However, the EKA2 kernel version was not shipped until Symbian OS 8
+1b
+ These kernels behave more or less equally on behalf of the user, but they are intrinsically very different
+ puraane upkaran chaalkon ke saath sangatta banaaye rakhane ke liye kuch nirmaataaon ne EKA1 ko chunaa, jabaki EKA2 ek real-time karnal tha
+ In 2003 production of 8
+0b was discontinued
+ CDMA, 3G, do-tarafa data strimming, DVB-H or sadish graphicon or sidhe screen adhigam vaale opengl ES ko samarthan dene ke liye nae API ko bhi shaamil kiya gaya tha
+ An improved version of 8
+0, it was available in 8
+1a and 8
+1b versions with EKA1 and EKA2 kernels respectively
+ 8
+1b sanskaran, bagaiyr kisi atirikt suraksha str ke or EKA2 ke ekal-chip phone samarthan ke saath, japani phone companiyon ke bich lokapriy tha jo real-time samarthan kii icchhuk thim lekin khule anuprayog kii sthapana kii anumati nahin dena chaahati thim
+ In 2005, the first and perhaps most famous smartphone featuring the Symbian OS 8
+1a was the Nokia N90, the first in Nokia's n series
+ simbian OS 9
+0 keval simbian ke aantarik prayojanon ke liye hi istemaal kiya gaya tha
+ Its product was discontinued in 2004
+ 9
+0 marked the end of the journey of EKA1
+ 8
+1a simbian OS kaa antim EKA1 sanskaran he
+ Symbian OS has generally maintained proper binary code compatibility
+ siddhant rup main OS ER1-ER5 se BC tha, phir 6
+0 se 8
+1b
+ 9
+0 ke liye, upkaran or suraksha se sambandhit mahatvapurn parivartan aavashyak the, lekin ise ek ekal order utpaadan hona chahie
+ armv4 kii aavashyaktaa se armv5 kii aavashyaktaa main antaran, pasch sangatta ko nahin chodta he
+ Released in early 2005
+ It includes many new security-related features, such as the platform security module that facilitates mandatory code signing
+ nae ARM EABI binary model kaa arth he ki vikasakartaaon ko ritul karne kii jarurat hogi or suraksha badlaav kaa matlab he ki unhen punaukutit karnaa ho saktaa he
+ The S60 platform third edition phone has Symbian OS 9
+1
+ soni arikson, simbian OS 9
+1 par aadhaarit M600 or P990 bhej / nikaal / nasht kar rahaa he
+ The earlier version had the flaw that the phone would hang temporarily when the phone holder sent a lot of SMS
+ haalanki, 13 sitambar 2006 ko, Nokia ne is dosha ke nivaaran ke liye ek chota program jari kiya
+ Support for Bluetooth 2
+0 was also added
+ simbian 9
+1 ne kshamtaaon or ek platform suraksha ruparekha ko pesh kiya
+ To access certain apis, developers have to sign their application with a digital signature
+ buniyadi kshamtaayen upyogkarta ke liye pradaan karne yogya hai or vikasakarta unhen swa-hastakshrit kar sakate hai, jabaki adhik unnat kshamtaaon ke liye pramanikaran or Symbian Signed kaarykram ke madhyam se hastakshar karne kii aavashyaktaa hoti he, jo anumodan ke liye swatantra 'parikshan gharon' or phone nirmaataaon kaa upyog karata he
+ For example, file writing is a user-provided capability while accessing multimedia device drivers requires the approval of the phone manufacturer
+ anuprayogon par hastakshar karne ke liye vikasakarta ke liye ek TC trustcentre ACS prakaashak ID praaanpatr kii aavashyaktaa hoti he
+ Q1 2006 release
+ Support for OMA Device Management 1
+2
+ Vietnamese language support
+ The S60 3rd Edition Feature Pack 1 phone has Symbian OS 9
+2
+ simbian OS 9
+2 OS vaale Nokia phone main shaamil he Nokia E90, Nokia N95, Nokia N82 or Nokia 5700
+ The upgrade released on 12 July 2006 includes memory improvement management and native support for Wifi 802
+11 HSDPA
+ Nokia E72, Nokia 5730 xpressmusic, Nokia N79, Nokia N96, Nokia E52, Nokia E75 and others include Symbian OS 9
+3
+ march 2007 main ghoshit
+ maang prishthan kii avadharana pradaan karata he jo v9
+3 ke baad se uplabdh he
+ Applications should start up to 75% faster
+ Additionally, SQL support is provided by sqlite
+ Samsung i8910 omnia HD ke saath Nokia N97, Nokia 5800, xpressmusic, Nokia 5530 xpressmusic or Sony Ericsson Satio kaa bhi ladaan kiya jaataa he
+ Used as the basis of the first released Symbian platform, Symbian ^ 1
+ This offering is better known as the S60 5th Edition, as it is a stored interface for the OS
+ simbian limited ne 26 march 2007 ko v9
+5 kii ghoshnaa kii jisamen DVB-H or ISDB-T swaroopon main mobile digital televijan prasaaran ke liye deshi samarthan or sthaniyakaran sevaayen shaamil hai
+ The Symbian Foundation was announced in June 2008, which came into existence in 2009
+ iskaa uddeshy tha sampoorn simbian plateform ke liye strot ko prakashit karnaa jo OSI- or FSF dwaara anumodith eclips public license ke tahat ho
+ simbian plateform ke anaavaran ne simbian OS ke swasampurna utpaada ko anuchit samajha
+ The 100 millionth smartphone running the OS was shipped on 16 November 2006
+ yatha 21 july 2009, simbian OS ko chalaane vaale 250 million upkarnon ko bheja gaya
+ Symbian OS has been the victim of various viruses, of which Cabir was the most talked about
+ Usually they spread from one phone to another via Bluetooth
+ ab tak, kisi ne bhi simbian OS main kisi khami kaa laabh nahin liya he - iske bajaay, sabhi ne upyogkarta se poocha ki kya ve software sthapit karnaa chahenge, jiske saath unhone kuch chetavanee di ki is par bharosa nahin kiya ja saktaa he
+ However, with the idea that average mobile phone users should not worry about security, Symbian OS 9
+x adopted a Unix-style capability model
+ Theoretically installed software is not harmful without a digital signature - thus it can be tracked
+ vanijyik vikasakarta jo laagat vahan kar sakate hai ve apane software ko Symbian Signed kaarykram ke madhyam se hastakshrit kara sakate hai
+ Developers also have the option to self-sign their programs
+ lekin, uplabdh suvidhaon main bluetooth, irda, GSM cellid, dhwani samvaad, GPS or kuch anya kaa abhigam shaamil nahin he
+ Some operators have opted to deactivate all certificates other than the Symbian signed certificate
+ kuch anya pratikul kaarykram neeche soochibaddh hai, lekin un sabhi ko chalane ke liye abhi bhi upyogkarta ke input kii aavashyaktaa hoti he
+ S60 v3 and v5 devices can be hacked to remove the platform security included in OS 9
+1 onwards, thus allowing users to install "unsigned" files and access previously locked system files is
+ yah oparating system ke kaary karne kii paddati ko badalane kii anumati detaa he or chhipe anuprayog aadi ko dekhne yogya banaata he or chunki ab oparating system fil khul chuki hai to virus ke mandaraate khatre ko bhi badha detaa he
+ The native language of Symbian is c ++, although it is not a standard implementation
+ simbian OS par aadhaarit kai plateform hai jinhone simbian OS upkarnon ko lakshya banane vaale anuprayog vikasakartaaon ke liye SDK uplabdh karaayaa - inamen se pramukh S60 or UIQ he
+ Individual phone products, or families, often had an SDK or SDK extension that was also downloadable from the manufacturer's website
+ simbian plateform main ekikrut vibhinn UI plateformon ke saath, 2010 ke baad se nirmaataaon ke SDK ke bich kam vividhta honi chahie
+ The SDK includes documentation, requires header files and library files to build Symbian OS software, and a Windows-based emulator
+ As of Symbian OS version 8, the SDK also includes a version of the GCC compiler, which is needed to build software to work on the device
+ simbian OS 9 or simbian plateform ek nae ABI kaa upyog karte hai or inhen ek bhinn sankalak kii aavashyaktaa hoti he - GCC ke ek nae sanskaran sahit, apane pasand ke sankalak uplabdh hai 
+ Unfortunately, Symbian c ++ programming has a deep learning curve, as Symbian requires the use of specialized technologies such as descriptors and a cleaning stack
+ It can also make relatively simple programs difficult to implement in other environments
+ iske alaava, yah sandigdh he ki simbian kii takneekein, jaise smriti prabandhan pratimaan, vastav main phydemand hote hai
+ It is possible that these technologies, which were developed for more restrictive mobile hardware in the 1990s, simply caused unnecessary complexity in the source code as programmers needed to focus on low-level routines rather than application-specific features
+ Was required
+ haalanki or adhik ucch stareey or aadhunik programing pratimaan kii disha main kadam badhanaa mushkil lagata he
+ Symbian c ++ programming is commonly done from the IDE
+ simbian OS ke pichley sanskarnon ke liye, vanijyik IDE kodewarier ko simbian OS ke liye pasand kiya gaya
+ kodewarier upkarnon ko 2006 ke dauraan Carbide
+c++ se badal diya gaya, Nokia dwaara viksit ek eclips aadhaarit IDE
+ Carbide
+c++ ko chaar alag-alag sanskarnon main pesh kiya jaataa he: express, develper, profeshnal or OEM, badhati kshamta kram main
+ purna visheshtaon vaale software ko express sanskaran dwaara banaaya or jari kiya ja saktaa he, jo muft he
+ Features like UI design, crash debugging, etc
+ are available in other paid versions
+ Microsoft Visual Studio 2003 or 2005 bhi Carbide
+vs plagain ke madhyam se samarthit hai
+ The flavor of Symbian's c ++ is very special
+ haalanki, simbian upkarnon ko Python, Java ME, Flash Lite, Ruby, 
+NET, Web Runtime Widgets or Standard c / C++ ke prayog se programit kiya ja saktaa he
+ 
+ Visual Basic vikasakarta, S60 3 sanskaran or UIQ 3 upkarnon ke liye anuprayog viksit karne ke liye NS Basic kaa upyog kar sakate hai
+ Visual Basic, VB
+NET and c # development for Symbian was possible in the past by appforge Crossfire, a plugin for Microsoft Visual Studio
+ 13 march 2007 ko appforge kaa sanchaalan band ho gaya; Oracle ne bauddhik sampada kharid lee, lekin ghoshit kiya ki purv appforge utpaadon ko bechney yaa unhen samarthan pradaan karne kii unki koi yojana nahin he
+ Net60, a 
+NET Compact Framework for Symbian, developed by redfivelabs, was sold as a commercial product
+ Net60, VB
+NET and c # source code are compiled into an intermediate language that is implemented within the Symbian OS using a just-in-time compiler
+ simbian OS ke liye borland IDE kaa ek sanskaran bhi he
+ Development of Symbian OS is also possible on Linux and Mac OS X, using tools and technologies developed by the community, partially enabled by Symbian releasing source code for critical devices
+ ek plagain jo simbian OS anuprayogon ko Mac OS x ke liye Apple ke Xcode IDE main vikaas karne kii anumati detaa he, uplabdh he
+ Once developed, Symbian applications need to find a way to customers' mobile phones
+ ve SIS fil main pek kiya jaataa he jise PC conect, bluetooth ke madhyam se over-da-air sthapit kiya ja saktaa he, yaa ek memory card par bhi
+ ek vikalp he kisi phone nirmaataa ke saath bhagidaari karnaa or software ko phone par hi shaamil karvaa dena
+ SIS fil maarg, simbian OS 9
+x ke liye adhik mushkil he, kyonki koi bhi anuprayog jisamen nunatam se pare kshamtaaon kaa hona vaanchit he use Symbian Signed kaarykram ke madhyam se hastakshrit hona aavashyak he
+ But it has different breaks, which are Symbian OS 9
+x
+ Allows to install unsigned programs with any capabilities in
+ Symbian Signed pranali kaa parichay, jisamen anuprayog vikasakarta ko smartphone kii adhik aakarshak suvidhaon kaa upyog karne ke liye kuch bhugtan karne kii aavashyaktaa hoti he, ise mukt strot pariyojnaon, swatantra vikasakartaaon or chote str ke shuruyaat karne waalon ke liye adhikadhik alokapriy plateform bana rahaa he
+ This situation was further aggravated by fragmentation of the user interface system, meaning that developers needed to create and monitor multiple incompatible versions of their software if they wanted to target multiple devices that would have built-in similar Symbian
+ Uses the OS version
+ simbian OS ke liye Java ME anuprayog ko maanak takanic or upkaran kaa upyog karke viksit kiya ja rahaa he jaise Sun Java Wireless Toolkit unhen JAR filon ke rup main pack kiya jaataa he 
+ CLDC or CDC, donon anuprayogon ko netbeans ke saath banaaya ja saktaa he
+ Other tools include superwaba, which can be used to build Symbian 7
+0 and 7
+0s programs using Java
+ Nokia S60i phone, jab S60 ke liye pithan dubhashiya sthapit ho to pithan script bhi chalaa saktaa he, jisamen hoga vishesh nirmit API jo bluetooth samarthan kii anumati detaa he
+ It also has an interactive console that allows the user to write Python scripts directly from the phone
+ 20
+ www
+symbianism
+com Template: Nokia platforms dilin nair, ek bhartiya raper / gayak hai
+ Often they are known by their stage name Raftaar or RAA
+ yah purv main yo yo hani singh dwaara gathit shahari sangeet samooh mafia munder ke ek sadsy the
+ They split from the group, and made headlines after signing for three records from Punjabi band RDB
+ inhone bollywood ke liye bhi sangeet kaa utpaadan shuru kar diya he
+ Raftaar started his career as a dancer in Bollywood
+ inhone bhartiya bollywood filmon ke liye prishthbhumi nrity bhi kiya
+ He participated in the Indian dance show Dance India Dance under Max with a partner named Manik, which made him quite famous
+ inhone dilli main big dance club main ek nrity shikshak ke rup main bhi kaam kiya
+ After being out on the show, began his career as a rapper
+ inhone sangeet samooh "mafia munder" ke sadsy ke rup main, sangeet nirmaataa yo yo hani singh ke saath kaam karnaa shuru kiya
+ After leaving Raftar's group, Punjabi music band RDB signed him to three records with their own label
+ aradibi ke sadasyon ke bich vibhaajan ke baad, aradibi ke liye ek gayak ke rup main seva dene vaale manjit raal ke saath jud gaye
+ Raftaar was first introduced in the RDB song "we Do It Big"
+ baad main, inhone elbum bourn star main abhinay kiya or 3 gane main yogadan diya, "majanu", "sugar" or "bottle"
+ In 2013, Raftaar released his solo album WTF: Witness the Future
+ pehle se hi "party vid bhootnath" naamak yo yo hani singh ke gane main istemaal kiya gaya " ab ye karke dikhaao" jo raftaar ke geet "sweg meraa desi he ', main bhi prayog kii gayi jis kaaran donon main vivaad ho gaya
+ There were rumors that "dope Shop" and "party of Breakup" were written by Raftaar
+ inhone yo yo hani singh par nishaanaa sadhate hue kaha ki ye gane unhone likhe hai par unhen kabhi iskaa shrey nahin mila
+ Raftar calls his fans as "RAA Army"
+ prakassam bhartiya rajya andhra pradesh kaa ek jila he
+ Area - 17,626 sq km jansankhya - 30,59,423 Eutectic or plasticizing are those substances that are helpful in increasing its solubility or fluidity by mixing it with any other substance
+ inkaa sabase adhik upyog plasticon ko adhik sughaty banane main hota he
+ There are also euthanasia for making concrete, gypsum and other things workable
+ saarvatrik gas niyatank ek bhautik niyatank he jo vigyaan ke kai moolbhoot samikarnon main sammilit he 
+ Let us denote this by R
+ simkuna, kanda tehsil main bharat ke uttrakhand rajya ke antargat kumaun mandal ke bageshwar jile kaa ek gaanv he
+ The Consumer Price Index is an index measuring the average price of goods and services purchased by domestic consumers
+ upabhokta mulya suchakank kii gananaa vastuon evam sevaaon ke ek maanak samooh ke ausat mulya kii gananaa karke kii jaati he
+ This standard group of goods and services is the group of goods an average urban consumer buys
+ janvari 2015 menadhar varsh main hue sudhaar ke anusaar upabhokta mulya suchakank kaa naveenatam aadhaar varsh 2012 ko mana jane laga he
+ The consumer price index based inflation data in India is released on a monthly basis by the Ministry of Statistics and Program Implementation of the Central Government
+ is suchakank hetu vastuon evam sevaaon ke mulya sambandhi aankade rashtriya namoona surveykshan sanghathan NSSO dwaara chuninda shaharon se sangrahit kiye jate hai, jabaki gramin kshetron ke liye aankadon kaa sangrahan dak vibhaag dwaara kiya jaataa he
+ Devgarh is a village in Raigad district under the Chhattisgarh state of India in the Gharghoda division
+ bitakine ek vikendrikrut digital mudra he
+ It is the first decentralized digital currency which means it is not operated by any central bank
+ computer netwarking par aadhaarit bhugtan hetu ise nirmit kiya gaya he
+ It is developed by an engineer named Satoshi Nakamoto
+ satoshi kaa yah chhadam naam he
+ This is a new currency secured by encrypting for mutual payment on the mass computer network
+ ankiy pranali se banaai gai yah mudra ankiy purse main hi rakhi jaati he
+ It started on 3 January 2009
+ yah vishwa kaa pratham purnataya khulaa bhugtan tantra he
+ There are more than 10 million bitcoins worldwide
+ bitcoin ek virtual yani abhaasi mudra he, abhaasi matlab ki anya mudra kii tarah iskaa koi bhautik swarup nahin he yah ek digital karency he
+ This is a currency that you can neither see nor touch
+ yah keval electronicli store hoti he
+ If someone has bitcoin, he can buy goods just like the common currency
+ vartmaan main sansar main bitcoin kaaphi lokapriy ho rahaa he
+ It was invented in 2008 by an engineer named Satoshi Nakamoto and released in 2009 as open source software
+ vartmaan main log kam keemat par bitcoin kharid kar oonche daamon par bech kar kaarobaar kar rahe hai
+ It takes about two to three percent transaction fee to pay with a common debit / credit card, but bitcoin has nothing like this
+ iske lenden main koi atirikt shulk nahin lagata he, is vajah se bhi yah lokapriy hota ja rahaa he
+ Also it is safe and fast which is encouraging people to accept bitcoins
+ kisi anya credit card kii tarah isamen koi credit limit nahin hoti he na hi koi nagdi lekar ghoomane kii samasya he
+ Every transaction of the entire bitcoin network can be tracked without disclosing the buyer's identity
+ yah ekadam surakshit or super fast he or yah duniya main kahin bhi kargar he or isaki koi seemaa bhi nahin he
+ There are hundreds of thousands of website companies that accept Bitcoin
+ plane kii tikat, hotel room, electronics, car, coffee or kisi anya cheez ke liye bhi pement kar sakate hai
+ Every year the world goes from $ 1 to a million dollars
+ vaise bhi paise lene ke liye ham log bank or kai company kaa sahaara lete hai yah sabhi companiyaan hamaare bheje hue paise ko hamaare logon tak pahuchane ke liye atirikt raashi leti he or hamen un par bharosa karnaa padataa he
+ Western Union, Money Gram and other companies like them need help, but to get this facility, no approval is required
+ aaj bhi kai logon ke paas banking suvidha nahin he, lekin un logon kii sankhya adhik he jinke paas internet ke saath cell phone he or yah internet ke madhyam se vyapaar nahin kar sakate
+ But now it can do this because of bitcoin because bitcoin is not owned by any particular government or company
+ bitcoin karency par koi bhi centrulij controling athurity nahin he
+ Today bitcoin is quite famous
+ ise shakti un hajaaron logon se milti he jinke paas vishesh computer he jo network ko shakti sampann banaate hai net par vinimay ko surakshit karte hai or lenden kii jaanch karte hai
+ This is called mining
+ aam bhashaa main mining kaa matlab ye hota he ki khudaai ke dwaara khanijo ko nikaalnaa jaise kii sona koyala aadi kii mining chuki bitcoin kaa koi bhotik rup to he nahin to isaki mining paramparaagat tareeke se to nahin ho sakati isaki mining matlav kii bitcoin kaa nirmaan karnaa hota he jo kii computer par hi sambhav he arthath bitcoin ko kaise banaaen nai bitcoin banane ke tareeke ko bitcoin mining kaha jaataa he Bitcoin mining means a process in which transaction transaction is processed using computing power, the network is kept secure as well as the network is synchronized
+ It is a bit like a computer center but it is a de-centralized system
+ So that the Minors controlled around the world are the Minor Bo who do the work of mining i
+e
+ Tcoin create alone can not control a human mining | Bitcoin Bitcoin mining's success is the bitcoin that gets rewarded on processing transactions
+ bitcoin mineras ko mining ke liye ek ispecial hardware yaa kahen to ek shaktishaalee computer jisaki paprocessing teevr ho kii aavashyaktaa hoti he iske alaava bitcoin mining software kii aavashyaktaa hoti he mineras agar tranjaction ko complit kar lete hai to unhen tranjaction fees milti he yah tranjaction fees bitcoin ke rup main hi hoti he ek nai tranjaction ko conform hone ke liye unhen block main shaamil karnaa padataa he uske saath ek ganitiya pranali hoti he usase hal karnaa hota he ki jo kii bahut kathin hota he jisaki pushti karaani hota he pruf karne ke liye aapako lakhon calculation prati second kerani padegi uske baad hi tranjaction conform hoga
+ As miners join our network, the way to find empty blocks for mining them will become even more difficult
+ mining kaa kaam vahi log karte hai jo jinke paas ke paas vishesh gananaa vaale computer or gananaa karne kii uchit kshamta ho aisa nahin hone par mineras keval electricity hi kharch karegaa or apana samay barbaad karegaa
+ The main objective of mining bitcoins is to secure the bitcoin node and keep the network away from tampering
+ Currently it has become a more valuable currency than all physical currencies
+ bitcoin ke len dein ke liye bitcoin adress kaa prayog kiya jaataa he
+ One can transact bitcoins by creating their account in the blockchain
+ bitcoin kii sabase choti sankhya ko satoshi kaha jaataa he
+ There are 100 million Satoshi in one bitcoin
+ yani 0
+ xxrep 7 0 1 BTC ko ek satoshi kaha jaataa he
+ a press release was issued by the Reserve Bank of India on 24 December 2013 regarding virtual currencies like bitcoin
+ isamen kaha gaya tha kii in mudraon ke len-dein ko koi adhikarik anumati nahin di gayi he or iskaa len-dein karne main kain str par jokhim he
+ On 1 February 2017 and 5 December 2017, the Reserve Bank again issued a caution about this
+ kai arthshaastriyon dwaara bitcoin ko ponzi skim ghoshit kiya gaya he
+ Bitcoin has also been criticized for its electricity used in mining
+ ek bitcoin ke sanchaalan saude main anumaanit 300 kwh bijli lagati he jo 36000 kettleyon main pani garm karne main lagani vaali urja ke baraabar he
+ Kathyarup is a reputed Hindi literary magazine published for the last 25 years from D-224, Tularam Bagh, Allahabad-211 006
+ yah patrika pragatisheel vichaaron ko sthapit karne kii disha main karyrat he
+ Its editor is Anil Srivastava
+ chirsmmat bhautikee · aadhunik bhautikivyaavhaarik bhautikee · computesnal bhautikeeparmanvi bhautikee · nabhikeey bhautikeekan bhautikee · praayogic bhautikeesaidhantik bhautikeesghan padaarth bhautikeeyantriki · chirsmmat yantrikipramatra yantriki satatya yantriki · virupan or pravaahathos avasthaa yantriki · taral yantrikiplasma · ushmagatikisamanya aapekshikta · vishisht aapekshikatastring siddhant · M-siddhanth · Tachyonic field Acid-base Reaction Theory · Alchemical Analytical Chemistry · Astro Chemistry Mosaic stock Not Shastrprisht Science · theoretical chemistry tarabhautikee · brahmandavidyagelactic khagol vigyaan · grahon bhuvigyangrah vigyaan · taarakeey khagol vigyaan Atmospheric Sciences · Ecology · Environmental Sciences · Geodesy · Geology · Geomorphology · Geophysics · Glaciology · Hydrology · Limnology · Mineralogy · Oceanography · Paleoclimatology · Palynology · sharirarachana-vigyaan · khagoljeev vigyaan · jaevrasinikijiv-bhugol · jaivik abhiyantriki · jaivbhautikeevyavhaarik tantrika vigyaan · jaevpraudyogikivanaspati vigyaan · koshika vigyaan · jaev sangrakshan · himjaivikivikasaatmak jeevigyaanparisthitiki · Ethology · maanavjaati jaivikicavolutionry biology anuvanshiki jaraavidya · pratiraksha vigyaan · limnologysamuxri jeevigyaan · sookshmjaivikianvik jeev vigyaan · neurosciencejivasmavijfana · paraseete vigyaan · sharir kriya vigyanfeshadiobiology · Soil biologysystematics · saiddhanthik jeev vigyaan Anthropology · Archeology - Ethnography - Demography - Economics - Education - Human Geography - History - International Relations - Legal - Linguistics - Political Science - Human Sciences - Sociology abhiyantrikikrushi · vaimaanik · jaevchikitsaraceinic · janpath · sanganak vaidyut · agni suraksha · anuvanshik audyogic · yantric · sainykhanan · nabhikeey · sankriya vigyaan yantramanviki · tantransh Health Sciences / Biotechnology · Dentistry vyaavhaarik bhautikee · kritrim budhimattajaivanatikta · jaev soochna vigyaan · jaevchikitsa ejiniyari · jaivsankhyikisangyanatmak vigyaan · sanganakeey bhashavigyansaanskrithik adhyayan · ciberneticparyavarniya vigyaan · paryaavarniya saamaajik vigyaanparyavarniya adhyayan · sanjateey adhyayanvikasiya manovigyaan · vaaniki · swasthyapustkaalay vigyaan · tarkshastraganitiya jeevigyaan · ganitiya bhautikeevaigyanik pratirupan · tantric abhiyantrikitantrika vigyaan · vigyaan or praudyogiki adhyayanvigyaan adhyayan · lakshan-vigyaan · samajivikinikaay siddhant · Transdisciplinarity History of scientific legal science philosophy philosophy ethics science pseudoscience ruparekha · praveshdwar · shrenee Crystallography or gemology is an experimental science in which the configuration of atoms in solids is studied
+ pehle crystaliki se taatpary us vigyaan se tha jisamen crystalon kaa adhyayan kiya jaataa he
+ Crystals were studied only by looking at their geometry before X-ray deflexion was studied
+ kintu aajkal vividh-prakaar ke kiran-punjon ke difrackson se kiya jaataa he
+ Gemology, or crystal science, is the study of the shape, properties and structure of crystals or crystals
+ 'crystal' greek bhashaa ke shabd crustalos se vyutpann he
+ Crustalos originally means "snow", but the term later came to be used for rock crystals, a colorless translucent variety of quartz
+ iske vishay main pracheen kaal main logon kii dharna thi ki yah atyadhik thand ke kaaran pani ke jamane se banataa he
+ Shanai: Shanai: The word "crystal" came to be used for any mineral, which by nature is surrounded by simple faces
+ yah shabd anguthi main jade janevaale ratnon tathaa anya aabhushanon ke liye prayukt nahin kiya ja saktaa, kyonki unamem jo suvyavasthit samtal falak dikhaai dete hai ve prakritik reeti se nahin bane hai, varan kritrim hai
+ These panels are made after cutting and polishing
+ sachche crystal ke falak prakritik crystalan ke falswaroop banate hai, crystalan kriya chaahe bhupatal main hui ho yaa prayogshaala main
+ In the second stage, matter and atmosphere are prepared by humans for the Kistalan, but the actual creation of the crystal and its specific facets develop without human intervention
+ ye falak ek vishesh aantarik parmaanu sanrachana ke falswaroop nirmit hote hai
+ The physical properties of crystals depend on this structure
+ kaanch ke bane ek kritrim ratna main niyamit aantarik sanrachana nahin hoti he, at: bahya rup main crystal ke samaan hote hue bhi uski gananaa crystal main nahin kii jaati
+ Thus, the true identity of a crystal is by the regular configuration of the atoms of its molecules
+ crystal ek sam pind he, jo praaia: thos hota he or chaaron ore se chikne samtal falkon se, vishisht siddhanton ke aadhaar par, ghira rahata he
+ Its physical properties remain fixed
+ iske bahya rup or bhautik gun donon hi niyamit aantarik sanrachana ke bahari parichaayak hai
+ Most minerals, which are formed under suitable conditions, are crystals
+ kuch aise padaarth hai, jinhen ham taral crystal kehete hai
+ Although there is evidence of regular atomic configuration, they are not true solids
+ duusari ore kuch aise thos khanij hai, jinamein niyamit parmanviya sanrachana nahin milti
+ These are called Ravahin
+ kuch crystal bahut hi chote hote hai
+ The development of their faces is not clear even with the help of microscope
+ inhen gudh crystali kehete hai
+ The term crystalline can generally be used for any substance in which atoms are arranged in a regular way, but the term crystal is used for those crystalline materials that are surrounded by flat faces
+ crystal kaa aakaar crystalan-samay par nirbhar karata he
+ The more slowly the crystallization, the larger the crystals become
+ jab cristajan jaldi hota he, tab anuon ko vikaas centre kii ore adhik sankhya main jane kaa avasar nahin miltaa
+ Due to this, large crystals are not formed
+ saath hi shyanta badhane ke kaaran anuon kii gatividhi bhi dhimi pad jaati he
+ Crystallization can occur in all three states of solution, melting and evaporation
+ ek vilyan main crystal kii rachana "vilaayak" ke vashpikaran se, vilaayak kaa taap gir jane se, athwa dabaav kam ho jane se hoti he
+ Thus salt crystals can be formed by aqueous solution of sodium chloride, by any of the three methods
+ isi prakaar usee sanghatan ke pighale dravya se crystal kii rachana ho sakati he
+ The formation of ice crystals from water and the composition of igneous rocks from molten magma are simple examples
+ pichley udhaaharan main jyon-jyon taral megma thanda hota jaataa he, usamen vidyaman khanij anuon ke samudaay banaate hai or antat: pindit shail ke khanij avyavon kaa nirmaan karte hai
+ The composition of crystals from vapor is relatively rare
+ iske udhaaharan hai, vayumandal ke jalawaashp se bane him crystal or jwalamukhi se sambandhit garam pani ke jharanon se nikle gandhakmay vaashp se bane gandhak crystal
+ In the study of mineralogy, crystalski is important
+ bhupatal main paae janevaale khanij praaia: samang crystalia thos hote hai
+ Most of these well-developed crystal shapes, which are associated with internal molecular structure, are found
+ inamen hira, laal, neelam, pann, pukhraj, amithist aadi ratna khanij vishesh rup se ullekhneey hai
+ These crystalline minerals, which do not appear to have crystal figures, are grinded to extract thin fragments and tested by polarization microscope
+ is pareekshan dwaara un khanijon main vidyaman crystalia samamiti ke kuch tattvon kaa gyaan ho jaataa he, jiske aadhaar par un khanijon kii aantarik aanvik avyavashtha, jisapar khanij ke crystal kii akruti nirbhar karti he, khanij ke bhautik or prakaashiya gunon kaa aadhaar bhi he
+ This science is equally useful in the study of solid organic and inorganic compounds
+ inamen se bahut se yogicon main crystalki akritiyaan banati hai, jo unke pahchaanane main sahaayta detii he
+ Crystalline materials that do not show easily recognizable crystal shapes, or that are too small to be studied by crystallometry, are analyzed by X-ray
+ is prakaar kuch vidhiyon se praapt photograph ke pratirupon kii, aatanrik crystalia samamiti ke aadhaar par, vyakhya kii jaati he, jisase unhen pahchaanane main laabh uthaaya jaataa he
+ a crystal is a regular community composed of the repetition of a unit of a particular gain model
+ at: is ikai kii samamiti sambandhit padaarth ke crystal kii bahari samamiti kii dyotak he
+ The study of crystallon is indispensable for metallurgy
+ kuch dhaatuen, jaise sona, chaandi or tanba, jo bhupatal main shuddh tatwon ke rup main praapt hoti hai, crystalia swaroop dikhalaati hai, lekin un kuch dhaatuon kii, jo khanijon se nikaali jaati hai, bahya akritiyaan crystalan vidhi ko nahin batalaati
+ Structure Christianity methods are used to study the internal structure and symmetry of these metals
+ in vidhiyon kaa upyog aajkal mrittika khanijon ke adhyayan main bhi kiya ja rahaa he, jinaki upasthiti yaa anupasthiti se mitti ke ve gun gyaat hote hai jinase nishchit hota he ki vah mitti porseline or chini mitti ke baratan banane ke liye upyogi he yaa nahin
+ These minerals range in size from very small particles to colloidal measurements and have been divided into three classes
+ eks-re vishleshan se gyaat hua he ki ye khanij crystalia hai
+ External shapes of many of these crystals have been observed by electron microscope, which has a million times magnification
+ sanrachana crystalki kii bahut si vidhiyaan tathakthith drav crystalon, jaise cholesteroil isitate, ammonium oliet aadi, ke adhyayan main safalataa se upyog kii gai hai
+ These crystals were considered to be definitely fluid in ancient times
+ par ye madhyarupiy avasthaa main thos hi he
+ The fluid nature seen in them, or the lack of firmness, is due to the weakness of the forces of the crystal, which are not powerful enough to maintain a certain geometric shape
+ crystalki ko sabase pehali mahatvapurn dein denmarkwasi chikitsak nicholas stanon kii he
+ In 1669, you told that some angles of a crystal are always equal, no matter how different the shape and size of the faces
+ kuch varsh baad higenz ne kailcite kii dwiapavartan kriya ko samajhane ke liye yah maan liya ki vah chote-chote dirghavrittajeey kanon ke niyamit rup main suvyavasthit hone se bana he or is aadhaar par aapane crystal kii akruti, vidalan, uski kathorta main vibhinnata or dishaao ke saath saath dwiapavartan kii vyakhya kii
+ There was no special progress in the field of crystalski in the 18th century
+ keval vilaayakon ke, jinamein viley padaarth the, vashpikaran se crystal taiyaar kiye gaye
+ These were called 'artificial crystals'
+ rome di l oil ne anek prakritik or kritrim crystalon kaa sansparsh crystal konemapi naamak yantra kii sahaayta se adhyayan kiya
+ This instrument was made by his assistant Karangyo in 1780 to measure angles
+ is aadhaar par aapane chah "praathmik akritiyaan" sthapit kin : ghan, sam ashtafalak, samachatushfalak, samaantar shatfalak, samchutarbhuj aadhaar par asht falak tathaa duhara chah falkon vaala piramid
+ For other shapes, it is envisaged that they are formed by substitution by the sides and cubic angles of each of the above figures
+ rome di l oil kii pehali kriti 1772 i main prakashit hui
+ His second detailed edition was printed in 1783 AD
+ aapke kaary ke falswaroop antarafalak kone kii sthirataa kaa niyam, jisaki neenv 100 varsh purv stanon dwaara rakhi ja chuki thi, purna rup se sthapit ho gaya
+ Although crystallologists were already hypothesizing about the possible internal structure of the crystal, a systematic description of this was first made by Abi Oui in 1784 AD
+ crystal kii akruti se sambhddha vidalan kii satahon kaa nirikshan karte samay aapane yah vichaar sthapit kiya ki ek crystal sab se choti sambhav anu ekak kii punrariti se bana he
+ The shape of this basic unit was assumed to correspond to the symmetry of that crystal
+ isi ekak ke aadhaar par bhinn bhinn swabhaav ke crystalon kii rachana ho sakati thi, yadi chayan kii pragati ke saath saath kuch panktiyaan niyamit rup se chhod di jaatin
+ Thus a heterogeneous dodecahedron can be formed from the unit of the cube if the "cube" at the edges is omitted when selecting the cube sample
+ yahi ikai ek ashtafalak bana sakati he, yadi konon par se ghanakon kaa chayan chhod diya jaay
+ On the basis of the relation of the complete crystal and its fundamental unit, Oui established the rule of "rational exponents", which is the most important law of crystals
+ aui kii is khoj kii mahatta kaa anumaan isi se lagaaya ja saktaa he ki unhen crystalki kaa janmdata kaha jaataa he
+ In 1830, based on Oui's rule of "rational exponents", Hazel discovered that 32 types of symmetries are possible in solid bodies with flat faces
+ aapkaa kaary dirghakaal tak anjaane main hi padaa rahaa
+ Independently, Gadolin Fon Lang also came to the same conclusion that Hazel had reached, and he fully established this fact in 1870 AD
+ aui kii khoj ke pashchaat crystal kii aantarik sanrachana ke kaary main pragati hoti rahi or yah maan liya gaya ki brihat crystal kii sanrachana crystal kii aanvik ikai yaa bahuanvik ikaayiyon ke crystal dwaara ghire sthaan kii punrariti ke falswaroop hoti he
+ The names of Seabar, Dena, Brewster, Delafoss etc
+ are notable in this region
+ par crystal kii ikaayiyon kii rachana or akruti ke sambandh main koi vishesh pragati nahin hui
+ Over the years many mathematicians and crystallologists have been searching for the different configurations by which crystals from different communities are made up of their unit cells
+ is disha main pehali kriti frankenhim kii thi
+ They believed that 15 different configurations are possible
+ ye vinyas trivimzalak prakruti ke the
+ Braves provided strong evidence for Frankenheim's stereoscopes and also showed that two of those 15 configurations are exactly the same
+ usne in 14 trivimzalkon ko, jo crystal sanrachana kii neenv hai, saat samudaayon main vibhakt kar diya 
+ Brevais also suggested that the geometric arrangement of atoms around the gravitational center of each molecule is the same
+ duusare shabdon main, breves ke trivimzalak main prayek bindu kaa paryaavaran prayek duusare bindu ke paryaavaran ke samaan he or yah samaan rup se hi abhivinyast he
+ The above point represents the center of gravity of the molecules
+ yahi siddhant viner ne bhi swatantra rup se sthapit kiya
+ Under the regularity of the arrangement of identical atoms, each such atom comes around which other atoms are arranged in the same manner
+ usee varsh jordan ne crystalon kaa sandarbh na dekar, keval ganit ke aadhaar par yah pataa lagaaya ki tathakthith sarvatha sambhaagon kii niyamit aavriti kitne prakaar se sambhav he
+ By following Weiner's theory and applying Jordan's method to crystals, Sohnke discovered that 65 points can be arranged in specific ways in the recess, while requiring only the same environment and not the same orientation, as in Bravis' stereoscope
+ 
+ in 65 bindusamudaayon se aisi sanrachanaatmak vyavastha praapt hui jisase keval vibhinn samudaayon ke purnafalkeey varg kii hi nahin, jaisaa ki brevais trivimzalak main bhi thi, varan usase bhi neeche ke bahut se virgon kii samamiti praapt hui
+ By incorporating reflection and inversion functions in the stereoscopic, Fedoroff, Schoenfleis, and Barlow studied 195 structural atomology systems independently and in various ways
+ is prakaar sab bindu samudaay yaa varg 230 ho gaye
+ Now it became possible to understand the symmetry of the lower series
+ is prakaar sthapit 32 samamiti varg crystal samamiti ke 32 virgon se, jo ki akritik crystalki main maane jate hai, mail khate hai
+ Although the geometrical theory of crystal structure was successfully established at the end of the last century, crystal specialists were unaware of the size, measurement, and nature of the fundamental unit of the crystal
+ ikaayiyon ko ab tak aui kaa ghan samaantarfalak, yaa fedoroff kaa samaatanr falak, samajha jaataa tha
+ In the idea of pope and hair these multifaceted units are derived from condensed sets of elastic, but incompressible and deformable spheres
+ rantagen, dwaara eks kiran kii khoj tathaa phon lave dwaara crystal kii aatanrik sanrachana jaanane ke liye uskaa upyog hone ke baad hi, in ikaayiyon ko parmaanu samucchy ke rup main prabhaav kshetra mana gaya
+ Some scientists thought of using the ordered atoms of the crystal as a proper grating for diffraction of the x ray beam
+ is sambandh main pehle prayog unke saathiyon, freedrick or nipping, dwaara kiye gaye
+ White x rays were sent in a crystal and were taken on a photographic plate
+ is plate ko dhone par ek kendriya kaale hisse ke chaaron ore bahut se kaale dhabbe prakat hue, jo ek niyamit pattern main the
+ The study of this type of photograph made it possible to know the structure of relatively simple crystals
+ lave kii khoj ke baad sudhaare hue takneekon se duusare kaaryakartaaon ne shodh kii gati badha di
+ W
+ H
+ Bragg and W
+ L
+ Bragg rotated the cut plates in known directions of the crystals on an X-ray spectrometer, which arranged for using monochromatic radiation
+ dibai or sherer ne crystal ke churna ko dabaakar ek chote dand main thuns or dandakriti dekar, use ek belanaakaar sookshmagrahi film kii nalee ke aksh main rakhaa or is dand par ekvarniya eks kirane daaleen
+ Some curve lines were obtained when developing the film thus affected
+ yahi acks kiran vyatikaran akritiyaan thim
+ Schibold devised a method in which the entire crystal is rotated in a main mantle and monochromatic radiation is applied to it
+ isamen vivartan jaanane ke liye yaa to ek sapaat yaa ek belanaakaar photographic plate kaam main laai ja sakati he
+ By this method the dimensions of the unit cell of the crystal can be precisely measured
+ is ghurnan vidhi main wisenvarg ne or sudhaar kiya
+ The crystal is oscillated within a small angle range and the cylindrical camera rotates along the crystal in such a way that it stays with it at the time of exposure
+ eks kiran vishleshan dwaara gyaat kii gai ikai koshika kii vimayein praaia: sabhi khanijon main crystal konemapi dwaara jane hue akshanupaat se mail khaati hai
+ By x-ray analysis, we can fully know the structure of the crystal
+ pehle crystal ko uchit trivim varg main rakhaa jaataa he, tatpashchaat uski ikai koshika kii anrtvastu kii jaankaree kii jaati he
+ The crystal is surrounded by surfaces from all four sides
+ in satahon ko falak kehete hai
+ Plaque is generally flat and smooth
+ falak ek hi praroop yaa bhinn bhinn praroop ke ho sakate hai
+ If all the panels are of the same type and are developed equally, then their geometric shapes are the same
+ lekin inhen ek kism ke falkon kii akruti bhinn ho jaati he, yadi ve duusari kism ke falkon ke sangyojan main praapt hote hai
+ All panels of the same type are members of a crystal form
+ yah rup un falkon kaa jod he jinaki upasthiti us sthiti main crystal samamiti ke liye aavashyak hoti he jab ki unamem se koi ek upasthit ho
+ The number of these faces depends on the crystal symmetry
+ do sanlagn ko milaanevaali rekha ko crystal kaa kor kehete hai
+ The corner where three or more faces meet is called Conia, which many authors call a cube angle
+ bahufalak ke samaan crystal main bhi falak sankhya or konia kii sankhya kaa jod kor kii sankhya or do ke jod ke baraabar ho jaataa he
+ The angle between the interface elements drawn on two faces in a crystal is called the angle of the interface
+ yah baat dhyaan main rakhane kii he ki yah kone falkon ke bich ke vaastavik kone kaa poorak he
+ This particular type of interface angle corresponds to the method of measuring angles
+ yah ek ore ganitiya pariklan or duusari ore crystal ke falkon ke trivim nirupan or tadnantar goleey trikonmiti dwaara pariklan ke bhi anukool he
+ To measure the interface angle of relatively large crystals, a contact crystal angiometer, made by Karangyo in 1870 AD, is used
+ crystal main bahut se falak is prakaar vyavasthit ho sakate hai ki unki sataha, jahaan par ki sanlagn jode milte hai, samaantar hon
+ The community of such faces is called Mandal
+ vah kaalpanik rekha, jo crystal ke centre se hokar guzarati he tathaa jo koron ke samaantar hoti he, mandal aksh kehalaati he or vah samtal, jisamen mandal ke sabhi falkon ke abhilamb padate hai, mandaltal kehalaata he
+ Plaques can be of one or several forms
+ crystal ko kaagaj par pradarshit karne ke bahut se tareeke hai
+ a straightforward and simple method is to draw a similar map of the crystal cores, as they appear from a point at a finite distance just above them
+ do samaan drishy bhi pradarshit kiye ja sakate hai, pehla jaisaa ki saamne se dikhaai de or doosraa jaisaa ki dayee ore se dikhaai de
+ These three views represent the foundation configuration of engineering, front hoisting and side hoisting respectively
+ nirupan kii yah vidhi lambkoniya prakshep kehalaati he
+ In gradient interpolation, the crystal is projected over a vertical plane
+ isamen crystal ek aise bindu se dekha jaataa he, jo sabase upar ke falak, yaa konia, kii sataha se anant duuri par 9degree 28" tathaa dai ore 18degree 26" par hota he
+ The faces of the crystals are arranged according to the symmetry determined schemes
+ kuch aadhaar chinhon, kaa jinhen samamiti ke mul avyav kehete hai, adhyayan kiya jaataa he
+ These components are as follows: yadi crystal main ek samamiti samtal upasthit he, to vah crystal ko do samroop tathaa baraabar bhaagon main is prakaar vibhajit karata he ki ek hissaa duusare kaa pratibimb hota he
+ If the crystal has a symmetric axis, by rotating the crystal on that axis, the whole specified form of the crystal appears more than once, two, three, four times in a whole circle
+ is drushti se samamiti aksh ko dvikoniya, trikoniya, chatushkoniya, yaa shatkoniya samamiti aksh kehete hai
+ The crystals have to rotate 180 °, 120 °, 90 ° and 60 ° respectively for the above symmetry axes
+ shatkoniya samamiti aksh se adhik kii aksheeya samamiti crystalon main sambhav nahin he
+ And neither axonal axial symmetry is possible
+ yadi crystal main samamiti centre upasthit he, to crystal ke ek bhaag main vidyaman ek konia, ek kor yaa ek falak kii sangat konia, kor yaa falak crystal ke vipareet bhaag main bhi vidyaman hota he
+ In order to know the symmetry components and their properties in a crystal, the crystal is imagined free from irregularities resulting from uneven growth of homogeneous faces, as is usually the case in nature
+ keval jyamitiya samamiti kii dasha main samamiti centre yaa ek samtal ke vipareet pashrv main vidyaman konia, kor yaa falak, samaan duuri par sthit hone chahie
+ In this, the opposite faces are also of the same shape and form
+ crystal sanrachanaatmak samamiti main antarafalak kone kii samamiti hi nishchayatmak avyav he, falkon kaa vistaar or akruti prakritik virupan ke kaaran mahatv nahin rakhte hai
+ The reason for the deformation in the crystal is the purity of the solvents or the adversity in the growth speed, heat, or compression of the crystal
+ yahi tathy crystal ke vishesh rup ko nishchit karte hai
+ The particular form of the crystal is the result of the sum of the symptoms present and the relative expansion of the faces of each form
+ crystal main vidyaman pradhan falak samashtiyon, athwa crystal main ek yaa do dishaao main adhik vikaas ke kaaran bananevaale prijmiya or sapaat roopon ke liye prayukt shabdon, ke saath ""vishesh rup"" shabd kaa prayog kiya jaataa he
+ Ancient workers made the rule of symmetry by thoroughly studying the characteristics of symmetry of the crystal
+ yah sutara yaa niyam is prakaar he : ek crystal ke falak samamiti ke nishchit avyav ke anusaar sthit hote hai
+ The position of the faces remains fixed for that crystal and on this depends its external appearance and physical properties
+ pehle kaaryakartaaon ne bhi yah gyaat kiya tha ki ek padaarth ke crystal chaahe kitna hi vibhinn rup dikhalaayen, par unke sangat antarfalak kone kii sthirataa kaa mul sutara he
+ Crystalline axes are imaginary lines that pass through the center of the crystal
+ crystal ke falkon kii sthiti batalaane ke liye in kalpit rekhaon kaa upyog sandarbh akshon ke rup main kiya jaataa he
+ Generally these axes are main symmetry axes, or parallel to some cores
+ crystal ke swabhaav ke aadhaar par teen samamiti samatalon par abhilamb hote hai yaa crystal kii kuch yaa chaar aise aksh maan liye ja sakate hai
+ It is not necessary that the axes are equal to each other, or bend equally to each other
+ in akshon kii aapekshik lambaaiyon ko hi 'aksheeya anupaat' kehete hai
+ They are mostly written by x, y, z
+ inamen se y ko hi ikai maanane kii pratha he
+ The relative distances at which the crystalline axes of the crystal pane intersect are called the intersecting proportions
+ vah falak, jo akshon ko is prakaar katata he ki un duriyon kaa anupaat kramik akshon kii ikaayiyon ke anupaat ke samaan hota he, ekak falak, yaa paramitary samtal kehalaata he
+ In order to determine the unit pane, only the most commonly found pane is chosen
+ kisi bhi falak kaa aakaar, yaa pravanta unke ikai antarkhandon dwaara batalaai ja sakati he
+ If a panel intersects a, b, c on the three axes x, y, z, then their relation can be represented by ax, by, cz according to Vice's method
+ vaais kii parameter vidhi ke sthaan par ghaataank vidhi, jise sabase pehle miller ne lokapriy banaaya, adhik prachlit he
+ If the inverse or exponent of this method is in fraction, it is used to multiply and convert them into whole numbers
+ at: yadi ek falak, x aksh ko ekak duuri se dugane sthaan par or y ko tiguni duuri par, katata he tathaa z ke samaantar he, to iskaa vaais chihn 2 x, 3 y, ¥ z hoga
+ Their derivatives will be 1 / 2, 1 / 3 1 / 4
+ 6 se guna karne par yah 3, 2, 0 ho jayega
+ Hence the millerchir of this panel will be written 3, 2, 0 and it will be read three, two, zero
+ kabhi-kabhi ise chote koshthak main rakhaa jaataa he, kyonki eks kiran crystalki main bina koshthak ke chinhr rachana-samatalon ke dyotak hote hai
+ In the middle brackets, it denotes the entire form of the {3 2 0} pane and in larger brackets it denotes a circle
+ crystalki kii sabhi vidhiyon, goniometary pathan, trivimiya prakshep tathaa ganitiya pariklan ke liye milan chihn mahatvapurn he
+ It has been known from experience that normally only those panels in a crystal have axial integuments, which are minor, or infinite, of the unit
+ isi prakaar miller ghaataank saral parimey sankhya yaa shunya hote hai
+ This is called the rational exponential rule
+ isamen aise ghaataank jaise 20
+5 yaa 1
+327 xxrep 5 
+ aadi, sambhav nahin he
+ To explain different types of crystals, different positions of crystalline axes are imagined to be convenient
+ inkaa chah crystal samudaayon main vargeekaran kiya gaya he
+ The interpretation of each community depends on the form of the axes
+ in chah samudaayon main se paanch main akshon kii sankhya teen teen hai tathaa chathe main upyog ke vichaar se teen kii apeksha chaar aksh adhik suvidhajanak gyaat hue hai
+ The diversity of communities depends on the same or uneven bending of the axes and the intersecting proportions being the same or unequal on the different axes of the unit pane
+ teenon akshon ko is prakaar abhivinyast kiya jaataa he ki tathakthith l aksh udagr rahata he, r prekshak ke samantaravaale udagr samtal main sthit rahata he or teesraa ya aksh prekshak ke sanmukh rahata he
+ The upper, right and front ends of L, r and z respectively are called money and their opposite ends are called debt
+ yadi kisi falak dwaara kisi aksh kaa rinbhaag ant:khandit hota he, tab usase sambandhit milatar ghaataank ke upar rin kaa chihr bana diya jaataa he
+ In Trinitaksha community, all the three axes, circles are of uneven lengths and are inclined at each other, making oblique angles
+ eknataksh samudaay main ya, r, l asmaan hai
+ y and l make oblique angles to each other, but r lies perpendicular to the plane in which y and l are
+ vishamalambaaksh samudaay main ya, r l asmaan hai, lekin ek duusare par samaan rup se jhuke hue hai
+ The hexagonal community consists of three equal horizontal axes Y1, Y2, Y3, which intersect each other at an angle of Rs 60 and the fourth axis l is uneven and perpendicular to the plane of the first three axes
+ chatushkoniya samudaay main do samaan kshaitij aksh ya1 or ya2 ek duusare par samakon banaate hai or udagr aksh l asmaan he
+ The three axes of the Trismalambaksha community are similar and form a right angle to each other
+ ya1, ya2 kshaitij hai or ya3 udagr he
+ Such forms are found in different crystals of the same community, which appear to be identical from the point of view of the crystalline axis, but differ on the number of their faces and the symmetry of symmetric elements
+ vastav main inamen se kuch purna yaa purnafalkeey rup hai, jinamein us samudaay kii purna samamiti ke liye aavashyak sabhi samtal vidyaman rahete hai
+ Some of these forms are partial, such as semicircular and quadrangular figures
+ ardhafalakeey akritiyon main usee samudaay kii purnafalkeey akritiyon ke aadhe falak or chaturthanshfalakeey akritiyon main ek chauthai falak vidyaman rahete hai
+ Apart from this, there is also another partial form, which is called the Ardhakriti form
+ isamen ek purnafalkeey crystal ke aadhe falak crystal ke keval ek hi ore kendrit hote hai, yaa ban jate hai, shesh aadha bhaag yaa to anupasthit rahata he, yaa vahaan par duusare rup kaa aadha bhaag nirupati rahata he
+ Associated with any community, these forms are of lower grade symmetry than the full-fledged form of that community
+ at: kisi bhi samudaay ke crystal bhinn bhinn samamiti virgon ke antargat aate hai
+ Symmetry classes are named based on the most common form of that class
+ samamiti ke sabhi sambhavya sanmilan par saidhantik rup se vichaar kar, samamiti ke 32 varg nirdhaarit kiye gaye hai
+ Generally only 11 of these are found in minerals, the other 13 are rare in minerals and artificial crystals and the other 6 are found only in artificial crystals
+ shesh do or abhi bhi anirupit hai
+ The forms are given certain general names based on the positions of the faces associated with the crystalline axes
+ pinecoid main unke rachak falak keval ek hi crystalia aksh ko katate hai tathaa donon ke samaatanr hote hai
+ The panels of the prism are parallel to the vertical axis and intersect the other two axes
+ dom ke falak udagr aksh or ek pashrv aksh ko katate hai tathaa duusare parshv aksh ke samaatanr hote hai
+ The panes of the pyramid intersect all axes
+ crystal prakruti main saamanyat: nahin dikhaai padate hai or na prayogshaala main hi unka bananaa saral he
+ Mostly they are found in aggregates, which are homogeneous, or heterogeneous, in which the sum of different crystals varies
+ samaangi samucchy main bahudhaa crystalon kaa samaantar vikaas dikhalaai padataa he, jaise fitkaree, tanba, hematite or him main
+ Sometimes the separation is partial, as in the Yamal crystals
+ bahuteron main to samaantaran bilkul hi nahin dikhaai detaa
+ In these, the crystalline units are disordered and thus form an "irregular set"
+ isi prakaar "vishmangi samucchy" main bhi lagbhag purna samaantaran ho saktaa he jhrjaisa samakritik vruddhi ment yaa aanshik samaantaran ho saktaa he, yaa samaantaran kaa purna abhaav ho saktaa he
+ Yamal crystals have two or more crystals connected together in such a way that a part is made up of the reflection of the enclosed part
+ aisa prathit hota he ki yamal crystal kaa ek bhaag apni moulik sthiti se aksh ke upar 180rou ghumaya gaya he
+ The above-mentioned reflection plane is equally related to both parts of the Yamal crystal, but this plane is not the symmetric plane of either of those two parts
+ yahi kalpit samtal yamal samtal or aksh yamal aksh kehalaata he
+ These two form right angles at each other
+ vah samtal jahaan par do sanlagn bhaag aapas main mili rahete hai sanmilan tal kehalaata he
+ In most cases, it is Yamal level
+ sansparsh yamalon main ek spasht sanmilan tal hota he, jaise orthoklez spinel or caceterite main
+ But no such level is seen in the intrusive Yamal, such as storolite, fluorite and pyrite
+ pichley udhaaharan main crystal paraspar antarvenshi hote hai
+ Recurring Yamals are formed from three or more crystals
+ isi ke antargat aate hai, bahusanshleshi yamal tathaa chakree yugma
+ In multispectral Yamal, successive concordance planes are parallel, as in albite, and cyclic pairs do not have parallel surfaces, as in rutile
+ chakree yamal ke dwaara nichi shrenee kii samamiti ke crystal kabhi kabhi apekshaakrit unchi shrenee kii samamiti ke crystalon kaa anukaran karte hai
+ The reason for the polymerization in crystals is the lack of complete separation of molecules, which is due to the lack of proper time for the molecules in the process of crystallization
+ chakree yamalon main yamalan crystalon kii ucch samamiti praapt karne kaa asafal prayaas hi prathit hota he
+ The internal molecular arrangement of a crystal depends not only on its external appearance but also on its physical properties
+ inamen se kuch gun to crystal kii pratirohak shakti se gyaat hote hai, jab use todaa, khurcha yaa jhukaaya jaataa he
+ Other properties of crystals are related to light and heat, and to magnets and electrodes
+ gailena, pirit, kailcite tathaa anya bahut se khanijon ke crystal nishchit samtal satahon par se, jo crystal ke sambhavya falak yaa falkon ke samaantar hoti hai, tuutate hai
+ This property is called Vidalan
+ isse gyaat hota he ki sasanjak bal kuch dishaao main anya dishaao kii apeksha durbal hai
+ Crystals that do not have a cleavage surface are fractured
+ yah vibhang shankhabh hota he, arthath sataha tuutane par chikani tathaa natodar hoti hai, yaa assam ho sakati he
+ Crystals are mostly brittle, meaning they can be broken into small pieces easily, or their powder can be made easily
+ crystalia akruti kii dhaatuon main se kuch, jaise sona, chaandi, tanba, aghatvadhry hai, arthath hathode se petakar inaki chadar taiyaar kii ja sakati he
+ Some are perforated, ie can be cut into thin sheets, while others are tensile, ie their strings can be pulled
+ kuch crystal, jaise chlorite, namya hote he, jabaki anya, jaise abhrak, pratyasth hote hai
+ The resistance that a crystal exhibits in the scraper is called its hardness
+ bhinn bhinn kathorta ke das prakaar ke crystalon se ek maapak taiyaar kiya gaya he, jisaki sahaayta se crystal kii kathorta kii sankhya batalaai jaati he
+ To know the hardness of the crystal on this scale, it is seen that which of the ten scraps the crystal
+ sabase komaltam crystal talk kaa tathaa sabase kathor heere kaa he
+ The scale has approximately equal intervals up to 9
+ hira, jisaki is paimaane par apekshaakrit kathorta 10 he, nirpeksh maap ke hisaab se 42
+4 he
+ Hence there is a relatively large gap between 9 and 10
+ kuch crystalon main dishaao ke saath saath kathorta badalati rahati he
+ This is due to the difference in internal molecule
+ yah badi rochak baat he ki graphite kii, jiskaa rasinic sanghatan heere ke samaan he, kathorta do se bhi kam he
+ a particular type of internal molecular arrangement of crystals is manifested in depositional shapes
+ nikshaaran akritiyaan crystal ke falkon par kisi uchit vilaayak kii kriya ke falswaroop nirmit hoti hai
+ The symmetry of these shapes corresponds to the molecular structure below
+ ye akritiyaan chote-chote gadadhon yaa avanaman ke rup main hoti hai tathaa nishchit jyamitiya akruti kii hoti hai or dhalwaan samatalon se ghiri rahati hai
+ Some properties of crystals depend on light
+ crystal kii chamak uski sataha se paravartit prakaash kii maatra or gun par hi nirbhar he
+ The brightest visible light from the opaque crystals of a metallic compound is called radiant
+ yadi yah apekshaakrit kam chamakdaar hai, to ise dhatmik kehete hai
+ According to these, for the translucent and non-metallic crystals, the terms Hirakasam and Kachabha are used respectively
+ anya saamaanya chamak reshmi, rezini, motiyaa, chikani, yaa dhyutiheen kehalaati he
+ The crystal is not always the same in different inverting samples
+ ek dhaatu crystal main, jiskaa rang gaharaa hota he, uske kas kaa adhyayan karnaa laabhakaari hota he
+ The color of the powder can be seen by rubbing the crystals on the surface of an unbleached sugar clay
+ prakaash kii sanchaar karne kii kshamta ke aadhaar par crystal paardarshak, alpapaardarshak tathaa apaardarshak hota he
+ Some crystals exhibit polymorphism, ie different colors in different conditions
+ aisa bhinn bhinn crystalia dishaao main sanchaarit prakaash ke varanatmak avasorana ke kaaran hota he
+ Light gets refracted from the air medium to an opaque crystal, that is, it changes its direction in proportion to the damping velocity
+ vaayu tathaa crystal main prakaash ke veg kii nishpatti ko hi crystal kaa apvartanaank kehete hai
+ Crystals of gemstone minerals are so much brighter and more attractive due to their higher refractive index
+ heere kii chamak uske ucch apvartanaank 2
+419, ke hi kaaran he, jabaki fluorite kii kachabh chamak uske nimna apvartanaank, 1
+434, kii dyotak he
+ The refractive index of water is 1
+33 and the refractive index of crown glass is 1
+53
+ trisamalambaaksh samudaay ke prayek crystal kaa apvartanaank sabhi dishaao main samaan hota he
+ Thus, such crystals are isosceles
+ anya samudaayon ke crystal vishamdaishik hote hai
+ When a ray of light enters an anisotropic crystal it splits into two rays and thus bi-refraction occurs
+ donon kirane bhinn bhinn veg se chalati hai tathaa apni yatra kii bhinn bhinn dishaao main bhi ye badalati rahati hai
+ Crystals of tetragonal and hexagonal communities do not undergo refraction in one direction, ie in the direction of the vertical crystalline axis
+ prakashkeey drushti se aise crystalon ko ekakshiya kaha jaataa he
+ There is no refraction in two directions in Vishalambaksha, Ekantaksha and Trinataksha crystals
+ at: aise crystalon ko prakaashat: dwi-aksheeya kehete hai
+ These two directions, called optical axes, do not match the crystal structural axes, but they lie in a plane with maximum and minimum velocity directions
+ adhiktam or nunatam vegavaali dishaao main se ek prakaashiya aksh ke laghukon ko tathaa duusari brihadkon ko ardhit karti he
+ Some crystals are inherently fluorescent
+ ye pisane par, khurachne par, yaa malane par, yaa laal taap se neeche tak garam karne par andhere main prakaash phekate hai
+ These crystals, which begin to glow in darkness upon invagination in invisible radiation, such as ultraviolet light or x rays, or cathode rays, are called fluorescent
+ yadi vikiran kaa strot hataane ke baad bhi crystal main chamak bani rahati he, to use sfurdipt crystal kehete hai
+ Some crystals, which have higher atomic weight elements, are radioactive
+ inkaa badi teji se tathaa ek samgati se vighatan hota rahata he
+ Elements, such as radium, uranium, thorium, decompose to refract into helium and lead and emit energy in the form of radiation, which can be conveniently detected by an instrument called the Geiger counter
+ vah taap jisapar bhinn bhinn crystal pighalate hai, vistrut seemaa main vichrata hai
+ Some crystals are fusible in a flame of flame and some do not melt in it
+ aapekshik galaniyata chah khanijon kii galaniyata-maapak ke aadhaar par nishchit kii ja sakati he
+ The liquids of these minerals range from 525 ° c to 1,400 ° C, while the heat of a good blow flame goes up to 1,500 ° C
+ kuch crystalon main taap parivartan karne par unke vibhinn bhaagon main ek hi saath dhan or rin vidyut utpann ho jaati he
+ Even under the influence of compression, money and debt are produced in different layers of the crystal
+ inamen se pratham ghatana ko tapavidyut tathaa duusari ghatana ko dabavidyut kehete hai
+ It is very interesting that this phenomenon is found only in crystals that fall into symmetry classes that do not have symmetry centers
+ quatrge or tourmaileen iske saamaanya udhaaharan he
+ In modern times, pressurized crystals are used in radio and acoustics
+ ve crystal, jinamein loha hota he, saamanyat: chumbakeey hote hai, kuch bina lohe vaale crystal bhi alp yaa mand chumbakeey hote hai
+ Of these, only magnetite and pirotite are attracted by a simple placenta or penal magnet
+ inke atirikt bahut se aise crystal hai, jo vidyut chumbak dwaara aakarshith kiye jate hai
+ Apart from these, there are many, which are attracted in different order by electromagnet, thus it becomes easy to separate them from each other
+ jab ek rasinic padaarth crystal kaa rup dhaaran karata he, tab parmaanu, jisase anu banate hai, tathaa anu ek nishchit praturup main vyavasthit rahete hai
+ The crystal structure is usually the identity of the compound
+ par khanijon main aise bhi bahut se udhaaharan hai jinamein ek hi padaarth do yaa adhik pruthak-pruthak parmaanu saranchanaaon, at: pruthak pruthak crystal roopon main paaya jaataa he
+ Such substances are called dimorphic, triangular, etc
+ in their number of forms
+ is prakaar carbon graphite or hira ke rup main, tathaa calcium carbonate, kailcite or erogonite ke rup main miltaa he
+ Akhil Iyer is an Indian film actor
+ inhone bollywood filmon main apane abhinay kii shuruyaat aarif ali dwaara nirdeshit film lekar ham divaana dil se kii
+ She made her acting debut in 2014 with the film Lekar Hum Deewana Dil in her Bollywood film
+ is film main inke kirdaar kaa naam mahesh he
+ Pakhtunkhwa Milli Awami Party is a major political party of Pakistan
+ mohammad khan achakazai is dal ke mukhiya hai
+ Magnetite is an iron ore
+ isamen loha oxide rup main miltaa he
+ It is ferrimagnetic
+ isamen chumbak ko aakarshith karne kii kshamta hoti he
+ Fauladshahr is a city in Isfahan province in Iran
+ is shahar kii jansankhya varsh 2006 kii janaganana ke anusaar 55,664 he
+ Bhawali Patti, this village is located in Tehsil Bilari, District Moradabad, Uttar Pradesh as per Indian census
+ rajya code : 09jila code : 135tehsil code: 00720 Bombay is a 1995 Tamil romantic drama film
+ iskaa nirdesan maniratnam ne kiya he or mukhya kirdaar aravind swami or manisha koirala ne nibhaae he
+ Music has been given by AR Rahman and Hindi lyrics have been written by Mehboob
+ yah film bharat ke disambar 1992 se janvari 1993 kii avadhi ke dauraan hui ghatnaon par kendrit he
+ Specifically the controversy over Ayodhya's Babri Masjid, then its disbanding, communal tension in Mumbai and finally the riots in Bombay
+ shekhar mishra narayan or shaila bano pyaar main hai or shaadi karnaa chaahate hai
+ The only problem is that Shekhar is Hindu and Shaila is Muslim
+ yah vivaah unke sambandhit pariwaron ke liye ek samasya he
+ As a result, the young couple flee to the city of Bombay
+ phir 6 disambar, 1992 ko ayodhya main babari masjid ko tod diya gaya - jiske parinamswaroop har jagah dharmik dange hone lage - jisamen bombai bhi shaamil tha
+ Shekhar and Shaila are now the parents of twins, Kamal Bashir and Kabir Narayan
+ dangon ke dauraan, shekhar ke pita or shaila ke mata-pita ghrinaa ko dafnane kaa faisla karte hai or apane bacchon se milane aate hai
+ While they were in the process of resolving their personal differences, the fire breaks out and the family falls apart
+ shaila ke mata-pita or shekhar ke pita tatkaal maare jate hai or kabir or camel kaa koi ata-pataa nahin hota
+ List of Hindi songs: sabhi geet mehboob dwaara likhit; sara sangeet e aar rahamaan dwaara rachit
+ The film is taken as a series with Mani Ratnam's Roza and Dil Se
+ film donon aalochanatmak or aarthik taur par safal rahi
+ The film was dubbed in Hindi and Telugu languages with the same name
+ e aar rahamaan dwaara diya gaya sangeet bahut hi saraahaa gaya or kai puraskaar unhone praapt kiye
+ Mani Ratnam's direction was also appreciated
+ zee 24 ghante chhattisgarh raipur sthit ek hindi tii ve channel he
+ This is a news channel
+ pahadpur dharhara, munger, bihar sthit ek gaanv he
+ It is a tri-series organized by the UAE Cricket Board
+ islam ke paanch stambhon main se hajj ek mahatvapurn stambh he or har aise purush env stri par anivaary he jo makka jane kii shakti rakhte hon
+ It is mentioned in the Quran that: "hajj to the house of Allah is the right of Allah to those who have the power to reach and who refuses, then Allah is absolute with the whole world
+" ”sandarbh truti: amaanya tag; amaanya naam invalid Name islamic manyata ke anusaar pigambar ibrahim or pigambar ismail ne ek allaah kii upasna hetu kaaba kii sthapana kii thi, hajj unheen kii yaad ko tazaa rakhte hue keval akeshwar vaad kaa elaan he
+ It is a demonstration of a worldwide collective prayer
+ sansar bhar ke logon kii sthiti ko pataa lagane kaa saadhan he
+ In this, people from all over the world get away from their country and national attire and come in a special costume which displays mutual brotherhood, kindness and peace
+ sandarbh truti: amaanya tag; amaanya naam invalid Name paazo de meiraas ek paazo jo ki sadaa, aa korunya praant gaalisia main sthit he
+ It was built in the 19th century
+ nirdeshaank: 43°21′27′′N 8°17′46′′W / 43
+35750°N 8
+29611°W / 43
+35750; -8
+29611 The supernatural joy found in the recitation of audible poetry or the philosophy of listening and visual poetry and listening to poetry is called rasa in poetry
+ ras se jis bhav kii anubhuti hoti he vah ras kaa sthaayee bhav hota he
+ Rasa, verses and ornamentation - are essential components of poetic composition
+ ras kaa shabdic arth he - nichod
+ The joy of poetry is the juice of poetry
+ kavy main aane vaala anand arthath ras loukik na hokar alokik hota he
+ Ras is the soul of poetry
+ sanskrit main kaha gaya he ki "rasaatmakam vaakyam kavyam" arthath rasyukt vaakya hi kavy he
+ Ras is the power of conscience, due to which the senses perform their work, the mind imagines, the memory of the dream remains
+ ras anand rup he or yahi anand vishaal kaa, viraat kaa anubhav bhi he
+ This same pleasure is the transcendence of all other experiences
+ aadmi indriyon par sanyam karata he, to vishyon se apane aap hat jaataa he
+ But we do not miss attachment to those subjects
+ ras kaa prayog saar tatva ke arth main charak, sushrut main miltaa he
+ In another sense, the element is found as an element
+ sab kuch nasht ho jaay, vyarth ho jaay par jo bhav rup tathaa vastu rup main bachaa rahe, vahi ras he
+ In the form of rasa, one who has devotion is the only emotion
+ jab ras ban jaataa he, to bhav nahin rahata
+ Only the juice remains
+ uski bhavata apana roopaantar kar leti he
+ Rasa is the origin of Apoorva
+ natya kii prastuti main sab kuch pehle se diya rahata he, gyaat rahata he, suna hua yaa dekha hua hota he
+ Despite this, you get some new experience
+ vah anubhav duusare anubhavon ko peeche chhod detaa he
+ Moves to a peak alone
+ ras kaa yah apurv rup aprameya or anirvachaneey he
+ There is a famous Sukta - Rasau Vai:
+ arthath vah paramatma hi ras rup anand he
+ 'kumarasambhava' uses the word Rasa to mean water, liquid and liquid
+ 'manusmriti' madiraa ke liye ras shabd kaa prayog karti he
+ The word rasa is used in the sense of quantity, dosage and sip
+ 'vaisheshik darshan' main choubees gunon main ek gun kaa naam ras he
+ Juices are considered to be six - bitter, acid, sweet, salt, acid and astringent
+ swaad, ruchi or ichha ke arth main bhi kalidas ras shabd kaa prayog karte hai
+ The word Rasa is used in 'kumarasambhava' to feel love
+ 'raghuvansh', anand or prasannataa ke arth main ras shabd kaam main letaa he
+ In Kavya Shastra, the poetry of a poem is called Rasa
+ raspurn vaakya ko kavy kehete hai
+ Bhartrihari uses the word rasa in the sense of essence, element and best part
+ 'ayurveda' main sharir ke sanghatak tatwon ke liye 'ras' shabd prayukt hua he
+ Saptadhatus are also called Rasa
+ paare ko raseshwar athwa rasraj kaha he
+ Parasmani is called Rasratna
+ manyata he ki parasmani ke sparsh se loha sona ban jaataa he
+ Rasaghata has been called Rasagraha
+ 'uttarramcharita' main iske liye rasajna shabd prayukt hua he
+ Bhartrihari poetry poetry is called Rasasiddha
+ 'sahityadarpan' pratyakshikaran or gunagun vivechan ke arth main ras pariksha shabd kaa prayog karata he
+ The word 'rasprabandha' is used in the meaning of drama
+ ras nau hai - Vatsalya Ras is considered to be the tenth and Bhakti is also considered to be the eleventh juice
+ vatsal tathaa bhakthi inke sthaayee bhav hai
+ Bhakti Rasa is considered to be the 11th Rasa
+ This rasa has been established in the scripture "bhakti Rasa- Pahla Rasa or Eleventh Rasa" written by Vivek Sahni
+ 
+ In the Natyasastra, Bharata Muni, while explaining Rasa, has said - arthath vibhaav, anubhav, vyabhichaari bhav ke sanyog se ras kii nishpatti hoti he
+ It is said in the well-known literature mirror that when the permanent sense of the heart attains a combination of affect, feeling and communicable feeling, it disappears in the form of rasa
+ reetikaal ke pramukh kavi dev ne ras kii paribhaasha in shabdon main kii he : Thus there are four parts of rasa - Permanent feeling, Vibhava, Anubhav and communicative feeling
+ bhav kaa arth he:-hona In the conscience of the heart, the psyche which is always present in the form of lust or sanskar and which no opponent or antagonist can suppress, is called permanent emotion
+ ye maanav man main beej rup main, chirkaal tak achanchal hokar nivas karte hai
+ These represent the sacrament or spirit
+ ye sabhi manushyon main usee prakaar chhipe rahete hai jaise mitti main gandh avichhinn rup main samaai rahati he
+ They are so capable that they merge with other emotions
+ inaki sankhya 11 he - rati, haas, shok, utsaah, krodh, bhay, jugupsa, vismay, nirved, vatsaltaur ishwar vishyak prem
+ Vibhava means reason
+ ye sthaayee bhaavon kaa vibhaavan / udbodhan karte hai, unhen aswaad yogya banaate hai
+ These are considered fundamental in the origin of juice
+ vibhaav ke do bhed hai: The main emotion or object due to which the emotion originates is called poetic reception
+ alamban ke antargat aate hai vishay or aashray
+ The character towards which a character's feelings are awakened is the subject
+ sahitya shaastra main is vishay ko alamban vibhaav athwa 'alamban' kehete hai
+ The character in which the emotions are awakened is called the shelter
+ sthaayee bhav ko jaagrath rakhane main sahaayak kaaran uddipan vibhaav kehalaate hai
+ As an example, the enemy standing standing in front of the zeal of Veer Ras is enthusiasm
+ shatru ke saath sena, yuddh ke baaje or shatru kii darpoktiyaan, garjana-tarjana, shastr sanchaalan aadi uddipan vibhaav hai
+ There are two types of stimulus effects: arthath alamban kii uktiyaan or cheshthaayen That is, objects related to the environment
+ prakritik drishyon kii gananaa bhi inhen ke anrtgat hoti hai
+ The gestures of shelter that illuminate or convey permanent expressions like Rati, Haas, Mourning etc
+ are called Anubhav
+ ye cheshtaaen bhav-jagriti ke uparaant aashray main utpann hoti hai isliye inhen anubhav kehete hai, arthath jo bhaavon kaa anugaman kare vah anubhav kehalaata he
+ Anubhav has two distinctions - the intended and the unwilling
+ alamban evam uddipan ke madhyam se apane-apane kaarnon dwaara utpann, bhaavon ko baahar prakashit karne vaali saamaanya lok main jo kaary cheshtaaen hoti hai, ve hi kavy naatak aadi main nibaddh anubhav kehalaati hai
+ For example, filling the sighs by the Viraha-distraught hero, watching with tears, sweat, thrill, affection in the spirit of union, handling of arms when awakened, harsh speech, red eyes, etc
+ will be called Anubhav
+ saadhaaran anubhav : arthath ke chaar bhed hai
+ 1
+ Asiatic 2
+ Optional 3
+ Dietary 4
+ Satvik
+ aashray kii sharir sambandhi cheshtaaen angik yaa kayik anubhav he
+ Earthly deflection, sarcasm etc
+ are the rhetorical rhetorical experiences when the Rati Bhava is awake
+ aropit yaa kritrim vesh-rachana aharya anubhav he
+ But, in the wake of permanent feeling, natural, unnatural, ayatnaj, angvikar are called satvik experiences
+ iske liye aashray ko koi bahya cheshtaa nahin kerani padati
+ Hence they are called Ayatnaj
+ ye swat: pradurbhoot hote hai or inhen roka nahin ja saktaa
+ Satvik Anubhav: meaning there are eight distinctions - pillar, Sveda, thrill, Swarbhang, Vepathu, Vaivarnya, Tear and Pralaya
+ jo bhav keval thodi der ke liye sthaayee bhav ko pusht karne ke nimitt sahaayak rup main aate hai or turant lupt ho jate hai, ve sanchari bhav hai
+ The word sanchari means, to walk together, that is, to be transitive, communicable emotions are transmitted with a permanent emotion, they are capable enough that they can move in harmony with each permanent emotion
+ isliye inhen vyabhichaari bhav bhi kaha jaataa he
+ The number of communicable or adulterous expressions is considered 33 - Nirveda, guilt, doubt, Asuya, item, labor, laziness, lowliness, anxiety, fascination, memory, dhriti, vriada, chatliya, joy, impulse, inertia, pride, grief, sadness , Sleep, aphasma, dream, prabodh, amarsha, avhitha, raging, mati, disease, hysteria, death, tragedy and disarray
+ bharatmuni ne kavy ke aavashyak tatv ke rup main ras kii pratishtha karte hue shringaar, hasya, raudra, karun, vir, adbhut, bibhats tathaa bhayanak naam se uske aath bhedon kaa spasht ullekh kiya he tathaa katipay panktiyon ke aadhaar par vidwaanon kii kalpana he ki unhone shant naamak nawein ras ko bhi sweekruti di he
+ Navaras is the noun of these nine juices
+ vibhavanubhav-sancharibhav ke sanyog se in rason kii nishpatti hoti he
+ The permanence of each juice is different
+ usee kii vibhavadi sanyog se paripurna honevaali nirvighn-pratiti-grahya avasthaa ras kehalaati he
+ Sringar's permanent rite, humor humor, raudra's wrath, Karun's grief, valor's excitement, wonder of wonder, jugupsa of beauty, fear of terrible and permanent sham of calm or nirvade
+ bharat ne aath rason ke devtaa kramash: vishnu, pramath, rudra, yamraj, indra, brahma, mahakaal tathaa kaldev ko mana he
+ Narayana, the god of quiet juice, and his character Kundetu are said to be
+ pratham aath rason ke kramash: shyaam, sit, rakt, kapot, gaur, pit, nil tathaa krishna varna maane gaye hai
+ Bharata has considered the origin of humor, compassion, wonderful and terrible rasa in the first eight rasas, considering Shringar, Raudra, Veer and Vibhatsa as the principal
+ shringaar kii anukriti se hasya, raudra tathaa vir karm ke parinamswaroop karun tathaa adbhut evam vibhats darshan se bhayanak utpann hota he
+ Anukriti means Abhinavagupta's words, so the feel of any juice can be productive of humor
+ vikrut veshalankaradi bhi hasyotpadak hote hai
+ The work of Rādra is destruction, hence the doer of Karun and the performer of heroic work are often seen doing unpardonable actions, so it seems natural to originate from him
+ isi prakaar bibhatsadarshan se bhayanak kii utpatti bhi sambhav he
+ Smashanadi's philosophy alone is frightening
+ tathaapi yah utpatti siddhant atyantik nahin kaha ja saktaa, kyonki parapaksh kaa raudra yaa vir ras swapaksh ke liye bhayanak kii sristi bhi kar saktaa he or bibhatsadarshan se shant kii utpatti bhi sambhav he
+ The origin of Karun is also possible from Raudra, terrible, Shringar, wonderful and heroic and terrible
+ vastut: bharat kaa abhimath spasht nahin he
+ After him, Dhananjaya considered the four stages of the mind as growth, expansion, disturbance and deflection, adornment and humor as growth, heroic and wonderful as expansion, disturbing and terrible as distraction and raudra and Karun related to deflection
+ kintu jo vidvan keval druti, vistaar tathaa vikaas naamak teen hi avasthaaen maanate hai unka is vargeekaran se samaadhaan na hoga
+ Similarly, if we consider the fluid state of the mind in Shringar, its expansion in humor and the wonderful, its brilliance in Veer and Raudra, and its hesitation in the horrors and the terrible, then even Bharata's order is not right
+ ek sthiti ke saath duusari sthiti kii upasthiti bhi asambhav nahin he
+ Deepti and Karun have both druti and hesitation in detail with the wonderful and heroic
+ phir bhi bharatkrut sambandh sthaapan se itnaa sanket avashya miltaa he ki kathith rason main paraspar upakaarkarta vidyaman he or ve ek duusare ke mitra tathaa sahachaari hai
+ Like friendship, the opposition of these juices has also been imagined according to the situation
+ kis rasvishesh ke saath kin anya rason kaa turant varnan aswaad main baadhak hoga, yah virombhavna isi vichaar par aadhaarit he
+ Of Shringar from Karun, Bibhatsa, Raudra, Veer and Bhavya; Horrible and compassionate to comic; Karun with humor and adornment; Of humor, adornment and terrible of raudra; Shringar, Veer, Raudra, of humor and the terrible of calm; From the terrifying and serene to the heroic; Veer, adornment, raudra, humor and gruesome calm are considered opposites
+ yah virodh aashray aikya, alamban aikya athwa nairantary ke kaaran upasthit hota he
+ There is a possibility of this opposition in the management poetry itself
+ muktak main prasang kii chand ke saath hi samaapti ho jane se iskaa bhay nahin rahata he
+ The writer should avoid the presence of anti-rasam from the presence of the antagonistic juices and the alarms separately or by presenting the friendly juice of the two between the two opposing rasas or by presenting the amaranth of angras rather than the principal rasa
+ 
+ ras kii aswadaniyata kaa vichaar karte hue use brahmanand sahodar, swaprakashanand, vilakshan aadi bataaya jaataa he or is aadhaar par sabhi rason ko anandatmak mana gaya he
+ Bhattnayak has indicated the beauty of all the juices by showing mritva-paratva-inferior condition due to Sattvodrak, Abhinavagupta, Nirvigna's realization and Anandavardhan stating the state of melody and humidity in Karuna as Shringar, Vipralambha and Karuna progressively flourishing
+ kintu anukoolvedaniyata tathaa pratikulvedaniyata ke aadhaar par bhaavon kaa vivechan karke rudrabhatt ramchandra gunachandra, haripal, tathaa dhananjay ne or hindi main acharya ramchandra shukla ne rason kaa sukhaatmak tathaa du:khaatmak anubhuthavaala mana he
+ Abhinavagupta had first introduced the theory of "sukhu: Khasbhavono Ras:" in "abhinavabharati"
+ sukhaatmak rason main shringaar, vir, hasya, adbhut tathaa shant kii or du:khaatmak main karun, raudra, bibhats tathaa bhayanak kii gananaa kii gai
+ By giving the example of "pancaras", it has been proved that in the Panc juice made by mixing jaggery, Mirich etc
+, there is a peculiar kind of taste, not knowing the sour sweetness of different items, it is also said that that picture In the same way, in a proportionate way, sometimes sour, sometimes hard, and so on, the taste of other types comes
+ madhusudan saraswati kaa kathan he ki raj athwa tam kii apeksha satv ko pradhan maan lene par bhi yah to maananaa hi chahie ki anshat: unka bhi aswaad bana rahata he
+ Acharya Shukla is of the opinion that the feeling we have is of the described sense and the expressions are of a dry, sadistic nature, etc
+ Therefore, the rasa will also be of both types
+ duusari ore rason ko anandatmak maanane ke pakshpaati sahrudayon ko hi iskaa praman maanate hai or tark kaa sahaara lete hai ki du:khadaayi vastu bhi yadi apni priy he to sukhadaayi hi prathit hoti he
+ For example, at the time of the night, a woman feels pain in her body, but at that time she considers it a pleasure
+ bhoj tathaa vishwanath kii is dharna ke atirikt swayan madhusudan saraswati rason ko loukik bhaavon kii anubhuti se bhinn or vilakshan maanakar inaki anandatmakataa kaa samarthan karte he or abhinavgupt vitvighnaprathit vatakar is dharna ko spasht karte hai ki usee bhav kaa anubhav bhi yadi bina vichlit hue or kisi bahari athwa antarodbhoot antaraay ke bina kiya jaataa he to vah sahya hone ke kaaran anandatmak hi kehalaata he
+ If you consider it to be sorrowful, then consider the distinction of adornment as sad as well, then why should the distinction of adornment be considered sorrowful? By giving many such arguments, the conformity of the juices is proved
+ angreji main tragedy se milanevaale anand kaa bhi anek prakaar se samaadhaan kiya gaya he or marathi lekhakon ne bhi rason kii aanandarupata ke sambandh main paryaapt bhinn dharanaayen prastut kii hai
+ Often, the notion of considering Ras as the same in the traditional form has been prevalent, considering the different names of the juices as official or formal authority
+ bharat ne "na hi rasaadrute kashchidpyarth : pravartat" pankti main "ras" shabd kaa ek vachan main prayog kiya he or abhinavgupt ne uparilikhit dharna vyakt kii he
+ Bhoja has treated Shringar as the only juice and has always interpreted it differently, according to Vishwanath, Narayan Pandit considers the miraculous miracle to be the only juice, because miracle is the form
+ bhawabhooti ne karun ko hi ekmaatr ras maanakar usee se sabaki utpatti bataai he or bharat ke "swan swan nimittamasadya shantadbhav: pravartate, punarnimittapaye c shant evopaliyate" - vaktavy ke aadhaar par shant ko hi ekmaatr ras mana ja saktaa he
+ Similarly, on the basis of the server-friendly state of excitement and amazement, they can also be considered at the root of all other juices
+ ras aswaad or anand ke rup main ek akhand anubhuti maatr hai, yah ek paksh he or ek hi ras se anya rason kaa udbhav hua he yah doosraa paksh he
+ In the idea of rasapradhanya, the problem of rajrajata has arisen
+ bharat samast shuchi, ujwal, medhya or dalneey ko shringaar maanate hai, "agnipurana" shringaar ko hi ekmaatr ras bataakar anya sabko usee ke bhed maanata he, bhoj shringaar ko hi mul or ekmaatr ras maanate hai, parantu uplabdh likhit pramaan ke aadhaar par "rasraj" shabd kaa prayog "ujjvalaneelamani" main bhakthiras ke liye hi dikhaai detaa he
+ In Hindi, Keshavdas considers Shringar to be the origin of all Rasas and Rasavayak Dev
+ "rasraj" sangya kaa shringaar ke liye prayog matiram dwaara hi kiya gaya miltaa he
+ On the other hand, Banarasidas declares "navamo Sant Rasani Ko Nayak" in the play "samayasara"
+ rasarajata kii sweekruti vyapaktaa, utkar aswadyata, anya rason ko antarbhoot karne kii kshamta sabhi sanchaariyon tathaa saatvikon ko ant:saat karne kii shakti sarvapranisulabhtv tathaa shighragrahyata aadi par nirbhar he
+ All these things are found in as much and strong makeup, not in other juices
+ at: rasraj vahi kehalaata he
+ Raso's king Shringar Ras is considered vichaarco ne raudra tathaa karun ko chhodkar shesh rason kaa bhi varnan kiya he
+ The most detailed description of these is that of dressing
+ shringaar mukhyat: sanyog tathaa vipralambh yaa viyog ke naam se do bhaagon main vibhajit kiya jaataa he, kintu dhananjay aadi kuch vidvan vipralambh ke purvanurag bhed ko sanyog-vipralambh-virahit purvavastha maanakar ayog kii sangya dete hai tathaa shesh viprayog tathaa sambhog naam se do bhed or karte hai
+ On the basis of many circumstances of coincidence, it is considered to be invisible and it is distinguished only by the idea of asylum, heroic or amphibious, disguised with the idea of publication and light or clear and secret and secret and narrow, narrow, prosperous and prosperous with the idea of publication type and The antecedents or aspirations of Vipralambha, Maan or Ishratheetuk, Migration, Viraha and Karun Pralambha were distinguished
+ Huh
+ "kavyprakash" kaa virahahetuk nayaa he or shaapahetuk bhed pravaas ke hi antargat gruhit ho saktaa he, "sahityadarpan" main karun vipralambh kii kalpana kii gai he
+ From the point of view of antecedent reason, on the basis of virtue and brightness, brightness, eye-sighting, imagery, dream and indraja-darshana-jagya and raga are divided into blue, kusumbha and manjistha
+ "alankarikoustubh" main sheeghra nasht honevaale tathaa shobhit na honevaale raag ko "haridr" naam se chauthaa bataaya he, jise unka tikaakar "shyamaraag" bhi kahata he
+ The predicaments of the predecessor - Abhilasha, Anxiety, Reminiscence, Gunakirtana, Udveg, Lament, Vyadhi, Inertia and Death - have been considered, in whose place Vishnu Dharmadartyapurana as the opinion of himself and elsewhere, the commentary of the tentacular, the epithet, the greatness
+ And with a slight change in Saraswati Kantharan and poetry, Chakshupriti, mind, remembrance, sleeplessness, tanuta, vocation, shame, mania, Uchrchha and has been mentioned death
+ shaardatnay ne ichha tathaa uthkanthaa ko jodakar tathaa vidyanath ne samaran ke sthaan par sankalp laakar or pralaap tathaa sanjvar ko badhaakar inaki sankhya 12 maani he
+ It is not rational and can have an inbreeding effect
+ maan-vipralambh pranay tathaa ishrya ke vichaar se do prakaar kaa tathaa maan kii sthirataa tathaa aparaadh kii gambhirtha ke vichaar se laghu, madhyam tathaa guru naam se teen prakaar kaa, pravasvipralambh kaaryaj, shaapaj, sanbhramaj naam se teen prakaar kaa or kaaryaj ke yasyatpravas yaa bhavishyat gachchhatpravas yaa vartmaan tathaa gatpravas yaa bhavishyat gachchhatpravas yaa vartmaan tathaa gatpravas yaa bhootpravas, shaapaj ke tadrupya tathaa vairupy, tathaa sambhramaj ke utpaat, vaat, divya, maanush tathaa parachakradi bhed ke kaaran kai prakaar kaa hota he
+ Due to the closeness of Virah Gurujnadi, even after being close, the disconnection of the heroine and the hero coinciding and Karun Vipralambha is the hope of union by resurrection even after death
+ shringaar ras ke antargat nayikalankar, ritu tathaa prakruti kaa bhi varnan kiya jaataa he
+ An example is- isi prakaar sanyog tathaa vipralambh yaa viyog ke naam se do bhaagon main vibhajit shringaar ras kaa udhaaharan- Distinguishing the self, lust, dislocated, subjugated, hijacked and overbearing from the potentiality of humor and the development of humor and development of humor, making three distinctions from their superior, medium and unholy nature, the two aforesaid distinctions were placed respectively
+ has gone
+ hindi main keshavadas tathaa ekaadh anya lekhak ne keval mandahas, kalhas, atihaas tathaa parihaas naamak chaar hi bhed kiye hai
+ Many other names of humor based on English have also become popular
+ udhaaharan - New example- shant kaa koi bhed nahin he
+ Only Rudrabhatta has definitely given four distinctions under the names Vairagya, Doshanigraha, Santhosh and Tattvakshakshpatakara which are mere names and their number can be increased
+ udhaaharan - In the eight dramas propounded in Bharatamuni's 'natyashastra', the difference between adornment and humor and Karun Rasa was calculated before Rudra
+ ‘raudratu karuno ras:’ kahkar 'karun ras' kii utpatti 'raudra ras' se maani gai he or uski utpatti shaapjanya klesh vinipat, ishtjan-viprayog, vibhav naash, vadh, bandhan, vidrav arthath palaayan, apaghaat, vyasan arthath aapatti aadi vibhaavon ke sanyog se sweekaar kii he
+ Also nirved, guilt, worry, adulation, impulse, fascination, labor, fear, sadness, pity, sickness, inertia, hysteria, epiphany, tragedy, laziness, death, stanza, vapathu, vevarnya, teardrop, swearing etc
+ Calculated as an expression
+ udhaaharan - In poetic juices, there is an important place for raudra rasa
+ bharat ne ‘naatyashaastra’ main shringaar, raudra, vir tathaa vibhats, in chaar rason ko hi pradhan mana he, at: inhen se anya rason kii utpatti bataayi he, yatha-‘teshamutpattihetavakshatvaaro rasa: shringaaro rodro vero vibhats iti’
+ Describing the origin of Karun Rasa from Raudra, Bharata says that 'raudrasyaiv ch yatkam sa shey: Karuno rasa:'
+ raudra ras kaa karm hi karun ras kaa janak hota he
+ The 'permanent emotion' of the raudra rasa is 'anger' and its character is blood and the deity Rudra
+ keshavadas kii ‘ramachandrika’ se raudra ras kaa udhaaharan pehle hi ankit kiya ja chukaa he
+ Examples of raudra rasa are also found in Bhushan's compositions
+ vartmaan kaal main shyaamanarayan pandeya tathaa ‘dinakar’ kii rachanaaon main raudra ras kii prabhavakaari vyanjana hui he
+ In the Sanskrit texts, 'mahabharata' and 'veeracharit', 'venichabhika' etc
+ plays have had a powerful expression of the raudra rasa
+ udhaaharan - Along with Shringar, Raudra and Vibhats, Veeraras is also enumerated by Bharata Muni in the original rasas
+ vir ras se hi adbhut ras kii utpatti batalaai gai he
+ The 'varna' of Veer Ras is called 'swarna' or 'gaur' and the god Indra
+ yah uttam prakruti waalo se sambaddh he tathaa iskaa sthaayee bhav ‘utsaah’ he
+ Only Yudveer, Dharmaveer, Dayavir and Danveer distinction of Veer Ras are accepted
+ utsaah ko aadhaar maanakar panditraj aadi ne anya anek bhed bhi kiye hai
+ Examples - adbhut ras ke bharatmuni ne do bhed ie hai- divya tathaa anandaj 
+ The Vaishnava Acharya makes a distinction called vision, श्रrut, Sankrit and Anumit
+ bibhats bharat tathaa dhananjay ke anusaar shuddh, kshobhan tathaa udayegi naam se teen prakaar kaa hota he
+ Three types are considered to be derogatory or illusory, criminological or imaginary, and three types of dissonant or real name, and two types of self-directed distinction from terrible causation
+ sthayibhaavon ke kisi vishesh lakshan athwa rason ke kisi bhav kii samanta ke aadhaar par praaia: rason kaa ek duusare main antarbhaav karne, kisi sthayibhav kaa tiraskaar karke naveen sthaayee maanane kii pravriti bhi yada-kada dikhaai padi he
+ As such, among Shanta Rasa and Dayavir and Vibhats, Dayavir's intrusion into calm and unhappy permanent Jugupsa is considered permanent
+ "naganand" naatak ko koi shant kaa or koi dayavir ras kaa naatak maanata he
+ But if the metaphysical pause of calm and compassionate zeal of Dayavir is noted, then there will be a difference between the two
+ isi prakaar jugupsa main jo vikarshan he vah shant main nahin rahata
+ Quiet ragas-malice is both inclusiveness and metaphysics, in which jugupsa can become communicable
+ thik aise jaise karun main bhi sahanubhuti kaa sanchaar rahata he or dayavir main bhi, kintu karun main shok kii sthiti he or dayavir main sahanubhuthaprerit aatmashaktisambhoot aanandarup utsaah kii
+ Or, just as both Raudra and Yudhveer have an enemy, so both have the amount of anger, but the rapture in Prahodratikul acuteness and indiscretion, and Yudhveer have a ferocity and prudence
+ krodh main shatruvinaash main pratishodh kii bhaavana rahati he or vir main dhairya or udaartaa
+ Therefore, their mutual interaction is not possible
+ isi prakaar "anmarsh" ko vir kaa sthaayee maananaa bhi uchit nahin, kyonki amarsh ninda, apmaan yaa akshepadi ke kaaran chitt ke abhinivesh yaa swabhimanavbodh ke rup main prakat hota he, kintu viraras ke dayavir, daanveer, tathaa dharmaveer naamak bhedon main is prakaar kii bhaavana nahin rahati
+ Coordinates: 24 ° 49′N 92 ° 48′E / 24
+82 ° n 92
+8 ° e / 24
+82; 92
+8 shilchar assam kaa ek pramukh shahar he
+ It is the second largest city of Assam
+ silchar kachhaad jile main aata he
+ It is located 420 km from Guwahati
+ yah mizoram or manipur kaa arthnatik rasta he
+ The city is shaped by business people from far-flung areas of India
+ yahan kii pramukh bhashaa bengali or sileti hai
+ Shilchar is located on the left bank of the Barak River
+ baari varsha or apekshaakrit ucch ausat taap ke kaaran varsha ritu main umas rahati he
+ It is a business center for tea, paddy and many wild products
+ chunki yah jagah purvottar ke shesh kshetron kii apeksha bahut shant he, isiilie bharat ke tatkaaleen pradhanmantri shrimati indira gandhi ne is shahar "shanti kaa dweep" naam diya tha
+ Silchar is made up of two Bengali words 'shil' and 'chara'
+ angrejon ke shasankaal main jahaaz baraak nadi ke kinare rakhaa jaataa tha, isiilie nadi ke kinare ek bazaar bas gaya or arthnatik gatividhi kaa ek mukhya sthal
+ The bank of the Barak River was filled with stones, which was good for ships to stop and the market was established in a place which was completely filled with stones
+ log is jagah ko "shiler char" yaa "pattharon kaa kinaaraa" kehane lage
+ In this way "shelar Char" became "shilcher"
+ baad main angrez apane sarkari dastavezon main is ilaake ko silchar kehane lage
+ About 90% of Silchar-dwellers are Bengali who speak Sileti
+ baaki bhashaayen jaise, , vishnupriya manipuri bolne vaale logon ke saath-saath kuch naga bhi yahan basate hai
+ Rice is the staple food here, fish is also very important
+ shutki, shidol chatnee, chungaar peetha yahan ke kuch vyanjanon kaa naam he
+ Over the years, people from some of the surrounding areas have started settling here, mainly due to the development of education and medicine in the city, the real estate market and other projects have made it a very crowded area
+ yah rajya kaa doosraa sarvaadhik jansankhya vaala nagar he
+ a 'missionary school' and 'polo ground' were built here in the late 19th century
+ yahan par bahut pehle, sambhavat: 1842 main, ek purana mandir 'narsingh akhaada' banaaya gaya tha
+ Many other akharas or temples were built in the British era also
+ silchar chaay, chaaval or duusari krishi utpaadon kaa vyapaar evam prasanskaran centre he
+ Silchar has limited industries and mainly produces paper and tea cans
+ ek hawaii adde vaala silchar mizoram ke izol or meghalaya kii rajdhani shilong se sadak va railmargon se judaa he
+ The population of Silchar is 21,890 as per 2001 census
+ gailin mendonka ek bhartiya film abhinetri, model va amtivi india vije hai
+ He also won the m TV VJ Hunt alongside Sunanda Wong
+ 203 main unhone rohan sippi kii film "nautanki saalaa" main bhi kaam kiya
+ In 2016 she became the host of m TV Roadies
+ mumbai ke upnagar oralam, malad main rahete hue unhone saint joseph, carmel skool main apni shiksha grahan kii
+ He danced "malhar" for 5 consecutive years but won
+ saint jeviars mahavidhyalay se hi unhone apane modelling kariyar kii shuruyaat kii thi
+ She also walked the ramp for Lakme India Fashion Week
+ college ke turant baad hi vah enditivi good times ke sho "kool koshent" main bhi bataur prastota kaam karne lagi
+ She then moved to the m TV bandwagon as a VJ
+ unhone bataur mejabaan bahut kaam kiya, unhone cricket vishvakup 2011 main mejabani kii
+ He got a chance to work with Ayushmann Khurrana in Rohan Sippy's film "nautanki Saala"
+ muri kaa khel, jise baaj-bater khel yaa barf ke tile kaa khel bhi kaha jaataa he, khel siddhant main do pratidwandiyon ke bich hone vaala ek prakaar kaa sangharsh he
+ In this, a competition starts between the two in which neither of them wants to retreat but both of them suffer a huge loss
+ isamen 'muri' kaa naam us khel se aayaa he jisamen do vaahan-chaalak tezi se apane-apane vaahan ek-duusare kii taraf daudte hai
+ One of the two will have to accept defeat and turn aside, otherwise both may also die in a confrontation
+ lekin jo bhi pehle hat gaya vah 'muri', yani bujdil yaa darpok, mana jayega
+ This 'chicken game' name is used more in politics and economics
+ masalan oktober 1962 main hue cubai missile sankat main soviet sangh or sanyukt rajya america ke bich tanaav lagaataar badhata gaya or agar koi peeche na hatataa ho parmaanu pralay ho saktaa tha, lekin usamen soviet sangh ne peeche paanv khinch liye
+ In biology it is called the 'game of hawk' and is seen in situations when the opponents can either cooperate or compete against the use of a common instrument
+ is khel main aksar donon khilaadiyon ke man main duvidha bani hoti he
+ If you feel that the other one will withdraw from fear, then you should stand firm
+ jo hat jaataa he use hui haani main duusare kaa apmaan bhi shaamil hota he, kyonki doosraa bahadur lagata he jabaki hatane vaala darpok lagata he
+ But if both of them keep thinking till the end, then both of them can suffer huge losses
+ laal mitti laal, pili evam chocolati rang kii hoti he
+ In dry and wet climate, the formation of ancient rocky and altered rocks is broken and this soil looks light yellow due to exposure to water
+ This soil contains more iron, aluminum and lime
+ yah mitti atyant randhrayukt hoti he
+ Millet crop is good in this soil, but dark red soil is suitable for cotton, wheat, pulses, coarse grains
+ bharat main yah mitti uttar pradesh ke bundelkhand se lekar dakshin ke prayadweep tak paayi jaati he
+ It is found in Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Meghalaya, Nagaland, Uttar Pradesh, Rajasthan, Tamil Nadu and Maharashtra
+ chhattisgarh main laal-pili mitti ko sthaneey rup se "metasi mitti" ke naam se janaa jaataa he, iskaa vistaar rajya ke lagbhag saath pratishat bhubhag par he
+ It is a major airport
+ nokia 3230, nokia dwaara banaaya gaya ek mobile phone upkaran he
+ It was made available in the market in 2005
+ yah jiesem takanic par kaary karata he
+ It is a product of Nokia 3000 expression series with candibar texture and 16 bit color screen
+ azeez kuraishi vartmaan uttrakhand ke rajyapal hai
+ Coordinates: 25 ° 09′N 85 ° 27′E / 25
+15 ° n 85
+45 ° e / 25
+15; 85
+45 rahatpur baliya, begusarai, bihar sthit ek gaanv he
+ Public Service Commission is a constitutional body of Nepal
+ yah vishesh rup se sarkari seva ke liye yogya ummidavaar niyukt karti he
+ } nirdeshaank: 25°27′N 81°51′E / 25
+45°N 81
+85°E / 25
+45; 81
+85 Chak Hussaina alias Chor Kariya is a village in Phulpur, Allahabad, Uttar Pradesh
+ coligaanv-sila4, yamakeshwar tehsil main bharat ke uttrakhand rajya ke antargat gadhwal mandal ke paudi jile kaa ek gaanv he
+ Agar Malwa is a district located in the 51st Ujjain division of the Indian state of Madhya Pradesh
+ is jile kaa kshetrafal 2785 varg kimi
+ tathaa jansankhya 4
+80 lakh he
+ Agar was carved out of Shajapur district on 16 August 2013 and declared a district
+ 1947 se madhya pradesh ke punargathan ke purv 1956 tak agar madhya bharat kaa ek jila tha 1956 main ise shajapur jile main shaamil kar diya gaya
+ There are four tehsils under it
+ agar malwa jila apni laal mitti ke liai prasiddh he
+ Its border touches Rajasthan raulyanna, garuda tehsil main bharat ke uttrakhand rajya ke antargat kumaun mandal ke bageshwar jile kaa ek gaanv he
+ DD Kaushambi was a mathematician, historian and political thinker of India
+ desh ke swadhinata sangram ke nirnaayak kaal beesvin sadi ke purvardh main gyaan-vigyaan or maanav ke prayaason kaa aisa koi kshetra nahin tha jisamen vilakshan vibhootiyon kaa aavirbhaav na hua ho
+ Versatility Rich D
+D
+ Kaushambi is counted among those famous people today
+ kaushambi kya-kuch nahin the
+ He was a scholar of mathematics and continued his education till the last time
+ sankhyikee or statics siddhant ke kshetra main unka kaary vigyaan ke liye atyant mahatvapurn mana gaya
+ Numerology was his favorite subject
+ takshashila ke sikkon ke vishaal bhandar or niyantran saadhan ke rup main aadhunik sikkon kaa unhone upyog kiya
+ After weighing about 12 thousand coins, he had said that the foundation of Mudra Shastra could be laid as a science different from archives and archeology
+ sanskrit ke sahitya main koshambi ne bhartruhari or bhaas kii rachanaaon kii ore vishesh dhyaan diya or unke bhashya utkrisht maane jate hai
+ From Sanskrit literature, he moved towards his social chair, the history of ancient India
+ 1938-39 ke baad se unhone is vishay par anekanek niabandh likhe
+ His book Introduction to the Study of Indian History, published in 1956, gave a new definition of history
+ itihaas ko samajhane kii unhone ek nai drushti prastut kii or itihaas lekhan kaa nayaa, parivartankami maarg prashast kiya
+ While on the one hand he challenged the basis of the writings of Western historians, on the other hand he crushed the conceit of the despotism of our own country, which described ancient times as a golden age
+ aaj di
+di
+ kaushambi ko pradhan rup se isi yogadan ke liye yaad kiya jaataa he
+ Bagul or Bahgul is a river that flows through the geographical area of jalalabad
+ america kii neshnal jyospatial intelegence agency ke sutron ke hawaale se ise purvi bahagul nadi bhi kehete hai
+ It joins the Ramganga River, irrigating the plains of Shahjahanpur district of Uttar Pradesh, the main province of India
+ 2146 isa purv isa messiah ke janm se purv ke varshon ko darshata he
+ The year before 2146 BC or the year before his birth is considered as the birth of Jesus
+ yah julian kalendar par adhaarit ek samuhik varsh mana jaataa he
+ In most of the world old years are calculated based on this method
+ bharat main iske alaava kai panchag prasiddh he jaise vikram samvath jo isa ke janm se 57 yaa 58 varsh purv shuru hoti he
+ Apart from this Shak Shanvant is also famous
+ shaq samvath bharat kaa pracheen samvath he jo isa ke janm ke 78 varsh baad se armbh hota he
+ Sak Sanwat is National Calendar of India
+ bharat main prachlit kuch anya pracheen samvath is prakaar he- Based on the above difference, according to 2146 BC, the year etc
+ can be extracted in Vikrami Samvat, Saptarshi Samvat, Kaliyug Samvat and ancient Saptarshi etc
+ bholaa bhaalaa 1978 main bani hindi bhashaa kii film he
+ Part of a category on Vedic religion moksh Meditation yoga suprabhatam jo shubh or prabhaat shabdon ke mail se bana he, suprabhatkavy style kaa ek sanskrit kavita he
+ It is a collection of verses that are recited early in the morning to awaken the deity
+ sabase prasiddh suprabhatam kriti venkatesh suprabhatam he, jise tirupati main venkatesh bhagwan ko jagaane ke liye sunaaya jaataa he
+ Venkateshuprabhatam was composed by Sri Anantacharya in about 1430 AD
+ som vedon main varnit ek vishay he jiskaa pramukh arth ullas, saumyata or chandramaa he
+ It is frequently mentioned in the Rigveda and the Samveda
+ rugveda ke 'som mandal' main 114 sookt hai, jiname 1097 mantra hai - jo som ke urjaadaayi gun kaa varnan karte hai
+ Western scholars have associated this mon with 'home' written in the Avesta-language, which was the drink of the ancient iranian-aryans
+ sanathan parampara main vedon ke vyakhaan ke liye prayukt nirukt main som ko do arthon bataaya gaya he 
+ The first mon is called a medicine which is delicious and delicious, and the second is called the moon
+ in dono arthon ko darshane ke liye ye do mantra hai: In Nirukta, the meaning of Oshadhi is 'heat washer' or 'affliction'
+ somalata, saumyata ke arthon main bahudhaa prayukt som shabd ke varnan main iskaa nichoda-pisa janaa, iskaa janmana or indra dwaara piyaa janaa pramukh he
+ Indra means soul, king, god, lightning etc
+ in different places
+ shri aravind, kapali shastri aadi jaise vidwaanon ne som kaa arth shramjanit anand bataaya he
+ In the Madhvacharya tradition, Som means Sri Krishna
+ samaveda ke lagbhag ek chauthai mantra pavamaan som ke vishay main he, pavamaan som kaa arth hua - pavitra karne vaala som
+ In the Vedas the word 'som' is used in the sense of drink, as a plant, and the same word is used in the meaning of the deity
+ sompaan se amarta kii prapti hoti he 
+ Indra and Agni are said to be drinking in abundance
+ vedon main maanav ke liye bhi sompaan kii sweekruti he- Swami Dayanand Saraswati has interpreted it as follows- ralf tii ech griffith ne iskaa anuwaad nimnlikhit kiya he- Sahanspuri is a village in Raigad district under the Chhattisgarh state of India in Raigarh division
+ longevala kaa yuddh 1971 kaa bharat-paak yuddh ke samay hua pramukh yuddh tha
+ This was the first major war fought in the western region between Longwala and the invading Pakistani forces
+ farrukhabad jile kaa ek gaanv
+ Avajpur
+ Amrapur • Amilapur • Amilaiya Ashanand • Amilaiya Mukeri • Ariyara • Alampur • Allapur • Allahpur • Aladaspur • Aliyapur • Aliyapur Mazra Kisroli • Alehpur Patidhavaleshwar • Asgarpur • Ahmed Ganj • Azam Nagar • Azampur • Ikalhara • Ijour • Imadpur Thamrai • Imadpur Samchipur • Ugarpur • Ummarpur • Uliyapur • Ulisabad • Osmanpur • • Ugarpur • Udhampur • • Angraiya • cocaroli • katra rahamatkhaan • katari toufeeq gadiyahabatpur • katari dundh • katari rampura • katrirupapur mangalipur • katiyaa • kanasi • campil • kamthari • kamruddin nagar • kamalaiyapur • karhuli • karanpur • karanpur gangatara • karimnagar • kamalganj • kamalpur • kaliapur saini • kadar dadpur sarai • kaaymganj • kaympur • karav • kasimpur tarai • kaandhemai • kinnar nagala • kisroli • qutubuddinpurakuiyaan sant • kuberpur • kuttarpur imla • kuttarpur khaas • kunyiakhera • kuiyandhir • kunakhera khaas • kunakhera vajiralam khan • kuraar • karai • calihaai • kainchia • cocapur • khwaja ahmadpur katiyaa • khagau • khalavaara • khalavaara • khanpur • khinamini • khudana dhamgavaan • khudana vaid • khumharpur • khetalpur saunriya • khempur • grasspur • grid kaaymganj • gathvaya • gadiya habatpur • gadanpur vakt • gadarpur chaiyn • ganipur jogpur • gilaspur • gutati dackhin • guthina • gusarapur • gujarpur • govindpur asdulla • govindpur hakimkhan • gaurkhera • gaurimahadev poor • gangroli magarib • gangalua • gangalu paramnagar • ghumia rasulpur • Chandpur • Chandpur Kutch • Champatpur • Charan Nagla • Chahurera • Chandoraia • Chahora • Chandni • Chichouli • Chilsara • Chilsari • Chaukhadia • Chhachunpur • Chhichhona Patti • Chhotan Nagla • Jyona • Jyothi • Jatpura • Jarra • Jarjauja Jaujaraj Elderly • Jinoul • Jinwah • Zirkhpur • Jirau • Zaidpur • Jaisingpur • Jaisingpur • Jogpur • Jaunra • Jhabbupur • Zhoua • deraa shadinagar • dhudiyapur • Tyur Khas • Fawri Ismailpur • Talaspur • Tarapur Bhoyapur • Tal Ka Nagla • Turk Lallaiya • Turkipur • Tezpur • Durirapur • Diora Mehsoun • Dariyapur • Dalelganj • Darapur • Dwaraiya • Dipurnagaria • Durga Nagla • Dundha • Dhabur • xxwrep 23 Dhurpur • Dhuria • xxwrep 11 Dhurpur • Dhuria • Dhurpur • Dhuria • Dhurpur • Dhuria • Dharampur • Nagaria • Nagla Kalar • Nagla Khamani • Nagla Damu • Nagla Thala • Nagla Basola • Nagla Makoda • Nagla Seth • Naglakel • Naglanan • Natwara • n Sector Nagra • Nrsingpur • Nraynpur • Nru Nagla • Nranamu • Nawabganj • Nsrullapur • Nhrosa • Nijamuddinpur • Niamtpur Dilavli • Niamtpur Bksi • Niblpur • Nunwara • Nunera • Nurpur Garia • Nagwan • Nagwa • Naogaon • Nauli prahaladapur • prahaladapur santoshpur • pacharauli mahadevapur • pathramai • pattee madari • pattimajara lalpur • patyoraa • padmangala • papadi • papadi khurd bujurg • paparabhuji • partapur tarai • param nagar • parasaadi nagala • parauli • parauli khurdai • palia • pahadpur • paharpur bairagarh • pahadpur majara atseni • panthradehamaphi • parahpur • pitura • pilkhanaa • pururi • pathaan • pussiapur • pitura • pipargaanv • pururi • pathaan khurd bujurg • pailaani dackhin • fatanpur • fatehgarh • fatehpur parauli • faridpur • faridpur majara santhra • faridpur mangalipur • faridpur saidabaada • farrukhabad • Baksuri • Bakhtarpur • Baghau • Baghel • Baghuna • Bachhalia • Bantal • Babna • Baburara • Bamrulia • Barai • Barkheda • Barjala • Baratal • Bahbal Pur • Barai • Barabiku • Balipur • Balipur Garhi • Balipur Majra Attseni • Balipur Bhagwada • Basipur • Barg • Bichhauli • Bijouri • Biraimpur • Birahimpur Jagir • Birahimpur Nirottampur • Bria Danda • Birsingpur • Bilsdi • Bilhaa • Birbal's Nagla • Budhanpur • Bud Jaipur • Burhanpur • Beg • Belasarai Gaja • Behta Ballu • Behta Murlidhar • Bela • Bairampur • Boura • Bangas Nagar • Banskhera • Bhatasa • Bhakusa • Bhagwanpur • Bhagipur Umrao • Bhagora • Bhagautipur • Bhatpura • Bhatmai • Bhatasa • Bharatpur • Bhathari • Bhadur • Bhainsari • Bholepur • Bhanurua • Magtai • Maddupur • Mantpura • Madarpur • Madhwapur • Masoodpur Patti • Mahmadipur • Mahmadpur Kamaraj • Mahmadpur Dhani • Mahmudpur Pattisafa • Mahm Dudpur Sinaura • Manikpur • Mampur • Milik Quresh • Milik Majmulla • Milik Sultan • yahiyapur • rukhiya khalikadadpur • rampura • rajapalpur • rajalamai • ramapur • ramapur jasu • ramapur dabeer • rasidabad • ranipur gaur • rashidabad khatic • rashidabad brahmanan • rashidabad ballab • raseedpur • raseedpur tarai • raseedpur may • raseedpur majara atseni • rasidabad • raipur • raipur khaas • raipur chingehatpur • rutol • ruttol • rudayan • rutol • rustampur • ruppur mangali • roshnabad • rokari • lakhanpur • lapahapani • lalai • lalaiyaturk • lalor raajapootaana • laharaarja kulipur • lakhanpur • ladampur dyona • lalpur pattee • lukhdpura • ludhaiya • lodhipur • virpur • Shamsabad • Shambhungla • Shambhungla • Shamspur Beggars • Sharifpur Chhichouni • Shad Nagar • shahalam Pur • Shahpur • Shahipur • Shivrai Bariyar • Shivrai Math • Shivara • Sheshpur Husanga • Shankarpur Harharpur • Syani • Santoshpur • Samadhanampur • Sarupalam • Sarpur Talaur • Salempur Dundemai • Savitapur Viharipur • Sasha Jagdishpur • Samuddinpur • Samchipur Chhatar • Samchipur Majra Athuraiya • Sadiqpur • Sahebganj • Siuria • Sikanderpur • Sikanderpur Agu • Sikanderpur Kola • Sikanderpur Khas • Sikanderpur Chhatiman • Sikanderpur Tihaiya • Sikanderpur Majra Naharosh • Sikanderpur Mahmood • Silsara Sirwali • Sirawada • Bangar • Sukrullapur • Sutadia • Suthari • Subhanpur • Sultanpur • Sultanpur Khareta • Sultanpur Pal Pur • Sultanpur Rajkumar • Surajpur Chamraua • Saidpur Pistur • Saidpur Rahimdadpur • Sainthra • Sotepur • Sonajanki Pur • Sona Jankipur • Santoshpur • Haipur • Hazratganj • Hazratpur • Hadidadpur May • Hammer • Hamelpur • Hajianpur • Harsinghpur Hamirpur Goa • Hakipur Hamirpur Special • Harsingpur Terai • Hamirpur Majra Baratal • Hamirpur Majra Jat • Harkaranpur • Harsingpur Goa • Harsingpur Mazra Attseni Hajipur • Husngpur • Hnsapur • Hnsapur Guriapur • Hotepur • Husenpur valley • Husenpur highness • · ambedkar nagar jila · agra jila · aligarh jila · azamgarh jila · elahabaad jila · unnav jila · itawa jila · eta jila · auraiya jila · kannauj jila · kaushambi jila · kushinagar jila · kanpur nagar jila · kanpur dehaat jila · gajipur jila · gajiabad jila · gorakhpur jila · gonda jila · gautam buddha nagar jila · chitrakoot jila · jalon jila · chandauli jila · jyotiba phule nagar jila · jhaansi jila · jonpur jila · devaria jila · pilibhit jila · pratapgarh jila · fatehpur jila · farrukhabad jila · firozabad jila · faijabad jila · balrampur jila · bareli jila · baliya jila · basti jila · badun jila · bahertch jila · bulandashahar jila · bagpat jila · bijanour jila · barabanki jila · banda jila · mainpuri jila · mahamayanagar jila · mau jila · mathura jila · mahoba jila · maharajaganj jila · mirzapur jila · mujhaffarnagar jila · meerut jila · muradabad jila · rampur jila · raibareli jila · lakhanu jila · lalitpur jila · lakhimpur khiri jila · varanasi jila · sultanpur jila · shahjahanpur jila · shravasti jila · siddharthanagar jila · sant kabir nagar jila · sitapur jila · sant ravidaas nagar jila · sonbhadra jila · saharanpur jila · hamirpur jila, uttar pradesh · hardoi jila Pakistan International Airlines is a state-owned flag carrier of the Government of Pakistan
+ Once regarded as Asia's best airline, company kaa mukhyalay jinnah anterrashtriya vimaanashetra, karachi main sthit he or yah asia, europe evam uttari america ke 24 antardeshiy evam 38 anterrashtriya gantavyon ko vayuseva detii he
+ Its main center is located at Allama Iqbal International Airport in Karachi and Benazir Bhutto International Airport, Rawalpindi / Islamabad
+ kansaa yaa kaansya, kisi tambe yaa tamra-mishrit dhaatu mishran ko kaha jaataa he, praayah jaste ke sang, parantu kai baar phosforus, manganeez, aluminium yaa silicon aadi ke sang bhi hote hai
+ It was important among antiquities, which gave that era the name Bronze Age
+ ise angreji main bronz kehete hai, jo kii farsi mul kaa shabd he, jiskaa arth pital he
+ According to Sanskrit dictionary, bronze is called white copper or bell-making metal
+ vishuddh tanba laal hota he; usamen ronga milaane se safedi aati he
+ Therefore, the alloy of copper and copper is called bronze or bronze
+ saadhaaran bolchaal main kabhi–kabhi pital ko bhi kaansa kah dete hai, ja taanbe tathaa jaste kii mishradhatu he or pilaa hota he
+ The alloy of copper and copper is also called 'flower'
+ is lekh main kaansa se abhipraay taanbe or raange kii mishradhatu se he
+ In English it is called Brose
+ kaansa, taanbe kii apeksha adhik kadaa hota he or kam taap par pighalta he
+ Therefore the bronze can be molded conveniently
+ 16 bhaag taanbe or 1 bhaag raange kii mishradhatu bahut kadi nahin hoti
+ This is called soft gun-metal
+ raange kaa anupaat duguna kar dene se kadaa gan-metal banataa he
+ Alloy is hard, brittle and fine when 7 parts copper and 1 part is hot
+ ghanta banane ke liye raange kaa anupaat or bhi badha diya jaataa he; saadhaarant: 3 se 5 bhaag tak taanbe or 1 bhaag raange kii mishradhatu is kaam main liye prayukt hoti he
+ Approximately 2 parts of copper and one part of coarse were used to make mirrors, but now its circulation has disappeared in front of silver glass mirrors
+ mashiinon ke dhuridharon ke liye kaanse kaa bahut prayog hota he, kyonki gharshan kam hota he, parantu dhaatu ko adhik kadi kar dene ke uddeshy se usamen kuch anya dhaatuen bhi mila di jaati hai
+ For example, 24 or more parts ranga, 4 parts copper and 8 parts antimony is the famous 'babbit' metal named after inventor Isaac
+ iskaa dhuridharon ke liye bahut prayog hota he
+ By mixing about 1 percent phosphorus in bronze, the alloy becomes more stiff and tamarind
+ aisi mishradhatu ko fosfar broaj kehete hai
+ The alloy of copper and aluminum is called aluminum bronze
+ yah dhaatu bahut pusht hoti he or hawa yaa pani main iskaa apaksharan nahin hota
+ Rajendra Kumari was an MLA in the Second Assembly of Uttar Pradesh, India
+ 1957 uttar pradesh vidhaan sabha chunaav main inhone uttar pradesh ke hamirpur jile ke 137 - maudaha vidhaan sabha nirvachan kshetra se praja socialist party kii ore se chunaav main bhaag liya
+ Intercity Express 3012 is a mail express train operated by Indian Railways
+ yah train malda toun railway stesan se 04:30AM baje chhootati he or haavda jankshan railway stesan par 11:25AM baje pahunchati he
+ Its travel duration is 6 hours 55 minutes
+ nripendra mishra pradhanmantri narendra modi ke mukhya sachiv hai
+ Chang E-4 is a Chinese lunar exploration mission
+ jisame ek robot lander or rover shaamil he
+ The Chang E-4 is China's second lunar lander and rover
+ yah chang i-3 byaap ke rup main banaaya jayega
+ After the successful landing of the Chang E-3 mission, the configuration of the Chang E-4 will be adjusted to test equipment in advance of the Chang E-5
+ apane purvavartiyon kii tarah, yah antariksh yaan chini chandra devi ke naam par he
+ Pawan Tiwari is an Indian actor and producer
+ bhagiraal main bharat ke andhrapradesh rajya ke antargat ke krishna jile kaa ek gaanv he
+ West Bengal is a state located in the eastern part of India
+ iske pados main nepal, sikkim, bhutan, assam, bangladesh, odisha, jharkhand or bihar hai
+ Its capital is Kolkata
+ is rajya me 23 zile he
+ The main language here is Bangla
+ bengal par islamic shashan 13 veen shatabdi se prarambh hua tathaa 16 veen shatabdi main mogul shashan main vyapaar tathaa udyog kaa ek samrudh kendra main viksit hua
+ European merchants had arrived here by the end of the 15th century and by the end of the 18th century the area had come under the control of the British East India Company
+ bharat main british samrajya kaa udgam yaheen se hua
+ India became independent in 1947 and at the same time, Bengal was divided into Muslim-dominated East Bengal and Hindu-dominated West Bengal
+ yah rajya bharat ke purvi bhaag main 88,853 varg kimi ke bhukhand par failaa he
+ It is bounded by Sikkim in the north, Assam in the north-east, Bangladesh in the east, Bay of Bengal and Orissa in the south and Bihar and Jharkhand in the west
+ uttar main himalay parvat shrenee kaa purvi hissaa se lekar dakshin main bengal kii khadi tak pradesh kii bhugolic dasha main khaasi vividhta najar aati he
+ The summits of Darjeeling in the north are part of the Himalayan range
+ isamen sandakphu chotii aati he jo rajya kaa sarvocch shikhar he
+ On coming south, the plains begin after a small valley
+ yah maidan dakshin main ganga ke delta ke saath khatm hota he
+ This plain is also quite extensive in Bangladesh in the east
+ pashchim kii ore kaa bhukhand pathari he
+ The main branch of the Ganges stream divides here into several parts - one branch enters Bangladesh known as Padma, the other branches flows southwards in West Bengal with the names Bhagirathi and Hooghly
+ uparokt sabhi shakhaaen dakshin kii ore bengal kii khadi main visarjeet hoti hai
+ The mouth of the Ganges River is the largest in the world
+ uttari parvatiy bhaag main tista, mahananda, torsa aadi nadiyaan bahati hai
+ Damodar, Ajay, Kangsabati etc
+ are the major streams in the western plateau
+ pashchim bengal kaa mausam mukhyatah ushnkaribandheey he
+ The total number of districts of West Bengal is 20
+ neeche baayin ore di gayi chhavi ke anusaar jilon ke naam soochibaddh hai
+ There is a long and well-organized tradition of dance, music and movies
+ durgapuja yahaan ati utsaah tathaa vyapak jan bhagidaari ke saath manaai jaati he
+ Cricket and football are among the most popular sports here
+ saurabh ganguli jaise khilaadi tathaa mohan bagaan evam east bengal jaisi team isi pradesh se hai
+ If you go to the figures, words like Naxalism were born here, but the peaceability of the people here is something that is universally visible
+ paraspar baatcheet main tui, tuumi, tathaa aapani, kaa prayog dwitiya purush kii varishthata ke aadhaar par kiya jaataa he
+ People in cities often live in small families
+ yahaan ke log machhlee-bhaat ) bahut pasand karte hai
+ This state is quite famous for its sweets - Rasgulla was also invented here
+ bangla bhashaa main ek hi sahitya andolan huye hai or wo hai bhukhi peedhee andolan jisane saath ke dashak main shakti chattopadhyaay, malay raichaudhuri, debi raay, subimal basaa, samir raichaudhuri pramukh kavigan bihar ke patna shahar se shuru kiye the evam jo pure bengal main tahalaka machaa diya tha; yahan tak kii andolankaaraiyon ke khilaaf mukadmaa bhi daayar kiya gaya tha
+ Later everyone was exonerated, but the fame of those people spread all over India and also in America and Europe
+ pashchim bengal me trinmul congress sarkaar he
+ The Chief Minister of West Bengal is Mamta Banerjee
+ isse pehle pichley 35 saalon se yahaan vam morche kii sarkaar thi
+ Quisqualis indica L
+ madhumalati ek vanaspati he jo kshup yaa lata ke rup main hoti he
+ It comes in the genus Caprifoliaceae
+ isaki lagbhag 180 prajatiyaan gyaat hai
+ Of these, about 100 species are found in China, 20 in India, 20 in Europe, and 20 in North America
+ isaki sabase prasiddh prajatiyaan hai- lonicera japonica, lonicera periclimenum, tathaa lonicera semparvirence 
+ madhumalika kii kuch prajatiyon ke pushpon kii ore gunjan pakshi bahut aakarshith hote hai
+ Its name 'madhumalati' is meaningful because edible honey can be extracted from its flowers
+ asia ke alaava vishwa ke kai anya bhaagon main yah soundarya hetu ugaayi gayi yaa swatah faili hui jhaadi ke rup main bhi paayi jaati he
+ The Ural River, the Ural River or the Zhayk River is a river flowing from Russia and Kazakhstan
+ yah ural pahaado ke dakshini bhaag main utpann hoti he or 1,511 kimi ke lambe safar ke baad caspian sagar main mil jaati he
+ It is the third longest river in Europe after the Volga River and the Danube River
+ caspian sagar ke liye yah volga nadi ke baad doosraa sabase mukhya jalstrot he
+ Pay attention to the pronunciation of the letter 'jha' in the word 'zhayk' as it is quite different from 'jha' without a dot
+ iskaa uccharan angrezi ke 'televithan' shabd or hindi ke andaha shabd ke 'ji' se miltaa he
+ The Ural River begins on the slope of the Krugalaya Mountains of the Ural Mountains, politically located in the Bashkortostan province of Russia
+ yahan isaki chaudaai 60-80 meter he
+ Then it comes down to the Yike marshy area where its width increases to 5 km
+ phir yah rus ke maagnithogorsk shahar se guzarati he jo chelyabinsk oblast main he
+ Its edges now become stony and deep
+ phir yah orenburg oblast ke orsk shahar se guzarati hui achaanak pashchim kaa rukh karti he or gooserlinsk pahaado main ek tang ghati se nikalati he jiske baad yah kazakhstan ke ural shahar se nikalati he
+ After this, it runs directly south and passes through Western Kazakhstan province and Atirau province
+ ab isaki dhar bantakar bahut si upadharaayen or jhilein banaati he, jinamein yike dhara or zolotoy dhara pramukh hai
+ These two form a vast wet area here
+ isamen bahut se pakshi, jaanavar, machhliyaan or vanaspati panpate hai
+ The Ural River delta in the Caspian Sea has a peculiarly long finger-shaped shape
+ pi7 news ek hindi tii ve channel tha
+ It was a news channel
+ yah samachar channel band ho chukaa he
+ There was a prolonged dispute between its employees and P7 News management over the arrears of salary
+ amino amla, ve anu hai jinamein amine tathaa carboxil donon hi group paaen jate hai
+ Their common formula is H2NCHROOH
+ isamen r ek parshv kadi he
+ Which is a group of variable different molecules
+ carboxil tathaa amine group carbon parmaanu se laga rahata he
+ Amino acids are the constitutive molecules of probujin
+ bahut saare amino amla peptid bandhan dwaara yukt hokar probhujin banaate hai
+ 20 amino acids participate in making probesin
+ yah probhujin nirmaan ke karnadhaar hote hai
+ About twenty amino acids exist in nature
+ probhujin anuon main sainkadon yaa hajaaron amino amla ek duusare se jude rahete hai
+ Almost all amino acids in each probe are associated with a particular sequence
+ vibhinn amino amlon kaa yahi anukram prayek probhujin ko uski visheshtaayen pradaan karata he
+ This specific sequence of amino acids is determined by the order of nucleotides of DNA
+ dhandan-kapho03, paudi tehsil main bharat ke uttrakhand rajya ke antargat gadhwal mandal ke paudi jile kaa ek gaanv he
+ Rameswaram is a sacred shrine of Hindus
+ yah tamil nadu ke ramnathpuram jile main sthit he
+ This shrine is one of the four dhams of Hindus
+ iske alaava yahaan sthapit shivlinga baarah dwadash jyotirlingon main se ek mana jaataa he
+ The belief of Kashi in the north of India is of Rameshwaram in the south
+ rameswaram chennai se lagbhag sava chaar sau mile dakshin-purv main he
+ It is a beautiful conch shaped island surrounded by the Indian Ocean and the Bay of Bengal
+ bahut pehle yah dweep bharat kii mukhya bhoomi ke saath judaa hua tha, parantu baad main sagar kii laharon ne is milaane vaali kadi ko kaat daalaa, jisase vah chaaron ore pani se ghirakar tapu ban gaya
+ Here Lord Rama built a stone bridge before climbing Lanka, after which the monkey army reached Lanka and got victory there
+ baad main ram ne vibhishana ke anurodh par dhanushkoti naamak sthaan par yah sethu tod diya tha
+ Even today the remains of this 30 mile long adi-setu are seen in the ocean
+ yahaan ke mandir ke tisare praakaar kaa galiyara vishwa kaa sabase lanbaa galiyara he
+ The place where this island was connected to the mainland, there is a bay two and a half miles wide at this time
+ shuru main is khadi ko naavon se paar kiya jaataa tha
+ It is said that long ago, people used to go on foot from Dhanushkoti to Mannar Island
+ lekin 1480 i main ek chakravaati tufaan ne ise tod diya
+ Later, about four hundred years ago, a king named Krishnappanayakan built a huge stone bridge over it
+ angrejo ke aane ke baad us pul kii jagah par rail kaa pul banane kaa vichaar hua
+ By that time, the old stone bridge was shaken and broken by waves
+ ek german ejeeniyar kii madad se us toote pul kaa rail kaa ek sundar pul banwaaya gaya
+ At present, this bridge connects Rameshwaram by rail service to India
+ yah pul pehle bich main se jahaajon ke nikalne ke liye khulaa karata tha
+ At this place water from the south and north of the Indian Ocean can be seen
+ uthle sagar evam sankare jaldmarumadhya ke kaaran samudr main lahare bahut kam hoti he
+ Seeing the calm flow, travelers feel as if they are crossing a big river
+ rameshwaram se dakshin main kanyakumari naamak prasiddh tirth he
+ The Bay of Bengal called Ratnakar meets the Indian Ocean here
+ rameshwaram or sethu bahut pracheen he
+ But the temple of Ramnath is not as old
+ dakshin ke kuch or mandir dedh-do hajaar saal pehle ke bane he, jabaki ramnath ke mandir ko bane abhi kul aath sau varsh se bhi kam hue he
+ Many parts of this temple date back fifty-sixty years
+ rameswaram kaa galiyara vishwa kaa sabase lanbaa galiyara he
+ It is 197 m in north-south
+ And east-west 133 m
+ is
+ iske parcote kii chaudaai 6 me
+ tath oonchai 9 me
+ he
+ The gopuram of the temple entrance 38
+4 m
+ Is high
+ yah mandir lagbhag 6 hectare main bana hua he
+ There are nine Jyotirlingas in the temple near the womb of Vishalakshi ji, which are said to have been established by Lankapati Vibhishan
+ ramnath ke mandir main jo tamrapat he, unase pataa chalata he ki 1173 isvi main srilanka ke raja parakram bahu ne mul ling vaale garbhagrih kaa nirmaan karavaaya tha
+ Shivalinga alone was established in that temple
+ devi kii murti nahin rakhi gai thi, is kaaran vah ni:sangeshwar kaa mandir kahalaaya
+ This original temple later reached the present condition
+ baad main pandrahavin shatabdi main raja udayaan setupati or nearesth nagur nivasee vaisya ne 1450 main iskaa 78 feet ooncha gopuram nirmaan karavaaya tha
+ Later it was renovated by a goddess of Madurai
+ solahavin shatabdi main dakshini bhaag ke dwitiya parcote kii diwaar kaa nirmaan thirumalai setupati ne karavaaya tha
+ The idol of his and his son sits on the door
+ isi shatabdi main madurai ke raja vishwanath nayak ke ek adhinsth raja udaiyan setupati kattateshwar ne nandi mandap aadi nirmaan karwaae
+ The Nandi pavilion is 22 feet long, 12 feet wide and 17 feet high
+ ramnath ke mandir ke saath sethumadhav kaa mandir aaj se paanch sau varsh pehle ramnathpuram ke raja udayaan setupati or ek dhani vaisya ne milakar banwaaya tha
+ In the seventeenth century Dalavai Sethupathi started the Eastern Gopuram
+ 18veen shatabdi main ravivijay setupati ne devi-devataaon ke shayan-grih va ek mandap banwaaya
+ Later Muttu Ramalinga Sethupathi got the outer park constructed
+ 1897 – 1904 ke bich madhya devakottai se ek parivaar ne 126 feet ooncha nau dwaar sahit poorvigopuram nirmaan karavaaya
+ The same family got the womb repaired in 1907-1925
+ baad main inhone 1947 main mahakumbhabhishek bhi karavaaya
+ The temple at Rameshwaram is a beautiful specimen of Indian construction art and craft
+ iske pravesh-dwaar chalis feet ooncha he
+ There are hundreds of huge pillars in the nature and inside the temple, which look alike; But if we look closely at the pass, then it will be known that every pillar has different workmanship on its head
+ ramnath kii murti ke chaaron or parikrama karne ke liye teen praakaar bane hue he
+ The third type was completed hundred years ago
+ is praakaar kii lambaai chaar sau foot se adhik he
+ The platform is built on both and five feet high and about eight feet wide
+ chabutaron ke ek ore pathar ke bade-bade khambho kii lambi katare khadi he
+ Standing at one end of the way, it seems that the beat has been built to welcome the pylon
+ in khambhon kii adbhut kaarigari dekhakar videshi bhi dang rah jate he
+ The corridor here is the longest corridor in the world
+ ramnath ke mandir ke chaaron or dur tak koi pahaad nahin he, jahaan se pathar aasaani se laaye ja saken
+ Gandhamadan mountain is nominal
+ yah vastav main ek tila he or usamen se ek vishaal mandir ke liye jaruri pathar nahin nikal sakate
+ Many lakh tons of stones which have been installed in the temple of Rameshwaram, all of them have been brought in boats from far and wide
+ ramnath ji ke mandir ke bhitari bhaag main ek tarah kaa chikna kaala pathar laga he
+ It is said that all these stones were brought from Lanka
+ rameshwaram ke vishaal mandir ko banavaane or uski raksha karne main ramnathpuram naamak choti riyasat ke raajaaon kaa bada haath rahaa
+ Now this state has been merged in Tamil Nadu state
+ ramnathpuram ke rajbhavan main ek purana kaala pathar rakhaa hua he
+ It is said that this stone was given by Rama to Kevataraja as his mark at the time of Rajatilaka
+ rameshwaram kii yatra karne vaale log is kaale pathar ko dekhne ke liye ramnathpuram jate he
+ Ramanathapuram is about thirty three miles from Rameshwaram
+ mandir kaa purvi gopuram Western Gopuram teesraa galiyara- vishwa kaa sabase lanbaa This interesting story is told about the establishment of the famous temple of Rameshwaram
+ sitaaji ko chhudaane ke liye ram ne lanka par chadhaai kii thi
+ He tried hard to get Sita ji rescued without fighting, but when Rama did not succeed, he was forced to fight
+ is yuddh main ravan or uske sab saathi rakshas maare gayi
+ Ravana was also killed; And finally after returning Sita, Shri Ram returned
+ is yuddh hetu ram ko vanar sena sahit sagar paar karnaa tha, jo atyadhik kathin kaary tha
+ Ravana was also not an ordinary demon
+ vah pulasthya maharishi kaa naati tha
+ Was a knowledgeer of the four Vedas and was a great devotee of Shiva
+ is kaaran ram ko use maarane ke baad bada khed hua
+ He incurred the sin of killing Brahma
+ is paap ko dhone ke liye unhone rameshwaram main shivlinga kii sthapana karne kaa nishchay kiya
+ After deciding this, Shriram ordered Hanuman to go to Kashi and bring a Shivling from there
+ hanuman pawan-sut the
+ Walked through the sky with great speed
+ lekin shivlinga kii sthapana kii niyat ghadi paas aa gai
+ Hanuman did not know anywhere
+ jab sitaaji ne dekha ki hanuman ke lautne me der ho rahi he, to unhone samudr ke kinare ke ret ko mutthi main baandhakar ek shivlinga bana diya
+ Ram was very happy to see this and established this Shivling at the time of rule
+ chote aakaar kaa sahi shivlinga ramnath kehalaata he
+ Later on Hanuman's arrival, Rama installed that big Shivling of black stone near the first small iconic Shivling
+ ye donon shivlinga is tirth ke mukhya mandir main aaj bhi poojit hai
+ This is the main Shivling Jyotirlinga
+ puure bharat, dakshin purv asia or purv asia ke kai deshon main har saal dashahara par or ram ke jivan par aadhaarit sabhi tarah ke nrity-naatakon main sethu bandhan kaa varnan kiya jaataa he
+ The description of this bridge built by Ram is mentioned in the Ramayana, even in Mahabharata, there is a mention of Shri Rama's tap bridge
+ kalidaas kii raghuvansh main sethu kaa varnan he
+ The description of Sri Ram Sethu is also found in many Puranas
+ encychlopedia britanika main ise adams brij ke saath-saath ram sethu kaha gaya he
+ a thin island line from Dhanushkodi to Jaffna in pictures taken from NASA and Indian satellites is known today as Ram Sethu
+ isi pul ko baad main adams brij kaa naam mila
+ This bridge was built within five days
+ isaki lambaai 100 yojan va chaudaai 10 yojan thi
+ High technology was used to make it
+ rameshwaram shahar or ramnathji kaa prasiddh mandir is tapu ke uttar ke chor par he
+ In the southern corner of the island there is a shrine called Dhanushkoti, where the Bay of Bengal meets the Indian Ocean
+ isi sthaan ko sethubandh kehete he
+ People believe that the bridge that Sri Ram tied on the sea to climb Lanka started from this place
+ is kaaran dhanush-koti kaa dharmik mahatv bahut he
+ This is what used to ship to Colombo
+ ab yah sthaan chakravaati tufaan main bahakar samaapt ho gaya he
+ About one and a half miles northeast of the town of Rameshwaram is a small hill called Gandhamadan Parvat
+ hanumanji ne isi parvat se samudr ko langhane ke liye chalaang maari thi
+ Later Rama organized a huge army to climb Lanka here
+ is parvat par ek sundar mandir bana hua he, jahaan shriram ke charan-chinhon kii puja kii jaati he
+ It is called Paduka Temple
+ rameshwaram kii yatra karanevaalon ko har jagah ram-kahani kii gunj sunai detii he
+ The vast land of Rameshwaram is connected to the story of Rama
+ kisi jagah par ram ne sita ji kii pyaas bujhane ke liye dhanush kii nonk se kuan khoda tha, to kahin par unhonen senanayakon se salaah kii thi
+ Somewhere Sita had made a fire-entry, then at some other place, Shri Ram got freedom from the Jatas
+ aisi saikadon kahaniyaan prachlit he
+ There are also stones found in the construction of ram-setu, which float on the water
+ manyata anusaar nal-nil naamak do vaanron ne unako mili vardaan ke kaaran jis pashaan shila ko chhua, wo pani par tairne lagi or sethu ke kaam aayi
+ According to another opinion, both of them knew bridge science
+ ram-paduka mandir Laxman tirtham sita-kund Floating stones of the bridge in Rameswaram rameshwar ke mandir main jis prakaar shivaji kii do murtiyon he, usee prakaar devi parvati kii bhi murtiyon alag-alag sthapit kii gai he
+ An idol of the Goddess is called Parvatardhini, the second Vishalakshi
+ mandir ke purv dwaar ke baahar hanuman kii ek vishaal murti alag mandir main sthapit he
+ There is a temple of Rameshwaram to Shiva but there are many other temples inside it
+ sethumadhav kaa kahalaanevaale bhagwaan vishnu kaa mandir inamen pramukh he
+ There are many holy shrines inside the temple of Ramnath and in the premises
+ inamen pradhan tirtho kii sankhyan choubees thi, kintu do kunda suukh gaye hai or ab baaise shesh hai
+ These are actually separate wells of freshwater
+ ‘koti tirth’ jaise ek do talab bhi he
+ Taking a bath in these pilgrimages is considered very fruitful and preventive sin
+ vaigyanik kaa kahana he ki in tirtho main alag-alag dhaatuen mili hui he
+ Due to this, bathing in them removes the diseases of the body and brings new strength
+ baiswein kund main pehle 21 kaa mila-jula jal aata he
+ There are many pilgrimages even outside the temple of Rameshwaram
+ prayek tirth ke baaren main alag-alag kathaayen he
+ About three miles east of here is a village named Tangchimadam
+ yah gaanv rail maarg ke kinare ho basaa he
+ There is a Tirthakund in the sea near the station, which is called Villurani Tirtha
+ samudr ke khaare pani bich main se meetha jal nikalataa he, yah bade hi achambhe kii baat he
+ It is said that once upon a time, Sitaji felt thirsty
+ paas main samudr ko chhodkar or kahin pani na tha, isliye ram ne apane dhanush kii nok se yah kunda khoda tha
+ There is a dilapidated temple near Tangchidam station
+ use ‘ekant’ ram kaa mandir kehete he
+ Now only the dilapidated remains of this temple remain
+ ramanavami ke parv par yahaan kuch raunak rahati he
+ Remains completely deserted during the rest of the days
+ mandir ke andar shriram, lakshmana, hanuman or sita kii bahut hi sundar murtiya he
+ a statue of Dhurnadhari Ram is made as if he is talking something serious with shaking hands
+ duusari murti main ram sitaaji kii ore dekhakar mand muskaan ke saath kuch kah rahe he
+ Both these idols are very captivating
+ yahaan sagar main lehren bilkul nahin aatin, isliye ekadam shant rahata he
+ Perhaps this is why the name of this place is Ekanta Ram
+ rameshwaram ke tapu ke dakshin bhaag main, samudr ke kinare, ek or darshneey mandir he
+ This temple is built at Ramanath Temple five miles away
+ yah kodand ‘swami ko mandir’ kehalaata he
+ It is said that Vibhishana took refuge of Rama here
+ ravan-vadh ke baad ram ne isi sthaan par vibhishana kaa rajtilak karaayaa tha
+ The idols of Rama, Sita and Lakshmana are worth seeing in this temple
+ vibhishana kii bhi murti alag sthapit he
+ Rameshwaram is also said to have many special places in the sea that surrounds it, where bathing is considered a sin-free
+ ramnathji ke mandir ke purvi dwaar ke saamne bana hua sitakund inamen mukhya he
+ It is said that this is the place where Sitaji entered the fire to prove his Sattva
+ sitaaji ke aisa karte hi aag bujh gai or agni-kunda se jal umad aayaa
+ The same place is now called 'sitakund'
+ yahaan par samudr kaa kinaaraa aadha golakaar he
+ The ocean is very calm
+ usamen lehren bahut kam uthati he
+ For this reason, he looks like a pond
+ yahaan par bina kisi khatren ke snaan kiya ja saktaa he
+ Here floating stones are also seen in Hanuman Kund
+ rameshwaram se saat mile dakshin main ek sthaan he, jise ‘darbhashaynam’ kehete he; yaheen par ram ne pehle samudr main sethu baandhna shuru kiya tha
+ For this reason, this place is also called Adi Setu
+ rameshwaram ke samudr main tarah-tarah kii kodiyaan, shankh or seepen milti he
+ White colored coral is also found at some places
+ rameshwaram keval dharmik mahatv kaa tirth hi nahin, prakritik saundarya kii drushti se bhi darshneey he
+ a train from Madras delivers passengers to Rameshwaram in about twenty two hours
+ raste main pamban stesan par gaadi badalani padati he
+ A
+ ^ Saurastre Somnath
+ s Srisailam Mallikarjunam
+ kha
+ ^ skanda puraana, C
+ ^ Nalarshke mahasetu medhe nadnandipate:
+ arthath: ravan kii lanka par vijay paane main samudr paar janaa sabase kathin chunauti thi
+ D
+ ^ Abraveecha Hanumanscha Sugrivarsha Vibhishanam
+ kathan sagaramkshobhyan taraam varunalayam
+ Ch
+ ^ Sunu Kapis Lankapati Bira
+ kehi bidhi tariu jaladhi gambhira
+ Ch
+ ^ Tasmin vikrishte sahas raghaven sharasne
+ ja
+ ^ tab samudr ne ram ko swayan hi apane upar pul banane kii yukti batalaai thi - j ^ maah chuchak begum (farsi: ماہ چوچک بیگم1564 main mrityu ho gai, thi angreji main iskaa matlab "moon Flower"hota he ye mogul badshaah humayun kii duusari patni thi or main mogul samrajya kii maharani thi ' inhone naayab soobedaar ko baahar phenk diya or ek baar begum ne sena pramukh or jalalabad main munim khan ko haraaya tha tathaa kabul par shashan karne vaali ek mahatvakankshi mahila thi' Rajaram Mohan Roy established the Atmiya Sabha in 1814 which was a leader of the Brahmo Samaj! Rajaram Mohan Roy is called the father of Indian Renaissance! vaidic dharmapar ek shrenee kaa bhaag Salvation dhyaan yoga The sermon that Shri Krishna preached to Arjuna in the battlefield of Kuru region is known as Srimad Bhagavadgita
+ yah mahabharat ke bhishmaparv kaa ang he
+ The Gita has 18 chapters and 720 verses
+ jaisaa gita ke shankar bhashya main kaha he- tan dharman bhagawata yathopadisht vedavyas: sarvagyobhagavan gitakhyai: saptabhi: shlokashatairu panibandh
+ It is known that in the early 20th century, in front of Geeta Press Gorakhpur, there was the same text of Geeta which is available to us today
+ 20veen sadi ke lagbhag bhishmaparv kaa java kii bhashaa main ek anuwaad hua tha
+ Many basics are also safe in it
+ shripad krishna belwelkar ke anusaar java ke is pracheen sanskaran main gita ke keval saadhe ikyasi shloke mul sanskrit ke hai
+ They also support the current text
+ gita kii gananaa prasthaantrayee main kii jaati he, jisamen upanishad or brahmasutra bhi sanmilit hai
+ Therefore, according to Indian tradition, the place of Gita is the same as that of Upanishads and Brahmasutras
+ gita ke mahatmaya main upanishdon ko gau or gita ko uskaa dugdh kaha gaya he
+ This means that the Gita accepts the spirituality of the Upanishads in the Sarvansh
+ upanishdon kii anek vidyaayein gita main hai
+ For example, Ashwattha lore in relation to the nature of the world, Avyayamusha lore in the context of eternal Ajna Brahma, Aksha Purushu vidha in the matter of Para Prakriti or Jiva, and Ksharapurushu Vidya concerning Apara Prakriti or material world
+ is prakaar vedon ke brahmavaad or upanishdon ke aadhyatm, in donon kii vishisht saamagree gita main sannivisht he
+ In the words of Pushpika it is called theology
+ gita main 'brahmavidya' kaa aashay nivrittiparak gyanmarg se he
+ It is called Sankhyamat with which the Nivitvarigi Vibhagya is associated
+ lekin gita upanishdon ke mode se aage badhkar us yug kii dein he, jab ek nayaa darshan janm le rahaa tha jo grihasthon ke pravriti dharm ko nivritti maarg ke samakaksh or utana hi faldaayak maanata tha
+ The same signifies the word 'yogashastra' in the Pushpika of the Gita
+ yahan ‘yogashastre’ kaa abhipraay ni:andeh karmyog se hi he
+ Two definitions of yoga are found in the Gita
+ ek nivritti maarg kii drushti se jisamen ‘samatvam yoga uchyate’ kaha gaya he arthath gunon ke vaishamy main samyabhav rakhana hi yoga he
+ This is the position of Sankhya
+ yoga kii duusari paribhaasha he ‘yoga: karmsu kaushalam’ arthath karmon main lage rahane par bhi aise upaay se karm karnaa ki vah bandhan kaa kaaran na ho or karm karanevaala usee asang yaa nirlep sthiti main apane ko rakh sake jo gyanamargiyon ko milti he
+ The name of this device is Buddhayog and this is the essence of the Yoga of the Gita
+ gita ke duusare adhyay main jo ‘tasya pragnapratishthita’ kii dhun pai jaati he, uskaa abhipraay nirlep karm kii kshamtavali buddhi se hi he
+ This was not a situation of attaining renunciation by the renunciation of karma, but a plan to elevate the pre-existing mind to a state of disinterest while performing karma
+ yahi gita kaa karmyog he
+ Just as in many places in the Mahabharata, so is the interpretation and appreciation of the Sankhya path of Sankhya and the path of Karma
+ ek kii ninda or duusare kii prashansa gita kaa abhimath nahin, donon maarg do prakaar kii ru chi rakhanevaale manushyon ke liye hitkar ho sakate hai or hai
+ Probably no other book of the world renders the scripture of Karma with this beauty, this subtlety and objectivity
+ is drushti se gita adbhut maanviya shaastra he
+ Its vision is not one-sided, but all-round
+ gita main darshan kaa pratipaadan karte hue bhi jo sahitya kaa anand he vah isaki atirikt visheshta he
+ The description of the philosophy through cultured poetry is the personal grief of the Gita, which does not remain without enchanting any heart
+ isiilie iskaa naam bhagavadgita padaa, bhagavan kaa gaaya hua gyaan
+ The background of the Srimad Bhagavad Gita is the war of Mahabharata
+ jis prakaar ek saamaanya manushya apane jivan kii samasyaon main ulajhakar kinkartavyavimudh ho jaataa he or uske pashchaat jivan ke samarangan se palaayan karne kaa man bana letaa he usee prakaar arjuna jo mahabharat kaa mahanayake he apane saamne aane vaali samasyaon se bhaybheet hokar jivan or kshatriya dharm se niraash ho gaya he, arjuna kii tarah hi ham sabhi kabhi-kabhi anishchay kii sthiti main yaa to hataash ho jate hai or yaa phir apni samasyaon se udign hokar kartavya vimukh ho jate hai
+ The sages of India, after deep thought, imbibed the knowledge they gave to the Vedas
+ inhen vedon kaa antim bhaag upanishad kehalaata he
+ The characteristic of human life is the intellectual power acquired by human beings, and the knowledge contained in the Upanishads is not only the highest state of human intelligence but also gives a glimpse of what man can experience beyond the limits of intellect
+ gita ke 18 adhyyon main varnit vishyon kii bhi kramprapt sangati he
+ The name of the first chapter is Arjunvishad Yoga
+ vah gita ke upadesh kaa vilakshan naatakeey rangamanch prastut karata he jisamen shrota or vaktaa donon hi kutuhal shanti ke liye nahin varan jivan kii pragadh samasya ke samaadhaan ke liye pravrutt hote hai
+ Shaurya and patience, courage and strength made Arjuna's personality with the impressive amount of these four qualities and above all these four qualities were one and forgiveness, the other is wisdom
+ balpradhan kshatradharm se praapt honevaali sthiti main pahunchakar sahasaa arjuna ke chitt par ek duusare hi prakaar ke manobhaav kaa akraman hua, carpanya kaa
+ a strange kind of compassion filled his mind and his faint nature vanished
+ jis kartavya ke liye vah katibaddh hua tha usase vah vimukh ho gaya
+ On looking from above, his arguments in favor of this situation seem to be religious, but he himself has called it Karpanya Dosh and it is believed that due to this cuteness of mind, his natal nature was hurt or destroyed
+ vah nirnay nahin kar paa rahaa tha ki yuddh kare athwa vairaygy le le
+ What to do, what not to do, was not understood
+ is manobhaav kii charam sthiti main pahunchakar usne dhanushbaan ek ore daal diya
+ Krishna saw Arjuna's condition that Arjuna's body was fine but before the start of the war, the morale of that wonderful Kshatriya was broken
+ bina man ke yah sharir khadaa nahin rah saktaa
+ Therefore, a guru duty came in front of Krishna
+ at: tark se, buddhi se, gyaan se, karm kii charchaa se, vishwa ke swabhaav se, usamen jivan kii sthiti se, donon ke niamak avyay purush ke parichay se or us sarvopari param sattavan brahm ke saakshaat darshan se arjuna ke man kaa uddhaar karnaa, yahi unka lakshya hua
+ The subject of this discussion is Gita
+ pehle adhyay main saamaanya reeti se bhoomika rup main arjuna ne bhagwaan se apni sthiti kah di
+ The second chapter is named Sankhyayoga
+ isamen jivan kii do pracheen sanmanit paramparaon kaa tarkon dwaara varnan aayaa he
+ Seeing Arjuna weeping in that sorrowful condition, Krishna has brought to his attention that this type of claviness and petty infirmity of heart is not suitable for a hero like Arjun
+ krishna ne arjuna kii ab tak di hui sab yuktiyon ko pragnawad kaa jhootha rup kaha
+ His trick is that Pragyadarshana essentially accepts all the events and situations of the world from time, karma and nature
+ jeena or maranaa, janm lenaa or badhanaa, vishyon kaa aana or janaa
+ Experiences of happiness and sorrow, these occur only in the world, this was also called the ancient Acharya synonymism
+ kaal kii chakragati in sab sthitiyon ko laati he or le jaati he
+ After knowing this nature of life, there is no mourning again
+ yahi bhagwaan kaa vyangy he ki pragna ke drushtikon ko maanate hue bhi arjuna is prakaar ke moh main kyon pad gaya he
+ An essential part of the above view was the continuity of life and the impermanence of the body
+ nity jeev ke liye shok karnaa utana hi vyarth he jitna anitya sharir ko bachaane kii chintaa
+ Both of these are unavoidable
+ janm or mrityu baari baari se hote hi hai, aisa samajhakar shok karnaa uchit nahin he
+ Then another view is of apostasy
+ janm se hi prakruti ne sabake liye ek dharm niyat kar diya he
+ In it comes the path of life, the periphery of desires, the power of karma
+ isse nikal kar nahin bhaaga ja saktaa
+ Even if someone runs away, nature again pulls him
+ is prakaar kaal kaa parivartan yaa pariman, jeev kii nityata or apana swadharm yaa swabhaav jin yuktiyon se bhagavan, ne arjuna ko samajhaayaa he use unhone sankhya kii buddhi kaha he
+ Further, even after Arjuna did not question, he also described the wisdom of the yogamarga
+ yah buddhi karm yaa pravriti maarg ke aagrah kii buddhi he isamen karm karte hue karm ke fal kii aasakti se apane ko bachaana aavashyak he
+ The biggest fear for the Karmayogi is that he gets trapped in the party of desire for fruit; He should avoid it
+ arjuna ko andeh hua ki kya is prakaar kii buddhi praapt karnaa sambhav he
+ What would be the situation of a person if he did deeds and no fruit, it was a practical doubt
+ usne poocha ki is prakaar kaa drudh pragnawala vyakti jivan kaa vyavhaar kaise karata he? aana, janaa, khaanaa, pinaa, karm karnaa, unamem lipt hokar bhi nirlep kaise rahaa ja saktaa he? krishna ne kitne hi prakaar ke bahya indriyon kii apeksha man ke sanyam kii vyakhya kii he
+ Through work, anger, fear, raga, malice, the mild mind is disturbed and the senses are not in control
+ indriyajay hi sabase badi aatmajay he
+ Even if someone gives up subjects from outside, the inner mind does not agree
+ vishyon kaa swaad jab man se jaataa he, tabhi man prafullit, shant or sukhi hota he
+ Rivers come in the sea, but he does not give up his dignity
+ aise hi sansar main rahete hue, uske vyavhaaron ko sweekaarte hue, anek kaamanaayon kaa pravesh man main hota rahata he
+ But those who do not lose their dignity only get peace
+ ise pracheen aadhyatm paribhaasha main gita main brahmisthiti kaha he
+ Thus, listening to the answer of Sankhya's explanation, in the third chapter called Karmayoga, Arjuna asked a clear question to get deeper into the subject that Sankhya and Yoga do you think well in both these passages and why not say that i am in both of them Whom should i adopt? To this, Krishna replied with the same clearness that there are two loyalties or lifespans in the world - jnana yoga for the Samkhists and karmayoga for the Karmargamis
+ yahan koi vyakti karm chhod hi nahin saktaa
+ Nature compels a person to perform actions with the effect of all three qualities
+ karm se bachnewaalon ke prati ek badi shankaa he, vah yah ki ve upar se to karm chhod baithte hai par man hi man usamen duube rahete hai
+ This situation is unbearable and Krishna has called it falsehood in the Gita
+ man main karmedriyon ko rokkar karm karnaa hi saral maanviya maarg he
+ Krishna even said as a challenge that without karma one cannot get food to eat
+ phir krishna ne karm ke vidhaan ko chakra ke rup main upasthit kiya
+ Not only are the creations of different persons threaded together on the social plane, but the relationship between man on earth and God of heaven is also dependent on the action cycle
+ pratyaksh he ki yahan manushya karm karte hai, krishi karte hai or daivi shaktiyaan vrishti kaa jal bhejti hai
+ Both grain and purgenes arise from karma
+ ek main maanviya karm, duusare main daivi karm
+ Then in favor of Karma, the idea of lok Sangraha has been given, that is, without Karma, the structure of society cannot stand
+ jo lok ke netaa hai, janak jaise gyani hai, ve bhi karm main pravriti rakhte hai
+ Krishna himself gave his own illustration and said that i am the form of Narayana, there is no work left for me
+ phir bhi tandrarahit hokar karm karata hoon or anya log mere maarg par chalate hai
+ The difference is that those who are foolish do the work by indulging but the knowledgeable does the work with disrespect
+ gita main yaheen ek sabhipraay shabd buddhibhed he
+ That is, it is not proper to uproot the people of ordinary understanding who are engaged in karma, because they cannot become knowledgeable, and if their karma is missed, then they will go astray on both sides
+ chauthe adhyay main, jiskaa naam gyaan-karm-sanyas-yoga he, yah bataaya gaya he ki gyaan praapt karke karm karte hue bhi karmsanyas kaa fal kis upaay se praapt kiya ja saktaa he
+ In this true Karmayoga is considered to occur in the tradition of the Chakravarti kings
+ mandhata, sudarshan aadi anek chakravarti raajaaon ke drushtaant die gaye hai
+ This is the famous assurance of the Gita that when there is defamation of religion, then there is an incarnation of God among humans, that is, the power of God is especially tangible
+ yaheen par ek vaakya vishesh dhyaan dene yogya he- kshipran hi manushe loke siddhirbhavatee karmaja 
+ 'karma se siddhi' - There is no more effective sutra in Gitadarshan
+ kintu gitatv is sutara main itnaa sudhaar or karata he ki vah karm asang bhav se arthath falasakti se bachakar karnaa chahie
+ In the fifth chapter, again she has gone somewhere in the form of tips and perseverance
+ isamen karm ke saath jo man kaa sambandh he, uske sanskaar par yaa use vishuddh karne par vishesh dhyaan dilaayaa gaya he
+ It has also been said that there is no difference between Sankhya and Yoga by reaching a high level
+ kisi ek maarg par thik prakaar se chale to samaan fal praapt hota he
+ By surrendering all the deeds of life, a person reaches the pole point of absolute peace and does not indulge in karmic water like a lotus blooming in water
+ chatha adhyay aatmasanyam yoga he jiskaa vishay naam se hi prakat he
+ The number of subjects is the restraint of the most senses - this is the squeeze of karma and knowledge
+ sukh main or dukh main man kii samaan sthiti, ise hi yoga kehete hai
+ The noun of the seventh chapter is Jnana Vigyan Yog
+ ye pracheen bhartiya darshan kii do paribhaashaayen hai
+ Among them, the word science was very important from the Vedic point of view
+ sristi ke nanaatv kaa gyaan vigyaan he or nanaatv se ekatv kii ore pragati gyaan he
+ Both these views are suitable for humans
+ is prasang main vigyaan kii drushti se aparaa or para prakruti ke in do roopon kii jo sunishchit vyakhya yahan gita ne di he, vah avashya dhyaan dene yogya he
+ Apara Prakriti has eight elements, Panchabhuta, Mind, Wisdom and Ego
+ jis and se maanav kaa janm hota he
+ These eight live in it
+ kintu yah praakrit sarg he arthath yah jad he
+ In this, the consciousness that comes from contact with the efforts of God is called Para Prakriti; He is a living being
+ aath tatwon ke saath milakar jivan navaan tatv ho jaataa he
+ In this chapter, many forms of God are mentioned, whose further expansion comes in the tenth chapter called Vibhutiog
+ yaheen vishesh bhagwati drushti kaa bhi ullekh he jiskaa sutara-vasudev: sarvamiti, sab vasu yaa shariron main ek hi devtatv he, usee kii sangya vishnu he
+ But in the people according to their own idi, the same deity is worshiped in many names and forms
+ ve sab thik hai
+ But it is good that a wise person recognizes the universe which is the highest peak of spiritual science
+ aathven adhyay kii sangya akshar brahmyog he
+ Akshar Vidya expanded in Upanishads
+ gita main us aksharavidya kaa saar kah diya gaya he-akshar brahm paraman, arthath parabrahm kii sangya akshar he
+ Spirituality is the name of the combined composition of man, that is, organism and body
+ jeevasanyukt bhautik deh kii sangya kshar he or keval shaktitatv kii sangya aadhidaivak he
+ The way these three powers work together in the body, the God, and the ghost are called Adhigyas
+ gitakar ne do shlokon main in chah paribhaashaon kaa swaroop band diya he
+ In the words of Gita, ॐ monosyllable is Brahman
+ nawein adhyay ko raajaguhyayog kaha gaya he, arthath yah aadhyatm vidya vidyaraji he or yah guhya gyaan sabamein shreshth he
+ The word Raja also had a meaning in mind
+ atev man kii divya shaktimayon ko kis prakaar brahmamay banaaya jaay, isaki yukti hi rajvidya he
+ In this area, the representation of Brahmanism is predominant, from which the creation of the expressed world is repeated
+ veda kaa samast karmkand yajna, amrit, or mrityu, sant or asant, or jitne bhi devi devtaa he, sabakaa paryavsaan brahm main he
+ The variety of Devpuja which is popular in the world is also right in its place, this vision of coordination was acceptable to the Bhagwat Acharyas, in fact it was their great power
+ isi drushtikon kaa vichaar yaa vyakhya dasven adhyay main pai jaati he
+ Its name is Vibhutiog
+ iskaa saar yah he ki lok main jitne devtaa hai, sab ek hi bhagwaan, kii vibhutiyaan hai, manushya ke samast gun or avagun bhagwaan kii shakti ke hi rup hai
+ Wisdom may be able to explain these liberated gods, but they are there in the world
+ koi pipal ko pooj rahaa he
+ Some mountain, river or sea, some fish and turtles
+ yon kitne devtaa hai, iskaa koi ant nahin
+ This abundance of deities is found everywhere in the history of the world
+ bhagwaton ne inaki satta ko sweekaarte hue sabko vishnu kaa rup maanakar samanvay kii ek nai drushti pradaan kii
+ Its name is Vibhutiog
+ jo satv jeev balayukt athwa chamatkarayukt he, vah sab bhagwaan kaa rup he
+ Considering this, the mind gets into an uncontrolled state
+ 11wein adhyay kaa naam vishvaroopadarshan yoga he
+ In this, Arjuna saw the world form of God
+ viraat rup kaa arth he maanviya dharaatal or paridhi ke upar jo anant vishwa kaa pranavant rachanavidhan he, uskaa saakshaat darshan
+ The quadrilateral form of Vishnu is benign on the human plane
+ jab arjuna ne bhagwaan kaa viraat rup dekha to uske mastak kaa visphoton hone laga
+ 'directo na jaane na labhe f shame' These same sentences of panic came out of his mouth and he prayed that the natural condition which God has placed for man is sufficient
+ 13wein adhyay main ek sidhaa vishay kshetra or kshetrajna kaa vichaar he
+ This is the body area, the person who knows it is a field expert
+ 14wein adhyay kaa naam gunatray vibhaag yoga he
+ This subject is the extract of all the Vedic, philosophical and mythological metaphysics — there are many interpretations of three qualities — trio called sattva, raja, tam
+ gunon kii samyavastha kaa naam pradhan yaa prakruti he
+ a pathless creation is born from the contrast of qualities
+ akelaa satv shant swabhaav se nirmal prakaash kii tarah sthir rahata he or akelaa tam bhi jadvat nishcesht rahata he
+ But Rajoguna, who is in the middle of the two, drags them to the ground of Chesta
+ gati tatv kaa naam hi rajas he
+ The name of the 15th chapter is Purushottamayoga
+ isamen vishwa kaa ashwatth ke rup main varnan kiya gaya he
+ This ashwattha-like world is a great expansion
+ desh or kaal main iskaa koi ant nahin he
+ But the root or center of it, which is called the upward, is Brahm
+ On the one hand, the ultimate glory, which gives rise to the cosmopolitan Ashwattha, is manifested in the form of the Sun and the Moon, on the other hand, it is in a Chaitanya center or Zoological
+ Is in the body
+ jaisaa gita main spasht kaha he-ahan vaishwanaro bhutva praninaan dehamashrith: 
+ There is no more mystery than globalism or pranamayi consciousness
+ nar yaa purush teen hai-kshar, akshar or avyay
+ The name of the Panchabhutas is Kshar, the name of Prana is Akshar and the noun of Manastattva or Consciousness is indestructible
+ inhen teen naron kii ekatra sthiti se maanvi chetana kaa janm hota he use hi rishiyon ne vaishwanar agni kaha he
+ In the 16th chapter, the department of Dewasur property is described
+ aarambh se hi rigdev main sristi kii kalpana daivi or asuri shaktiyon ke rup main kii gai he
+ It is a fantasy of two forms of creation, one good and the other bad
+ ek prakaash main, doosraa andhkaar main
+ One nectar, the other mortal
+ ek satya, doosraa anrut
+ The noun of the 17th chapter is Shraddhatraya Vigyan Yoga
+ iskaa sambandh sat, raj or tam, in teen gunon se hi he, arthath jisamen jis gun kaa pradurbhaav hota he, uski shraddha yaa jivan kii nishtha waisi hi ban jaati he
+ Yagya, penance, charity, deeds are all conducted with three types of devotion
+ yahan tak ki aahaar bhi teen prakaar kaa he
+ The Gita has explained their differences and characteristics here
+ 18wein adhyay kii sangya mokshasanyas yoga he
+ It contains a summary and epilogue of all the teachings of the Gita
+ yahan pun: balpurvak maanav jivan ke liye teen gunon kaa mahatv kaha gaya he
+ There is no one among the human beings of the earth and among the gods of heaven who is saved from these three qualities of nature
+ manushya ko bahut dekh bhalkar chalanaa aavashyak he jisase vah apni buddhi or vritti ko buraai se bachaa sake or kya kaary he, kya acarya he, isko pahchaan sake
+ The intellect which properly recognizes religion and unrighteousness, bondage and salvation, instinct and retirement, is the true wisdom and is the true achievement of man
+ is prakaar bhagwaan ne jivan ke liye vyaavhaarik maarg kaa upadesh dekar ant main yah kaha he ki manushya ko chahie ki sansar ke sab vyavhaaron kaa sachai se paalan karte hue, jo akhand chaitanya tatv he, jise ishwar kehete hai, jo prayek praani ke hriddesh yaa centre main virajman he, usamen vishwaas rakhe, uskaa anubhav kare
+ He is the entity's power, he is consciousness and he is the source of supreme bliss
+ sanskrit sahitya kii parampara main un granthon ko bhashya, kehete hai jo duusare granthon ke arth kii vrihad vyakhya yaa tikaa prastut karte hai
+ The Bhagavad Gita is also one of the three texts that had to clarify their perspective in order to establish any new philosophy or any new form of philosophy in the Indian philosophical tradition
+ gita par anek achaaryon evam vidwaanon ne tikaayen kii hai
+ Their short list according to sects is as follows: inke atirikt maharashtra sant gyandev yaa gyaneshwarkrut bhavarthadipika naam kii tikaa prasiddh he jo gita ke gyaan ko bhavatmak kavyastylee main prakat karti he
+ In the present era, Lokmanya Bal Gangadhar Tilakkrit Geetarasya Tika, which was first introduced in 1915 with very detailed role and deliberation
+ main puna se prakashit hui thi, gita sahitya main mahatvapurn sthaan rakhti he
+ He has made such a diversion in bringing the original meaning of Gita to scholars, which was not possible till today after Shankaracharya
+ vastut: shankaracharya kaa bhashya gita kaa mukhya arth gyanaprak karata he jabaki tilak ne gita ko karm kaa pratipadak shastr siddh kiya he
+ Among all the languages available on the Bhagavad Gita, the element of Shri Jayadayal Goindka is the most popular and popular
+ iskaa prakaashan gitapress ke dwaara kiya jaataa he
+ Aaj Tak has sold 100 million copies
+ shrimadbhagavadgita badalte saamaajik paridrishyon main apni mahatta ko banaae hue hai or isi kaaran takneekee vikaas ne isaki uplabdhta ko badhaayaa he, tathaa adhik bodhgamy banane kaa prayaas kiya he
+ In the serial Mahabharata, aired on Doordarshan, Bhagavad Gita was a special attraction, while in the serial Sri Krishna, the Bhagwad Gita was highly researched and shown as a series of episodes
+ isaki ek vishesh baat yah rahi ki gita se sambandhit saamaanya manushya ke sandehon ko arjuna ke prashnon ke madhyam se uttarit karne kaa prayaas kiya gaya
+ Apart from this, the serial gita-rahasya by Nitish Bhardwaj was completely focused on different dimensions of Gita itself
+ internet par bhi aaj anekanek websiten is vishay par bahumadhyamon ke dwaara vishad jaankaree detii hai
+ Shrimad Bhagwadgita is currently attracting attention of people not only in India but also abroad with her philosophical approach towards life more than religion
+ nishkaam karm kaa gita kaa sandesh prabandhan guruon ko bhi lubhaa rahaa he
+ It is included in the most famous books of all religions of the world
+ gita press gorakhpur jaisi dharmik sahitya kii pustakon ko kaaphi kam mulya par uplabdh karaane vaale prakaashan ne bhi kai aakaar main arth or bhashya ke saath shrimadbhagavadgita ke prakaashan dwaara ise aam janata tak pahunchane main kaaphi yogadan diya he
+ The teachings of the Gita are very ancient yoga
+ shri bhagavan kehete hai ise maine sabase pehle surya se kaha tha
+ The Sun is the symbol of knowledge, so the words of Shri God mean that even before the creation of the earth, i have given this knowledge to the devotees who have done many forms of research
+ yah ishwariya vaani he jisamen sampoorn jivan kaa saar he evam aadhaar he
+ Who am I? What is this body? Is my beginning and end with this body? Will i exist after my body renunciation? Where and in what form will this existence exist? What is the reason for me coming into the world? What will happen after leaving my body, where will i go? These things keep revolving in the heart of any curious person
+ ham sadaa in baton ke bare main sochate hai or apane ko, apane swaroop ko nahin jaan pate
+ In the Gita Shastra, the answers to all these questions have been readily given by Shri Bhagwan through religious dialogue
+ is deh ko jisamen 36 tatv jeevatma kii upasthiti ke kaaran judakar kaary karte hai, kshetra kaha he or jeevatma is kshetra main nivas karata he, vahi is deh kaa swami he parantu ek teesraa purush bhi he, jab vah prakat hota he; adhidaiv arthath 36 tatwon vaale is deh ko or jeevatma kaa naash kar daalata he
+ This perfect man is the ultimate state and ultimate truth
+ yahi nahin, deh main sthit or deh tyagkar jate hue jeevatma kii gati kaa yatharth vaigyanik env tarksangat varnan gita shaastra main hua he
+ The soul is eternal and the soul has attained the spirit of life
+ sharir ke mar jane par jeevatma apane karmanusaar vibhinn yoniyon main vicharan karata he
+ The Gita begins with the word Dharma and at the end of the eighteenth chapter of the Gita it is called Dharma Samvad
+ dharm kaa arth he dhaaran karne vaala athwa jise dhaaran kiya gaya he
+ The one who holds is called the soul and the one who holds it is nature
+ aatma is sansar kaa beej arthath pita he or prakruti garbhadhaaran karne vaali yoni arthath mata he
+ The word Dharma is used in the Gita from place to place for self-nature and living nature
+ isi paripeksh main dharm evam adharm ko samajhnaa aavashyak he
+ The nature of the soul is religion or it is said that religion is spirit
+ aatma kaa swabhaav he purna shuddh gyaan, gyaan hi anand or shaanti kaa akshay dham he
+ On the contrary, ignorance signifies unrest, tribulation and unrighteousness
+ aatma akshay gyaan kaa strot he
+ Kriya Shakti arises from different amounts of knowledge power, birth of nature
+ prakruti ke gun satva, raj, tam kaa janm hota he
+ Excess of sattva-raja gives rise to religion, demonic circles prevail in excess of tam-raja and the establishment of dharma means to establish the nature of virtues, for the growth of satoguna, soul attaining indestructible Brahmi status, its resolve She incarnates herself and performs incarnation
+ sampoorn gita shaastra kaa nichod he buddhi ko hameshaa sookshm karte hue mahabuddhi aatma main lagaaye rakkho tathaa sansar ke karm apane swabhaav ke anusaar saral rup se karte raho
+ It is easy to do nature's karma and it is difficult to follow the other's nature's karma, because every living being is born with a different nature, it becomes easy to live in the nature that has come into the world
+ shri bhagwaan ne sampoorn gita shaastra main baar-baar atmrat, aatm sthit hone ke liye kaha he
+ It is easy for the intellect to become detached while doing natural deeds, so it is considered the definitive path
+ yadhyapi alag-alag dekha jaay to gyaan yoga, buddhi yoga, karm yoga, bhakthi yoga aadi kaa gita main upadesh diya he parantu sookshm drushti se vichaar kiya jaay to sabhi yoga buddhi se shri bhagwaan ko arpan karte hue kiye ja sakate hai isse anasakt yoga nishkaam karm yoga swatah siddh ho jaataa he
+ Just as before Newton the force of gravity worked, but Newton gave the terms of the term to make the world aware of the proclaimed principles of "law of gravity", which is known as Newton's theory of gravitation
+ thik usee prakaar sree krishna dwaara gita main pratipaadit tatv gyaan krishna ke pehle bhi tha, jo aaj srimad bhagavad gita ke rup main prachlit he
+ 
+ Shreemadbhagvatgeeta ka bhashya sambhavatah sanskrit ke vyakaranacharya paanini krit astadhayi se prerit hai parantu vibhinah purva ke paandulipi ke samuchit adhyan dwara vishesh arth nikala ja sakta hai
+ sampoorn bhagwat gita hindi va sanskrit main PDF The Asian Infrastructure Investment Bank is an international financial institution
+ jiskaa uddeshy asia- prashanth kshetra main buniyadi dhaanche ke nirmaan kaa samarthan karnaa he
+ The bank was proposed by the Chinese government china ke vitt mantri lu jivei ko e ai ai bi parishad kaa pehla chairman niyukt kiya gaya
+ Former Finance Minister Jin Liqun was elected President who will have a term of 5 years
+ bharat sahit 57 desh Energy, education, health, transportation etc
+ viki loves monuments: viki smarakon ko pyaar karata he sitambar ke maheene ke dauraan yojit ek vaarshik antarrashtriya photographic pratiyogita he, jo duniya bhar main sthaneey vickemedia sahyogiyon kii sahaayta se vikipedia samudaay ke sadasyon dwaara duniya bhar main yojit kii jaati he
+ Participants take photographs of local historical monuments and heritage sites in their area, and upload them to Wikimedia Commons
+ ghatana kaa uddeshy bhaag lene vaale deshon kii viraasat sthalon ko hilite karnaa he taaki logon ko in smarakon kii tasviren capchar karne ke liye protsaahit kiya ja sake or unhen ek muft license ke tahat rakhaa ja sake, jise na keval vikipedia main balki har jagah har kisi ke dwaara phir se upyog kiya ja saktaa he
+ The first wiki commemorative competition was held in the Netherlands in 2010 as a pilot project
+ agle varsh yah europe ke anya deshon main fail gaya or ginis book of records ke anusaar, viki loves smarakon ke 2011 sanskaran ne sabase badi photography pratiyogita ke liye vishwa record tod diya
+ In 2012, competition was extended beyond Europe with a total of 35 participating countries
+ viki ke dauraan 2012 smarakon ko pyaar karata he, aitihaasik smarakon kii 350,000 se adhik tasviren 15,000 se adhik pratibhaagiyon dwaara aplod kii gai thim
+ In 2013, the Vicky Love Memorial Competition was held in six continents including Antarctica and was the official participation of over fifty countries around the world
+ dablulem kaa 2016 sanskaran unesco dwaara samarthit tha or 43 deshon ke 10,700 pratiyogiyon ko dekha jinhone 277,000 photo jamaa kiye
+ 
+ sanyukt rajya mexico, saamanytah mexico ke rup main janaa jaataa ek desh he jo kii uttar america main sthit he
+ It is a federal constitutional republic
+ yah sanyukt rajya america ke uttar par seemaa se laga hua hai
+ The South Pacific Ocean is to its west, Guatemala, Belize and the Caribbean Sea to its south and the Gulf of Mexico is to its east
+ mexico lagbhag 2 million varg kilometre main failaa hua hai, mexico america main paanchavaa or duniya main 14 vaa sabase bada swatantra raashtra he
+ With an estimated population of 11 crores, it is the 11th most populous country
+ mexico ek ektis rajyon or ek sangheey jila, rajdhani shaamil federation he
+ Belize · Costa Rica · El Salvador · Guatemala · Honduras · Nicaragua · Panama 1 mexico2 Melkhet is a village in the Pithoragarh district of the Kumaon division under the state of Uttarakhand in Devalathal tehsil of India
+ aisa mana jaataa he ki san 1000 isapurv se pehle maharashtra main kheti hoti thi lekin us samay mausam main achaanak parivartan aayaa or krishi ruk gai thi
+ Mumbai emerged as an important port around 500 BC
+ yah soper old testament kaa ophir tha yaa nahin is par vidwaanon main vivaad he
+ In the ancient 16 Mahajanapadamhajanapadas, the place of Ashmak or Assak is in the vicinity of modern Ahmednagar
+ samraat ashok ke shilaalekh bhi mumbai ke nikat paae gaye hai
+ After the fall of the Mauryas, the Yadavas emerged here
+ vakatakon ke samay ajanta gufaaon kaa nirmaan hua
+ The Chalukyas ruled first 550–760 and again 973–1180
+ iske bich rashtrakooton kaa shashan aayaa tha
+ Alauddin Khilji was the first Muslim ruler who extended his empire south to Madurai
+ uske baad mohammad bin tughlaq ne apni rajdhani dilli se hataakar daulatabad kar lee
+ This place was earlier known as Devagiri and is located near Ahmednagar
+ bahamani sultanate ke tuutane par yah pradesh golkunda ke ashasan main aayaa or uske baad aurangzeb kaa sankshipt shashan
+ After this, the power of the Marathas grew progressively and by the end of the eighteenth century, the Marathas had almost spread over Maharashtra and their empire reached the southern tip of Karnataka in the south
+ 1820 tak aate aate angrejon ne peshwaon ko purnatah haraa diya tha or yah pradesh bhi angreji samrajya kaa ang ban chukaa tha
+ Attachment means having a particular interest in something
+ thailand jiskaa pracheen bhartiya naam shyamdesh he dakshin purvi asia main ek desh he
+ It has Laos and Cambodia on its eastern border, Malaysia on its southern border and Myanmar on its western border
+ 'syam' hi 11 may, 1949 tak thailand kaa adhikrut naam tha
+ The word Thai means 'free' in the Thai language
+ yah shabd thai nagarikon ke sandarbh main bhi istemaal kiya jaataa he
+ Because of this, some people, especially the Chinese who settled here, still like to call Thailand by the name Syam
+ thailand kii rajdhani bainkak he
+ In today's Thai territory, humans have been living for the last 10,000 years
+ khmer samrajya ke patan ke pehle yahan kai rajya the - tai, malay, khmer ityadi
+ The Sukhothai kingdom was established in 1238, which is considered to be the first Buddhist Thai state
+ lagbhag ek sadi baad ayudhya ke rajya ne sukhathai ke upar apni prabhutaa sthapit kar lee
+ After the fall of Ayudhya in 1767, Thomburi became the capital
+ san 1782 main bangkok main chakri rajvansh kii sthapana hui jise aadhunik thailand kaa aarambh mana jaataa he
+ In the war with European powers, Syam had to return some territories which are today part of Burma and Malaysia
+ dwitiya vishwayuddh main yah japan kaa sahyogi rahaa or vishwayuddh ke baad america kaa
+ Thailand was declared a new constitutional monarchy in 1992 when it was overturned
+ dharm or rajtantr thai samskruti ke do stambh hai or yahaan kii dainik jindagi kaa hissaa bhi
+ Buddhism is the main religion here
+ gerue vastra pahane buddha bhikshu or sone, sangemarmar va pathar se bane buddha yahaan aamtaur par dekhe ja sakate hai
+ Take special care of your clothes before going to the temple here
+ in jagahon par chote kapade pahan kar aana manaa he
+ The classical music of Thailand seems very close to the music of Chinese, Japanese, Indian and Indonesian
+ yahaan bahut kii nrity sheliyaan hai jo naatak se judi hui hai
+ Ramayana has an important place among them
+ in kaaryakramon main baari paridhaanon or mukhauton kaa prayog kiya jaataa he
+ In ancient times, it was a country which completely believed in Hindu culture, but 2000 years ago, the propagation of Buddhism started here
+ Almost all the people of this country accepted Buddhism
+ But Hindu culture still exists here today
+ bangkok thailand kii rajdhani he
+ There are many things that attract tourists here
+ inamen se sabase prasiddh hai marine park or safari
+ The trained dolphins at Marine Park show off their tricks
+ yah kaarykram bacchon ke saath-saath bado ko bhi khub lubhaata he
+ Safari World is the largest open zoo in the world
+ yahaan asia or africa ke lagbhag sabhi vanya jeevon ko dekha ja saktaa he
+ The journey here is exhausting but exciting
+ raste main khanpan kaa intjaam bhi he
+ Pattaya is Thailand's most prominent tourist destination after Bangkok
+ yahaan bhi ghoomane-phirane laayak anek khubasurat jagah hai
+ The number one comes in the first place is Replace Believe It and Not Museum
+ yahaan kaa infinity mej or 4 di moshan theatre kii saiyr bahut hi romaanchak he
+ The ghostly tunnel here makes people feel ghosts, yet tourists come here in large numbers
+ yahaan ke coral island par parasailing or water spots kaa anand uthaaya ja saktaa he
+ Glass-bottomed boats are also available here, from which aquatic creatures and corals can be seen
+ coral island main ek ratna ddeergha bhi he jahaan bahumoolya se ratnon ke baar main jaankaree lee ja sakati he
+ But before coming to this island, know that there is a dress code which is required to be followed
+ koi paryatak pattya aae or alkaajar cabarat na jaae aisa nahin ho saktaa
+ Dance, music and other programs can be enjoyed here
+ yahaan hone vaale kaaryakramon kii khaas baat yah he ki isamen kaam karne vaali khubasurat abhinetriyaan vastav main purush hote hai
+ It is the largest, most populous island in Thailand
+ sabase zyada paryatak yahaan aate hai
+ This place full of colors has developed mainly due to tourism
+ is dweep main kuch rochak bazaar, mandir or chini-portugali sabhyataa kaa anokhaa sangam dekha ja saktaa he
+ Here Sabse is more populated by Thai and Nepali
+ nadi ke saath basaa ayutheya udyaan unesco kii vishwa dharohar suchi kaa hissaa he
+ Temples are built here on all sides
+ kisi samay yahaan par nagar basaa hua tha
+ Many relics can still be seen here, such as vat frra si sanpute, vat mogkhon bofit, vat na phra meru, vat thammikrat, vat rataburna and vat phra mahathat
+ in jagahon par gaadi nahin ja sakati isliye yahaan paidal kii aaen
+ Chiang Mai is the second largest city in Thailand, about 700 kilometers from Bangkok
+ puraani duniya kaa ahsaas karaate is shahar main kareeb 300 se zyada mandir hai
+ From here you can also see the mountains
+ yah shahar aadhunik bhi hai jahaan aapako puri duniya ke rang mil jaaenge
+ Chiang Mai is the perfect place for people looking for food and shopping enthusiasts and lovers
+ bahut saare mandiron ke alaava yahaan par aaramdaayak udyaan, raat ko lagane vaale bazaar, khubasurat sangrahalay bhi hai jahaan par aaraam se samay guzaara ja saktaa he
+ Nakhon Pathom, west of Bangkok, is considered the oldest city in Thailand
+ yahaan ke phra pathom lady ko vishwa kaa sabase ooncha buddha smarak mana jaataa he
+ The original monument built by the Teravad Buddhists in the 6th century is now situated under a huge dome
+ bangkok main kharidari ke liye kai jagahen hai
+ Indra Market is famous for handmade goods
+ embike plaza brandid saamaan kii kharidari ke liye upyukt sthaan he
+ Clothing and Thai Knife can be purchased from The Supreme Tokyo
+ iske alaava thailand se resham, keemtee ratna or paintings bhi kharidi ja sakati hai
+ Princess Charlotte of Cambridge is the daughter of Prince William, Duke of Cambridge, and Catherine, Duchess of Cambridge
+ vah cambridge ke rajkumaar jorge ke baad, cambridge kii dampatti kii duusari santan he
+ She is the granddaughter of Charles, Prince of Wales, and Queen Elizabeth II
+ unka janm, pedington, landan ke saint meri aspataal main hua tha
+ Catherine's pregnancy was announced on September 8, 2014 at Clarence House
+ janm se, vah rani, elizabeth dwi• kii uttkadhikari hone kii rekha main chauthe sthaan par he
+ He is behind his grandfather, father, and older brother, Prince George of Cambridge
+ cambrij hith ek purv landan main tower hamelts baro kaa nagar he
+ Bethnal Green | Blackwall | Bo bromley-by-bo | Cambridge Heath | Kubit Town | Globe Town | Isle of Dogs | Limehouse | Mile End | Millwall | Old Ford | Poplar | Ratcliffe | Shadowwell | Spitalfields | Stepney | Vaping | Whitechapel acton |barking |barns |barnet |batersi |bekanham |barmandsi |bethanal green |bexlihith |bloomsbari |brentoard |brixton |bromali |kemberwel |camdan toun |karshalton |catoard |chelsi |chingfard |chisalaherst |chizik |city |clapaham |clerkanwel |koolsadan |croydan |degnaham |detuard |ealing |east ham |edmanton |eltham |enfield toun |feltham |finchali |fulaham |grenich |haikani |hamerasmith |hampsted |hero |hendan |hibri |hygate |hillingdon |holborn |hornsearch |hounslo |ilfard |oil of dogs |ijalworth |islington |kencington |cantish toun |kilbern |kingston apon tems |lambeth |luvisham |letten |mefare |micham |morden |nags head |new molden |orpington |padington |pekham |panj |pinner |popler |parly |patni |richmond |romuard |rislip |shaperds bush |shordich |sidcup |soho |southol |southget |stepni |stoke newington |stratuard |stritaham |serbiton |saton |sidnaham |tedington |temsmed |tooting |totnham |twiknaham |apaministar |aksabrij |valamsto |vandsworth |vansted |vaiping |weldstone |weyling |wembali |west ham |westminster |hwaiteapal |willsdan |vimbledon |wood green |woodfard |vulich Diddin Laga Vaaran is a village in Chamoli district of Garhwal division under the state of Uttarakhand in Tharali tehsil of India
+ sanvibhram ek gambhir bhavatmak vikaar he or tarksangat, susambaddha, jatil tathaa praaia: utpeedak vibhramon yaa mithyaa vishwaason kaa uttarottar badhata hua silsilaa iskaa aantarik lakshan he
+ a paranoid person has delusions of his ability, sovereignty, seniority, or constant torture
+ yah unmaad kaa hi ek rup he, parantu isamen anya sabhi maansik kriyaayein bahudhaa swaabhaavik avasthaa main rahati hai
+ a common reaction is the person's understanding that he or she was being discussed right away when a new person present in the room suddenly stops talking
+ kisi jansankul hotel main ghusane par sabhi apni ore dekh rahe hai yah samajhnaa bhi swabhavik pratikriya he, kintu sanvibhrami pratikriya main ye bhav sthaayee or vyapak ho jate hai
+ Pure paranoia is rare, some doubt its existence
+ yah madiraa yaa kokene ke chirkaalik vyasniyon main nashe kii avasthaa main, antarabandh jaise unmaad se sahcharit sthiti main, yaa uttejnaa sanvishad main swaabhaavik pratikriya ke rup main paaya jaataa he
+ In the complex depression of old age, the patient has a subjective, oppressive thoughts that give rise to feelings of inferiority and guilt
+ isamen rogi apane pichley paapon or aparaadhon ko bahut vishad rup se dekhtaa ore apane ko apradhi qaraar detaa he
+ He becomes extremely alert and thinks that everyone is looking at him with hatred
+ vah dur ke shor ko apni utpadit santan kaa, jo uske kukrityon kaa fal bhoga rahe hai, krandan samajhataa he or vah apane akshamya aparaadhon ke kaaran pralay kaa hona avashyabhavi samajhataa he
+ Ummat also conceives grand; For example, he understands that his benefactors are trying to elevate him to a higher position with his entire power
+ sanvibhrami vyakti main chidchidapan, ati samvedansheeltaa or aatmavishvaas kii kami hoti he
+ Inconvenient physical errors such as deafness stimulate the development of paranoid symptoms
+ kisi aisi aadat yaa paristhiti se jiske saath lajja kaa bhav sahcharit hota he or jise rogi chhipana chahta he, jaise hastmaithun, vikrut kamacharan, premavyapaar, avaidh janm, gupt surapan, se praaia: sanvibhram kaa silsilaa prarambh hota he
+ Symptoms of paranoia begin to manifest rapidly with the real or imagined opening of the mystery, and the patient realizes that his crime is known to all, whispers are about it everywhere, friends and relatives see him with suspicion, He tries to escape from her and conspires towards her
+ vah atyant udign ho jaataa he or dussah glani, aatmghaatee praytn, vikrut chetana yaa nirmul bhram kii gaun bhavatmak sthitiyaan uske man main utpann ho jaati hai
+ Symptoms of paranoia are also aggravated by illness, injury to self-aggrandizement, lack of promotion while others are being promoted, incidents like defeat in lawsuit, confinement to confinement
+ rogi apane vichaaron kaa sahi moolyankan nahin kar paata; udhaaharan ke liye, ek nyaayalay se duusare nyaayalay main maamla le janevaale or apane kanoonee paramarshdaata tak par bighad uthanevaala, sanvibhrami mukademebaaj is bhram main ho saktaa he ki vah keval yatharth ke liye nahin, balki ek brihattar siddhant ke liye sangharsh kar rahaa he
+ Except for serious patients with paranoia, consistent thinking and reasoning persist in ordinary patients, even making it difficult for a doctor to decide whether a person is actually paranoid or not
+ samaaj main kuch chirkaalik mand sanvibhrami vyakti saamaanya jeevanyaapan karte he or anaavashyak rup se satark hone ke kaaran apane parivaar or ghanisht mitron ko hi khatkate hai
+ Its treatment is difficult and laborious and in the treatment of severe paranoia, brain surgery is required, the result of which is very uncertain
+ purvi madhya indiana |mishiana |nau county kshetra |uttari indiana |uttar pashchimi indiana |dakshini indiana |vaabash ghati Anderson | Bloomington | Carmal | Columbus | East Chicago | Elkhart | Evansville | Fishers | Fort Wayne | Gary | Potion | Greenwood | Hammond | Indianapolis | Jeffersonville | Kokomo | Lafayette | Laurenceburg | Marion | Marilville | Michigan City | Mishawaka | Mansi | New Albany | Noblesville | Portage | Richmond | South Band | Terre Haute | Valparaiso | Western Lafayette adams |alan |bartholomiu |benton |blackfard |boon |brown |carol |cas |clark |clay |clinton |crockerd |davis |dekalb |diarborne |dekatur |delavare |dubois |elkhart |fayet |floid |fountain |franklin |phulton |gibason |grant |green |hamilatan |hancock |harrison |hendriks |henry |howard |hantington |jaikson |jaisapar |je |jaifarasan |jenings |johnson |naux |koskihasko |lagranz |lake |laa porte |laurence |medisson |merian |marshall |martin |miami |munro |montgomari |morgan |newton |nobel |ohayo |orange |oven |park |peri |pike |porter |posi |pulaski |patanam |rendolf |ripoli |rash |saint joseph |scot |shailbi |spencer |stark |stuben |salivan |switsraland |tipekano |tipton |union |vanderbarg |varmilion |vigo |vaabash |warren |vairick |washington |wain |vells |white |whitaly Bell Center is a famous indoor arena located in Montreal, Canada
+ yah aais hockey team montrial canadiens kaa ghar he
+ Coordinates: 27 ° 53′N 78 ° 04′E / 27
+89 ° n 78
+06 ° e / 27
+89; 78
+06 badhauli fateh khan koil, aligarh, uttar pradesh sthit ek gaanv he
+ Jagadguru Ramanandacharya Rajasthan Sanskrit University is a public university located in Jaipur, Rajasthan
+ pehle iskaa naam' rajasthan sanskrit vishvavidhyalay' tha
+ To conduct Sangopang study and teaching of the entire Sanskrit syllabus, to arrange for continuous expert research and other subjects relevant to it, and to provide practical explanation from the simple scientific method based on the research of knowledge science contained in Sanskrit, as well as other important research
+ With the aim of bringing results and achievements to light, Rajasthan and Allow Rajasthan Sanskrit University Act 1998 for the establishment of Sanskrit University Jy Governor pages within a given on 2-9-1998 date by Sir
+ dinaank 6 farvari 2001 ko rajasthan sanskrit vishvavidhyalay ne murtt rup liya jiske pratham kulapati padmashri domendan mishra niyukt kiye gayi
+ Order issued by the Secretary, Education, S
+P
+ Education - The University has been renamed Jagadguru Ramanandacharya Rajasthan Sanskrit University, Jaipur wef 27-06-2005 as on 6 / 2000 dated 27-06-2005
+ yah tha ki chunki anadikaal se bharat desh gyanopasna kaa kendra rahaa he or yah shabdi sadhana rishiyon ke anhad main mukherit hoti hui saakshaat shruti-swaroop main is dharaa par avateern hui
+ This is the secret of the timeliness of this huge Sanskrit poem that it has been teaching in gurukuls and rishikuls etc
+ for millennia
+ is gurushishy-parampara ko suniyojit rup dete hue sanskrit ke anek adhyayan kendra desh bhar main chalate rahe usee parampara main hi 20 veen sadi main anek sanskrit vishvavidhyalay sthapit hue
+ Sanskrit universities in Uttar Pradesh, Bihar, Orissa, Kerala, Andhra Pradesh etc
+ were running for many years
+ isi kram main rajasthan sanskrit vishvavidhyalay kii sthapana hetu varshon se chal rahaa prayaas varsh 2001 main safal hua
+ Coordinates: 25 ° 36′40 ′′ n 85 ° 08′38 ′′ e / 25
+611 ° n 85
+144 ° e / 25
+611; 85
+144 sonmai dhanrua, patna, bihar sthit ek gaanv he
+ Saskhet is a village in Almora district of Kumaon division under Uttarakhand state of India in Bhikiyasain tehsil
+ hillol shivamangala singh suman kii rachana he
+ Verse - Hilol
+ jivan ke gaan 
+ Holocaust creation
+ vishwaas badhata hi gaya 
+ But the eyes were not filled
+ vindhyas himalay 
+ Clay procession
+ gadhy kritiyaan- mahadevi kii kavy sadhana 
+ Drama - Prakriti Purusha Kalidas virbadrunipaluun main bharat ke andhrapradesh rajya ke antargat ke krishna jile kaa ek gaanv he
+ North and Central Andaman is a district in the Andaman and Nicobar Islands of India
+ laghusiddhantakoumudi panineey sanskrit vyakaran kii paramparaagat praveshika he
+ It is the creation of the learned Varadaraja who was a disciple of Bhattozhi Dixit
+ unka ek vyakaran granth madhyasiddhantakoumudi bhi he
+ The Panini sutras have been placed in a new sequence in the short-term theory of Kaumudi so that the sutras related to a subject remain together
+ laghukaumudi kaa pariman 32 akshar ke chand anushtup kii sankhya se 1500 he
+ Amarkosh and Raghuvansh are also similar in number
+ yah abhanak satya he ki "teen pandrahe pandit"
+ If these three texts are taught to the child in the first stage in a good manner, then he will surely be well derived and his communication will start everywhere
+ laghukaumudi sankshep kii drushti se atyant sankshipt vyakaran-pustak he
+ In this, 1272 sutras of Panini are explained with examples
+ madhyakoumudi main panini ke 2315 sutron kii udhaaharan-pratyudaaharan sahit sundar evam saral vyakhya kii gai he
+ Where in the Siddhantakoumudi of Bhattozi Dixit, all the 3955 sutras of Ashtadhyayi have been given a detailed interpretation of the Ohapoha and Sastratha system, only those sutras are taken in Laghukomudi which are useful for practical knowledge
+ vaidiki prakriya or swar prakriya ko sarvatha chhod diya gaya he
+ Varadaraja has given all the requisite details of grammatical process in Laghukaumudi
+ yah siddhantakoumudi kaa sankshiptsanskaran hote hue bhi ek vilakshan kriti he
+ Those who follow celibacy are called Brahmachari
+ brahmacharya do shabdo 'brahm' or 'charya' se bana he
+ Brahma means parmatma; chariya means wandering, that is, pradhatma means wandering, always meditating on it is called brahmacharya
+ mahabharat ke rachayita vyasaji ne visheyendriya dwaara praapt hone vaale sukh ke sanyampurvak tyaag karne ko brahmacharya kaha he
+ Four types of powers of Brahmachari are mentioned in the Shatapatha Brahmin- arayez ye khormashr county, khuzestan praant ,iran main aana vaala ek gaanv he ' gaanv kii jansankhya 2006 ke anusaar 97 he ' Music that accompanies the scene in a film or drama that is not directly part of the film but moves in the background to enliven the events and dialogues of the film is called background music
+ siiliek rog pratiraksha pratikriya kii vajah se hone vaali beemaari he jo las bhojan khaane se hota he| yah beemaari gehun, jo, rai or oats main paae jane vaali ek khaas kism ke protein se hota he| yah ek prakaar kaa swapratirakshit rog he jisamen sharir kii rog pratirohak chhamata apane hi sharir ke khilaaf ladane lagati he| There are about 200 symptoms related to celiac disease, mainly related to stomach
+ This disease does not only affect the intestines, but also produces many types of physical disorders
+ Celiac disease also hinders their development in children
+ Some common symptoms of celiac disease are: paan singh tomars ek bhartiya sainik, khilaadi or baagi the
+ This village was a resident of Bhidausa
+ inhen inaki daudane kii kubi kaa pataa bhartiya sena main jane ke baad chalaa
+ He has been a winner in the national competition seven times
+ inhone 1958 main asian khelon main bhi hissaa liya tha
+ a film has also been made on his life okhlakanda t
+, dhari tehsil main bharat ke uttrakhand rajya ke antargat kumaun mandal ke nainital jile kaa ek gaanv he
+ It is a term developed by a policy of the Government of Malaysia, according to which local people are considered to need protection against outsiders or migrants and it is given janaki ballab patnayak bhartiya raajnneetijna hai jo 2009 se assam ke rajyapal the
+ He has been the Chief Minister of Odisha as Indian National Congress leader from 1980 to 1989 and again from 1995 to 1999
+ wo naveen patnayak se pehle sabase lambe samay tak odisha ke mukhyamantri rahe
+ He was born on 3 January 1927 in Rameshwar, Puri district
+ unhone khurd hai skool se apni vidyalayan shiksha purna kii or utkal vishvavidhyalay se 1947 main sanskrit main snaatak or 1949 main raajnneeti vigyaan main kaashi hindu vishvavidhyalay se snatakottar kii shiksha purna kii
+ He was made the Minister of Tourism, Civil Aviation and Labor in the state government in 1980
+ 1980 se 1981 or punah 1995 se 1999 tak wo odisha ke mukhyamantri rahe
+ He was allegedly involved in the Anjana Mishra rape case
+ punjabi • uttar pradesh • rajasthani • mughlai -pahari • bihari • bengali • kashmiri Kerala • Tamil • Andhra Pradesh • Karnataka • Hyderabad urisa • chhattisgarh • adivasee-jharkhand, urisa Sikkim • Assamese • Tripuri • Naga goa • gujarati • marathi • malwani / konkani • parsi indo-chinese • Fast-food · Nepali • Continental food mithaiyaan evam desert non-veg: Ginger Chicken • Chicken Korma • Yogurt Meat • Duck Cheela • Fish Kebab • Keema • Lamb Kebab • Shami Kebab • Mutton Kebab • Murg Musallam • chaaval: tomato rice • pazan kanji • sambar saatam • lemonar is • temarind rice • garlik rice • lentil rice • coconut milk rice • Aizawl is the capital of Mizoram province of India
+ yahan kii jansankhya 293,416 he, jiske kaaran yah mizoram kaa sabase bada nagar he
+ Here all the administrative buildings of the state such as important government buildings, assembly and secretariat are located
+ 1871-72 ke dauraan mizo mukhiya khalkom ke updravi vyavhaar ke kaaran british logon ne ek chaowkee banaayi jo ki baad main aizol gram kahalaayi
+ During the British military campaign against the Mizo tribals, in 1890, Assam Police officer Daili sent help to the British contingent along with 400 soldiers
+ daily kii anushansa par aizol kii chaowkee ko or adhik majboot banaaya gaya
+ The unit laid a strong siege here and built buildings
+ major loch ke netritv main 1892-95 main aizol se silchar tak sadak maarg banavaya gaya
+ The Indian Air Force carried out air strikes in the city during the Mizo National Front Rebellion in March 1966, causing the rebels to retreat to Lunglei
+ 1966 tak aizol ek bada gaanv tha magar vidoh ke baad mizo gaanvon kaa punargathan hua jiske falswaroop yah pehle kasbaa phir ek nagar bana
+ Till 1972, this city was a part of Assam, but the first Union Territory of Mizoram, then on 20 February 1987, the 53rd amendment of the Indian Constitution, 1986, resulted in the city becoming its capital
+ yah nagar kark rekha ke uttar main sthit he
+ The city is situated at an altitude of 1132 meters above sea level and the Tlavang River Valley is located to the west and the Tuirial River Valley to the east
+ aizol kii sthiti va oonchaai ke kaaran yahan par uposhnkatibandheey jalwaayu paayi jaati he
+ According to the Köppen climate classification, it has a humid subtropical climate, but there is a lot of rainfall
+ greeshmakaal main taapmaana 20–30 °se
+ ke madhya rahata he tathaa sheetkaal main yah 11–21 °se
+ ke madhya rahata he
+ According to the 2011 census, Aizawl city has a population of 293,416, of which males are 144,913 and females are 148,503
+ sakshartaa dar 98
+36% tathaa linganupaat 1025 mahila prati 1000 purush he
+ The sex ratio among children under 6 is 983 females per 1000 males
+ vibhinn adivasee samoohon ke mizo log nagar kii jansankhya main bahusankhyak hai
+ Majority of the followers of Christianity are in the city
+ ye kul jansankhya kaa 93
+63% banaate hai
+ This is followed by Hindus who constitute 4
+14% of the total population
+ tatpashchaat muslim 1
+52%, buddha 0
+45%, anya 0
+09%, sikh 0
+03% tathaa jain 0
+02% hai
+ 0
+11% people have not mentioned their religion
+ sarkari karmchaaree ke atirikt mizoram main pravesh hetu gharelu paryatakon ko inner line permit kii aavashyaktaa padati he
+ ILP can be obtained from the concerned authorities in New Delhi, Kolkata, Mumbai, Guwahati, Shillong and Silchar
+ yah aizol ke nikatatam lengphui vimaanashetra par padhaarney ke baad bhi praapt kiya ja saktaa he
+ Foreign citizens have to register at the office of the Superintendent of Police of Mizoram within 24 hours of their arrival
+ parantu china, afghanistan or pakistan ke nagarikon ko rajya main pravesh se purv bharat ke grih mantralay se anumati leni padati he
+ Aizawl is connected by air to Lengpui Airport, which is the nearest airport
+ yah vimaanashetra kolkata ke netaji subhash chandra bose antarrashtriya vimaanashetra, guwahati ke lokapriy gopinath bardoloi antararashtriya vimaanashetra, shilong vimaanashetra tathaa imphaal vimaanashetra dwaara judaa he
+ Three airline companies Air India, Jet Airways and Spice Jet operate regular air services from Lengpui Airport
+ 2012 main pawan hans naamak helicopter seva prarambh hui jo nagar ko lunglei, longtlai, saiha, chongate, serchhip, champhai, kolasib, khawazol, nagopa tathaa hnahathial ko jodatii he
+ The nearest railway station to Aizawl is Bairabi
+ bharat sarkaar ne bairabi-sairang railmarg par kaary karnaa prarambh kar diya he jisase aizol sahit puure rajya ko behatar rail sampark suvidha praapt hogi
+ The project is targeted to be completed by 2020
+ iske saath hi nagar main behatar sampark hetu zemba se kulikawan tak 5 kimi lambi aizol monorol kaa bhi prastaav he
+ Aizawl is connected to Silchar in Assam by National Highway 54, by Agartala, the capital of Tripura, by National Highway 40, and by National Highway 150 from Imphal, the capital of Manipur
+ mizo or angreji main prakashit hone vaale aizol kuch samachaarpatr nimnlikhit hai: AIR regularly broadcasts programs from its studio
+ efem zinvi yahan kaa prasiddh radio stesan he
+ Major tourist spots of Aizawl are: yahan par sarkari va nijee donon hi vidhyalay hai
+ There are many colleges for higher education too
+ 2001 main sthapit mizoram vishvidhyalay se yahan ke sabhi college sambaddh hai
+ Pachhunga University College is the oldest educational institution here which was established in 1958
+ iske pashchaat 1975 main aizol college kii sthapana hui
+ Mizoram Law College provides law education to its students
+ bhartiya patrakarita santhaan tathaa rashtriya praudyigiki santhaan mizoram bhi yahan ke pramukh shikshan santhaan hai

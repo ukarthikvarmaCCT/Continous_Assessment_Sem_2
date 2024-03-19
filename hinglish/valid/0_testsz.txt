@@ -1,0 +1,1877 @@
+a key feature of the Google desktop is its sidebar, which contains many common gadgets and is located on the desktop on one side
+ cidbaar google desktop ke microsoft windos tathaa linaks sanskarnon ke saath uplabdh he
+ The sidebar comes with the following pre-installed gadgets: windos taskbar kii tarah, google desktop ko bhi auto-hide rup main vyavasthit kiya ja saktaa he
+ It will only be displayed when the user moves the mouse cursor to where it is located
+ yadi auto-hide rup main nahin he to difolt rup se cidbaar hameshaa screen ke lagbhag 1 / 6-1 / 9 bhaag main pradarshit hota rahegaa or anya windos ko majabuuran aakaar badalane hote hai
+ However, the sidebar can be resized to take up less space and users can disable the "always on top" feature in the option
+ auto-hide suvidha chaalu rahane par, cidbaar adhiktam aakaar par khuli windos ko asthaayee rup se aachhadit kar letaa he
+ Another feature that comes with the sidebar is Alert
+ When the sidebar is minimized, new email and news windows can be displayed in a pop-up window above the taskbar
+ cidbaar, deskbaar yaa asthaayee deskbaar main khoj karte samay google desktop ek "quick find" windo pradarshit karata he
+ 6 results most relevant to the user's computer are displayed in this window
+ upyogkarta jaise-jaise tip karata he, vaise vaise hi ye parinaam bhi adhyatan hote rahete hai or kisi anya brouzar windo ko khole bina inkaa upyog kiya ja saktaa he
+ Deskbars are boxes that make it possible to search directly from the desktop
+ web parinaam kisi brouzar windo main khulte hai tathaa chaynit computer parinaam "quick find " box main pradarshit kiye jaaenge
+ ek deskbaar yaa to ek sthai deskbaar, jo windos taskbar main rahata he, yaa ek floating deskbaar ho saktaa he jise jo desktop par kahin bhi asin kiya ja saktaa he
+ Google Desktop also includes plugins by which the contents of the local Microsoft Outlook, IBM Lotus Notes and Mozilla Thunderbird email databases can be indexed and searched outside the customer's underlying applications
+ lotus nots ke liye, keval sthaneey database ko khoj hetu anukramit kiya jaataa he
+ Google Desktop's email indexing feature is also integrated with Google's web-based email service Gmail
+ yah jimail khaaton main email sandeshon kaa anukraman or khoj kar sakati he
+ Desktop gadgets are interactive mini applications that can be placed anywhere on the user's desktop or placed in the sidebar to show new email, weather, photo and personalized news
+ google apni aadhikarik website par purv-nirmit upkarnon kii ek gailaree downlod ke liye pradaan karata he
+ For developers, Google provides an SDK and an official blog for anyone who wants to write gadgets or plug-ins for the Google desktop
+ ek swachaalit pranali "desktop haul of fame" naamak ek develper padanukram banaati he, jahaan programmer apane upkarnon kii sankhya or lokapriyata ke aadhaar par aage bad sakate hai
+ This SDK also allows third-party applications to use the search features provided by Google Desktop Search
+ udhaaharan ke liye, fil prabandhak diarectry opes ekikrut google desktop khoj samarthan pradaan karata he
+ Although other desktop search programs can also search for meta-data files, Google Desktop is the only one that uses the "title" tag in the result lists of all its files
+ filein nahin)
+ anya program apane parinaamon kii suchi ke liye fil naamon kaa upyog karte hai
+ The use of the "title" tag gives a significantly better user experience because metadata titles are written in simple language, while file names are less expressive
+ jab fil main meta data sheershak maujuud nahin hota to google desktop filanaam ke prayog par laut aata he
+ Google Desktop was originally developed to bring Google search technology to the desktop
+ google desktop kaa bahut adhik swaagat hua kyonki yah google ke swaamitv vaali khoj kalan vidhi kii vipareet abhiyantriki kii anumati detaa he
+ a centrally administered version, which integrates the user experience with the vendor's device, also exists farvari 2007 main watchfire ke yaer amit ne google desktop main kamajoriyon kii ek shrinkhalaa pai jo ek durbhaavnayukta vyakti ko samvedansheel data tak na keval duurastha, lagaataar pahunch kii balki kuch maamalon main puri pranali ke niyantran kii anumati de sakati he
+ Its significant impact and ease of exploitation forced Google to change some mathematical arguments to Google Desktop in version 5 of Google Desktop
+ kai gopneeyata evam naagarik swatantraaa samoohon jaise electronic frontier foundation ko chintaa he ki logon ke computaron par upyogkartaaon ke hard drive se vyaktigat jaankaree ko aasaani se copy kiya ja saktaa he
+ Google Desktop version 3 has some features that pose serious security and privacy concerns
+ vishesh rup se, computaron ke paar saajha karne kii suvidha ne desktop se desktop saamagree khojane kii kshamta pradaan kii he jisane upyogkartaaon kii gopneeyata ke liye khatra badha diya he
+ If Google Desktop version 3 is set to allow searches across computers, the indexed computer files are copied to Google's servers
+ apane computer par google desktop sanskaran 3 main is suvidha ko sakasham karke dusron kii kisi ke computer par sangrahit jaankaree tak sambhavit pahunch par gambhirtha se vichaar kiya janaa chahie
+ The Electronic Frontier Foundation has advised not to use this facility
+ iske alaava, jinke kaarysthal yaa ghar ke computer par gopneey data he unhen is suvidha ko sakasham nahin karnaa chahie
+ The installation of this facility may violate privacy laws and company policies, particularly SB 1386, HIPAA, FERPA, GLBA and Sarbanes Oksley
+ sanveshton tathaa antim prayokta anujyapti anubandh se anya anek doorgaami chintaaen saamne aati hai, visheshkar sthaneey mashin main ghuspaith kaa str tathaa ye asveekaran ki upyogkarta bhavishya main anujyapti anubandh main hone vaale parivartanon ko sweekaar karte hai, jabaki ve vastav main us samay unhen dekh bhi nahin pate
+ There have been some problems regarding Microsoft Outlook indexing
+ mitaaye gayi email soochikarnon ko hataaya nahin jaataa tha tathaa sangrahit mail ke naye soochikaran ke liye google desktop kii punarsansthapana kii aavashyaktaa hoti thi
+ Several versions have been released to repair Outlook indexing
+ 2009 kii pehali chamahi ke dauraan, google desktop upyogkartaaon kii ek badi sankhya ne suchit kiya ki jab anukramit fil aakaar main lagbhag 4 jibi par pahunchi to utpaada ne achaanak anukraman band kar diya
+ a complete uninstallation and reinstallation will temporarily resolve the problem, but whenever the indexed files reach 4 GB, the same problem will reappear
+ This problem has been resolved in Google Desktop Search version 5
+9
+ vartmaan main, google desktop outluk 2010 beta main email yaa samparkon ko anukramit nahin karata
+ Template: Widget engine saanchaa:navigationbox Desktopsearch maharagaon-sila-1 is a village in Pauri district of the Garhwal division under the Uttarakhand state of India in Yamkeshwar tehsil
+ yah suchi bhartiya cricket team or zimbabwe cricket team ke bich kheli gai shrinkhalaaon kii he
+ Since 1992, there have been 7 series of 11 matches so far
+ usamen zimbabwe ne 1 siries jite hai
+ Since 1983, there have been 35 series of 63 matches so far
+ usamen zimbabwe ne 1 siries or 0 isisi toornament jite hai
+ ICC Tournament itar siries Since 2010, there have been 8 series of 7 matches
+ usamen zimbabwe ne koi siries jiti nahin
+ a series has been drawn
+ isisi toornament Other series zimbabwe cricket team kaa bharat daura In this, the shape of the body normally becomes like a drawn bow, hence it is called Dhanurasana
+ ise dhanurasana bhi kaha jaataa he
+ People who have severe spinal or dicks pain should not do this asana
+ pet sambandhi koi gambhir rog ho to bhi yah asana na karen
+ Dhanurasan reduces stomach fat
+ isse sabhi aantarik angon, mansapeshiyon or jodon kaa vyaayaam ho jaataa he
+ All diseases of the throat are destroyed
+ pachanshkti badhati he
+ Breathing goes on systematically
+ merudand ko lacheela evam swasth banaata he
+ There are beneficial postures in cervical, spondylitis, back pain and abdominal diseases
+ striyon kii masik dharm sambadhi vikrutiyaan dur karata he
+ Removing urinary disorders makes the kidneys athletic
+ solahavin shatabdi main england main ek ke baad ek anek ghatnaayen huin jinke parinamswaroop england kaa carch, roman catholic carch se alag ho gaya
+ This is called the Dharma Reformation of England
+ ye ghatnaayen europe main ho rahe protestant dharmasudhar se kuch anshon main judi huin thim
+ Henry's successor Edward was a sixth minor, so during his reign his patrons the Duke of Somerset and the Duke of Narmberland preached the principles of the Protestant religion and organized the Church of England based on these principles and the English language with 42 principles "general Prayer Book "of the vogue
+ isse england ke carch kii aradhana paddati main kai parivartan kiye gayi
+ For all these reasons, the Church of England is now called the Anglican Church
+ edward kii mrityu ke baad meri tuder ke shasankaal main catholic dharm or pope kii sarvocchata ko punah england main pratishthit karne ke prayaas kiye gayi or lagbhag 300 dharmasudharkon, jinamein arqbishap krainemar, letimer or riddle pramukh the, ko mrityu dand bhi diya
+ But the complete suppression of Protestant movement and propaganda could not be suppressed
+ england or europea deshon main hue dharm sudhaar andolanon main antar he
+ The religious reform movement in the country of Europe was purely religious
+ iske vipareet england kaa dharm sudhaar andolan vyaktigat or raajnneetik tha
+ Religion began in Europe by religious leaders and their majority followers
+ kalantar main janata ne use apana liya
+ Initially many kings opposed the reform movement and suppressed it
+ iske vipareet england main raja henry ashtum ne dharm sudhaar andolan prarambh kiya or uske uttaradhikari edward shashtham ke mantriyon ne or rani agilabeth ne naveen dharm ko praja ke liye anivaary kar diya or pope ke sthaan par raja england ke carch kaa sangrakshak or sarvocch adhikari ban gaya
+ Henry VIII opposed the pope for not allowing the divorce of his wife, Kevrine, and passed the Act of Supremacy and became the supreme authority of the Church of England
+ is prakaar usne pope se sambandh viched kar liye or catholic mathon kii dhan sampitt bhi hathiyaa lee
+ Henry VIII did not aim to reform religion
+ usne pope se sambandh viched karne par bhi catholic dharm ke siddhanton ko banaaye rakhaa
+ He had neither sympathy for Lutherism nor Calvinism
+ uskaa virodh to keval pope se tha, isliye england main usne pope kii satt ko nasht kar diya
+ This cause of religious reform was personal
+ henry ashtum ne catholicon or protestanton donon ko dandit kiya
+ He punished Catholics because they did not consider him head of the church and surveyor and punished Protestants because they did not uphold the principles of Catholicism
+ england main dharm sudhaar kaa prasar dhire-dhire edward shashth ke shasankaal main prarambh hua
+ This is a list of state leaders in the 20th century AD, such as heads of state, heads of government, and general secretaries of single-party states
+ bharat kii janaganana anusaar yah gaanv, tehsil chandausi, jila muradabad, uttar pradesh main sthit he
+ Related Census Code: State Code: 09 District Code: 135 Tehsil Code: 00722 mahmud gazanvi madhya afghanistan main kendrit gazanvi vansh kaa ek mahatvapurn shaasha tha jo purvi iran bhoomi main samrajya vistaar ke liye janaa jaataa he
+ He was of Ottoman origin and, like his contemporary Saljuq Turks, succeeded in building a Sunni Islamic empire in the east
+ uske dwaara jite gaye pradeshon main aaj kaa purvi iran, afghanistan or sanlagn madhya-asia, pakistan or uttar-pashchim bharat shaamil the
+ The names of the Fatimi Sultans, Kabul Shahia kings and Kashmir figure prominently in their wars
+ bharat main islamic shashan laane or akraman ke dauraan lutpaat machaane ke kaaran bhartiya hindu samaaj main unako ek aakraamak shaasha ke rup main janaa jaataa he
+ He was an Ottoman descendant of the father but played an important role in the renaissance of the Persian language
+ haalanki uske darbari kavi firdausi ne shahname kii rachana kii par wo hameshaa kavi kaa samarthak nahin rahaa tha
+ Ghazni, a small city located in central Afghanistan, was transformed into the wealthier and provincial city of the empire
+ baghdad ke islamic caliph ne unako sultan kii padavi di
+ Subuk Tigin was an Ottoman slave who separated from the common rulers of Khorasan and established his own small territory in Ghazni
+ par uski irani begum kii santan mahmud ne samrajya bahut vistrut kiya
+ In Persian poetry, Mahmud mentions his homosexual love with his slave Malik Ayaz
+ urdu main iqbaal kaa likhaa ek sher - Neither those beauties remain in beauty, nor those hot summers in love; na wo gazanvi main tadap raheen, na wo kham he zulf-e-ayaaz main
+ Ghor and Amir Suri taken captive
+ gazanaa main amir suri mara
+ Made Sevakpal the Governor
+ anandapal kashmir ke pashchimi pahadiyon main lohara ko bhaaga
+ Anandpal could not avenge his father's death
+ aitihaasik kahaniyon ke anusaar gakhar logon ke akraman or samar ke baad mahmud kii sena bhaagane ko thi
+ Then Anandpal's elephants got drunk and the war turned
+ bharat main islamic shashan laane kii vajah se pakistan or uttari bharat ke itihaas main uskaa ek mahatvapurn sthaan he
+ In Pakistan, where he is respected by an Islamic ruler, in India, he is counted as a robber and murderer
+ pakistan ne uske naam par apane ek missile kaa naam rakhaa he
+ He is remembered in connection with Firdosi's asylum and subsequent breakup
+ kaha jaataa he ki mahmud ne firdausi ko iran ke pracheen raajaaon ke bare main likhane ke liye kaha tha
+ When Firdausi came to Mahmud's court after 27 years of hard work, including the Zoroastrian rulers and myths of the former Islam, Mahmud, on the advice of his ministers, refused to accept him as a good poet
+ usne apane kiye hue vaade main prayek dohe ke liye ek dinar kii bajaay sirf ek dirham dene kaa prastaav kiya
+ Firdausi turned it down and became angry
+ usne firdausi ko bulaayaa lekin bhaybheet shaayar nahin aayaa
+ Now Firdausi wrote a few lines against Mahmud which became popular: ay shah-e-mahmud, keshwar kushazi kasi na tarasi batarassh khuda 
+ in panktiyon main uske janakon ke bare main apmaan janak baaten likhi thi
+ But, after a few days, when Mahmud got the news of these lines popular in the streets of Ghazni, he decided to pay the dinars
+ kaha jaataa he ki jab toos main uske dwaara bheji gai mudra pahaunchi tab shahar se firdausi kaa janaaja nikal rahaa tha
+ Firdausi's daughter refused to take the amount
+ alberuni utbi farukhi phirdoshi mahmud gajnabi ke darbari the
+ Many famous persons named Anand Kumar are- dhaladi dhuppai da sek dogri bhashaa ke vikhyath sahityakar krishna sharma dwaara rachit ek kahani–sangrah he jiske liye unhen san 2005 main dogri bhashaa ke liye sahitya academy puraskaar se sammanit kiya gaya
+ Konkona Sen Sharma, born on 3 December 1979, is an Indian actress
+ vah film nirmaataa or abhinetri aparnaa sen kii beti hai
+ Sharma predominantly appears in Indian cinemas and independent films and her achievements in her field have established her as an outstanding actress in contemporary parallel cinema
+ inhone film indira se ek bal kalakaar ke rup main shuruyaat kii thi, konkana ne ek vayask abhinetri ke rup main shuruyaat bengali film ek je aache kanya se kii
+ Her attention was first noticed by the English film Mr
+ and Mrs
+ Iyer, directed by her mother and she received the National Film Award for Best Actress for her performance in the film
+ inhen naatakeey film pej 3 ke dwaara darshakon ke bich vyapak pahchaan mili or tab se vah kai filmon main abhinay kar chuki hai, jiname se adhikansh ke liye unhen vyavsaayik safalataa se adhik aalochanatmak prasansha mili
+ She received the Filmfare Award for Best Supporting Actress twice in a row for the films Omkara and Life in a Metro
+ omkara main apane abhinay ke liye unhen duusari baar sarvshereshth sahaayak abhinetri kii shrenee main rashtriya puraskaar mila
+ Konkana is the daughter of Mukul Sharma and Aparna Sen
+ unki ek badi bahan, kamalini chatterjee, bhi hai
+ konkana ke naanaa, chidanand dasgupta, ek film aalochak, vidwaan, professor, lekhak or kalakatta film socity ke sahasansthaapak hai
+ Her late grandmother, Supriya Dasgupta, is a cousin of the famous modern Bengali poet Jibanananda Das
+ konkana ke paas dilli ke saint stephen college se angreji main degree he, jo unhen 2001 main mili thi
+ She was a student of Modern High School for Girls, Calcutta and Calcutta International School
+ konkana ne film indira se ek bal kalakaar ke rup main shuruyaat kii thi
+ In 2000, she debuted as an adult actress in the Bengali film Ek Je Achhe Kanya, in which she played a negative character
+ iske baad unhone rituparno ghosh kii bahuprashansit film titali main mithun chakraborti or apni maan aparnaa sen ke vipareet ek bhoomika nibhaai
+ She became known as a popular face when she acted in the English film Mr
+ and Mrs
+ Iyer directed by her mother
+ The film did a great job in multiplexes and was a critical success as well
+ ek tamil gruhani ke rup main konkana kaa abhinay is bhashaa ke uccharan main unki praveenta kii bahut prashansa huyi or iske liye unhen sarvshereshth abhinetri kaa rashtriya film puraskaar bhi mila
+ baad main filmphere ke 2010 ke sanskaran main "top 80 ikonic parformenses" main unke abhinay ko bhi sthaan mila
+ "what ́s special about her performances as Meenakshi Iyer is not the effort she put into it as much as the obvious lack of it
+ Be it her squabbling with the urbane photographer Jehangir Chaudhary or her gently reprimanding him about how her name is pronounced or even when she is screaming at her infant, you believe it ́s Meenakshi you ́ve met
+ And therein lies the key to her iconic performance
+ " iske baad unki agali rashtriya film puraskaar jeetne vaali film pej 3 aayi
+ ek chatur patrkaar kii bhoomika ke liye unki prashansa kii gayi or vah cinema jane vaale darshakon ke liye ek parichit cheharaa ban gayin
+ Konkona was offered the top role in Meera Nair's Hollywood film The Namesake, but she could not accept the film due to dates colliding with film 15 Park Avenue
+ But she made up for it by playing the role of a mentally ill woman in 15 Park Avenue and by the acclaimed role of a middle-aged rural woman in Omkara
+ omkara ke liye unhen filmphere kii ore se sarvshereshth sahaayak abhinetri or rashtriya film puraskaar kii ore se bhi sarvshereshth sahaayak abhinetri kaa puraskaar mila
+ His next film Deadline: Sirf 24 Ghante received average response
+ 2006 main, konkana ne kaala ghoda film samaaroh ke liye ek 18 minute lambi bengali laghu film namkorone ke dwaara nirdesan kii pahal kii
+ Konkona then starred in Rituparno Ghosh's Bengali art film Dosar, which debuted at several international film festivals
+ is film ke liye unhen mahindra indo-american art counsil film samaaroh main sarvshereshth abhinetri kaa puraskaar diya gaya
+ Her first film in 2007 was her second collaboration with Madhur Bhandarkar, a genre film titled Traffic Signal, in which she played a street prostitute
+ Her second film, Anurag Basu's Life in a 2007, was released
+ 
+
+ It was metro, received good reviews and performed well at the Indian box office
+ The film depicted the lives of different people in Mumbai and Konkona played the role of a young and insecure woman for which she also received a Filmfare Award
+ 2007 ke aakhir main, konkana ne yashraj film binar ke antargat do filmon main abhinay kiya
+ He mentioned his enthusiasm for both these films as this was the first film in which he had to wiggle his lips to the lyrics
+ pehali film, laagaa chunari main daag, jo ki pradeep sarkaar dwaara nirdeshit thi, main unhone banaras kii ek chote shahar kii jawan ladki chutki kii bhoomika kii thi, jisame vah rani mukherjee ke saath thim
+ The film was critically and commercially unsuccessful in India, although his work was praised
+ duusari film aajaa nach lai thi, jiskaa prachaar vyapak str par maadhuri dikshit kii vaapasi ke film ke rup main kiya gaya tha
+ This film also did not work well
+ sienen- ibn ke rajeev masand ne is film main unke abhinay kaa ullekh karte hue kaha ki "
+
+
+adbhud se kam nahin he
+ Her greatest strength is that she does not panic for fear of becoming an idiot and she does not even worry that people will laugh at her
+ As a result of this, his performance in Aaja Nach LA is impeccable and natural
+ 2008 main sensharma ne dil kabddi main abhinay kiya
+ He also acted in a short film
+ jiskaa nirdesan mira nair ne at naamak film pariyojna ke liye kiya tha or ise cinemagharon main jari karne se pehle 2008 ke kai film samarohon main dikhaaya gaya tha
+ In 2009, she appeared in a low-budget English film, The President is Coming, directed by Kunal Roy Kapoor
+ film kii shuruyaat sakaaratmak aalochana ke saath huyi
+ samiksha konkana ke paksh main di gayi thi
+ Nikhat Kazmi from The Times of India wrote, "from the point of view of acting, she is a stressed and complicit Ms
+ Konkona who takes the accolades and laughs when the film makes a decent derision of her desirability
+" iske baad konkana ne joya akhtar kii film lack bai chance main farhaan akhtar ke vipareet kaam kiya
+ jari hone ke baad, film ko aalochakon kii or se atyant sakaaratmak pratikriya mili or saath hi unke abhinay ko bhi, lekin box offis par film ko pratyaashit safalataa nahin mili
+ konkana kii haalia pradarshit film 2009 main ayaan mukherjee kii romani hasya film vek ap cid he, jisame unhone ranbir kapur ke saath kaam kiya he
+ Upon release, the film received positive response from all quarters and his performance was highly praised
+ bollywood hangaamaa ke taran adarsh ne likhaa," konkana moolbhoot rup se swaabhaavik hai or sabase acchhee baat yah he ki, unka abhinay prayasarhit he
+ "this is another catchy performance from this incredible actress
+ The New York Times wrote," Ms
+ Sharma has distinguished a character like Aisha: an independent urban girl whose dream is to have both career and love 
+ " unka dwaara nibhaai gayi bhoomika aisha ek sookshm bhedi rachana he- mahatvakankshi, samvedi, vishwasaneey- or apane nirdesan kii pahal main mistar mukherjee ke dwaara konkana ko film main swachhandata dene kaa nirnay bilkul uchit he
+ " 2010 main konkana ne ashvini dheer kii hasya film atithi tum kab jaaoge main ajay devgan or paresh rawal ke vipareet kaam kiya
+ His most recent release is Neeraj Pathak's Right or Wrong, in which he plays a lawyer
+ unhone rituparno ghosh kii hasya film sanglass or vinay shukla kii mirch kaa filmakan bhi puraa kar liya he
+ As of September 2009, Konkona was playing the lead role in Aparna Sen's Iti Mrinalini, which was to be released in June 2010
+ She will work opposite Prateik Babbar and Vidya Balan opposite Amitabh Varma's Ranveer Shorey, which will be the first directed by Sabyasachi and the second film by Basu Chatterjee
+ Konkona was cast in Aditya Chopra's next film Mumbai with Arjun Rampal, Shahid Kapoor, Rani Mukherjee and Esha Dyol, which is based on the world famous 2008 terrorist attack in Mumbai
+ june 2009 main, konkana ne pehali baar atul kumaar ke da blue mag main rajat kapur, vinay pathak, ranvir shouri or shiba chaddha ke saath manch par abhinay kiya
+ 2010 main is naatak ne desh main or videsh main daura kiya
+ Konkona is in a love affair with actor Ranveer Shorey
+ july 2008 main, aparnaa sen ne is tathy kii pushti kii kii unki beti ranvir shouri ke prati vachanabaddh hai
+ In 2005, Konkona was ranked 11th in Rediff's "bollywood Top Female Artist"
+ He was later ranked 9th in 2006
+ karan johar ke tok sho coffee wyeth karan main konkana teen baar upasthit huin
+ vah mistar and mises ayyar ke apane sah kalakaar rahul bose ke saath 2004 main is kaarykram main upasthit huyin or iske baad kunal kapur or ritesh deshmukh ke saath aayin
+ In 2007, he also hosted a program called My Brilliant Brain and was broadcast on the National Geographic Channel
+ {class="vicketable" style="font-saise: 95%;" border="2" cellpading="4" becoground: # F9F9F9 ;aline="centre" Style = "background: # B0C4DE;" | Note | -1983 || Indira | Child artist || -1989 | Picnic Doter TV | -1994 || Amodini Teenage Stepmother || -2001 a jay nice girl | Riya || - | rospan = "2" | 2002 | Butterfly | Butterfly || - | Mr
+ and Mrs
+ Iyer Meenakshi Iyervijeta, National Film Award for Best Actress | -2004 | Tea water etc
+ Shanti / Radha Joshi || - | rospan = "3" | 2005 | Amu | Cashew 'amu' || -page 3 Madhavi Sharma || - | 15 Park Avenue | Sweet || -rospan = "6" 2006 | Dosar Kaberi Chatterjee || - | Mixed Doubles Malati || -what would have happened if Tilottima Punj || -omkara | Indu | Winner, National Film Award for Best Supporting Actress Filmfare Award Winner Best Supporting Actress | -deadline: Sirf 24 Ghante 74
+ Sanjana || - | Cancer zodiac sign | College girl tv | - | rospan = "4" | 2007 Traffic Signal | Noori || -life in a 
+
+
+ Metro Metro | Shruti Ghosh | Winner, {1 Best Supporting Actress Filmfare Award { / 1} | - Pinch the stain in the bag
+ Nominated, Best Supporting Actress Filmfare Award | -aja nach lyanokhi || -rospan = 3 | 2008 fashionherself Special Role | - | Dil Kabaddi Simi || -8 | Zenab || - | Rospan = 3 | 2009 The President Is Coming Maya Roy || -luck by chance Sona Mishra || -wake Up Sid Aisha Banerjee || -rospan = "8" | 2010 guest when will you go munmun || -rite or Rangaradhika Patnaik || -eti Mrinalini | Mrinalini Mitradile | - | Mirchlavani / Anita || -songlass | Dile | -amazing Nishadile | -meridian Pramila Dille | -mumbai Marianna pre-construction |) Best Supporting Actress Filmfare Award | -aja nach lyanokhi || -rospan = 3 | 2008 fashionherself Special Role | - | Dil Kabaddi Simi || -8 | Zenab || - | Rospan = 3 | 2009 The President Is Coming Maya Roy || -luck by chance Sona Mishra || -wake Up Sid Aisha Banerjee || -rospan = "8" | 2010 guest when will you go munmun || -rite or Rangaradhika Patnaik || -eti Mrinalini | Mrinalini Mitradile | - | Mirchlavani / Anita || -songlass | Dile | -amazing Nishadile | -meridian Pramila Dille | -mumbai Marianna pre-construction |) Best Supporting Actress Filmfare Award | -aja nach lyanokhi || -rospan = 3 | 2008 fashionherself Special Role | - | Dil Kabaddi Simi || -8 | Zenab || - | Rospan = 3 | 2009 The President Is Coming Maya Roy || -luck by chance Sona Mishra || -wake Up Sid Aisha Banerjee || -rospan = "8" | 2010 guest when will you go munmun || -rite or Rangaradhika Patnaik || -eti Mrinalini | Mrinalini Mitradile | - | Mirchlavani / Anita || -songlass | Dile | -amazing Nishadile | -meridian Pramila Dille | -mumbai Marianna pre-construction |) | 2010 Guest When will you go to Munmun || -rite or Rangaradhika Patnaik || -eti Mrinalini | Mrinalini Mitradile | - | Mirchlavani / Anita || -songlass | Dile | -amazing Nishadile | -meridian Pramila Dille | -mumbai Marianna pre-construction |) | 2010 Guest When will you go to Munmun || -rite or Rangaradhika Patnaik || -eti Mrinalini | Mrinalini Mitradile | - | Mirchlavani / Anita || -songlass | Dile | -amazing Nishadile | -meridian Pramila Dille | -mumbai Marianna pre-construction |) puraskaron ke liye namakan Ganaprajatantra is a political post established as the Prime Minister of Bangladesh, Rajpramukh of Bangladesh
+ bangladesh kii mantriparishad shasit athwa sansadeey sarkari vyavastha main bangladesh ke rashtrapramukh bangladesh ke raashtrapati, rashtrapramukh, vahiin, pradhanmantri, sarkaar pramukh athwa rajpramukh hote hai
+ The Prime Minister and the Council of Ministers jointly administer the country and control the government machinery
+ pradhanmantri, mantriparishad ke pramukh hote hai jo milakar sarkaar kii niti nirdhaarit karti he evam rashtriya sansad ke samaksh nirvaachit sarkaar kii nitiyon ko prastut karti he
+ Also, all Council of Ministers are responsible for defending the presentation of government plans and policies in the House
+ pradhanmantri bangladesh kii ekasadaneey rashtriya sansad main bahumat dal ke netaa evam sadan main sattapaksh ke netaa bhi hai
+ The Prime Minister is administered the oath of office by the President of Bangladesh
+ samvidhan ke anusaar, pradhanmantri ko sansadeey aam chunaav ke parinaam ke aadhaar par raashtrapati dwaara niyukt kiye jate hai
+ The Prime Minister is the leader of the majority party in the National Parliament and the National Parliament should have a vote of confidence
+ cabinet, pradhanmantri dwaara chaynit or raashtrapati dwaara niyukt mantriyon se bana hota he
+ Also, according to the constitution, at least 90% of the members in the ministers should be mps while the other 10% of the members may be non-parliamentary experts or "technocrats" who would otherwise not be disqualified from being elected mps
+ bangladeshi samvidhan ke anusaar, raashtrapati, pradhanmantri ke likhit anurodh par sansad bhang kar sakate hai
+ The National Parliament is the supreme legislative house of Bangladesh
+ is 350-sadasyeey ekasadaneey vidhayika ke kul asana main 300 asana janata dwaara pratyaksh rup se nirvaachit saansadon ke liye hote hai evam avshisht 50 asana mahilaon ke liye arakshit hai
+ The women members of the reserved seats are elected by the indirect electoral system through the votes of the aforesaid 300 elected mps
+ nirvaachit hoti sansad kii karivadhi 5 varsh he
+ Members of Parliament are elected by direct election after the general election
+ prayek chunaav ke baad rashtriya sansad ke samast asana main adhiktam asana grahan karne vaali rajnatik dal arthath bahumat grahan karne vaali rajnatik dal ke netaa ko paaramparik taur par pradhanmantri ghoshit kiya jaataa he
+ Thereafter, the Prime Minister is administered the oath of office by the President of Bangladesh
+ pad par virajman hone ke baad, pradhanmantri kaa yah daayitv he ki ve apni sarkaar kaa gathan karen
+ As the head of the government, the appointment of ministers depends on the discretion of the Prime Minister
+ arthath, chunaav pashchaat pradhanmantri hi sarkaar ke gathan ke liye jimmedaar hote hai
+ According to the rules of the appointment of the Council of Ministers, 90% of the members of the entire Cabinet are required to be mps and the residual 10% of the members can be non-parliamentary Bangladeshi nationals, usually called experts or "technocrats"
+ anya dal National political alliance raajnneeti praveshdwar Since the establishment of Bangladesh in 1972 and the enforcement of the Constitution, this post of Prime Minister has gone through various stages of establishment, displacement and quantum of power
+ 1972 main paarit samvidhan ke anusaar bangladesh me, sansadeey paddatinusaar sarkaar gathan kii baat varnit kii gai he
+ And according to this, it has been said that a person named as Prime Minister will be the head of the government
+ evam usamen vyakhyit vyavastha main raashtrapati ke rashtriya vidhayika dwaara chune jane kii bhi baat kii gai he
+ But due to military reasons, the progress of the parliamentary system has been hampered
+ varsh 1975 ke sainya sattapalat ke prasang main sainya vidhi paarit kii gai thi
+ After that a joint system of President's rule and parliamentary government system was established
+ parantu satta, kamobesh, sena ke haathon main hi bani rahi
+ The country was again run under military rule from the 1980s, but parliamentary rule was restored in 1991
+ isamen raashtrapati pad ko rashtrapramukh or pradhanmantri ko sarkaar pramukh ke rup main sthapit kiya gaya
+ The constitution was amended to change the electoral system in September, 1991, in which the executive powers of the government were formally brought back to the Prime Minister's Office
+ parinamswaroop, bangladesh kii prashasan vyavastha mul samvidhan ke vichaaron par punarvyavasthit ho jaati he
+ The Prime Minister's office is located in Tezgaon, the busiest area of the Dhaka metropolis
+ yah ek sarkari prashasnic karyaalay he jise kai myanon main sarkaar ke ek mantralay ke rup main bhi dekha jaataa he, jisaki jimmedaari, sarkaar ke anya mantralayan karyaalayon ke bich vibhinn muddon par samanvayak sambandh barkaraar rakhana
+ It provides executive, security and other forms of support to the Prime Minister and assists the Prime Minister in his daily work
+ yah gupt maamalon va gaiyr sarkari sanghathanon ko niyantrit karata he, or protocol evam samarohon kii vyavastha bhi karata he
+ Ganabhavan, located in Dhaka, is used as the official residence of the Prime Minister, and against many other such government residences in the world, this building does not host the Prime Minister's Secretariat, Balkiyah is used only for residence
+ yah dhaka ke sher-e-bangala nagar kshetra main, sansad bhawan ke uttari kone par sthit he
+ The 2007 general election became the subject of controversy when the Awami League and its constituents accused of partiality in favor of Khaleda Zia over the current government headed by President Iyazuddin Ahmed, who was responsible for overseeing government work during the elections
+ Demonstrations started in protest against the government
+ avami lig kii adhyaksha shaikh hasina kyon yah maang thi ki samayik sarkaar ke pramukh raashtrapati iyazuddin ahamed apane pad kaa tyaag karen
+ He then announced on 3 January 2007 that the Awami League and its coalition parties would boycott the elections
+ usee maheene, sena pramukh general moinuddin ahamed ke netritv main, sena ne hastkshep kiya or raashtrapati iyazuddin ko mukhya salaahkaar ke apane pad se tyaagptr dene ke liye kaha, evam unhen apatkaal kii ghoshnaa bhi karne ke liye kaha gaya
+ a new army-controlled topical government was formed under the chief advisory of Dr
+ Fakhruddin Ahmed and pre-determined elections were deferred
+ 12 janvari 2007 ko iyazuddin ahamed ne fakruddin ahamed ko antarim sarkaar ke mukhya salaahkaar ke rup main shapath dilaai
+ The most important achievement of Fakruddin Ahmed's government was the anti-corruption campaign against his established system
+ unke is abhiyaan kii jaanch tale kareeb 160 varisht raajnneetigyon samet anek sarkari naukar or suraksha adhikariyon ko aarthik aparaadhon ke aarope main giraftaar kiya gaya tha
+ Apart from this, many former ministers of the two major political parties, including former advisors Fazlul Haq, former Prime Ministers, Khaleda Zia and Sheikh Hasina, were also trapped in this investigation trap
+ nirdeshaank: 24°49′N 85°00′E / 24
+81°N 85°E / 24
+81; 85 Kathwara is a village in Gurua, Gaya, Bihar
+ hapou jadonan britishashasit bharat ke manipur ke ek aadhyatmik netaa evam rajnatik kaaryakarta the
+ He started a religious movement called 'herka'
+ angrejon ne unhen 1931 main faansee par lataka diya
+ His cousin, Queen Gaidinlu, carried on his work
+ bhairav hinduon ke ek devtaa hai jo shiv ke rup hai
+ He is worshiped in India and Nepal
+ hindu or jain donon bhairav kii puja karte hai
+ The number of Bhairavas is 64
+ ye 64 bhairav bhi 8 bhaagon main vibhakt hai
+ Darker than Coltar, dark flap, massive flap, voluminous body, dark dreaded chogenen robes, Rudraksha moth, horrific iron rod in hands and black dog ride - this is Mahabhairava, the outermost of the Indian god of death-fear
+ Format
+ upasna kii drushti se bhairav tamas devtaa hai
+ They are sacrificed and wherever this practice is over, a large number of coconuts are broken together and this act is performed as a symbol
+ yah ek aitihaasik satya he ki bhairav ugr kapalik sampradaay ke devtaa hai or tantrashastra main unki aradhana ko hi praadhanya praapt he
+ The main goal of a Tantra seeker is to imbibe himself with Bhairava Bhava
+ hindustani shastreey sangeet main ek raag kaa naam inhen ke naam par bhairav rakhaa gaya he
+ Kalabhairava is worshiped throughout the country and is known by different names in different regions
+ maharashtra main khandoba unheen kaa ek rup he or khandoba kii puja-archana vahaan gram-gram main kii jaati he
+ The name of Bhairav in South India is Shasta
+ vaise har jagah ek bhaydaayi or ugr devtaa ke rup main hi unako manyata mili hui he or unki anek prakaar kii manautiyaan bhi sthaan-sthaan par prachlit hai
+ Bhoot, Phantom, Vampire, Pootana, Kotra and Revathi etc
+ are counted among the other ganas of Lord Shiva
+ duusare shabdon main kahen to vividh rogon or aapattiyon vipattiyon ke vah adhidevataa hai
+ Shiva is also the god of holocaust, so all the messengers and gods of disaster, disease and death are his own soldiers
+ in sab ganon ke adhipati yaa senanayake hai mahabhairav
+ In simple language, fear is the commander who appears everywhere in the face of sickness, disaster and destruction
+ ‘shivpurana’ ke anusaar karthik maas ke krishnapaksh kii ashtami ko madhyanh main bhagwaan shankar ke ansh se bhairav kii utpatti hui thi, atah is tithi ko kaal-bhairavashtami ke naam se bhi janaa jaataa he
+ According to mythological legends, a demon named Andhakasura was crossing the boundaries of evil and tyranny by his acts, even once he was broken in pride and he dared to attack even Lord Shiva
+ Then Bhairava originated from Shiva's blood to kill him
+ kuch puraanon ke anusaar shiv ke apmaan-swaroop bhairav kii utpatti hui thi
+ It is a matter of the beginning of creation
+ srishtikarta brahma ne bhagwaan shankar kii veshbhusha or unke ganon kii rupasajja dekh kar shiv ko tiraskaarayukt vachan kahe
+ Shiva himself did not pay attention to this insult to her, but at the same time a fierce and trembling body with vibrancy and huge punishment appeared from her body and she proceeded to kill Brahma
+ srashta to yah dekh kar bhay se cheekh pade
+ Only after Shankar mediated that body became calm
+ rudra ke sharir se utpann usee kaaya ko mahabhairav kaa naam mila
+ Later Shiva appointed him as the Municipality of his Puri, Kashi
+ aisa kaha gaya he ki bhagwaan shankar ne isi ashtami ko brahma ke ahankaar ko nasht kiya tha, isliye yah din bhairav ashtami vrath ke rup main manaaya jane laga
+ Bhairav ashtami reminds of 'kaal', so many people worship Kalabhairava to overcome the fear of death
+ aisa bhi kaha jaataa he kii ,brahma ji ke paanch mukh hua karte the tathaa brahma ji paanchave veda kii bhi rachana karne ja rahe the,sabhi devo ke kehane par mahakaal bhagwaan shiv ne jab brahma ji se vaartalap kii parantu naa samajhane par mahakaal se ugr,prachand rup bhairav prakat hue or unhone naakun ke prahaar se brahma ji kii kaa paanchavaa mukh kaat diya, is par bhairav ko brahma hatya kaa paap bhi laga, Later, two branches of Bhairava-worship worshiped - Batuk Bhairav and Kaal Bhairav
+ jahaan batuka bhairav apane bhakton ko abhaya dene vaale saumy swaroop main vikhyath hai vahiin kaal bhairav aapraadhik pravritiyon par niyantran karne vaale prachand dandanayak ke rup main prasiddh hue
+ ashta-bhairava is mentioned in Tantra Shastra - kalika puraana main bhairav ko nandi, bhringi, mahakaal, vetal kii tarah bhairav ko shivaji kaa ek gana bataaya gaya he jiskaa vaahan kutta he
+ Even in the Brahmavaivarta Purana dhyaan ke bina sadhak mook sadrush he, bhairav sadhana main bhi dhyaan kii apni vishisht mahatta he
+ In the meditation of any deity, only the worship of the Nirvikalpa Bhava cannot be called meditation
+ dhyaan kaa arth he - us devi-devtaa kaa sampurna aakaar ek kshan main maanas-patal par pratibimbit hona
+ For the attention of Shri Batuk Bhairav ji, the description of his Satvik, Rajas and Tamas forms are found in many scriptures
+ jahaan satvik dhyaan - apamrityu kaa nivarak, aayu-aarogy va mokshafal kii prapti karaata he, vahiin dharm, arth va kaam kii siddhi ke liye rajas dhyaan kii upadeyata he, isi prakaar kruthya, bhoot, grahadi ke dwaara shatru kaa shaman karne vaala taamas dhyaan kaha gaya he
+ It is written in the texts that the householder should always give priority to the Satvik meditation of Bhairavji
+ bharat main bhairav ke prasiddh mandir hai jinamein kaashi kaa kaal bhairav mandir sarvapramukh mana jaataa he
+ The Bhairav temple is located at a distance of one and a half kilometers from Kashi Vishwanath Temple
+ doosraa nai dilli ke vinay maarg par nehru park main batuka bhairav kaa pandavkaleen mandir atyant prasiddh he
+ The third reason for the fame of Kaal Bhairav of Ujjain is also historical and tantric
+ nainital ke sameep ghodakhaal kaa batukabhairav mandir bhi atyant prasiddh he
+ Here is the fame of Bhairav in the name of Golu Devta
+ iske alaava shaktipeethon or upapithon ke paas sthit bhairav mandiron kaa mahatv mana gaya he
+ In the famous fort of Jaigarh, there is a large ancient temple of kaal-bhairav in which traditional-priests are appointed for daily worship from the trust of the erstwhile Maharaja of Jaipur
+ madhya pradesh ke siwani jile ke gram adegaon main bhi shri kaal bhairav kaa mandir he jo kile ke andar he jise gadhi upar ke naam se janaa jaataa he
+ It is said that during the reign of Aurangzeb, when the India-famous Vishwanath temple of Kashi was destroyed, the temple of Kalabhairava remained completely untouched
+ janashrutiyon ke anusaar kalbhairav kaa mandir todane ke liye jab aurangzeb ke sainik vahaan pahunche to achaanak pagal kutton kaa ek puraa samooh kahin se nikal padaa tha
+ The soldiers who were bitten by those dogs immediately became insane and then started biting their own companions
+ badshaah ko bhi apni jaan bachaa kar bhaagane ke liye vivash ho janaa padaa
+ He got his bodyguards killed by his own soldiers only so that the sequence of soldiers going mad does not reach him anywhere
+ bhartiya samskruti prarambh se hi pratikwaadi rahi he or yahan kii parampara main prayek padaarth tathaa bhav ke pratik uplabdh hai
+ These symbols are amphibious - meaning they are gross and subtle
+ sookshm bhaavnaatmak pratik ko hi kaha jaataa he -devtaa
+ Since fear is also an emotion, so it is also a symbol - it is also a god and our god of the same fear - Mahabhairava
+ udaya tivi ek kannada tivi channel he
+ This is an entertainment channel
+ maanav kaamuktha vah tarika he jisase log kaamuk rup se apane aap ko anubhav or abhivyakt karte hai
+ It includes biological, sensual, physical, emotional, social or spiritual feelings and behavior
+ chunki yah vyapak shabd he, jo samay ke saath badla hua he, isaki koi ek sateek paribhaasha nahin he
+ Biological and physiological aspects of sexuality are primarily related to human reproductive functions, including the human erotic response cycle
+ kisi kaa yon abhivinyas us vyakti ke duusare vyakti ke liye yon ruchi or aakarshan ko prabhavit kar saktaa hai
+ The physical and emotional aspects of sexuality are the bonds between individuals that are expressed through deep feelings or physical expressions of love, trust, and care
+ saamaajik pahaluon ko kisi ke kaamuktha par maanav samaaj ke prabhaav se nipatna padataa he, jabaki aadhyatm kaa sandarbh ek vyakti ke duusare ke saath aadhyatmik sambandh se he
+ Sexuality affects and is also influenced by cultural, political, legal, philosophical, moral, ethical and religious aspects of life
+ yon gatividhi main ruchi aamtaur par bad jaati he jab koi vyakti yauvanarmbh tak pahunchataa he
+ Opinions differ on a person's sexual orientation and origin of sexual behavior
+ kuch log tark dete hai ki kaamuktha anuvanshiki dwaara nirdhaarit hoti he, jabaki dusron kaa maananaa he ki yah paryaavaran dwaara dhaali jaati he, yaa ye donon kaarak vyaktigat yon abhivinyas banane ke liye paraspar kriya karte hai
+ These are related to the nature vs
+ nutrition dispute
+ saanchaa:sex saanchaa:human sexuality and sexologysazca:human sexualitysazca:sexual ethicssazca:sexual urban legends Per capita income is that income when the total GDP of a country is divided by the population of that country's mid-day date of that year
+ yah hamen us desh ke nivaasiyon ko praapt hone vaali ausat aay kii maudrik jaankaree detaa he
+ That is to say, if the money generated in that country is distributed, then how much will reach the part of everyone
+ iskaa upyog kisi desh ke bheetar bhi vibhinn bhugolic kshetron, nagaron, yaa rajyon ityadi ke jivan str kaa anumaan lagane ke liye bhi kiya jaataa he
+ For example, Delhi has the highest per capita income in 2009, about $ 1,200 per 2009 dollar exchange rate
+ prati vyakti aay kaa upyog kisi ek desh ke logon kii sampatti kaa anumaan lagane ke liye kiya jaataa he, kisi anya desh kii tulana main
+ It is usually measured in a common international currency such as the euro or dollar
+ lekin is maapan pranali main ek khot bhi he
+ That is, it only shares the monetary wealth of a country among the people of that country and does not measure other economic activities
+ ho saktaa he kii kisi desh vishesh kii prati vyakti aay maudrik sandarbh main to kam ho lekin us desh main hone vaali aarthik gatividhiyon kaa maudrik mulya kahin adhik ho
+ Therefore, it can be considered as the sole measure of development of a country
+ brazil BRICS is the title of a consortium of emerging national economies
+ iske ghatak raashtra brazil, rus, bharat, china or dakshin africa hai
+ This group is named after the initials B, R, I, c and s in English of these countries
+ multah, 2010 main dakshin africa ke shaamil kiye jane se pehle ise "brick" ke naam se janaa jaataa tha
+ Except for Russia, all BRICS members are developing or newly industrialized countries whose economy is growing rapidly
+ ye raashtra kshetreey or vaishvik maamalon par mahatvapurn prabhaav daalate hai
+ As of 2013, the five BRICS nations represent around 3 billion people in the world and an estimated contribution of US $ 4 trillion to the combined foreign exchange reserves
+ in rashtron kaa sanyukt sakal gharelu utpaada 15 kharab america dollar kaa he
+ Currently, South Africa chairs the BRICS group
+ praarambhik chaar brick rashtri ke videsh mantri sitambar 2006 main neuyork shahar main mili or ucch stareey baithkon kii ek shrinkhalaa kii shuruyaat kii
+ On 16 May 2008, a full-scale diplomatic meeting was held in Yekaterinburg, Russia
+ 2010 main, dakshin africa ne brick group main shaamil hone ke prayaas shuru kiye, or iske aupchaarik pravesh kii prakriya isi varsh agast main shuru hui
+ 
+ On 24 December 2010, South Africa officially became a member of the BRIC group, after being formally invited by the BRIC countries to join the group
+ samooh kaa naam badalakar bricks kar diy gaya, jisamen "es" dakshin africa ko pratibimbit karata he
+ In April 2011, the President of South Africa, Jacob Zuma, participated as a full member of the 2011 BRICS Summit in Sanya, China
+ brick samooh kaa pehla aupchaarik shikhar sammelan, yekaterinburgh, rus main 16 june 2009 luise inaasiyo lula da silva, dimitri medvedev, manmohan singh or hu jintaao kii adhyakshata main hua
+ The main issue of the summit was to improve the global economic situation and improve financial institutions
+ dwitiya sammelan-brazil Third Conference - China chauthaa sammelan- nai dilli,bharat Fifth - South Africa chatha- brazil The seventh BRICS Summit was held in 2015 in Ufa, Russia's federal territory Bashkortostan
+ is sammelan kaa mukhya vishay bricks saajhedaari vaishvik vikaas kaa ek shaktishaalee kaarak tha
+ 9th BRICS Conference 2017 China, Xiamen The 3rd BRICS Summit was held in Xiamen, China between September 3–5, 2017
+ gyatavya he ki isse purv teesraa bricks shikhar sammelan april, 2011 main sanya, china main yojit hua tha
+ The summit was chaired by Chinese President Xi Jinping
+ is shikhar sammelan kaa mukhya vishay ‘brix ek ujjwal bhavishya ke liye majboot saajhedaari’ tha
+ The three-day 9th BRICS summit was attended by host Chinese President Xi Jinping, India's Prime Minister Narendra Modi, Brazil's President Michel Temer, Russia's President Vladimir Putin and South Africa's President Jacob Zuma
+ is shikhar baithak main sadsy deshon ke bich aarthik kshetron main sahyog badhaane par charchaa kii gai
+ In this summit, Prime Minister Narendra Modi, while emphasizing that terrorism is a threat to the whole world, stressed on tackling it strictly
+ is shikhar sammelan ke dauraan 4 sitambar, 2017 ko bricks sadsy deshon ne 71 binduon vaala ‘zaiyaman ghoshnaa patr’ sweekaar kiya
+ The joint declaration denounced the terrorist attacks in member countries without naming Pakistan, stating that 'this organization condemns every form of terrorism around the world including BRICS countries, wherever the attacks took place, whoever carried out Yes, terrorist actions cannot be considered right in any way
+ pakistan prerit aatankwaad par bharat kii chintaa ko samajhate hue bricks shikhar baithak main, pakistan se sakriy aatanki guton lashkar-e-taiyaba, jaish-e-mohammad, hakkaani network or kuch anya aise hi sanghathanon ko suraksha ke liye khatra qaraar dete hue hinsa kaa doshi tehraaya gaya he
+ Other groups whose names are named include Taliban, ISIS / Daish and Al Qaeda
+ yah pehla mauka he jab bricks ghoshnaa patr main kisi aatanki gut kaa naam lekar uski harkaton par chintaa jataai gai
+ The following 4 documents were signed during the BRICS Summit-2017 on 4 September 2017 in the presence of BRICS leaders- aarthik or vyapaar sahyog par bricks ection agenda
+ BRICS Action Plan for Innovation Collaboration
+ bricks seemaa shulk sahyog kii kootnithik sanrachana
+ Memorandum of Understanding between BRICS Business Council and New Development Bank
+ gauratlab he ki brick shabd kaa prayog sarvapratham goldman sacks dwaara varsh 2001 main aagaamee ardh shatabdi main vaishvik aarthik pravritiyon ke adhyayan ke sandarbh main apane vaishvik aarthik patr ‘da world needs better iconomic bricks’ main kiya tha
+ Initially the group consisted of India, Brazil, Russia and China
+ varsh 2010 main dakshin africa ko bhi is samooh main sammilit karne par sahmati bani thi
+ As a result South Africa joined the third BRICS Summit held in Sanya, China in 2011
+ jisase brick se bricks ban gaya
+ BRICS is a group of five major emerging economies with 42
+58 percent of the world's population, with 22
+53 percent of the world's GDP
+ johansburg, dakshin africa varsh 2018 main apni adhyakshata main ‘10wein bricks shikhar sammelan’ kii mejabani karegaa
+ Narwar Durg is located on a hill in Vindhya Varavatmala in Narwar, Shivpuri district of Madhya Pradesh
+ isaki oonchaai bhustar se lagbhag 500 feet he or yah lagbhag 8 varg kimi ke kshetra main failaa hua he
+ It is said that in the 10th century, when the Kachhwaha Rajputs took control of Narwar, they built this fort
+ kushwahon ke baad yahaan parihaar or fir tomars rajputon kaa aadhipaty rahaa or antatah yah 16veen shatabdi main mughalon ke adheen aa gaya
+ Later, in the beginning of the 19th century, the Maratha Sardar Sindhia ruled here
+ is durg ke purvi ore purv se pashchim disha kii ore lambavat ek doosraa pahaad he, jise hajira pahaad kehete he, kyonki iske pashchimi bhaag ke shikhar par do kalatmak hajira nirmit hai
+ Sindh to the southwest and north of the fort and the Ahir river from the east have provided natural protection from all four sides
+ narvar durg main anek hindu mandir nirmit he
+ The fort of Narwar is first in Bundelkhand and second in number after Gwalior Fort in central India
+ narvar durg naag raajaaon kii rajdhani tha
+ Here 9 Naga kings ruled
+ ye raja is prakaar se the: After them Samudra Gupta attacked the Nag kings and ended this dynasty and subjugated the fort
+ is bare main elahabaad stambh main ullekh milte hai
+ The mention of Mahabharata period Narwar is found in detail in the name of Nishad Nagar or Nishad Desh in the Nishidhiya Charitam composed by Shri Harsha
+ prasiddh sanskrit sookhti - narvar ke raja nal dwaara apni patni damyanti ko kahi gayi
+ The fort of Narwar is considered the pride of Indian forts and the most ancient and safest fort
+ videshi yatri tiffinthalar ne narvar kile kii suraksha ke bare main varnan karte hue likhaa he ki - "narvar kile ko jeet paanaa behad dushkar he
+ There is no answer in terms of security "
+ is shahar kaa aitihaasik mahatv bhi rahaa he or ise 12veen shatabdi tak nalapura ke naam se janaa jaataa tha
+ The palace is named after King Nal, whose love stories of Damayanti are found in the epic Mahabharata
+ — naishidhichiratam Tim Berners Lee is the inventor of the World Wide Web, the current director of the World Wide Web Association and a researcher
+ tim berners lee kaa janm 8 june, 1955 ko england main hua tha
+ Both parents were mathematicians
+ kaha jaataa he ki unhone tim ko ganit har jagah, yahaan tak ki khaane kii mej par bhi bataayi
+ Tim did his higher education from Queens College, Oxford University
+ vishvavidhyalay main unhen apane mitra ke saath hekking karte huai pakad liya gaya tha
+ That is why they were denied the use of university computers
+ 1976 main, unhone vishvidhyalay se bhautik shaastra main degree praapt kii
+ CERN is the nuclear laboratory of European countries
+ tim 1984 se vahiin phelo ke rup main kaam karne lag gayi
+ There were all kinds of computers on which information was kept on different formats
+ tim kaa mukhya kaam tha ki ve suchnaaye ek computer se duusare par aasaani se ja saken
+ He wondered if there could be any way that all these information should be threaded in such a way that it feels like they are in one place
+ bas isi kaa hal sochate sochate, unhone web takanic kaa avishkaar kiya or duniya kaa pehla web pej 6 agast 1991 ko sarn main bana
+ Undoubtedly, this technique is the most popular contact tool of the 21st century
+ tim ne is takanic kaa avishkaar kiya jab ve sarn main kaam kar rahe the or yah sarn kii baudghik sampada thi
+ On 30 April 1993, CERN released the technique at Tim's behest
+ ab ise duniya ke liye na keval muft, par mukt rup se uplabdh he
+ For this, no one has to pay any fees
+ yah nirnay na keval mahatvapurn tha par internet ke shurwati daur ke nirnyo ke anuroop tha jo har takanic ko muft va mukt rup se uplabdh karaane ke liye katibaddh the
+ Tim later moved to the US
+ 1994 main unhone, masachusets institute of technology main vishwa vyapee web sangh kii sthapana kii
+ It is employed in standardizing the web
+ tim berners lee ko, 2001 main, royal sosayadi kaa sadsy banaaya gaya
+ The title of Knighthood was given in 2004
+ 13 june 2007 ko, order of merit, england ke sabase mahatvapurn sammaan se sammanit kiya gaya
+ This award is given by the Queen for her significant contribution in the field of art and science
+ isi liye time patrika ne unhen, 20veen shatabdi ke 100 mahaan vaigyanikon or vichaarkon main chunaa he
+ Neon is a chemical element
+ iskaa parmaanu kramank 10 he
+ It is placed in the 18th group of the periodic table
+ raimaze or tavers ne 1898 i
+ main is gas kii khoj kii thi or vaayu se ise praapt kiya tha
+ Neon has an atomic weight of 20
+18 and an atomic number of 10
+ iske sthaayee samasthanik kii dravyaman sankhya 20, 21 or 22 he
+ The mass numbers of radium-isotopic are 19 and 23
+ yah aavart sarini ke 18wein samooh kaa doosraa sadsy he
+ Other members of this group are argon, krypton, xenon, and redn
+ yah vayumandal main gas ke rup main badi alp maatra main rahata he
+ It is also found in ground-based gases
+ iskaa audyogic utpaadan drav vaayu ke prabhaajak aswan se hota he
+ In the cloud atmosphere, in which 50 cubic meters of liquid air is produced per hour, 100 liters of neon can be obtained per day
+ nion kaa ghanatv shunya degree sein
+ or ek vayumandal dabaav par 1
+204 gram prati ghan centimetre he
+ It is -246
+09 cm And boils at -248
+61 cent
+ Settles on iskaa kranti taap -228
+75rou sein
+ or kranthik dabaav 26
+86 vayumandal he
+ Its liquid heat is 3
+97 calories per gram and Rs 25
+ But the solubility is 0
+0101 cubic centimeters
+ iske anu main ek hi parmaanu rahata he
+ With which other element does it form no permanent compound
+ aisa samajha jaataa he ki durbal antarparmanviya kriya ke, jisko vaan der waal kii shakti kehete hai, kaaran hi yah anya tatwon ko aakarshith karata he
+ Its screen is special type, which has many beautiful blood-colored lines
+ asaadhaaran unchi vidyut chaalakata tathaa prakaash utsarjit karne kii kshamta ke kaaran nion kaa upyog anek vidyut lapon tathaa yantron main hota he
+ It is also used in chingari-plug-test
+ nion naliyon main, bahut kam dabaav par vidyut visarjan se, bahut sundar laal naarangi rang kaa prakaash nikalataa he
+ Neon is used for electrical conduction in most gaseous conduction and fluorescent lamps
+ anya gaison ko avasorana dwaara nikaalkar hi nion kii maatra nirdhaarit kii jaati he
+ As the name may imply, environmental management does not refer to the management of the environment, but to the modern human society's interaction with the environment and the management of its effects
+ prabandhakon ko prabhavit karne vaale teen pramukh mudde hai raajnneeti, kaarykram or sansaadhan 
+ The need for environmental management can be seen from several perspectives
+ paryaavaran prabandhan ke peeche ek aam vichaar tathaa prerana he kairiying capacity kii avadharana
+ In simple terms , carrying capacity refers to the ability of a particular environmental system to capture the maximum number of organisms within itself
+ haalaanki kai samskritiyon ko aitihaasik rup se vahan kshamta kii avadharana kii samaj thi, lekin iskaa mul malthusian theory main he
+ Therefore, environmental management means not only its conservation for the sake of the environment, but the protection of the environment for the sake of the entire human race
+ upyukt shoshan ke is tatv, arthath prakritik sansadhano ke sarvottam upyog ko iyu ke jal sambandhi disha nirdeshon main dekha ja saktaa he
+ Environmental management includes all components of the biophysical environment, both living and dead
+ iskaa kaaran he sabhi jivit prajatiyon or unke nivas sthanon ke bich paraspar rup se aapas main jude hue sambandh
+ The environment also includes the interrelationship of the human environment, such as the relationship of the social, cultural and economic environment with the biophysical environment
+ sabhi prabandh kaaryon ke samaan iske liye bhi prabhavi prabandhan, maanakon or pranaaliyon kii aavashyaktaa hoti he
+ Standards or systems or protocols of environmental management seek to reduce the environmental impact measured by an appropriate criterion
+ iesao 14001 maanak, paryaavaran jokhim prabandhan ke liye sabase adhik upyog kiya jane vaala maanak he or yah european iko-management and audit skim ke saath kaaphi kareebi rup se judaa hua he
+ The ISO 19011 standard as a general auditing standard envisages linking it with quality management
+ anya paryaavarniya prabandhan pranaliyaan iesao 14001 maanak par aadhaarit hoti hai or kai pranaliyaan isko vibhinn tareekon se vistaarit karti hai: a few other strategies also exist that rely on simple methods of differentiation, rather than developing top-down management "systems" that use performance audit and full cost accounting
+ udhaaharan ke liye, ichological intellegent dizin utpaadon ko aise upbhojya, seva utpaada yaa tikaoo athwa avikrey vishakt utpaadon main vibhajit karti he jinhen kisi ke dwaara karidaa nahi janaa chahie, yaa kai baar to graahakon ko yah pataa hi nahin hota he ki ve unhen kharid rahe hai
+ Better environmental management is achieved without using any "system" by keeping such unserviceable products out of the market
+ haal kii safaltaaon ne "ekikrut prabandhan" ke dharna ko janm diya he
+ It uses a broader approach and reduces the importance of interdisciplinary assessment
+ yah ek dilachasp dharna he parantu sabhi jagah anukool nahin he
+ "today's businesses are required to comply with many federal, state and local environmental laws, rules and regulations
+ apni company ko anupaalan se bachane kii pravriti ke prati bachaana atyant aavashyak he
+ This approach may also entitle you to punishment for violating rules in addition to running away from your important responsibilities towards the environment
+ paharisar-u0va0-1, yamakeshwar tehsil main bharat ke uttrakhand rajya ke antargat gadhwal mandal ke paudi jile kaa ek gaanv he
+ Sawai Madhopur Assembly Constituency is an assembly constituency of Rajasthan
+ rajesh joshi sahitya academy dwaara puraskrit hindi sahityakar hai
+ He was born in Narsingarh district of Madhya Pradesh
+ unhone shiksha puri karne ke baad patrakarita shuru kii or kuch saalon tak adhyaapan kiya
+ Apart from poems, Rajesh Joshi also wrote stories, plays, articles and comments
+ saath hi unhone kuch natya roopaantar tathaa kuch laghu filmon ke liye patakatha lekhan kaa kaary bhi kiya
+ The compositional role of Bhatruhari's poems by him has been translated as "kalpataru Yeh Bhi" and Mykovsky's poem "patalun Pahina Badal"
+ kai bhartiya bhashaaon ke saath-saath angreji, roosi or german main bhi unki kavitaaon ke anuwaad prakashit hue hai
+ Rajesh Joshi's four poems - One Day Will Speak Trees, Clay Face, Laughter in the background and Between Two Lines, Two Story Collections - Mondays and Other Stories, Kapil Tree, Three Plays - Magic Jungle, Good Man, Tankara song
+ iske atirikt aalochanatmak tippaniyon kii kitaab - ek kavi kii notebook prakashit hue hai
+ He has been conferred with the prestigious honor of Kendra Sahitya Akademi along with Shamsher Samman, Pahal Samman, Shikhar Samman of Madhya Pradesh Government and Makhanlal Chaturvedi Award
+ rajesh joshi kii kavitaayen gahare saamaajik abhipraay vaali hoti hai
+ They also instill deep faith in the crisis of life
+ unki kavitaaon main sthaneey boli-bani, mijaaz or mausam sabhi kuch vyaapt he
+ His poetry has affinity and longevity and a constant struggle to save humanity
+ duniya ke nasht hone kaa khatra rajesh joshi ko jitna prabal dikhaai detaa he, utana hi ve jivan kii sambhaavnaaon kii khoj ke liye baichaiyn dikhaai dete hai
+ The army of the Normans invaded England in the 11th century and captured it
+ isamen breatone tathaa french sainik bhi shaamil the
+ It was led by Duke William II
+ udaygiri vidisha se vaisanagar hote hue pahunchaa ja saktaa he
+ This Giri is about 1 mile from the river
+ pahari ke purab kii taraf pattharon ko katkar guphaayen banaai gai hai
+ Evidence of stone sculptures are found in these caves, which are considered to be milestones in the history of Indian sculpture
+ utkhanan se praapt dhvansaavashesh apni alag kahani kehete hai
+ Udayagiri was earlier known as Neechagiri
+ kalidas ne bhi ise isi naam se sambodhit kiya he
+ When Vidisha came into the hands of the Paramaras of Dhar in the 10th century, Udayaditya, the grandson of King Bhoja, named the place Udayagiri after himself
+ udaygiri main kul 20 guphaayen hai
+ Some of these caves belong to the 4th - 5th centuries
+ gupha sankhya 1 tathaa 20 ko jain gupha mana jaataa he
+ The caves are cut into stone and made into small rooms
+ saath- hi- saath murtiyan bhi utkeern kar di gai hai
+ Currently, most of these caves remain idol-less caves
+ aisa yahan paye jane vaale sthaneey pathar ke kaaran hua he
+ The excavation was easy due to the softening of the stone, but at the same time it is not suitable to withstand seasonal effects
+ is gupha kaa sthaneey naam suraj gupha he
+ From here the rocks of Vetravati, Sanchi Stupa and the fort of Raisen are clearly visible
+ yah 7 feet lambey va 6 feet chaude kaksh ke rup main kaata gaya he tathaa upar se ek shila kaaphi aage tak aakar is gupha ko dhanke hue he
+ It is said that earlier it had an idol of Suryanarayana installed, which was later destroyed
+ vaastukala kii drushti se yah gupha utana mahatvapurn nahin he, phir bhi yah mandir, vaastukala ke vikaas ke praarambhik charan ko darshata he
+ 7 feet 11 inches long and 6 feet 1
+5 inches wide, this cave is like a chamber, which is now just a sign
+ is gupha ke bheetar kaa kaksh 8 6 feet kaa he tathaa gaharaai 6 feet 3 inch he
+ Just in front of the first door is indicated to be a male idol, which has now been destroyed
+ isamen bache paanch murtiyon main kuch murtiyan chartumukhi he va vanamala dhaaran kiye hue he
+ The area of this cave dedicated to Shiva is 13 feet, 11 inches by 11 feet, 8 inches
+ veena gupha ke naam se prasiddh is gupha ke bheetar ek shivlinga he
+ a eunuch is shown playing the veena at the door
+ shivlinga ke saamne ke bhaag par ek bhavy maanav akruti kaa shivamukh he, jisamen upar jataa- jute tathaa mastak ke bich main teesraa netra dikhaaya gaya he
+ This idol is considered important in terms of art skills in Gupta sculptures
+ uttar kii taraf bane dalan main asht durgaaon kii murtiyan bani hai, jisamen trishul va aayudh abhi bhi dikhalaai padate hai
+ Earlier there was a hallway in front of the cave, which is now destroyed
+ yah gupha varah gupha ke naam se janaa jaataa he tathaa udaygiri kii samast gufaaon main sarvshereshth he
+ In fact, it has been made in the form of a hallway by cutting the hill, which is 22 feet long and 12 feet 8 inches high and 3 feet 4 inches deep in stone
+ yahan pathar ko katkar banaai gai varah avatar kii murti puure bharat main sarvshereshth udaahranon main se ek maani jaati he
+ The main part of the idol is in the form of Varaha and the remaining part is of human nature
+ balishtha bhujaayen, maansal janghaon tathaa sudaul banaavat ne murti ko bal, shaury tathaa sundarataa kaa pratik bana diya he
+ The idol is wearing Pitambara and along with it Kanthahar, Vyjayanthimala and bracelets are also engraved
+ baanye pair ko mukut pahane kisi vishesh vyakti ke hriday par rakhaa hua dikhalaayaa gaya he, jiske mastak ke upar vishaal 13 fanon vaala naag sthit he
+ He is in a position to praise Varah
+ is vishesh vyakti kii pahchaan ke sambandh main mataiky nahin he
+ Some scholars describe it as a king, while some idols or idols of Vishnu
+ puraanon ke anusaar varah bhagwaan ne hiranyaksh rakshas se prithvi kaa uddhaar kiya tha
+ Hence, some scholars consider it as the idol of Hiranyaksha
+ parantu murti kaa mukh asur sadrush nahin dikhalaayaa gaya he
+ People believe it to be the lord of the underworld or the Samudraja because of the circle of snakes on the statue
+ varah ke baayin ore stuti karti hui dikhaai gai rani, sambhawatah nichle murti kii rajmahishi ho sakati he
+ The female rupee Prithvi is shown on Varah's shoulder
+ prithvi ke donon pair neeche latake hue dikhaae gayi hai
+ Anga-pratang has shown compassion
+ cholii main sthit pusht payodhar prithvi kii poshnatmak shakti ke pratik hai
+ The urn behind the idol seen in the latte position below appears to be the symbol of the deity Varuna
+ saath main dikhaai de rahi do jal- dharaayen ganga tathaa yamuna kii pratik hai, jo swarg se neeche kii taraf avataran karti hui dikhaai gai hai
+ Ganga and Yamuna are shown on their vehicles Makara and Kachhap
+ upar apsaraayen dikhaai gai hai tathaa bai ore paanch panktiyon main yaksha, kinnar, ganrdhav va marut ganon ko stuti- gaan karte hue darshaya gaya he
+ The violin-like instrument located in Gandharva's hands, seen in the upper row, is evidence that such an instrument originated in India
+ daanyi ore yaksha va maharshigan chaar panktiyon main darshaye gayi hai
+ Shiva is depicted in the top row, including the Brahma and Nandi vehicles
+ praapt shila- abhilekhon ke sakshya ke kaaran yah gupha mahatvapurn he
+ The inner part of the cave is square and on the outside the stone itself has been cut and made a high hallway
+ choukhat atyant kalatmak he, jisamen sundar bel- boote hai
+ Outside the door are sculpted two gatekeepers, two Vishnu, a Ganesha and a Mahishasuramardini
+ ye bhavy murtiya bhartiya murtikla ke itihaas main ek mahatvapurn sthaan rakhti he
+ Although at the same time, due to the pollution, the impact of auto-erosion has been reduced, but Muslim invaders continued to destroy it from time to time
+ dwarapalon kii murti sainik veshbhusha main hai
+ His hands are shown with crescent and the waving hair looks like a wig on both sides of the head
+ dhoti ke neeche ek vishesh paridhaan dikhalaayaa gaya he, jo yahan ke aam murtiyon main nahin miltaa
+ Both the statues of Vishnu, which are in standing position, are similar in terms of art, but the statue on the left is somewhat smaller
+ dahini murti main ek chakrakaar aayudh he, parantu baanyi murti main dholkinuma vastu par chakra tikaa hua he
+ The Mahishmardini form of Durga is engraved near the statue of Vishnu on the left
+ isamen devi vir bhesh main devi ke baarah haath hai
+ Trishul, sword-shield and bow-arrow were shown as asra-shastra
+ mahisasur ko bhainse kii akruti main ankit kiya gaya he tathaa iske chaati par durga ko pair rakhe hue, trishul chubhote hue dikhaaya gaya he
+ The remains of the idol of Ganesha testify that by the time of Gupta, the creation and worship of this deity of gajamastak had started
+ sambhawatah ganesh kii yah pratimaa unki sabase puraani pratimaaon main se ek he
+ There is no clear evidence of Ganesha's statue before this period
+ ek murti ke upar san 402 i
+ kaa abhilekh in gufaaon kii pracheenta ko pramanit karti he
+ The inscription located in the cave is as follows - siddhan
+ 
+ sanvaasre 802 asadha maase shuklaay kadashyaan param bhattarak maharadhi 
+
+
+ shri chandra xxrep 4 
+ pt padanudhyatsya Maharaj Chialag Potrasya Maharaj Vishnudas Putrasya Sun Kani Kasya Maha 
+
+
+
+
+
+
+ is gupha main ab keval do dwarapalon ke chinh avshisht hai, jo gupha sankhya 6 kii bhaanti hi banaaye gayi hai
+ The inscriptions found suggest that it is a Shaiva cave
+ is samay samraat chandragupta apane utkarsh kii charam seemaa par the
+ There is nothing left in this cave
+ ye vaishnav guphaayen hai, jinamein khadey hue vishnu ke avshesh rah gayi hai
+ It is also a Vaishnava cave, in which a statue of Vishnu is made and there are two gatekeepers outside
+ vartmaan main ye nasht ho chuke hai
+ Built of long and cut stone rock, this hallway cave faces north
+ dalan purv- pashchim mukhi he
+ From it, Udayagiri is the main route to the top of the hill
+ yah gupha sheshshayi vishnu kii murti ke liye prasiddh he
+ The idol is 12 feet in length and is sleeping on the horoscope of Sheshnag
+ murti ke sir par farsi mukut, gale main haar, bhujabandh va haathon main kangan hai
+ Vyjayanthimala is long till the knees
+ chunki puraanon main vishnu kii spasht vyakhya us samay tak nahin ho paayi thi, atah yah murti, murti- nirmaan- kala kii praarambhik avasthaa vidit hoti he
+ Perhaps this is the reason why the statue of Brahma does not appear above the lotus navel
+ uske sthaan par ek golakaar chakra he, jisapar ek maanavakruti bani he
+ This may have been the idol of Brahma
+ nabhibel kii murti ke dahini taraf saat murtiyan or hai
+ Among them, the first idol, which is in the form of a bird, is the idol of Garuda and the other idols are of various deities
+ vishnu ke neeche sthit ek badi murti aradhana- mudra main hai, jo raja kii ho sakati he
+ The hair of the idol is curly in the Greek method
+ gupha ke aas- paas va saamne vaali chattan par shankh lipi khudi hui he, jo sansar kii pracheenatam lipiyon main se ek maani jaati he
+ These caves are empty
+ sambhawatah murtiyan nasht kar di gai hai
+ This cave is probably built after Cave 6
+ isamen bhi gupha sankhya 6 kii bhaanti donon taraf dwarpal hai, parantu ganesh kii murti main nikhaar aa gaya he
+ There is a crown on his head
+ iske alaava isamen mahisasuramardini kii bhi ek murti utkeern kii gai hai
+ This cave is now empty
+ yah gupha udaygiri kii gufaaon main sabase badi he
+ There is a Shivling inside it, which is worshiped by the locals even today
+ upar bhitari chat par camel kii akruti ankit he
+ On the outside there are two large carved idols of gatekeepers on both sides
+ uplabdh pramaanon se pataa chalata he ki pehle baahar kii taraf pathar kaa hi ek mandap rahaa hoga, jo kalatmak stambhon ke sahare tikaa rahata hoga
+ a beautiful sea churning is also engraved on the top
+ bich main mandarachal ko vasuki naag ke saath baandhakar ek ore devgan va duusari ore asuragan manthan kar rahe hai
+ There are asuras on the right side, whose back is visible, and on the left, the deities are shown holding Vasuki Nag
+ dwaar ke chaaron ore anek prakaar kii lataayen, belein, kirtimukh va akritiyaan khudi hui hai
+ The pillars in the possible pavilion probably belong to the Gupta temple built on the ruins of the Ashoka Mahal above the hill
+ jab yah mandir nasht ho gaya, tab usee ke khambhon ko neeche laakar purnaprayog kar liya gaya
+ The authenticity of the pillars from the pillars of the temple matching these pillars is authenticity
+ chandragupta kii kirti ko prakashit karte hue, pashchaat vikramaditya ke 1093 sanwat main punarniman kiya
+ Many pillars are also written on the inner pillars, which would have been written by influential people later
+ yah gupha is giri shrenee kii antim gupha he
+ It has four idols, which sit on Kamalasanas
+ iske chaaron ore abhamandal va upar chhatra hai
+ In it, in the three idols, two lions are sitting face to face on both sides of the circle
+ baayin ore kii murti ke paas ek shilaalekh ke jo gupt samvath 106 kaa he
+ This is probably the first article found during the reign of Gupta emperors
+ isamen parswanath kii murti kii sthapana kaa ullekh he, parantu vartmaan main is murti kaa koi sakshya nahin miltaa
+ Apart from these 20 caves, demolition is also seen on Giri peak
+ purv- pashchim main 127 feet lanbaa va uttar- dakshin main 72 feet chaudaa yah sthaan koi bhavy imaarat rahaa hoga
+ According to the Mahavamsa, the residence of Ashoka in his youth is a part of Mount Vagmala
+ atah is baat main koi andeh nahin rah jaataa ki vais nadi ke nikat sthit yah sthaan ashok kaa nivas- bhawan tha
+ According to public opinion, even today it is called the Palace of Ashoka
+ dhaariavad vidhansabha kshetra rajasthan kaa ek vidhansabha kshetra he
+ 707 BCE represents the years before the birth of Christ
+ isa ke janm ko adhaar maanakar uske janm se 707 isa purv yaa varsh purv ke varsh ko is prakaar pradarshit kiya jaataa he
+ It is considered a collective year based on the Julian calendar
+ adhikansh vishwa main isi paddati ke aadhaar par puraane varshon kii gananaa kii jaati he
+ In India, there are many famous Panchagas like Vikram Samvat which begins 57 or 58 years before the birth of Jesus
+ iske alaava shaq samvath bhi prasiddh he
+ Shaka Samvat is the ancient era of India which begins 78 years after the birth of Jesus
+ shaq samvath bharat kaa rashtriya calendar he
+ Some other ancient era prevalent in India are as follows- uparokt antar ke aadhaar par 707 isa purv ke anusaar vikrami samvath, saptarshi samvath, kaliyug samvath or pracheen saptarshi aadi main varsh aadi nikaale ja sakate he
+ The Prime Minister of England
+ bhartiya pratibhuti mudran tathaa mudra nirmaan nigam limited bharat main bank nots, sikkon evam security paper ke utpaadan karata he
+ spmcil's two currency note presses have set a target of printing 8000 million banknotes for the financial year 2013-14 of which 6550 million banknotes were produced till January 2014
+ espmasiiel kii chaar taksaalon ne varsh 2013-14 main 7600 million sikkon ke utpaadan lakshya ke mukaable janvari 2014 tak 6143 million sikkon kaa utpaadan kiya tha
+ In the field of security paper, SPMCIL has produced 2675 MT of banknote paper till January 2014 while the target for this year is 3500 MT
+ yah dhyaan dene yogya baat he ki hoshangabad sthit espmasiiel kii paper mashinari chalis varsh se bhi zyada puraani he lekin iske vaavjood yah lakshya rakhaa gaya he
+ The Dewas-based ink factory has produced the highest ever production of 496 MT till January 2014 as compared to 273 MT in 2011-12 and 484 MT in 2012-13
+ varsh 2013-14 ke ant tak espmasiiel ne 600 metric ton security ink ke utpaadan kaa lakshya rakhaa he
+ SPMCIL has become self-sufficient in the production of security printing inks to deal with the threat of circulation of fake currency notes as per the recommendations of the Standing Committee on Finance
+ ranisagar kharsiya mandal main bharat ke chhattisgarh rajya ke antargat raigarh jile kaa ek gaanv he
+ The Compton effect is an interaction with a substance of high frequency electromagnetic radiation in which the energy of the photons is degraded by increasing free electrons and their wave amplitude increases
+ prakirnit vikiran kii tarangadairghy keval prakirnan ke kone par nirbhar karti he
+ In order to clarify the Compton effect, in 1923 AD, Compton and Debai independently adopted the notion that the total energy / momentum in the photon moving in a direction yaa keval thodaa sa bhaag par de saktaa he
+ This causes the energy of the observed photon, which has a Planck constant, and the frequency of radiation, to be less than the incident photon's energy and increases the wavelength related to the photon
+ spashtat: yah photaan-electron-takkar-praturup vikiran ke tarang siddhanth ke ekadam pratikul he
+ In 1924, Burr, Kremers, and Slater suggested another model that was based on waveism
+ is praturup main urjasthirataa or samvegasthirataa ke niyam vikiran or electron kii kisi ekaaki ant: kriya main lagu na hokar anek takkaron ke sankhyikeey madhya par hi lagu hote hai
+ Therefore, the incident radiation is continuously scaled to correspond to the wavelength model of Tamson, but sometimes a reflect electron also emits from the scatter
+ yah praturup kaanpton parinaam ke kaaran tarangaayam main vruddhi kaa spashtikaran karne main safal to avashya hua, par antat: kuch prayogic parinaamon ke aadhaar par yah amaanya ho gaya or manyata, kaanpton evam debaai ke foton-electron-takkar-praturup ko hi mili
+ According to the compton-debye-model, the production of electrons and diffuse radiation is required simultaneously
+ is yugapadiyata main kwantum yantriki ke anusaar samay anishchita lagbhag 10-21 senkad he or naveenatam prayogon main yugapadiyata samay is seemaa ke paryaapt nikat pahunch chukaa he
+ Using the energy and stability of momentum in the Kapton – Debai photon model, a precise relationship is found in the directions of the reflected electron and the dispersed photon
+ aadhunik prayogon se is sambandh kii santoshjanak pushti hoti he
+ According to Dirac's theories of quantum mechanics, the interaction between an electromagnetic field and an electron has been explained completely differently
+ is praturup main ant: kriya kii praarambhik or antim sthitiyon ke atirikt ek madhyam sthiti bhi hoti he, jisamen keval samveg hi sthir rahata he, urja nahin
+ In this internal state an electron can emit a photon or absorb a photon
+ at: kaanpton parinaam main do vikalpon kii shakyata he : By considering both of these options, the scattering of electromagnetic radiation of electrons has been studied and the conclusions drawn from it have been proved by modern experiments to be sufficient for the expansion of energy
+ kaanpton-debaai ke nishkarsh is saamaanya nishkarshon ke vishesh rup he
+ If we consider the electrons to be completely independent and stable in the dislocated material and if the incident photon has energy and the dislocated photon has energy, then using the laws of energy stability and momentum stability we get the following equations: jahaan h⁄mec is called the Compton wavelength of the electron; Its value is equal to 2
+43 × 10−12 m
+ bansawada bhartiya rajya rajasthan ke dakshini bhaag main sthit ek shahar he
+ It is near the border of both the states of Gujarat and Madhya Pradesh
+ bansawada kii sthapana vahiya charpota ne kii thi, jo ek bhil raja tha
+ Vahiya is also known as Banshia, it was named Banswara after the name of King Bansia of Banswara
+ ise "sau dwipon kaa nagar" bhi kehete hai kyonki yahan se hokar bahane vaali maahi nadi main anekanek se dweep hai
+ The area around Banswara is flat and fertile compared to other areas, Mahi is the main river of Banswara
+ makka, gehun or chanaa bansawada kii pramukh fasalen hai
+ Banswara has iron-ore, lead, zinc, silver and manganese
+ is kshetra kaa gathan 1530 main bansawada rajavaade ke rup main kiya gaya tha or bansawada shahar isaki rajdhani tha
+ It was a part of the original Dungarpur state before the state of Rajasthan was merged in 1948
+ aitihaasik taur par vaagad rajya kii sthapana ke kai tathy paae jate hai
+ According to one belief, Bansia Bhil laid the foundation of Banswara while another opinion is that Guhilotas established Vagad state
+ in tathyon ke baavjood zyaadaatar yahi mana jaataa he ki is rajya ke vaastivak sansthaapak samantisingh the
+ He annexed the Vagad region around 1179 AD
+ samantisingh ke putr sinhaddev ke pautra veerasingh dev tak vaagad ke guhilavan sheey raajaaon kii rajdhani baroda—duungarpur thi
+ When the grandson of Veerasingh, Dungarsingh settled the city of Dungarpur and made it his capital, the name of the kingdom of Vagad became famous as Dungarpur after its new capital
+ kasbe ke purv main prativeshi pahadiyon dwaara bane ek gart main bai talab naam se gyaat ek kritrim talab he jo maharaval jagamaal kii rani dwaara nirmit bataaya jaataa he
+ About 1 km away are the canopies of the rulers of the princely state
+ kasbe main kuch hindu va jain mandir va ek puraani masjid bhi he
+ Abdulla Pir Dargah is located in the adjacent village of Bhawanpura
+ is sthaan par prativarsh bohara jati ke log badi sankhya main ekatrit hote hai
+ The Mahi Project is a Kagdi pick-up-wear built near the city for water distribution in the canals of the dam, which is the main attraction for the tourists
+ banswada kaa namakaran bhil sardaar bonsia ke naam par hua Chetak was the name of the horse of Nilavarna irani origin, the most loved and famous of Maharana Pratap
+ chaaran vyapaaree kathiyabadi nasl ke teen ghode chetak,tratak or atak lekar marwar aayaa
+ Stuck test came in handy
+ tratak maharana pratap ne unke chote bhai shakti singh ko de diya or chetak ko swayan rakh liya
+ In the Battle of Haldi Valley- Chetak showed his unique loyalty, intelligence and valor
+ yuddh main buree tarah ghayal ho jane par bhi maharana pratap ko surakshit ranbhumi se nikaal laane main safal vah ek barsaati naala ulaangh kar antatah veergati ko praapt hua
+ The poignant story of Chetak's valor and his loyalty has been narrated in the famous epic Haldi valley composed by Hindi poet Shyam Narayan Pandey
+ aaj bhi chittod kii haldi ghati main chetak kii samadhi bani hui he, jahaan swayan pratap or unke bhai shaktisingh ne apane haathon se is ashv kaa dah-sanskaar kiya tha
+ Some folk songs based on Chetak's loyalty are still sung in Mewar
+ hindi ke prasiddh kavi shyaamanarayan pandeya ne 'chetak kii veerta' naam se ek sundar kavita likhi he- The mainland of the Koch dynasty is present-day West Bengal, the northern part of Bangladesh, the western part of Assam and the eastern part of the Kesi river in Nepal
+ iskaa itihaas mahabharat kaal tak kii bataai jaati he
+ The account of Keechaka, who was killed during the Pandava's undercover, is also linked to this house
+ risvi ke pehle or duusare shatabdi ke aasapaas himalay kshetra ke kanchanjanga kshetra ke pahadiyon main or iske nichle hisse main kiraat / coach janajatiyon kaa basobaas tha
+ At that time this area was called Kirhadiya
+ mahabharat, ramayana tathaa ptolemy’s Geographia main is tathyaka ullekh he
+ There are references to the main three dynasties in the ancient Kamarupa kingdom of eastern India from the 4th century to the 12th century AD: - Varman, Mlechchha / Pala Dynasty
+ paal / palaa rajvansh ke baad 13 wein shatabdi ke aasapaas pracheen kamrup rajya do hisse main bat gai - kamrup ke pashchimi hisse main Koch Kamata Kingdom or purvi bhaag main Ahom Kingdom
+ After that, the kingdom of Sen / Khen dynasty was established in Koch Kamata state from the 13th century to the 15th century AD
+ is dauraan sen sammrajya nepalke gandak nadi se purab assam ke brahmaputra se pashchim, vartmaan tripura mizoram tak vistaar hua tha
+ After the invasion of Sultan Alauddin Hussain shah of Bengal in 1498 / 99, the rule of Sen / Khen dynasty was reduced and they went backward
+ karib angrejon ke aagaman tak sen vansh kaa raaj vartmaan nepal main vijaipur, chudndi, udaipur, chisapani or palpa tak rahaa tha
+ The capital of Koch Kamta Raj was Cooch Behar
+ is kii duusari badi nagar va prashaskeey kendra gograha main tha
+ Alauddin Hussain shah's reign in coach Kamata State did not last long
+ sthaneey coach va mech janajatiya ke prabhaav se san 1515 main coach kamta rajya main coach rajvansh kaa udai hua
+ The ancient kamrup-koch Kamta was the state government governing the head of different castes in the small village of the state
+ inhen gaanvo main se ek tha chikanabari 
+ The chief was there - Haridas Mech "hariya Mandal"
+ unki do patni thi - hira va jira
+ Two sons were born from Jira - Chandan and Madan and Hira had sons - Shishu and Vishu
+ coach rajvansh ke pratham raja the chandan singh
+ His younger brother Madan was killed in the war
+ shishu swechha se rajpaat se alag rahaa or raja chandan singh ke shashan main mukhya sahyogi rahaa uskaa sautela bhaai vishu
+ Vishu alias Vishwa Singh became the second king of Koch Sammrajya after Chandan Singh
+ is tarah coach raaj kaa vishaal bharat main vilay hone tak is vansh ke 24 raja hue
+ The kings of this dynasty were - 1 - maharaja chandan 2- Maharaja Vishvesingh 3- maharaja nar narayan 4- Maharaja Laxmi Narayan 5- maharaja vir narayan 6- Maharaja Pran Narayan 7- maharaja madan narayan 8- Maharaja Vasudev Narayan 9- maharaja mahendra narayan 10- Maharaja Roop Narayan 11- maharaja upendra narayan 12- Maharaja Devendra Narayan 13- maharaja dhijendra narayan 14- Maharaja Rajendra Narayan 15- maharaja dharendra narayan 16- Maharaja Vijendra Narayan 17- maharaja dhijendra narayan 18- Maharaja Harendra Narayan 19- maharaja shivendra narayan 20- Maharaja Narendra Narayan 21- maharaja nripendra narayan 22- Maharaja Rajarajendra Narayan 23- maharaja jitendra narayan or 24- Maharaja Jagaddipendra Narayan 1982 vishwa ameor mukkebaaji pratiyogitaayen vishwa mukkebaaji pratiyogita thi
+ Coordinates: 27 ° 13′N 79 ° 30′E / 27
+22 ° n 79
+50 ° e / 27
+22; 79
+50 fatehpur kapurpur tirava, kannauj, uttar pradesh sthit ek gaanv he
+ Hathayogi is a novel written by noted Sindhi language litterateur Tara Mirchandani for which she was awarded the Sahitya Akademi Award for Sindhi language in 1993
+ het story 2012 main bani bhartiya thriller film he jiskaa nirdesan vivek agnihotri dwaara va nirmaan vikram bhatta dwaara kiya gaya he
+ The film stars Paoli Dam, Gulshan Devaiah and Nikhil Dwivedi in the lead roles
+ kavya krishna or uskaa ek dost vicky ek sting oparation karte hai wo bahut shaktishaalee udyogpation ke khilaaf / yah company siddharth dhanrajgir kii he jo ek bahut bada udyogpati he / kavya or uskaa dost kuch photo khichate hai or agle din ek artical ke saath chhap dete hai / ye artical kaale dhan ke upar hota he / jisaki vajah se siddharth kii company ko bahut bada nuksaan hota he or jiske chalate wo kavya ko coffee par bulaane kaa faisla letaa he / kavya uskaa nimantran sweekaar kar leti he or coffee ke liye uske saath chali jaati he jahaan siddharth use apni company main job kii peshkash karata he / wo bhi 3% zyada selary ke saath saath ek aalishaan flats or ek gadee bhi, jise kavya maan jaati he / kavya or siddharth donon ek bijness trip par jate he / jahaan donon raat ko khaane par milte hai / raat ke maahaul main wo donon kaaphi romantic ho jate hai, or wo donon ek duusare main khone main lagate hai tathaa aalingan-mugdh ho jate hai or purna rup se pyaar kii anubhuti kaa anubhav karte hai / agali subah donon log apane shahar vaapis aa jate hai / vaapis aane par kavya vicky ko mahange mahange uphaar dikhaati he or bolti he – “ai lav maai job” / agle din jab kavya offis kaam par jaati he to vahaan pahunch kar paati he ki uskaa entry paas kaam nahin kar rahaa he / poochne par pataa chalata he ki uskaa paas band kar diya gaya he / kavya siddharth se baat karne jaati he / vahaan jane par siddharth kavya ke maathe par bandook taan kar kahata he ki koi bhi aira-gairaa aakar siddharth kii jindagi barbaad nahin kar saktaa or kisi ne aisi koshish kii to uskaa yahi anjaam hoga jo tumhaara hua / mujhe tumse koi pyaar nahin he, main bas tumse badla lenaa chahta tha jo ki maine le liya he ab tum yahan se nikal jaao / Through the test, i can prove that this child is yours / The same night, Siddharth calls Kavya and apologizes as soon as the poem is about to hug her, she gets kidnapped / then Siddharth makes her proud and She gets an operation done so that she can never become a mother / When Kavya senses the next day, she is in a village / pain of heartbreak and losing the baby Her pain does not hurt her and she decides to take revenge on Siddharth, due to which she goes and sells herself in a brothel and takes training to become a prostitute / sleeps with many people just to reach Siddhartha / Likewise, one day he is the CEO of Cementech Company
+ Rajdev meets Singh and hides from him and copies the necessary email from his phone / The next day Siddharth's company gets a huge loss due to the leaking of necessary information / After that he meets with Siddharth to destroy him Threatens / Siddharth gets cameras installed in Kavya's house, which Kavya finds out she uses her own weapon against him and Rajdev at her house Calls to Singh / After this Siddhartha kills Rajdev Singh and implores Kavya on the basis of false evidence / Kavya then blackmails the cabinet minister and gets out of jail with his help and offers to the minister that if If she makes Kavya a director of IIBI Bank and makes the police file her name disappear, then she will spend one night with him, The minister accepts this proposal / After this Kavya extracts all the information about Siddharth's company with the help of Vicky and exposes Siddharth's black money in a general board meeting / ruins it / Kavya returns Comes home / Vicky gives her a watch / There she sees the wife of Rajdev Singh who is waiting for her / Has a gun in her hand Is and she kills Kavya, realizing that Kavya is her husband's killer / After killing Kavya she kills herself too / The film ends with a background voice: xxrep 4 - "dead People do not scare the grave / " het story internet movie database par Chaunbag is a village in Bageshwar district of Kumaon division under Uttarakhand state of India in Kanda tehsil
+ ashok gahalotcongress Vasundhara Raje Scindia BJP rajasthan rajya vidhansabha chunaav, 2003 bhartiya rajya rajasthan main 1 disambar 2003 ko hue the
+ The result was declared on 4 December 2003
+ satarudh party congress ko bhaajapa ne haraa diya
+ List of elected members of Rajasthan Legislative Assembly 550 jatiyon se adhik Streptomyces is the most widespread biological lineage of Actinobacteria, and includes more than 500 bacterial species, collectively known as streptomycetes
+ anya actinobacteria kii tarah streptomicit bhi gram-dhanatmak hote hai, or inke jinom main guanin-cytosin kii maatra adhik pai jaati he
+ Streptomycetes are very common in soils and decomposing flora
+ apane prajnan or failaav ke liye yah bijaanu banaate hai, jinamein jeeyosmin naamak rasayan kii maujuudagi ke kaaran ek spasht "mitti-jaisi" gandh aati he
+ Streptomycetes are very important in medicine and medicine
+ bacteria sankraman ke upachaar main prayog hone vaale prakritik sroton se uplabdh do-tihaai pratijaivik streptomicit dwaara nirmit hote hai, jisamen niomicine, cipemycine, gripemycine, botromicine or chlormphenicol shaamil hai
+ The famous antibiotic called streptomycin was produced by streptomycetes and was named after this bacterium, although it is now less commonly used
+ adhikansh streptomicit rogajanak nahin hai, haalanki kuch jatiyaan maanvon main rog kii kaaran hoti hai
+ may-brit Moser is a Norwegian psychologist, neurologist and founding director at the Kavli Institute for Systems Neuroscience and Center for the Biology of Memory of the Norwegian University of Science and Technology in Trondheim, Norway
+ moger or unke pati edward moger piechdi karne ke ek varsh baad 1996 main antianyu main manovigyaan or tantrika-vigyaan ke sah-acharya pad par niyukt huye
+ Moser received various awards with her husband, including the Loisa Gross Howitz Prize and the Carl Spencer Lashley Award
+ 2014 main unhone jon okeef ke saath chikitsa ke kshetra main nobel puraskaar praapt kiya
+ The project is located on the Sutlej River, on the National Highway 22 - Hindustan Tibet route in Himachal Pradesh
+ yah pariyojna pramukh audyogic samooh je pi group dwaara sanchalit he
+ One end of this water tunnel is at Karcham and the other at Wangtu
+ karcham main sangla ghati se aati hui baspa nadi sutluj main mil jaati he
+ Karcham is the gateway to the most beautiful Sangla Valley
+ margshirsh krishna shashthee bhartiya panchang ke anusaar nauven maah kii ikkisvi tithi he, varshant main abhi 99 tithiyaan avshisht hai
+ This is an article related to Meghalaya which has many meanings: shrenee:meghalaya Coordinates: 24 ° 49′N 85 ° 00′E / 24
+81 ° n 85 ° e / 24
+81; 85 paradhana konch, gaya, bihar sthit ek gaanv he
+ Begum Zohra Ali Yawar Jung was awarded the Padma Bhushan in the field of social service in 1976 by the Government of India
+ ye andhra pradesh se hai
+ White millet, in botanical name, Echinochloa frumentacea Echinochloa frumentacea, is grown in India, Pakistan, Nepal in areas where rice cannot be grown
+ islamic kanoon ke tahat, jazia ek prativyakti kar he, jise ek islamic raashtra dwaara iske gaiyr muslim purush nagarikon par jo kuch mandandon ko puraa karte hon, par lagaaya jaataa he
+ This tax is levied on non-muslim eligible or healthy-bodied adult men whose age is / was able to work in the army as well as be able to afford it
+ kuch apwaadon ko chhodkar, lekin kai baar ise sabhi gaiyr muslimon par bina kisi shart ke lagaaya gaya he
+ However, it has also been removed at various times in history
+ ajmal khan mufti ek raajnneetijna he pakistan ke rashtriya vidhansabha main | vah NA-15 nirvachan kshetra kaa pratinidhitiv karata he pakistan kaa uttar pashchim seemaant praant main | Silli is a village in the Bageshwar district of the Kumaon division under the Uttarakhand state of India in Garula tehsil
+ shaukat hamid khan,bharat ke uttar pradesh kii teesri vidhansabha sabha main vidhayak rahe
+ In the 1962 Uttar Pradesh Legislative Assembly elections, he participated in the election on behalf of the Congress from 406-baghpat Legislative Assembly constituency of Meerut district of Uttar Pradesh
+ jonpuri raag ko asaavari thaat se upja hua raag mana gaya he
+ In this raga, c, d, ni vowels sound soft
+ aaroh main ga varjya he arthath gaate bajaate samay aaroh main ga swar ko chhod dete hai
+ Seven vowels are used in descent
+ atah is raag kii jaati shadav-sampurna he
+ Jaunpuri raga has a vocal tone and conversational tone
+ isamen m pa, dha m pa ga - re m pa ki sangati baar baar dikhaai jaati he 
+ Some film songs based on Jaunpuri raga: 1
+ No match with foreigners 2
+ meri yaad main tu naa ansu bahaanaa3
+ jaaen to jaaen kahan Its singing time is the second stroke of the day
+ sangeet shri- en
+ C
+ i
+ R
+ tii
+ This raga is said to have been composed by Sultan Hussain Sharki of Jaunpur
+ italy europe mahadweep ke dakshin main sthit ek desh he jisaki mukhyabhumi ek prayadweep he
+ To the north of Italy is the Alps Mountains, which borders France, Switzerland, Austria and Slovenia
+ sicily tathaa sardinia, jo bumadhya sagar ke do sabase bade dweep hai, italy ke hi ang hai
+ The Vatican City and San Marino are two independent countries within Italy
+ italy, yunaan ke baad europe kaa doosraa kaa doosraa pracheenatam raashtra he
+ The civilization of Rome and the history of Italy symbolize the ancient splendor and development of the country
+ aadhunik italy 1861 i
+ main rajya ke rup main gathit hua tha
+ The country's slow progress, social organization and political upheaval are related to Italy's 2,500-year history
+ desh main purvakaal main rajtantr tha jiskaa antim rajgharaana sevaay tha
+ From June 1946, the country was transformed into a democratic state
+ italy kii rajdhani rome pracheen kaal ke ek shakti or prabhaav se sampann roman samrajya kii rajdhani rahaa he
+ The Roman Empire established its sovereignty around the region of the Mediterranean Sea around and after Christ, causing it to be considered a cornerstone of modern Europe in culture and other areas
+ tathaa madhyapurv ke itihaas main bhi roman samrajya ne apana prabhaav daalaa tha or unase prabhavit bhi hua tha
+ The Yavanas have also influenced the culture of present-day Italy
+ italy kii jansankhya 2008 main 5 karod 90 lakh thi
+ The area of the country is around 3 lakh square kilometers
+ 1991 main yahan kii sarkaar ke sheersh padasth adhikariyon main vyaapt bhrashtachar kaa pardaafash hua jiske baad yahan kii rajnatik satta or prashasan main kai badlaav aae hai
+ Rome is the capital here and Venice, Milan etc
+ can be named among other major cities
+ italy kii mukhya bhoomi teen taraf se bumadhya sagar dwaara jalaavruth he
+ This island is called the Italian Peninsula after the name of Italy
+ iskaa kul kshetrafal 3,01,000 varg kilometre he jo madhyapardesh ke kshetrafal se thodaa kam he
+ Including the islands, its coastline is some 7,600 km long
+ uttar main isaki seemaa france, austria, slovenia tathaa switzaraland se lagati he
+ Vatican City and San Marino surround Italy
+ italy kii jalwaayu mukhyatah bumadhyasagariya he par isamen bahut adhik badlaav paaya jaataa he
+ For example, the climate of cities like Turin, Milan can be classified as continental or humid continental climate
+ italy europe ke dakshinvarti teen bade prayadvipon main bich kaa prayadweep he jo bumadhyasaagar ke madhya main sthit he
+ To the west, south and east of the peninsula are the Tiruhanian, Ionian and Adriatic seas respectively, and to the north are the Shrines of the Alps mountain
+ sicily, sardinia tathaa corsika, ye teen bade dweep tathaa ligurian sagar main sthit anya tapuon ke samudaay vastut: italy se sambhddha hai
+ The shape of the peninsula is similar to a large boot that is 80 miles to 150 miles in width from northwest to southeast
+ sudur dakshin main chaudaai 35 mile se 20 mile tak he
+ Italy is a mountainous country, in the north of which the Alps Mountains and in the middle are the backbone of the Apennine Mountains
+ apenine pahaad jeloa tathaa nise nagaron ke madhya se prarambh hokar dakshin purv disha main adriatic samudratat tak chalaa gaya he or madhya tathaa dakshini italy main ridh kii bhanti dakshin kii taraf failaa hua he
+ Italy can be divided into the following four parts in terms of natural hazards: alps kii dakshini dhaal, jo italy ke uttar main sthit he
+ The plain of Po and Venice, which is made of mud brought by the rivers of Po etc
+ italy prayadweep kaa dakshini bhaag, jisamen sicily bhi sammilit he
+ In this entire part, the Apennine mountain ranges are the most prominent
+ sardinia, corsika tathaa anya dweepasmooh
+ But in terms of vegetation, climate and natural terms, this peninsula can be divided into three parts - 1
+ uttari italy, 2
+ madhya italy tathaa 3
+ dakshini italy
+ It is the most densely inhabited plains of Italy, which was the sea in the Ottoman era, later made of mud brought by rivers
+ yah maidan desh kii 17 pratishat bhoomi ghere hue he jisamen chaaval, shahatut tathaa pashuon ke liye chaara bahutayat se paidaa hota he
+ To the north are the hills and hills of the Alps, on which are pastures, forests, and terraced fields
+ parvatiy bhaag kii prakritik shobhaa kuch jhiilon tathaa nadiyon se bahut bad gai he
+ The geographical description of Northern Italy can only be made through the Po River
+ po nadi ek pahari sote ke rup main mount vizo pahaad se nikalakar 20 mile bahane ke baad saluja ke maidan main pravesh karti he
+ Shipping takes place in this river 337 miles from the confluence of the river Sosia
+ samudr main girane ke pehle nadi do shakhaon main vibhakt ho jaati he
+ There is a 20 mile wide delta at the mouth of Po
+ nadi kii kul lambaai 420 mile he tathaa yah 29,000 varg mile bhoomi ke jal kii nikasi karti he
+ The main tributaries of Po originating from the Alps mountains and Apennines are Ticino, Adda, Oglio and Mincio, and Tenaro, Tevia, Taro, Cechia, and Panaro, respectively
+ tiber tathaa adrij italy kii duusari tathaa teesri sabase badi nadiyaan hai
+ They are initially narrow and mountainous, but they expand and flood in the plains
+ ye sabhi nadiyaan sinchai tathaa vidyut utpaadan kii drushti se param upyogi hai, kintu yatayaat ke liye anupyukt
+ There is a narrow seaside plain in the middle of the Alps, Apennines and the Adriatic Sea
+ uttari bhaag main parvatiy dhaalon par moolyawaan fal, jaise jaitoon, angoor tathaa naarangi bahut paidaa hoti he
+ The fertile valley and plains are densely populated
+ inamen anek gaanv tathaa shahar based hue hai
+ There are forests at higher elevations
+ madhya italy ke bich main apanaains pahaad uttar-uttar-purv se dakshin-pashchim kii disha main adriatic samudratat ke samaantar failaa hua he
+ The highest part of Apennines is in this part of the Grensaudi Italia
+ yahan parvatashreniyon kaa jaal bicha hua he, jinamein adhikansh november se may tak barf se dhaki rahati hai
+ There are some wide, very beautiful and fertile valleys here, such as the Valley of Eterno
+ madhya italy kii prakritik rachana ke kaaran yahan ek ore adhik thandha, ucch parvatiy bhaag he tathaa duusari ore garm tathaa shitoshna jalwayuvali dhaal tathaa ghaatiyaan hai
+ The western slope is a rugged, rugged mountain
+ dakshin main taskani tathaa tiber ke bich kaa bhaag jwalamukhi pahaado kii dein he, at: yahan shankvakar pahadiyaan tathaa jhilein hai
+ There is a fertile plains with black soil between this mountainous part and the sea which is called Kampanya
+ madhya italy ke purvi tat kii taraf shreniyan samudr ke bahut nikat tak faili hui hai, at: adriatic sagar main giranevaali nadiyon kaa mahatv bahut kam he
+ This asymmetrical part is very famous for fruit gardens
+ yahan jaitoon tathaa angoor kii kheti hoti he
+ There is a lack of big cities and big villages here; Most of the people live in small towns and villages
+ khanij sampatti ke abhaav ke kaaran yah bhaag audyogic vikaas kii drushti se pichhadaa hua he
+ Fusinus, Trasimeno and Chidsey are famous lakes here
+ pashchimi bhaag kii jhilein jwalamukhi pahaado kii dein hai
+ This entire part is a hill with an apnea like its backbone and low hills on both sides
+ is bhaag kii ausat chaudaai 50 mile se lekar 60 mile tak he
+ On the west coast there is a narrow name "tera de Lavoro" and on the east is the wide plain of Apulia
+ in do maidaanon ke atirikt sara bhaag pahari he or apenins kii unchi nichi shrankhlaon se dhakaa hua he
+ The hill of Potenza meets the last highest hill in southern Italy
+ sudur dakshin main grenite tathaa chooney ke pathar kii, jangalon se dhaki hui pahadiyaan tat tak chali gai hai
+ The rivers falling in the Adriatic Sea such as Leary and Geta are longer than the rivers flowing on the western slope
+ drinago se dakshin kii ore giranevaali vifarano, fortore, servaaro, aanton tathaa bradano mukhya nadiyaan hai
+ Located in the middle of the mountains in southern Italy is the lagodel-motesi lake
+ italy ke sameep sthit sicily, sardinia tathaa corsika ke atirikt elva, capriya, gargona, pyanosa, manticristo, jiglico aadi mukhya mukhya dweep hai
+ These islands include Ischia, Procida and Ponja, which lie near the Gulf of Naples
+ adriatic tat par keval drimity dweep he
+ The country's natural composition, latitudinal expansion and the state of the Mediterranean are the main regulators of climate
+ teen ore samudr tathaa uttar main ucch alps se ghire hone ke kaaran yahan kii jalwaayu kii vividhta paryaapt bad jaati he
+ In Italy, the hottest country in Europe, it is relatively hot in winter and ordinary summer
+ yah prabhaav samudr se duuri badhane par ghatata he
+ The northern alpine winds are not affected here due to the Alps
+ kintu purvi bhaag main thandhi tathaa tej bora naamak hawaayen chalaa karti hai
+ Due to the Apennines mountains, the effect of the winds coming from the dark ocean is limited to the Tiru Hinian coast
+ uttari tathaa dakshini italy ke taap main paryaapt antar paaya jaataa he
+ Temperature fluctuations 52 ° F
+ 66 degrees f Happens till
+ disambar tathaa janvari sabase adhik thande tathaa july or agast sabase adhik garm maheene hai
+ The average temperature of the Mao of the Po River is 55 ° F
+ And the average temperature in Sicily, 500 miles away, is 64 degrees F
+ is
+ uttar ke alps ke pahari kshetra main ausat vaarshik varsha 80faf hoti he
+ The high western part of the Apennines also receives substantial rainfall
+ purvi lombardi ke dakshin pashchimi bhaag main vaarshik varsha 24faf hoti he, kintu uttari bhaag main uskaa ausat 50faf hota he tathaa garmi shushk rahati he
+ In the intermediate part of the Alps, there is rain in summer and snow falls in winter
+ po nadi kii droni main garmi main adhik varsha hoti he
+ Apart from local reasons, Italy has a Mediterranean climate where it rains in winter and the summers are dry
+ jalwaayu kii vishmata ke kaaran yahan kii banaspatiyaan bhi ek si nahin hai
+ With the continuous efforts of man, natural vegetation is seen only on the high mountains
+ jahaan nukili patteevale jangal paae jate hai
+ Among them are trees of fir, cedar, pine and fur
+ uttar ke parvatiy thande bhaagon main adhik thandak sahan karanevaale paudhe paae jate hai
+ In the coastal and other lowlands, fruit gardens of olive, orange, lemon etc
+ are installed
+ madhya italy main apenins parvat kii unchi shreniyon ko chhodkar prakritik vanaspati anyatra nahin he
+ Olives and grapes are cultivated here
+ dakshini italy main tirahinian tatpar jaitoon, naarangi, nibu, shahatut, anjir aadi falon ke udyaan hai
+ This part also contains flowers grown from tubers
+ yahan oonchaai par tathaa sadabahaar jangal paae jate hai
+ Therefore, it is clear that modern farmers have filled the whole of Italy with fruits, trees and other crops, only on the mountains wild trees and shrubs are found
+ italy vaasiyon kaa sabase bada vyavsaay kheti he
+ Farming derives its livelihood from the entire population
+ jalwaayu tathaa prakritik dasha kii vibhinnata ke kaaran is chote se desh main europe main paidaa honevaali sari chijen paryaapt maatra main paidaa hoti hai, arthath rai se lekar chaaval tak, seb se lekar naarangi tak tathaa alsi se lekar kapaas tak
+ Around 7,05,00,000 acres of land is fertile in the entire country, including grains in 1,83,74,000 acres, pulses etc
+ in 28,62,000 acres, industrial crops in 7,72,000 acres, vegetables in 14,90,000 acres, 23, There are 86,000 acres of grapes, 20,33,000 acres of olives, 2,19,000 acres of pasture and fodder crops and 1,44,58,000 acres of forest
+ yahan kii kheti pracheen dhang se hi hoti he
+ Due to the hilly land, modern instruments have not been used
+ jansankhya : purv aitihaasik kaal main yahan kii jansankhya bahut kam thi
+ The proportion of population growth was high enough before World War II
+ parvatiy bhoomi tathaa simit audyogic vikaas ke kaaran jansankhya kaa ghanatv anya europea deshon kii apeksha bahut kam he
+ Most of the people live in villages
+ desh main 50,000 se upar jansankhyawaale nagaron kii sankhya 70 he
+ Most people here believe in Roman Catholicism
+ 1931 i
+ kii janaganana ke anusaar 99
+6 pratishat log catholic the, 0
+34 pratishat log duusare dharm ke the tathaa
+ 06 percent were people who had no particular religion
+ shiksha tathaa kala kii drushti se italy pracheen kaal se agrani rahaa he
+ The civilization and art of Rome reached its peak in history
+ yahan ke kalakaar or chitrakaar vishwavikhyath the
+ Even today the level of education here is very high
+ nirakshartaa naam maatr kii bhi nahin he
+ 70 daily papers are published in the country
+ chhavigruhon kii sankhya lagbhag 9,770 he 
+ Minerals are insufficient in Italy, only mercury is exported from here
+ yahan sicily, taskani, sardinia evam pidmant kshetron main hi khanij tathaa audyogic vikaas bhalee bhanti hua he
+ The main industry of the country is textile making
+ yahan 1969 i
+ main sooti kapade banane ke 945 kaarkaane the
+ Silk is traded all over Italy, but Lombardy, Piedmont and Venetia are the main silk producing regions
+ 1969 main grihaudyog ko chhodkar reshmi kapade banane ke 24 tathaa oonee kapade banane ke 348 kaarkaane the
+ There are enough factories for making chemical goods and also for making sugar
+ desh main motor, motor cycle tathaa cycle banane kaa bahut bada udyog he
+ In 1969, 15,95,951 motors were made, of which 6,30,076 motors were exported
+ anya mashine tathaa aujaar banane ke bhi bahut se kaarkaane hai
+ There is a big business of generating hydroelectricity here
+ yahan 15,88,031 kaarkaane hai, jinamein 68,00,673 vyakti kaam karte hai
+ Italy has trade relations with all countries of Europe and with Argentina, the United States and Canada
+ mukhya aayaat kii vastuen kapaas, oon, koyala or rasinic padaarth hai tathaa niryaat kii vastuen fal, soot, kapade, mashine, motor, motorcycle evam rasinic padaarth hai
+ Italy imports are more than exports
+ sampurna desh 19 kshetron tathaa 92 praanton main banta hua he
+ The number of cities has increased considerably since the mid-19th century
+ at: prantiy rajdhaniyon kaa mahatv badha tathaa logon kaa jhukaav nagaron kii taraf hua
+ There are a total of 26 cities with a population above one lakh in the country
+ san 1969 main 5,00,000 se adhik jansankhya ke nagar rome, milan, nepuls, turin tathaa geneva hai
+ Italy has the largest number of World Heritage Sites
+ italy ke nagar: torino bergamo venice ravenna baari roma siena florence pisa napoli pampe soranto palermo milaano triest verona genoa brindici aadi
+ Skype pronounced / ˈskaip / , is a software application that allows users to make voice and video calls over the Internet
+ is seva ke antargat anya prayoktaaon ko kiye gaye kol or kuch-kuch deshon main nickshulk numberon par kiye gaye kol, nickshulk hote hai jabaki anya landleinon or mobile phonon par ek shulk ke evaj main kol kiya ja saktaa he
+ Additional features or features include instant messaging, file transfer, and video conferencing
+ skip kii rachana, esthonia ke developaron - ahti heinla, preet kaisesalu or jaan tolin ne kiya jinhone multah kaiza ko bhi viksit kiya tha
+ Founded by Swedish-origin entrepreneur Niklas Zennström and Danish-based Janus Frees, the Skype group is headquartered in Luxembourg, with offices in London, Tallinn, Tartu, Stockholm, Prague, and San Jose, California
+ is pariyojna ke praarambhik naamon main se ek naam tha - "sky pier-tu-pier" jise us samay "skyper" ke rup main sankshipt kiya gaya tha
+ However, some domain names related to "skyper" were already in use
+ isliye antim akshar "r" ko hataakar maujuuda sheershak "skip" praapt kiya gaya jiske domen naam uplabdh the
+ ebay established its acquisition on the company in September 2005 for $ 2
+6 billion
+ ibe ne skip kii pustakon ke nirmaan ke peeche 1
+7 billian dollar kharch kiya or skip ko ek alag company ke rup main pratishthit karke 2010 ke saarvajanik share ke ek prastaav kii bhi ghoshnaa kii
+ Under fear, some media outlets cited the features of Skype's proposed sale and its current provision, due to a software license dispute with the original creators
+ 1 sitambar 2009 ko silver lake ke netritv main niveshkon ke ek samooh ne 1
+91 billian dollar main skip ke 65% bhaag ko kharid liya
+ This amount was later adjusted when ebay and new investors settled on a lawsuit submitted by a controlling company of the original founders
+ is baat kaa bhi pataa chalaa ki antarnihit pier-tu-pier praudyogiki par sadaa hi niyantrak company kaa swaamitv tha
+ The lawsuit was eventually settled by divesting ownership rights with 56% being given to new investors, 14% to original founders and 30% to ebay
+ skip, prayoktaaon ko wois or adhik paramparaagat vaachnik twarit sandesan donon ke madhyam se vaartalap karne kii anumati pradaan karata he
+ Voice chat allows both a single user to make a call and a conference call
+ yah ek proprietary kodak kaa prayog karata he
+ Skype's text chat client allows group chats, emoticons, storage of chat history, offline messaging and editing of past messages
+ twarit sandesh ke prayoktaaon se parichit visheshtaon ke saamaanya pahaluon, jaise - prayokta kii profile, online sthiti suchak aadi, ko bhi shaamil kiya gaya he
+ skypein allows Skype users to receive calls dialed by regular phone customers to a local Skype phone number on their computers; These local numbers are Australia, Brazil, Chile, Colombia, Denmark, Dominican Republic, Estonia, Finland, France, Germany, Hong Kong, Hungary, Ireland, Italy, Japan, Mexico, New Zealand, Poland, Romania, South Africa, South Korea, Sweden , Switzerland, the Netherlands, the United Kingdom and the United States
+ ek skip prayokta, inamen se kisi bhi desh ke sthaneey number kaa prayog kar saktaa he jin par kiye gaye kaalon kaa shulk-dar, us desh ke phixd linon par kiye gaye kaalon ke shulk-dar ke samaan hota he
+ Some jurisdictions, including France, Germany and South Africa, have prohibited the registration of telephone numbers for people who are not physically present or who do not have residency in that country
+ 
+ Video conferencing between two users was introduced in January 2006 for Windows and Mac OS x platform clients
+ linaks ke liye 13 march 2008 ko release kiya gaya skip 2
+0 bhi video conferencing ke samarthan kii suvidha pradaan karata he
+ Skype, starting from version 3
+6
+0
+216 for Windows, supports "high quality video" with quality and features eg, full-screen and screen-in-screen modes that support the quality and features of mid-range video conferencing systems Is the same
+ skip audio conference, aajkal ek saath mezbaan sahit 25 logon ko baat karne kii anumati pradaan karata he
+ a deferred feature called "skypecasting" allowed Skype voice over IP voice calls to be recorded and teleconferences to be used as podcasts that allow audio or video content to be organized on the Internet
+ skip ne apni "skypcasts beta " seva kaa shubharambh 2006 main kiya
+ It remained in its beta until the end
+ skypcasts, ek baar main 100 logon tak ke public conference kaalon kii mejabani karata tha
+ Unlike ordinary Skype p2p conference calls, Skypecasts supported moderation features suitable for panel discussions, lectures, and town hall forums
+ skip, saarvajanik skypcasts kii ek nirdeshika ko sanchalit karata tha
+ On 26 August 2008, Skype announced that Skypecasts would be shut down as early as 1 September 2008
+ Skypecasts were shut down on September 1, 2008 at 12:00 UTC without any concrete details
+ 2009 ke ant main skip for power gamers naamak company ne ghoshnaa kii ki ek client or sarwar skip aid-on ko release kiya jayega jo skip and-yuzars ko apane swayan ke "skypcast-like" auto-conference kakshon ko host karne main sakasham bana degaa
+ Skype does not provide the facility to call emergency numbers such as 911 in the United States and Canada, 000 in Australia, 112 in Europe or 999 in the UK
+ telecommunications act kii dhara 255 ke prayojanon ko dhyaan main rakhte hue FCC ne yah nirnay liya he ki skip, ek "paraspar sambhddha voip pradaata" nahin he
+ As a result, the US National Emergency Number Association recommends that all voip users have an analog line available as a backup
+ skip ke panjikrut prayoktaaon ko ek anokhe skip naam ke madhyam se pahachaanaa jaataa he
+ Users can be listed in the Skype directory
+ prayoktaaon ke paas ek se adhik khaataa ho saktaa he or ekaadhik khaaton vaale prayoktaaon kii pahchaan karnaa sambhav nahin he
+ There was news that as of 9 November 2009, there were 20,365,656 Skype users online
+ janvari 2009 tak skip, androed ke liye 100 java samarthit mobile phonon par uplabdh tha
+ As of January 2009, Skype had added nearly 40 million subscribers in three months
+ skip se hokar guzarane vaale antarrashtriya traffic kaa pariman bahut bad gaya he
+ It has become the largest international voice carrier
+ 2005 main skip prayoktaaon ke bich kaa computer-tu-computer traffic, 2005 main antarrashtriya vaahak traffic kaa 2
+9% or 2006 main 264 billian minuton kii kul antarrashtriya traffic kaa lagbhag 4
+4% tha
+ In 2008, about 8% of cross-border calls were made via Skype
+ skip main kuch aise fitures bhi paae jate hai jo iske traffic ko chhipaane main sahaayta karte hai lekin ise khaas taur par traffic analysis ko vikrut karne ke liye dizine nahin kiya gaya he or isliye yah anonemas communication kii suvidha pradaan nahin karata he
+ Some researchers have succeeded in watermarking traffic so that it can be identified even after passing through an anonymizing network
+ skypanau ek aisi seva he jise skip, dakshin africa main vodaphone mobile seva praapt karne vaale graahakon ko pradaan karata he jo vodaphone prayoktaaon ko betaar ke madhyam se skip antarrashtriya wois kaalon main sanlagn hone main samarth bana saktaa he
+ Skype uses a proprietary Internet telephony network called the Skype Protocol
+ skip ne is protocol ko saarvjaanik rup se uplabdh nahin kiya he or is protocol kaa prayog karne vaale aadhikarik aplication, closed-sorce hai
+ This part of Skype technology relies on the Global Index P2P protocol that belongs to Zoltid Corporation
+ skip or maanak voip graahakon ke bich kaa mukhya antar sirf yahi he ki skip, adhik saamaanya client-sarwar model ke bajaay ek pier-tu-pier model par sanchalit hota he
+ The Skype user directory is fully decentralized and distributed across nodes of the network - ie, users' computers - that allow the network to easily measure abundant volumes without the complex centralized infrastructure expensive for Skype Group
+ is
+ is drushtikon kaa nuksaan yah he ki skip, sip-aadhaarit voip networkon ke saath koi interoparability pradaan nahin karata he
+ Many networking and security companies claim to identify and control Skype's protocol for enterprise and carrier applications
+ jabaki in companiyon dwaara prayukt vishisht pahchaan vidhiyaan praayah gopneey hoti hai, pimmersan ke chi-squaire test or nive baesian clasifyres yukt stochastic kairectorizeshan, do drushtikon hai jinhen 2007 main prakashit kiya gaya
+ Skype uses an array of different audio compression methods, including G
+729 and SVOPC
+ skip ne windos 4 or anya skip clienton ke liye skip main SILK naamak ek skip-nirmit kodak ko sanlagn kiya
+ SILK has been considered "lightweight and interstitial"
+ skip, ek surakshit sanchaar he; encripshan ko niskriy nahin kiya ja saktaa he or prayokta ke samaksh adrishy hota he
+ Skype, allegedly non-proprietary, uses widely trusted encryption techniques: Advanced Encryption Standard in Encrypt negotiation and RSA for critical negotiation
+ skip, prayoktaaon ke liye ek aniyantrit panjikaran pranali pradaan karata he jisamen pahchaan kaa koi saboot nahin hota he
+ It allows users to use this system by hiding their identity from other users
+ kisi bhi naam kaa prayog karke ek khaataa bana lenaa kisi bhi vyakti ke liye bahut maamuli baat he; collar ke dikhaae jane vaale naam main pramanikta kii koi guarantee nahin hoti he
+ a third party paper analyzing Skype's security and methodology was presented at Black Hat Europe 2006
+ isane skip kaa vishleshan kiya or iske maujuuda suraksha model main suraksha se sambandhit anginat maamalon kaa pataa lagaaya
+ Its versions also exist for]], Linux-based]], Mac OS X, iphone OS, Microsoft Windows, and Sony's PSP
+ chif sicurity officer skip, court souer ne apane saakshaatkaar ke dauraan kaha, "humlog sanchaar kaa ek surakshit vikalp pradaan karte hai
+ i will not tell you whether we can listen or not
+ "skype's client uses an unproven and proprietary protocol
+ ]], swaamitv vaale software or protocol ke prayog se utpann hone vaale prayokta kii gopneeyata ke muddon se sambandhit he or skip ke pratisthaapan ko unhone apane ucch praathamikta vaali pariyojnaon main se ek bana liya he
+ Security researchers, Beyondi and Desclocks, have speculated that Skype may have a back door because Skype sends traffic even when it is closed, and one of the reasons is that its program's functionality and its Skype has adopted extreme measures to obscure traffic
+ media ke kai sutron ne khabar di he ki 25 june 2008 ko "IP aadhaarit sevaaon ke vaid avarodhan" ke bare main bulaai gai ek baithak main, austria ke aantarik mantralay ke ucch-padaadhikariyon jinke naam kaa ullekh nahin kiya gaya, unhone kaha ki skip kii baatcheet sunne kii samasya unki nahin he
+ Austrian broadcaster ORF, citing the proceedings of the meeting, reported that "austrian police can listen to Skype connections
+" " skip ne in khabaron par tipanni karne se asweekaar kar diya
+ In the United States, the FCC has interpreted the Communications Assistance for Law Enforcement Act as requiring digital phone networks to allow wiretapping in the presence of an FBI warrant in the same way as traditional phone service is needed
+ skip, abhi tak adhinium ke anuroop nahin he or ab tak isane yahi bayaan diya he ki iske anupaalan kaa koi iraadaa yaa yojana nahin he
+ According to the ACLU, this act does not match the original intent of the Fourth Amendment to the US Constitution; And recently, the ACLU has expressed concern that the fcc's interpretation of the act is incorrect
+ farvari 2009 ko eurojust ne skip or voip ke vaid avarodhan par kaam karnaa aarambh kar diya
+ Since September 2007, users in China trying to download Skype software are redirected to the site of TOM, a joint venture between Chinese wireless operators and Skype that can help download a modified Chinese version is
+ TOM client, china ke internet sensorship pranali main shaamil hote hai jo china ke skip prayoktaaon ke paathya sandeshon ke saath-saath desh se baahar ke prayoktaaon se aadan-pradaan kiye gaye sandeshon par bhi nazar rakhata he
+ Niklas Zennström, who was then Skype's chief executive, told reporters that TOM "had implemented a text filter that is often used by everyone in the region
+" ve hi niyam hai
+ "he also stated:" One thing that is certain is that they will not endanger the privacy or security of any user in any way
+ "in October 2008, there was news that TOM, on their servers Was accumulating the full message contents of some Skype text conversations and explicitly focusing on those conversations in which Tibet, Falun Gong, Taiwan's independence and Chinese communication Nicest party included political issues
+ sanchit sandeshon main prayek sandesh ke samay or tithi sahit IP adresses, yuzaranems, land line phone nambers or paathya sandeshon kii sampurna samagriyon ke saath-saath sandesh preshkon or praptakartaaon kii vyaktigat pahchaan-yogya jaankaree shaamil thi
+ This information was also stored for Skype users outside China who were having conversations with the help of a tom-skype user
+ ek sarwar misskamphigareshan ke kaaran, ye log fil kuch samay ke liye saarvajanik rup se sulabh ho gaya tha
+ There have been complaints about Skype's poor customer support
+ sitambar 2009 tak, skip ne keval apane web portal or sampark email paton ke madhyam se hi apratyaksh sahaayta pradaan kii he lekin iske alaava isane koi aadhikarik saadhan pradaan nahin kiya
+ Skype is also unable to update the user's billing information
+ skip lite microsoft ke lokapriy video chat aplikeshan 'skip' kaa halkaa-phulka, smartphone sanskaran he jo khaas taur par bharat jaise deshon ke upabhoktaaon ko dhyaan main rakhkar viksit kiya gaya he
+ It is capable of making video calls even in the event of low internet bandwidth and connectivity fluctuations
+ aam taur par 2ji network par video kol karnaa mushkil hota he
+ But Skype Lite is designed in such a way that it can make video calls even with 2G data connection and the battery cost is also less
+ isamen hindi,,bengali, tamil, telugu, marathi, gujarati, kannada or urdu aadi bhartiya bhaashaon kaa samarthan maujuud he
+ Skype Lite can be installed on Android operating system
+ nyoni, chaukhutiyaa tehsil main bharat ke uttrakhand rajya ke antargat kumaun mandal ke almoda jile kaa ek gaanv he
+ 1645 BC refers to the years before the birth of Christ
+ isa ke janm ko adhaar maanakar uske janm se 1645 isa purv yaa varsh purv ke varsh ko is prakaar pradarshit kiya jaataa he
+ It is considered a collective year based on the Julian calendar
+ adhikansh vishwa main isi paddati ke aadhaar par puraane varshon kii gananaa kii jaati he
+ In India, there are many famous Panchagas like Vikram Samvat which begins 57 or 58 years before the birth of Jesus
+ iske alaava shaq samvath bhi prasiddh he
+ Shaka Samvat is the ancient era of India which begins 78 years after the birth of Jesus
+ shaq samvath bharat kaa rashtriya calendar he
+ Some other ancient era prevalent in India are as follows- uparokt antar ke aadhaar par 1645 isa purv ke anusaar vikrami samvath, saptarshi samvath, kaliyug samvath or pracheen saptarshi aadi main varsh aadi nikaale ja sakate hai
+ Aryaman or Aryama or Aryaman is a deity of the ancient Hindu religion who is mentioned in the Rigveda
+ ve aditi ke tisare putr hai or aditya naamak saura-devataaon main se ek hai
+ The Milky Way in the sky is considered to be the indicator of their path
+ hindu vivaahon main var-vadhu unhen bhi sakshi maanakar vivaah-pran lete hai
+ The authority of this deity related to the Sun is believed to be on the cycle of morning and night
+ 1247 gregory calendar kaa ek saadhaaran varsh he
+ Miss Tanakpur Hazir Ho is an upcoming political satirical film
+ iskaa nirdesan vinod kapari ne kiya he
+ The film will be released on 26 June 2015
+ yah film ek satya ghatana se prerit he
+ Initially the film was scheduled to release on June 19, but Vinod Kapri extended the release date of a film to avoid ABCD 2, which will be released on the same day
+ film ke trailor ko teen din main das lakh ke zyaada vyuu mili
+ Which Mohar Basu of Times of India described as unmatched for a political satirical and low budget film
+ kuch lekhon main ye bataaya gaya kii film ko megaster amitabh bachchan film nirmaataa rajkumaar hiraani or film diarector subhash kapur se achche rivyu mili hai
+ The village youth is accused of intercourse with the village's prize buffalo
+ kapari ke anusaar 21 june 2015 ko film kii cast kamedi sho kamedi nits vid kapil par dikhaai denge
+ Director Vinod Kapri told that this film is a political satire which is largely based on the Satya incident in Rajasthan
+ jisamen ucch nyaayalay ne ek ladke ko jisapar bhens ke saath kathith rup se balaatkaar karne kaa aarope tha, ko jail bhej diya tha
+ Kapri filmed the film in Haryana instead of Rajasthan as he loves the Hariyan language
+ isamen aapako hindi or haryaanavi donon hi ke mili-jule samvaad milenge
+ The director of this film got inspiration from a news story published on BBC
+ do gonbadan iran main kogiluye or boyar-akhmad praant kaa ek shahar he
+ The population of this city is 83,856 according to the 2006 census
+ bhilin ek carbonic yogic he
+ US National Book Award Winner khan se nimnlikhit kaa bodh ho saktaa he- Phetchaboon Hills is a wide range of Phetchabun, Phitsanulok, Loi and Chaiyaphum provinces of Thailand
+ isamen do saamanantar chalane vaali shreniyan hai jinke bich main paa sak nadi ki ghati he
+ The Phetchabun Mountains separate the Isan region of Thailand from northern and central Thailand
+ punnavalli main bharat ke andhrapradesh rajya ke antargat ke krishna jile kaa ek gaanv he
+ Yamini Rai 11 April 1887 - 24 April 1972) was an Indian painter
+ san 1955 main unhen bharat sarkaar ne padmabhushan se sammanit kiya
+ He was one of the most famous disciples of Avanindranath Thakur
+ jamini raay kaa janm 11 april, 1887 i
+ main pashchim bengal ke bankuda jile main 'beliator' naamak gaanv main ek samrudh jameendaar parivaar main hua tha
+ Roy's early years spent in the village had a profound impact on him
+ santhal or unki aadi kala, kaam karte gramin hastshilpi, pracheen alpana tathaa patua ne rup evam rekha ke prati unki praarambhik ruchi jagaai
+ In 1903, at the age of 16, Jamini Roy enrolled in the Government School of Arts in Calcutta, with Principal Percy Brown as his main source of inspiration
+ jamini roy ke shaikshanik prashikshan ne unhen chitrakaari kii vibhinn takneekon main paarangat hone main madad kii, unhone pratikruti chithran evam prakritik drishy chithran se shuruyaat kii, jo turant logon kii nazaron main ai
+ Lobster sharing cats gopini Krishna and Balarama nrity karte krishna or radha Krishna in boat with Gopi makar Queen on tiger ravan, sita or jataayu a woman sitting in a sari vaishnav Virgin and child yoddha raja Mother and child teen mahilaayein or balak Surprise bharat History · Subfields Abnormal · biologicalcognitive · comparativecultural · developmentalevolutionary · experimentalmathematical · personalitypositive · Social Clinical · consumereducational · healthindustrial and organizationallaw · Military Occupational Health · politicalreligion · School · Sport Disciplines · organizationsoutline · psychologistspsychotherapies · publicationsresearch methods · theoriestimeline · Topics Music therapy is the field of affiliate health professions and scientific research that studies the interrelation between clinical medicine and the process of bio-musicology, music acoustics, music theory, psycho-acoustics and comparative musicology
+ yah ek antarvaiyaktik prakriya he jisamen ek prashikshit sangeet chikitsak, apane marizon ke swasthya main sudhaar yaa unke swasthya ko banaae rakhane main madad ke liye sangeet or uske - yatha shaareerik, bhaavnaatmak, maansik, saamaajik, soundaryatmak or aadhyatmik - sabhi pahaluon kaa upyog karata he
+ Music therapists help patients develop self-described quality of life and self-described quality in diverse areas, primarily through the use of musical experience to achieve rational treatment goals and objectives
+ sangeet chikitsa sevaaon ke liye upachaar karne vaale chikitsak yaa chikitsakon, manovigyaniyon, bhautik chikitsakon or peshewar chikitsakon jaise chikitsakon se yukt antarvibhageeya dal dwaara sangeet se sambhddha sevaayen nirdisht kii jaani chahie
+ Music therapists are found in almost all areas of ancillary professions
+ kuch saamaanya rup se paae gaye vyavhaar main shaamil hai vishesh zaruuraton vaale vyaktiyon se jude vikaas kaary, geet lekhan tathaa vruddh vyaktiyon ke saath sansmaran / abhivinyas sunne kaa kaary, prasanskaran or vishram kaary, tathaa aghat ke shikaar logon ke bich unke bhautik punarvaas ke liye talbaddh manoranjan
+ turkish-persian psychologist and music theoretician al-farabi, known in Europe as "elfrabius", describes music therapy in his essay Meaning of the Intellect, where he discusses the curative effect of music on the soul is
+ robert bartan ne apni 17veen sadi kii utkarsht kriti da enotomi of melancoli main likhaa he ki sangeet tathaa nrity maansik rogon ke upachaar ke liye kaaphi mahatvapurn he, vishesh rup se vishaad-rog main
+ It is considered a meaningful treatment
+ sangeet chikitsa ke aadhaar ke sambandh main kuch alag vichaar darshan prachlit hai
+ One is based on education and two on music therapy itself, both of which will be briefly discussed here
+ In addition, some theories based on psychology exist and one based on neuroscience
+ shiksha ke alag drushtikonon main hai orf-shyulavark, dalakrose uridamik tathaa kodli
+ do darshan jo sidhe sangeet chikitsa se viksit huin, ve hai nordof-robins tathaa sanchalit kalpana or sangeet kii boni vidhi
+ Music therapists often work with people with behavioral-emotional disorders
+ is tarah ke logon kii jaruraton ko puraa karne ke liye, sangeet chikitsakon ne sangeet chikitsa ke vibhinn prakaar ke mul aadhaar ke rup main vartmaan manovaigyanik siddhanton ko grahan or prayog kiya he
+ Different models include behavioral therapy, cognitive behavioral therapy, and psychological treatment
+ tantrikavigyaan par aadhaarit chikitsa ko "tantrika sambandhi sangeet chikitsa" kaha jaataa he
+ The definition of NMT is "NMT is based on the neuroscience model of music perception and composition, the effect of music on the functional changes of unstructured brain and behavioral functions
+ " duusare shabdon main, NMT is baat kaa adhyayan karata he ki sangeet ke bina dimaag kaise hota he, sangeet ke saath dimag kaise hota he, inke antaron ko maapta he or in antaron kaa prayog sangeet ke dwaara dimag main parivartan laane ke liye prayog karata he joki antat gaiyr sangitamay rogi ko prabhavit karata he
+ As internationally renowned professor and researcher Dr
+ Thought has said, "the mind which is immersed in music can be changed by attaching it to music"
+ apane vartmaan rup main sangeet chikitsa sanyukt rajya america main 1944 se prachlit thi, jab duniya main pehali baar mishigan state uniwarsity main pehla snatakapurv degree paathyakram tathaa kainsas vishvavidhyalay main pehali baar snaatak paathyakram shuru kiya gaya
+ The American Music Therapy Association was established in 1998 as a merger between the National Organization for Music Therapy and the American Organization for Music Therapy
+ kai anya rashtriya sanghathan maujuud hai, jaise institute for mujeec and neurologic fnction, nordoff-robins centre for music, tathaa da boni foundation
+ sangeet chikitsak bhaashan / bhashaa, sharirik chikitsa, dawaai, seva-sushrusha, shiksha aadi jaise vibhinn vishyon se upayon yaa siddhanton kaa upyog kar sakate hai
+ a music therapy graduate may obtain a bachelor's, master's, or doctoral degree in music therapy
+ anek AMTA anumodith program sangeet chikitsa main un chaatro ke liye samaanak or praaanpatr degree pesh karte hai jinhone isse sambandhit kshetra main degree puraa kiya he
+ Some practicing music practitioners have obtained phd degrees in the non-music-therapy field, but recently Temple University and Leslie University have established a true music therapy phd program
+ sangeet chikitsak aam taur par aise tareeke se abhyaas karenge jisamen vyapak naidanik prathaon jaise moolyankan, nidaan, manochikitsa, punarvaas tathaa jansankhya par aadhaarit anya abhyaason ke saath sangeet chikitsa takanic bhi shaamil ho
+ saamaajik seva, shaikshik, yaa health care agenciyon ke sandarbh main di gai sangeet chikitsa sevaaon kii pratipurti, gatividhi chikitsa sheersh ke adheen, katipay vishesh aavashyaktaa vaale vyaktiyon ke liye beemaa tathaa nidhiyan sroton se kii ja sakati he
+ Music therapy services have been identified for reimbursement under Medicaid, Medicare, private insurance plans and other services such as State Department and government programs
+ ek sangeet chikitsak CMT, ACMT, yaa RMT pad sambhaal saktaa he- sanketakshar jinhen pehle ab aprachlit AAMT tathaa NAMT dwaara die gaye the
+ Currently music therapists receive the MT-BC, Music therapy-board Certified Affidavit, passed by the National Certification Board Examination and awarded by the Music Therapist Certification Board
+ sangeet chikitsa main degree ke liye, guitar, piano, swar, sangeet siddhant, sangeet itihaas, sangeet pathan, taatkaalik pradarshan tathaa iske saath hi moolyankan, pralekhan or anya paramarshi or swasthya kaushal ke bhinn staron main praveenta kii aavashyaktaa hoti he jo vishisht vishvavidhyalay ke kaarykram ke sankendran par aadhaarit hota he
+ To become board certified, a music therapist is required to complete an AMTA accredited program from a college or university, as well as successfully complete a music therapy internship and pass a board certification exam in music therapy
+ pratyay-patr anurakshan ke liye, yaa to prayek paanch varsh main satat shiksha ke 100 unit avashya puure karne honge yaa paanch varsh ke chakra samaapan par board pariksha deni chahie
+ uniton ko sangeet chikitsa main jari purnataa ke liye sangeet chikitsak pramann board kii paridhi ke tahat credit mana gaya he
+ After both world wars, direct music was used in hospitals as part of the living conditions of the soldiers who received health benefits
+ aaj kii avadharanaon ke anusaar, britain main naidanik sangeet chikitsa kaa pathpradarshan france kii celovadak juuliyat elvin dwaara kiya gaya tha, jinka prabhaav vartmaan peedi ke british sangeet chikitsa vyaakhyaataaon par aaj bhi barkaraar he
+ Mary Presley, one of Alvin's students, discovered "analytical music therapy"
+ Analytical music therapy is a form of music therapy that, together with the nordoff-robbins School of Music Therapy, forms two central forms of music therapy used today
+ meri prisle kii kitaaben, music therapy in ection pehali baar consteble and company ©1975 dwaara prakashit tathaa esez on enlytical music therapy, barceylona publishars ©1994 samast vishwa main vishleshnatmak sangeet chikitsa ke chaatro ke paathyakram kaa mukhya bhaag he
+ nordoff-robbins adopted music therapy developed in the 1950s / 60s by the work of Paul Nordoff and Clive Robbins
+ It is based on the assumption that no matter how ill or incapacitated, one responds to music
+ chikitsa ke rup main sangeet ke gun, sampreshan badha sakate hai, badlaav ko samarthit kar sakate hai tathaa logon ko adhik saadhan-sampann or rachanaatmak rur se jeene main sakasham banaate hai
+ Now nordoff-robbins conduct music therapy sessions throughout the UK, the United States, South Africa, Australia and Germany
+ iskaa mukhyalay landan main he, jahaan ye keval britain main uplabdh sangeet chikitsa main pi
+ech
+di paathyakram sahit, prashikshan tathaa agragami shiksha kaarykram pradaan karte hai
+ Music therapists, most of whom work with the improvisation model, are not only active in the field of child and adult education disability, but also in psychiatry and judicial psychology, geriatrics, palliative care and other fields
+ chikitsak, swasthya vyavsaay parishad ke saath panjikrut hai tathaa 2007 se nae panjikarankartaaon kaa saamaanya rup se sangeet chikitsa main master degree dharak hona aavashyak he
+ There are master's level programs in Bristol, Cambridge, Cordiff, Edinburgh and London and physicians are present across the UK
+ association for profeshnal music therapist britain kaa peshewar tantra he jabaki british socity for music therapy ek kalyaan sanstha he jo sangeet chikitsa ke bare main jaankaree pradaan karaati he
+ In 2002, the World Congress of Music Therapy was held in Oxford on the subject of conversation and debate
+ november 2006 main, dow mishael je
+croford tathaa sahakarmiyon ne phir se paaya ki sangeet chikitsa manobhajit rogiyon kii sahaayta karti he
+ In 2009 he and his team were conducting research on the usefulness of improvisation music in helping nervous and dementia patients
+ vaidic vigyaan ne bhartiya shastreey sangeet 'raagon' main chikitsa prabhaav hone kaa daawa kiya he
+ Music has been used frequently as a therapeutic factor since ancient times
+ bharat main sangeet, madhur dhwani ke madhyam se ek yoga pranali kii tarah he, jo maanav jeev par kaary karti he tathaa atmagyaan kii had ke liye unke uchit kaaryon ko jaagrit tathaa viksit karti hai, joki hindu darshan or dharm kaa antim lakshya he
+ The melodious rhythm is the staple element of Indian music
+ 'raag' kaa aadhaar madhur lay he
+ Various 'ragas' have been found effective in treating many diseases related to the central nervous system
+ chikitsa ke rup main sangeet ke prayog karne se pehle yah avashya pataa karnaa chahie ki kis prakaar ke sangeet kaa upyog ho
+ sangeet chikitsa kaa siddhant, sahi swar style tathaa sangeet ke mul tatwon ke sahi prayog par nirbhar karata he
+ Such as notes rhythm, intensity, rhythm and portions of ragas
+ raag anginat he tathaa nishchit rup se prayek raag ke apane hi anginat gun hai
+ This is why we cannot establish a particular raga for any particular disease
+ vibhinn maamalon main alag-alag prakaar ke raagon kaa prayog kiya jaataa he
+ When the term music therapy is used, we think of a worldwide system of therapy
+ is maamle main bhartiya shastreey sangeet kaa gayan bhaag kaa sahitya paryaapt nahin he
+ Classical music with its unique vocal / rhythmic structure ensures a calm and relaxed mood and calms the sensations associated with stimulus-creating situations
+ sangeet tathakthith bhaavnaatmak asantulan ko jeetne main ek prabhavi bhoomika nibhaataa he
+ In India, May 13 is celebrated as Music Therapy Day each year
+ sangeet ko mastishk ke kuch bhaagon ko prabhavit karte hue dikhaaya gaya he
+ Part of this therapy is the musical ability to influence emotions and social relationships
+ nayak or anya dwaara kiye gaye anusandhan se pataa chalaa he ki sangeet chikitsa, avsaad main kami, behatar manodasha or chintaa kii avasthaa main kami ke saath judi hui he
+ Both descriptive and experimental studies have documented the effect of music on quality of life, involvement with the environment, expression of emotions, awareness and response, positive associations, and socialization
+ iske atirikt, nayak or anya ne paaya ki saamaajik or vyaavhaarik parinaamon par sangeet chikitsa kaa sakaaratmak asar padaa he or isane manodasha ke sambandh main kuch utsahjanak rujhaan dikhaae
+ Recent research suggests that music can increase a patient's motivation and positive emotions
+ vartmaan shodh se yah bhi pataa chalata he ki jab sangeet chikitsa ko paaramparik chikitsa ke saath sanyojit rup main prayog kiya jaataa he, tab yah safalataa dar main kaaphi sudhaar laata he
+ Therefore, there has been a belief that music therapy helps traumatized people recover faster and is successful in motivating patients to participate in traditional medicine and achieve greater success by increasing positive emotions and motivation
+ Has been proved anusandhan ne yah darshaya he ki sangeet chikitsa main aghat rogiyon main sakaaratmak saamaajik sambandhon, sakaaratmak bhaawanaaon or prerana main vruddhi karne kii kshamta he
+ Wheeler and others found that group sessions of music therapy increased the ease of social contact and response by trauma patients and increased positive attitude reports from patient's families, while motivating patients to treat with individual sessions got help
+ Another study examined the effect of music therapy on the mood of trauma patients and found similar results, and showed a decrease in anxiety, fatigue, and adverse mood
+ Additionally, Nayak and others found that social interaction was found to improve when music therapy was used in the trauma improvement program
+ haal ke adhyayanon ne aghat rogiyon par paaramparik chikitsa ke saath sanyukt rup se sangeet chikitsa ke prabhaav kii jaanch kii he
+ One study found that therapeutic upper vein exercise, with the inclusion of music, gave more positive emotional effects in patients than exercise alone
+ ek anya adhyayan main, nayak or anya ne paaya gaya ki punarvaas karmchaariyon ne sangeet chikitsa samooh main shaamil pratibhaagiyon ko niyantran samooh main shaamil pratibhaagiyon kii tulana main chikitsa main adhik sakriy or sahakaari variyata pradaan kii he
+ Their findings gave initial support to the efficacy of music therapy as a complementary therapy for social activities and participation in rehabilitation towards a tendency to improve mood during acute rehabilitation
+ haalanki sakaaratmak parivartanon ko sangeet chikitsa ke saath sambhddha kiya gaya he, par kuch baton ko dhyaan main rakhaa janaa chahie
+ jabaki vaigyanikon ne nirdhaarit kiya he ki sangeet sunate samay kai tarah ke shaareerik or maansik parivartan hote hai, lekin sangeet or bhaawanaaon ke bich ke rishte or rishte kii disha ko dhyaan main rakhte hue vyapak nishkarshon par nahin pahunchaa ja saktaa he
+ Additionally, there may be mediating factors that may influence the success of music therapy
+ udhaaharan ke liye, nayak or anya ne paaya ki chikitsa ke prarambh main ek vyakti kaa saamaajik vyavhaar jitna adhik bigadaa hua hoga, us vyakti ko sangeet chikitsa se utana hi adhik laabh praapt hone kii sambhaavna he
+ Additionally, they found that the effect of music therapy could be balanced by the time frame of therapy
+ yah sambhav he ki chot ke nikat samay par sangeet chikitsa kaa manodasha par adhik spasht prabhaav pade
+ Current research suggests that when music therapy is used in conjunction with traditional therapy, it increases the rate of improvement in emotional and social depletion resulting from trauma
+ jiyang or kim dwaara kiye gaye adhyayan ne ek samudaay aadhaarit punarvaas kaarykram main paaramparik aghat chikitsa ke saath sangeet chikitsa ko sanyukt karne par hone vaale prabhaav kii jaanch kii he
+ Thirty-three survivors of the trauma were randomly divided into two groups: the experimental group, which combined a special rehabilitation program and rhythmic music for eight weeks; And a control group, which received consultation information on traditional medicine
+ is adhyayan ke nattejey bataate hai ki praayogic samooh ke pratibhaagiyon ne adhik lacheelaapan, gati kii vyapak range, adhik sakaaratmak manodasha or saamaajik sambandhon kii badi hui aavriti or gunvattta praapt kii
+ Music has also been used to improve operational skills
+ paramparaagat chaal chikitsa ke saath sangeet ke sandarbh main talbaddh shravan uttejnaa ke sangyojan ne aghat rogiyon kii chalane kii kshamta main sudhaar kiya
+ The study included two treatment conditions, one that received conventional gait therapy and another that received conventional gait therapy in conjunction with rhythmic auditory stimulation
+ During rhythmic auditory stimulation, the stimulus or sound was played according to the measurement and was initiated by striking the patient's heel
+ har dasha ne chikitsa ke pandrah satr praapt kiye
+ parinaamon se pataa chalaa ki talbaddh shravan uttejnaa samooh ne keval paramparaagat chikitsa praapt karne vaale samooh kii tulana main chalaang lambaai, samarupata vichlan, chalane kii gati or role over path lambaai adhik sudhaar dikhaaya
+ Schneider and others have also studied the effect of combining music therapy with standard operative rehabilitation methods
+ is prayog main, shodhakartaaon ne aise aghat rogiyon ko bhartee kiya jinhen pehle se sangeet kaa koi anubhav nahin tha or unamem se aadhe logon ko charanbaddh tareeke se ek gahan prashikshan kaarykram main prashikshit kiya gaya jo ki paaramparik chikitsa ke alaava teen saptaah main pandrah se adhik baar yojit hua
+ Explained the use of piano and drums to these participants, training them to use both better and grosser motivational movements
+ anya aadhe rogiyon ne teen saptaah tak keval paramparaagat upachaar praapt kiya
+ Three-dimensional movement analysis and clinical motivational tests showed that such participants showed better speed, accuracy, and easier movement than participants in controlled subjects who received music therapy additionally
+ sangeet chikitsa praapt karne vaale pratibhaagiyon ne niyantrit samoohon kii tulana main rosemara kii motor gatividhiyon main mahatvapurn sudhaar dikhaaya
+ wilson, parcens or reutens ne gahan broka vachaghat vaale purush gayak kii boli utpaadan par melodic intonaton chikitsa ke prabhaav ko dekha
+ is adhyayan main, tees abhinav vaakyanshon ko teen dashaon main sikhaaya gaya: purvaabhyas bina, purvabhyasit maukhik utpaadan, yaa raag ke saath purvabhyasit maukhik utpaadan 
+ nattejey bataate hai ki MIT dasha main padhaaye gayi vaakyanshon kaa utpaadan behatar rahaa or purvaabhyas kii tulana main, MIT kaa prabhaav lambey samay tak chalaa
+ Another study examined the inclusion of music with therapeutic upper vein exercise on pain perception of trauma victims
+ Over the course of eight weeks, trauma victims participated in upper vein exercise in conjunction with one of these three conditions: song, karaoke accompaniment, and music without
+ Participants participated in each condition in a random manner and prioritized their perceived suffering immediately after the session
+ The results showed that although there was no significant difference in pain preference across different conditions, video observation revealed more positive effects and verbal responses when exercising upper vein with music and karaoke accompaniment
+ nayak or anya ne paramparaagat aghat punarvaas ke saath sangeet chikitsa ke sangyojan kaa pareekshan kiya or yah bhi paaya ki sangeet chikitsa ke judane se manodasha or saamaajik sambandhon main sudhaar hua
+ Participants who had suffered a traumatic brain injury or trauma were placed in one of two conditions: standard rehabilitation or standard rehabilitation with music therapy
+ Participants received three treatments per week for up to ten treatments
+ Therapists found that participants receiving music therapy in conjunction with traditional methods improved social interaction and mood
+ 2009 main hue 23 naidanik pareekshanon kii kochren samiksha ke anusaar kuch sangeet coronary hriday rogon se peedit rogiyon main hriday dar, shwasan dar or raktchaap ko kam kar sakate hai
+ These benefits include a decrease in blood pressure, heart rate, and anxiety levels of cardiac patients
+ yadhyapi, joke brett, phd tathaa cherli dilio, phd ke anusaar ye prabhaav adhyayanon ke samroop nahin the
+ Music was not seen to have much effect on patients' psychological pain
+ "saboot kii gunvattta majboot or naidanik mahatv spasht nahin he", samikshakon ne chetaya
+ 11 adhyayanon main mariz hriday shalya-chikitsa or prakriyaaon se peedit the, nau main MI ke rogi the, tathaa teen hriday sudhaar rogi the
+ Most of the 1,461 participants were white and male
+ adhiktar adhyayanon main rogiyon ne ek 30 minute kaa sangeet satr suna
+ keval do ne hi sangeet sunne ke bajaay prashikshit sangeet chikitsak kaa upyog kiya
+ Research suggests that listening to Mozart's Piano Sonata K448 can reduce the number of seizures in an epileptic patient
+ ise "mozart prabhaav" kaha jaataa he
+ Although, in recent times, the validity of the "mozart effect" and studies to reach this theory have been doubted, such limitations have been presented in the original study and later studies to prove the effects of Mozart music
+ Difficulties have occurred
+ sangeet chikitsak, sangeet shodhak, tathaa prayogtmak sangeetkaar inarico kureri ne amareeki sangeetkaar jon kej dwaara viksit chikitsakeey siddhanton or avadharanaon kaa pataa lagaaya
+ udhaaharan ke liye, kureri ne vibhinn sangeet chikitsa satron main avsaad or chintaa vikaar se peedit rogiyon ko kej kii moulik rachana maun 4′33′′ tathaa prayukt saanyogic / avasar prakriyaaon par pradarshan kiya karte hai
+ Additionally, Kureri is medically investigating the creativity process with adult patients with mental illness using experimental music / sound / noisy music, free improvisation and subtle sound
+ lekin divya sangeet kii prashansa main sabhi aadambarpurn bhaashan samaapt karne ke liye, main apane aap ko mere uchit vishay tak simit karuunga: usamen jo anya kai rogon ko dur karne kii utkrisht shakti he uske alaava, vah niraashaa or udaasi ke khilaaf ek sarvshereshth upaay he or vah swayan shaitan ko dur bhagayegaa
+ kenos, ek rhodian saarangivadak, philostrates main, jab apollonius yah pataa karne kaa icchhuk tha ki vah apane pipe ke saath kya kar saktaa he, usne kaha "ki vah ek udhaas aadmi ko kush kar saktaa he or yah uske liye yah pehle se zyaada aanandadaayak he, ek premi ko or adhik aakrisht, ek dharmik vyakti ko or adhik bhakt bana saktaa he
+ "isminias Theban, the Shiron Centaur, is said to have treated it and many other ailments by music alone: as they now do, Bodine says that those who have been troubled with the St
+ Vitis bedlam dance
+ saanchaa:psychotherapy Kohat Enclave, Delhi is an area of delhi city
+ yah dilli metro rail kii red line red line shakha kaa ek stesan bhi he
+ Nomination Process: susawaani mata jain dharm ke dugad,surana evam sankhla gautra kii kuladevi he
+ She is considered to be the form of Ambe Mata
+ raja suradasji surana ke vansh kaa vistaar hua or samay vyateet hone par raja suradasji kii chauthi peedi main satidasji surana hue
+ Sati Das Ji came to Nagaur in Surana Samvat 1210 and settled
+ shri satidas surana ambe mata ke param bhakt the
+ Seth Satidas desired that the Goddess be born as a daughter in his house
+ mata ambe devi ne unki manokamana ko purna kiya or putree rup main samvath 1219 kii asina shukla dwitiya ko nagaur main janm liya
+ He named his daughter Suswani
+ 
+ In Samvat 1229, at the age of ten, they decided to get married in the Duggad family
+ 
+ Subedar was also invited to that ceremony
+ susawaani ji jab bane baithi
+ Then the Muslim Subedar there, enchanted by his form Lavanya, decided to marry him himself
+ seth satidasji ko bulaakar unke saamne apana prastaav rakhaa
+ Sethji was very sad to hear this and said, "how can this marriage be a relationship between a Muslim and a Hindu?" But the Subedar was on his own insistence
+ ajna paalan na karne par usne saare parivaar ko kolhu main piswane kii dhamkee di
+ Seth Sati Das Ji was full of the blood of Hindutva in the Kirag-rag, he strongly rejected the proposal of Subedar
+ phir kya tha? soobedaar ne turant hi unhen jail bhijwa diya
+ Here, when his family came to know about it, all started cursing Suswani ji
+ tab ve dukhi ho manahi man arihant bhagwaan bhagwaan kaa samaran karne lagi
+ He fell asleep while praying
+ swapn main unhen kisi tejasvi murti ne drushtaant dekar kaha ki :- "" There is nothing to panic
+ uski ye aukaat nahin he
+ 
+ tu us dusht ko ye kahlaade 
+ The condition is placed before you
+ 
+ By giving a discount of seven feet
+ peechha kar le ghode chadhakar
+ 
+ wo tujko nahin pakad paayegaa
+ You will get tired after running
+ 
+ Where is the condition of the dream? mastak kesar tilak saje the
+ 
+ soobedaar ko de sandeshaa
+ The possibility of nothing happening
+ 
+ "" itani baat kah kar murti lop ho gai
+ Suswani woke up and told her mother about her dream and according to her evidence, the tilak of saffron was seen on everyone's head
+ sab ko dhairya bandhaa turant hi soobedaar ko sandesh bheja gaya
+ The Subedar was pleased to hear and immediately approved
+ donontaraf utsaah se taiyaariyaan hone lagi
+ Sethji was freed
+ bahut jaldi hi khub sajaa dhaj kar kuch sainikon ko saath liye soobedaar sethji ke bhawan par aa pahunchaa
+ Before running, he raided the door of his house with a well-filled hand
+ vah aaj bhi pathar main jyon kaa tyo ankit he
+ He represents the story of truth
+ saat paanvade kii chhot dekar susawaani ji aage-aage daudane lagi or soobedaar apane sainikon sahit ghode par baitha unka peechha karne laga
+ According to the proposed program, Suswani started walking and was seven steps behind the Subedar horse
+ suryoday kii pratham kiran ke saath daud prarambh hui
+ Both miles kept running but the distance remained the same
+ jab susawaani ji daudte hue thak gayi to prarthana kii he prabho! meri raksha karo, main ab or adhik nahin daud sakati
+ Dept
+ Devi heard the prayer, then a lion was seen coming from the front
+ aagyaanusaar susawaani ji turant singh par savaar ho gayi or singh daudane laga
+ On the go, Sri Sindhu reached near Morkhana village under the present Bikaner
+ vahaan bhagwaan shivashankar bholenath kaa atyant pracheen mandir tha yahaan par bhi susawaani ji ne bholenath se prarthana kii,"he prabhu! meri raksha karo
+ Give me a hiding place " bhole shiv ne saakshaat prakat hokar apana chimata mandir ke saamne kii ore phenkaa or kaha -"he devi aap sidhe vahaan chali jaaiye jahaan yah chimata gira he vahiin aapkaa sthaan he
+ "bholenath's thrown tong was lying in the middle of a Kerr tree
+ susawaani ke vahaan pahonchte hi prithvi or vriksh donon shabd karte hue fate
+ Suswani, along with Singh, merged into it and the land was restored to life
+ susawaani ji ke cheer kaa chaar angul pallaa baahar rah gaya
+ The subedar and his companions started quarreling with that parley
+ sabhi usase vivaah karnaa chaahate the
+ Talk increased, swords were drawn and they ended up fighting there amongst themselves
+ jinaki devliyaan aaj bhi morkhana main vidyaman he
+ This shelter of Suswani stands green in the same place from tree no
+1229 till date
+ bhagwaan shiv kaa atipracheen mandir jahaan par bhagwaan ne swayan prakat hokar ker ke vriksh kii taraf apana chimata phenkaa tha jisase prithvi or vriksh attahas kar fat gayi The shelter of mother Suswani ji stands green in the same place from tree no
+ 1229 till today, the place of Ker tree where it fell into two parts along with the ground due to falling of Shiva's tongs, including mother Suswani Singh It merged and the land was restored as it once was nagaur ke satidas surana
+ Whose Divine Girl Come
+ 
+ There was happiness in the whole house
+ susawaani mata ji ghar ai
+ 
+ sanwat baarah sau unnatees
+ The age was between ten years
+ 
+ Preparations for marriage choti kanya badi dulaari
+ 
+ hua sambandh duggad parivaar
+ Happiness has been immense
+ 
+ Suswani when Bane Bethi
+ ghatana ek ajab ho baithi
+ 
+ ek musalmaa soobedaar
+ Who made everyone smarter
+ 
+ Suswani was a beautiful girl
+ usne shaadi karne kii thaanee
+ 
+ baat ye sunakar pita ghabaraaye
+ How to fight with Muslims
+ 
+ This relationship cannot be done
+ soobedaar tha jid kaa pakkaa
+ 
+ ajna paalan na karne par
+ Thunderously threatened
+ 
+ i will put the crusher in the crusher
+ gin-gin kar sabko maaroonga
+ 
+ seth satidas hindu khara tha
+ Hindutva was filled in the vein
+ dridhtaa se prastaav thukraayaa
+ Subedar sent prison
+ 
+ When the housemates came to know
+ Then whipped Suswani ji
+ 
+ When my mother became unhappy dukhi man tab hi prabhu ko dhyata
+ 
+ nain moond arihant ko dhyaayi
+ Dhyana came in meditation
+ |swapn main tejasvi bhagwaan ne
+ He gave a vision and said in the promise
+ 
+ There is nothing to worry
+ uski ye aukaat nahin he
+ 
+ tu us dusht ko ye kahlaade 
+ The condition is placed before you
+ 
+ By giving a discount of seven feet
+ peechha kar le ghode chadhakar
+ 
+ wo tujko nahin pakad paayegaa
+ You will get tired after running
+ 
+ Where is the condition of the dream? mastak kesar tilak saje the
+ 
+ soobedaar ko de sandeshaa
+ The possibility of nothing happening
+ 
+ There was happiness on both sides
+ seth ko de di usne rihaai
+ 
+ susawaani ji taiyaar khadi thi
+ This was the time for examination
+ 
+ Came to the gate before the race
+ kunkum ke haath kaa chapa lagaai
+ 
+ wo pathar main jyon kaa tyon he
+ He represents the story of truth
+ 
+ Saswani ji lost when tired
+ raksha karne ko maan ko pukaari
+ 
+ hui tab jor se akashwani
+ Suswani sat on the lion
+ 
+ When Morkhana of the race arrived
+ mandir ke andar the shivaji
+ 
+ boli raksha karo tripurari
+ i am Abla Sharan Tihari
+ 
+ Bhole then waved his hand
+ chimata phenk dikhaai maaya
+ 
+ susawaani ji ke vahaan pahonchte
+ The earth tree exploded with glee
+ 
+ Suswani ji embraced the earth
+ chaaron ore jameen tharrai
+ 
+ wo devliyaan aaj bhi vahiin hai
+ Suswani Mata is also there
+ 
+ The Kerr tree also stands there
+ varshon baad bhi haraa-bharaa he
+ Malha ji told that the lack of water and lack of wealth at that place
+ At that place, Mataji told him that he should make a temple in the Gaushala and make a temple and worship the goddess in it and make his place and goshala and well
+ Said to Describing the store of wealth, Mataji said that there is a mori between the gaushala, in which there are 1008 urns full of money, out of which there is a box of jewels of plain three crores in one urn, use this money and gain prestige in the world
+ As per orders, Mala ji extracted money as soon as it woke up in the morning
+ a well was dug in the well before the foundation of the idol was established for the installation of the idol
+ The temple was also ready, in order to set the idol in it, then meditated on the mother, appeared in the night, in the dream, Mataji said that the idol is placed on the third side of the body at the side of the body, by removing it and install it
+ Removed and the foundation of Deval and Goshala was laid in Nagaur that day
+ The land belonged to Naharo, but Surana Ji got the building constructed
+ morkhana kaa mukhya mandir,maa susawaani kaa darbar Main miraculous statue of Suswani Mata in the main temple of Morkhana morkhana ke mukhya mandir main susawaani mata kii murti The place is 28 miles southeast of Bikaner
+ yahaan kaa susawaani devi kaa mandir ullekhneey he
+ The temple is built on a high mound and has a cellar, open courtyard and verandah
+ yah sara jaisalmeri pattharon kaa bana he or iske tahkhaane kii bahari chahardivaaron par devataaon or nartkiyon kii akritiyaan khudi he
+ Similarly, the door portion is also full of excavation work
+ tahkhaane ke chaaron taraf ek nichi diwaar bani he
+ There is a roof on the courtyard, which is situated on 16 pillars, of which 12 are surrounded
+ shesh 4 madhya main hai
+ The four pillars in the middle and the two pillars in front of the basement are built in the Ghatapallabh style
+ ghere main lage hue stambh shridhar style ke hai
+ The figure of a human being is sitting on one of the pillars in the middle
+ tahkhaane ke saamne dai taraf ke stambh par do lekh khude hai
+ The text on one side is not clear and the article on the other side is of 1172 AD and a woman's figure is formed in its upper part
+ navaratri main is mandir bada mela lagata he
+ a big fair is also held at Shivratri
+ susawaani mata mandir trust or gaanv vaasiyon ke sahyog se yahan kai dharm shaalaayein bani hui hai jahaan varsh paryant yatri aakar rukate hai jinaki nishulk vyavastha kii jaati he
+ Here every year special worship is done on Chaitra Shukla Navami and Ashwin Shukla Navami and Ashwin Shukla Dasham fairs in Morkhana
+ mundan ke samay sava ser kii laapasi, nariyal, roti aadi chadhaai jaati he
+ The root is removed under the Kerr tree
+ bhairavaji ko tel chadhaaya jaataa he or shivlinga kii dhoomdhaam se puja hoti he
+ Worshiped by wearing red clothes
+ aarti ke baad bhoga lagata he
+ Akhand Jyoti burns
+ yahan tirthayatriyon ke liye samuchit awaas or bhojan kii vyavastha surana bhaipa kii he
+ In Samvat 1232, Devi ordered Anuj Malhadas of Satidas to build the temple in a dream
+ us samay jal or dhan ke abhaav kii purti devi chamatkaar se purna hui
+ There were excavations in which they found 1008 pitchers filled with jewels and luscious water was found in the wells excavated
+ devi ke aadesh se devi kii murti bhoomi se nikaalkar pratishtha karai
+ To go to Mokhana, one has to go to Nokha, which is 45 km away from Bikaner district of Rajasthan, after that, by any means from Nokha or through personal means, comes to Berasar village via Kakada crossing, and there is a direct route to Morkhana
+ Where there are all facilities for eating and drinking
+ morkhana kaa mukhya mandir,maa susawaani kaa darbar Main miraculous statue of Suswani Mata in the main temple of Morkhana bhagwaan shiv kaa atipracheen mandir jahaan par bhagwaan ne swayan prakat hokar ker ke vriksh kii taraf apana chimata phenkaa tha jisase prithvi or vriksh attahas kar fat gayi Ancient temple of Lord Shiva 2 morkhana ke mukhya mandir main susawaani mata kii murti 1 Statue of Suswani Mata 2 in the main temple of Morkhana morkhana ke mukhya mandir main susawaani mata kii murti 3 Statue of Suswani Mata in the main temple of Morkhana 4 morkhana ke mukhya mandir main susawaani mata kii murti 5 Statue of Suswani Mata in the main temple of Morkhana nagaur, rajasthan main sthit susawaani mata kaa mandir Suswani Mata Temple located in Rajarhat, West Bengal devprastha, rajrahat, pashchim bengal main sthit susawaani mata kaa mandir Suswani Mata Temple located in Villupuram, Tamil Nadu karnataka main sthit susawaani mata kaa mandir Statue of Mother in the temple of Kanvalias nagaur ke mandir main mata kii murti Statue of Mother in the temple of Nagaur rajrahat ke mandir main mata kii murti Statue of Mother in the temple of Rajarhat 1 rajrahat ke mandir main mata kii murti 2 Statue of Mother in the temple of Rajarhat 3 rajrahat ke mandir main mata kii murti 4 Mother's idol in the temple of Rajarhat 5 karnataka ke mandir main mata kii murti Statue of Mother in Villupuram temple ker ke vriksh kaa vah sthaan jahaan par bhagwaan shiv kaa chimata girane se yah jameen ke saath do bhaagon main vibhajit ho gaya tha maa susawaani singh ke sahit usamen samaa gai or jameen phir jyon kii tyon ho gai The shelter of mother Suswani ji stands green in the same place from tree no 1229 till today
+ ri devanagari lipi kaa terava varna he
+ It is also a vowel
+ hiranyakeshi nadi, ghatprabha nadi kii sahayak nadi he
+ It originates from the Western Ghats in Sindhudurg district of Maharashtra and joins the left bank of Ghatprabha
+ 
+ International Yoga Day is celebrated on 21 June
+ yah din varsh kaa sabase lanbaa din hota he or yoga bhi manushya ko deergh jivan pradaan karata he
+ The day was first observed on 21 June 2015, which was initiated by Prime Minister of India Narendra Modi in his speech at the United Nations General Assembly on 27 September 2014, in which he said: jiske baad 21 june ko " antarrashtriya yoga diwas" ghoshit kiya gaya
+ On 11 December 2014, a proposal was approved by 177 members in the United Nations to celebrate "international Yoga Day" on 21 June
+ pradhanmantri modi ke is prastaav ko 90 din ke andar purna bahumat se paarit kiya gaya, jo sanyukt raashtra sangh main kisi diwas prastaav ke liye sabase kam samay he
+ Groups of formal and informal yoga teachers and enthusiasts celebrated World Yoga Day on dates other than 21 June in support of various causes
+ disambar 2011 main, antarrashtriya maanavtaavaadi, dhyaan or yoga guru shri shri ravishankar or anya yoga guruon ne portugali yoga parisangh ke pratinidhi mandal kaa samarthan kiya or duniya ko ek saath yoga diwas ke rup main 21 june ko ghoshit karne ke liye sanyukt raashtra ko suzav diya
+ Subsequently, a conference titled 'yoga: a Science for World Peace' was held between 4 to 5 December 2011
+ yah sanyukt rup se lisbon, portugal ke yoga sangh, art of living foundation or SVYASA yoga vishvavidhyalay, bangalore ke dwaara yojit kiya gaya
+ According to Jagat Guru Amrit Suryananda, the idea of world Yoga Day came about 10 years ago, but it was the first time that the Yoga Guru was supporting such a large number of ideas from India
+ us din shri shri ravi shankar ke netritv main vishwa yoga diwas ke rup main 21 june ko sanyukt raashtra or unesco dwaara ghoshit karne ke liye hastakshar kiye gaye
+ The following members were present at that conference: Sri Sri Ravi Shankar, Founder, Art of Living; Sri Swami Bal Gangadharnath of Adi Chun Chun Giri Math; Swami Parmatmananda, General Secretary of the Hindu Dharma Acharya Sabha; BKS Iyengar, Rammani Iyengar Memorial Yoga Institute, Pune; Swami Ramdev, Patanjali Yogpeeth, Haridwar; Dr
+ Nagendra, Vivekananda Yoga University, Bangalore; Jagat Guru Amrit Suryananda Maha Raj, President of the Portuguese Yoga Confederation; Avadhuta Guru Dilipji Maharaj, Vishwa Yoga Community, Subodh Tiwari, President of Kaivalyadham Yoga Institute; Dr
+ DR Karthikeyan, Advisor on law-human Responsibilities and Corporate Affairs and Dr
+ Ramesh Bijlani, Sri Aurobindo Ashram, New Delhi
+ is pahal ko kai vaishvik netaaon se samarthan mila
+ First, the Prime Minister of Nepal Sushil Koirala supported Prime Minister Modi's proposal
+ sanyukt rajya america sahit 177 se adhik deshon, canada, china or misr aadi ne iskaa samarthan kiya he
+ "this is the highest number of co-sponsors for any UN General Assembly resolution so far
+ " 11 disambar 2014 ko 193 sadasyeey sanyukt raashtra mahasabha ne sarvasammati se 'yoga ke antarrashtriya diwas' ke rup main 21 june ko manjuuri de di gayi
+ After the UN declaration, Sri Sri Ravi Shankar praised the efforts of Narendra Modi said: yoga ke mahatv par bal dete hue shri shri ravi shankar ne kaha ki yoga aap ko phir se ek bachche kii tarah bana detaa he, jahaan yoga or vedant he vahaan, koi kami, ashuddhta, agyanta or anyaay nahin he
+ We need to free the world from sorrows by taking Yoga to everyone's doorstep 
+ bharat main pehle antarrashtriya yoga diwas ko manaane ke liye bhaajapa ke saath baba ramdev ne bhi is aayojan ke liye khaas taiyaariyaan kii thi, vishwa yoga diwas ko yaadgaar banane or puure vishwa ko yoga ke prati jaagruk karne ke liye ramdev ne 35 minute kaa vishesh package taiyaar kiya tha
+ With the successful International Yoga Day on 21 June, India has also set two world records
+ bharat main 21 june ko antarrashtriya yoga diwas bade paimaane par manaaya gaya jisaki taiyaariyaan bade jor-shor se sarkaar kar rahi thi
+ The main function of Yoga Day took place at Rajpath in Delhi where Prime Minister Narendra Modi himself attended
+ pradhanmantri rajpath par lagbhag 36000 logon ke saath yoga kiya
+ On the occasion of International Yoga Day, a total of six other people got the opportunity to share the platform of Rajpath with the Prime Minister
+ Was included as well as AYUSH Minister Shripad Naik and AYUSH Ministry Secretary Nilanjan Sanyal to sit on the dais
+ Njuri was
+ antarrashtriya yoga diwas samaaroh kaa ganatantr diwas samaaroh jaisaa kawarej doordarshan dwaara kiya gaya
+ It was broadcast live, using state-of-the-art equipment to ensure that the broadcast was of international standard
+ pradhanmantri narendra modi ne congress adhyaksh sonia gandhi ke saath rahul gandhi or arvind kejariwal ko bhi yoga diwas ke liye nimantran bheja tha
+ Apart from political people, yoga guru Baba Ramdev and Bollywood superstar Amitabh Bachchan were also invited
+ sanyukt raashtra main bhi yoga diwas manaane ke liye vyapak taiyaari kii gayin
+ External Affairs Minister Sushma Swaraj presided over the function organized at the United Nations to commemorate the first International Yoga Day
+ times squaire se vaishvik darshakon ke liye iskaa prasaaran hua
+ Nearly 36000 people, including Indian Prime Minister Narendra Modi and dignitaries, performed 21 yoga asanas for 35 minutes for the first International Day in New Delhi on 21 June 2015
+ yoga diwas duniya bhar main lakhon logon dwaara manaaya gaya
+ The ceremony at Rajpath established two Guinness Records: the largest yoga class with 35,985 people and a record of people from eighty-four countries participating in the event together
+ is record ko aayush mantri shripad nike ne swayan grahan kiya
+ In India, the Ministry of AYUSH has issued a letter to all government departments stating that "the Government of India carried forward the momentum created by the International Day of Yoga, 2015 with greater and active participation of youth during this year's celebrations"
+ Have decided to move
+ 
+ The "ministry" will organize a function called "the Nation Event of Mass Yoga Demonstration" in Chandigarh which will be attended by the Prime Minister of India
+ bharat kaa sthaayee mishan sanyukt raashtra ke liye 20 june or 21 ko sanyukt raashtra main samaaroh kaa aayojan karegaa jisamen "kanvarseshan vid yoga masters - yoga for da achievement of sasteneble deveopment gols " mukhya bindu hoga
+ Sadguru will be the keynote speaker at the event
+ yoga diwas ke kaarykram kaa netritv karne kii zimmedaari 57 mantriyon ko di gai he, unamem grahamantri rajnath singh, vitt mantri arun jetali, raksha mantri manohar parrikar or smriti irani shaamil hai
+ It is special that 10 ministers including Arun Jaitley, Mukhtar Abbas Naqvi, Nirmala Sitharaman and Maneka Gandhi have been asked to attend the events in Uttar Pradesh
+ america rajdhani ke capital hill se lekar neuyark ke sanyukt raashtra mukhyalay tak desh ke kai shaharon main yoga kaaryakramon ke aayojan kii yojana he
+ This day had its share in controversies
+ sarkaar ne 'antarrashtriya yoga diwas' ke dauraan vivaad se bachane ke liye "surya namaskara" va "shloke" jap kii anivaaryta ko aadhikarik yoga kaarykram se hataa diya or musalamaanon se is aayojan main bhaag lene kii apil kii
+ Ayush Minister Shripad Naik suggested the Muslims to read the name of Allah in place of Shloka during the event
+ ol india muslim personal lau board ne surya namaskara ko dharm ke khilaaf bataate hue iskaa virodh kiya
+ Muslim minorities were generally concerned about the "hindu agenda"
+ pot par yoga Yoga on Indian Navy nausena ke praangan main yoga Punjabi • Uttar Pradesh • Rajasthani • Mughlai - Pahadi • Bihari • Bengali • Kashmiri kerala • tamil • andhra pradesh • karnataka • hyderabad Orissa • Chhattisgarh • tribal-jharkhand, Orissa sikkim • asamiya • tripuri • naga Goa • Gujarati • Marathi • Malvani / Konkani • Parsi indo-chinis • fast-food · nepali • mahadwipiya khaanaa Sweets and Desert sarson kaa saag ek punjabi vyanjan he
+ It is made by cooking mustard leaves
+ saamagree:sarson ke pattey - ,tamaato - do, pisa hua adarak - ek chammach,hari mirch - do baarik kati hui, lahasun - baarik kataa hua do chammach,pyaaj - ek ,hing - ek chutki,kichan king sabji masala ek chammach,garam masala ek chammach,haldi ek chammach,besan - do chammach, sarson kaa tel - teen chammach,deshi ghi - do chammach,dhaniya ke pattey baarik kate hue ek chammach,jira aadha chammach,namak swaadanusaar,makkhan Cut mustard leaves in big water and wash them well in water twice
+ dhone ke baad isko pressure cooker main aadha katori pani kii saath ubalane ke liye rakh den
+ After one whistle, remove the cooker from the heat, grind it in a grinder after cooling
+ Grind the tomatoes separately in a grinder and mix the vegetable spices, turmeric, ginger and gram flour to make a paste
+ Heat mustard oil in a pan, add cumin and asafoetida to it when the oil is hot, when the cumin comes in the oil, add garlic, onion and green chillies and fry till it becomes golden
+ Now add tomato paste and fry it, when The oil starts separating from the paste, add mustard paste and country ghee, stir it well and let it cook for ten minutes on low flame
+ bich bich main chalaa kar dekh len, jisase saag jalane na paae |ab aap kaa saag taiyaar he, makhkhan or dhaniya ke pattey daalkar garma garam parosen |saanchaa:punjabi khaanaa Russell A
+ Halsey is a famous American scientist
+ 1993 main inhen bhautik vigyaan main nobel puraskaar pradaan kiya gaya
+ The Fourteenth Asian Games were held from 29 September to 14 October 2002 in Busan, South Korea
+ in khelon main 44 deshon ke kul 7,556 khilaadiyon ne bhaag liya tha
+ In all, there were 38 sports competitions in these games and 18,000 journalists, officials and players
+ asian khelon ke itihaas main pehali baar asian olympic parishad kii sabhi rashtriya olympic samitiyon ne bhaag liya tha
+ Among them was North Korea, which had sent unexpected teams to South Korea for these games and Afghanistan was also participating in these games for the first time since the Taliban came to power
+ body building in khelon main prathamopravesh khel tha
+ Source: Total Medal Status - Busan 2002 bharat ke rashtriya rajmarg, bharat kii kendriya sarkaar dwaara santhaapit or sambhaale jaani vaali lambii duuri kii sadake he
+ This road is mainly of 2 rows, one line to go in each direction
+ bharat ke rajmargo kii kul duuri lagbhag 122434 kimi he, jisame se keval 4,885 kimi kii sadako ke madhya pakkaa vibhaajan banaaya gaya he
+ The length of highways is only 2% of India's roads, but it carries about 40% of the total traffic
+ 1995 main paas sansadeey videhak ke tahat in rajmargo ko banane or rakh-rakhaav ke liye nijee sansthano kii hissedari ko manjuuri di gai
+ In recent times, these highways have developed rapidly, due to which there was a decline in the traffic time between the city and the town in India
+ kuch shahro ke bich 4 or 6 panktiyon ke rajmargo kaa bhi vikaas hua
+ India's largest highway is National Highway 7, which connects the city of Varanasi in Uttar Pradesh with the city of Kanyakumari in Tamil Nadu, the southern corner of India
+ isaki lambaai 2369 kimi he
+ The shortest highway is NH71B, 5 km long
+ kaafii saare rajmargon kaa abhi bhi vikaas ho rahaa he
+ Most highways are not built of concrete
+ mumbai pune express-ve iskaa ek apwaad he
+ The Indian Independence Act 1947 is a legislation passed by the Parliament of the United Kingdom, according to which Britain-ruled India was divided into two parts
+ yah adhinium ko 18 july 1947 ko sweekrut hua or 15 agast 1947 ko bharat bant gaya
+ Lord Mountbatten came to India for the partition of India and the quick transfer of power
+ 3 june 1947 ko mountbeton ne apni yojana prastut kii jisame bharat kii raajnneetik samasya ko hal karne ke vibhinn charnon kii ruparekha prastut kii gayi thi
+ Initially, this power transfer was to be given to the Indian governments of divided India as Dominion status
+ british sarkaar ne bhartiya swatantraaa adhinium, 1947 ko july 1947 main paarit kar diya
+ This included major provisions that were carried forward by the Mountbatten Plan
+ sabhi raajnneetik dalon ne mountbeton yojana ko sweekaar kar liya
+ The British Government constituted two commissions under the chairmanship of Sir Radcliffe whose task was to oversee the partition and to determine the international boundaries of the newly formed nations
+ swatantraaa ke samay bharat main 562 choti or badi riyaasaten thim
+ India's first Home Minister Vallabhbhai Patel followed a strict policy in this context
+ 15 agast 1947 tak jammu kashmir, junagarh va hyderabad jaise kuch apwaadon ko chhodkar sabhi riyasaton ne vilay patr par hastakshar kar die the
+ Goa was occupied by the Portuguese and Puducherry by the French
+ vishvavidhyalay rajasthan mahavidhyalay bhartiya rajya rajasthan ke jaipur nagar main sthit ek mahavidhyalay he
+ It is one of the six constituent colleges of the University of Rajasthan
+ mahavidhyalay main snaatak str ke kala sankaay ke paathyakramon kaa adhyayan karavaaya jaataa he
+ It is located on Jawaharlal Nehru Marg
+ is mahavidhyalay se sambaddh chatravaas vivekananda chatravaas he
+ There is a village in Krishna district of Andhra Pradesh, India in North Valluru
+ nazar or nazariyaa urdu bhashaa ke vikhyath sahityakar aale ahamed surur dwaara rachit ek samalochna he jiske liye unhen san 1974 main urdu bhashaa ke liye sahitya academy puraskaar se sammanit kiya gaya
+ Shripati Mishra was the former Chief Minister of Uttar Pradesh
+ vah bhartiya rashtriya congress ke ek netaa the
+ He was also the Speaker of the Legislative Assembly in the past
+ unke pita pratishthit rajkeey vaidya pandit ram prasad mishra the
+ He was born on 20 January 1924 in Sultanpur
+ unhone varanasi tathaa lakhanu vishvavidhyalayon main padhai kii va em0e0, el-el0bi0 kii degree praapt kii
+ He was married to Mrs
+ Rajkumari Mishra in 1941
+ unke teen putr tathaa ek putree thim
+ Professionally, he practiced agriculture and advocacy
+ march 1962 main ve pehali baar vidhaan sabha ke sadsy ke rup main nirvaachit hue
+ He became a member of the Fourth Legislative Assembly in March 1967
+ 19 june 1967 se 14 april 1968 tak ve uttar pradesh vidhaan sabha ke upaadhyaksh rahe
+ He became a member of the Lok Sabha in 1969
+ 18 farvari 1970 se 01 oktober 1970 tak ve choudhary charan singh kii sarkaar main mantri rahe va unke paas khaadya evam rasad, rajasav abhaav, samaaj kalyaan, harijan sahaayak, shiksha, khelkud, shram, sahaayta evam punarvaas kaa kaarybhaar tha
+ From 18 October 1970 to 04 April 1971, he served as Minister of Education and Technical Education in the Cabinet of Tribhuvan Narayan Singh Government
+ 1970 se 1976 tak ve vidhaan parishad ke sadsy rahe
+ In 1976, he became the Deputy Chairman of the State Planning Commission
+ june 1980 main ve aathvin vidhaan sabha ke sadsy bane
+ He was the Speaker of the Uttar Pradesh Legislative Assembly from 07 July 1980 to 18 July 1982
+ 19 july 1982 se 02 agast 1984 tak ve uttar pradesh ke mukhyamantri rahe
+ He became a member of the Eighth Lok Sabha in 1985
+ 07 disambar 2002 ko unka nidhan ho gaya
+ 26th Commonwealth Parliamentary Association Conference, Lusaka, September - October, 1980, 27th Commonwealth Parliamentary Association Conference, Suva, October, 1981, Kenya, Mauritius, Seychelles, Sri Lanka, Singapore, Australia, Philippines, Japan, Hong Kong, Thailand and Bahrain
+ vaatayan yaa khidki diwaar yaa darvaaze main bane paardarshee chhed ko kehete hai
+ The windows are often covered with glass or some other transparent material
+ kabhi-kabhi khidkiyaan kholi ja sakati hai jis se baahar kii vaayu or awaazen andar pravesh kar sakati hai
+ Swami Sarvanand Saraswati was a monk of the Aryasamaj
+ ve swami swatantranand ke shishy the
+ Tulsi Ram Sharma Kashyap is a noted Nepali litterateur
+ inke dwaara rachit ek mahakavy aama ke liye unhen san 1990 main sahitya academy puraskaar se sammanit kiya gaya
+ Systems engineering or systems technology or systems engineering is an area of technology that interconnects different disciplines of knowledge
+ jatil kritrim tantron ke vikaas evam samanvay ke liye isaki aavashyaktaa hoti he
+ There are many areas of knowledge which are very closely related to the neural technology
+ inhen kshetron ke badaulat hi tantreey praudyogiki ek alag kshetra ke rup main viksit ho paaya he
+ Some of these are as follows: lara raigarh mandal main bharat ke chhattisgarh rajya ke antargat raigarh jile kaa ek gaanv he
+ Shriman Funtus is a 1965 Hindi language film
+ manna laal,bharat ke uttar pradesh kii duusari vidhansabha sabha main vidhayak rahe
+ In the 1957 Uttar Pradesh Legislative Assembly election, he participated in the election on behalf of the Bharatiya Jana Sangh from 341 - Muhammadi Vidhan Sabha constituency in Kheri district of Uttar Pradesh
+ vidyut-maapi yaa 'urjamapi' saamanyat: un sabhi upkarnon ko kaha jaataa he vidyut urja kaa maap karne ke liye prayukt hote hai
+ Electrometers are often calibrated in kilowatt-hours
+ kuch vidyut maapi vishesh kaaryon ke liye vyavasthit hote hai, jaise mahattam maang sansuchak, jisamen meter ke saath aisa kaal anshak hota he jo nishchit avadhi main adhiktam urja kaa nirdesh kare
+ There are also some electromagnets that automatically cut off the load at the time of maximum load
+ kisi nishchit avadhi main upyukt honevaali vidyut urja kii maap karne ke liye yah aavashyak he ki vidyutmapi paripath main dhara, voltata tathaa shakti gunank teenon kii uchit maap karne main tathaa unhen samaklit karke kisi nishchit avadhi main kharch honevaali urja kaa maapan kar sakane main samarth ho
+ Thus any electrometer has two fractions: shakti anshak, disht dhara evam prayavarti dhara main bhinn bhinn praroop kaa hota he
+ In the direct current, due to not having the power coefficient, it is sufficient to be able to multiply the current and the voltage of the power factor
+ yadi voltata ko sthir maan liya jaae, to keval dhara maapan se hi kaary chal saktaa he
+ In this form the electrometer becomes literally ampere-hour meter
+ yah keval yahi bataata he ki nishchit avadhi main kitni dhara prayukt kii gai he
+ Thus an ampere-hour implies that 1 ampere current is consumed in 1 hour at a fixed voltage
+ yadhyapi banaavat main aise upkaran saral hote hai, tathaapi spashtat: voltata ke ghatane badhane se unke dwaara nirdeshit urja main galati ho jaati he
+ Nevertheless, due to its simple texture, they are very suitable for general uses
+ uparokt prakaar ke meter main ek band prakoshth main aluminium kaa ek discs sambhddha rahata he, jisase uskaa chalan swatantra rup main ho sake
+ The cell is filled with mercury and the disc remains dependent on the buoyancy of the mercury
+ aapekshik ghanatv 13
+6 hone ke kaaran, paara discs par kaaphi utkshep lagaataa he, jisase vering par daab kam ho jaati he or discs ko ghoomane main suvidha rahati he
+ There are two magnets on either side of the disc, one of which is called a conduction magnet: and the other a brake magnet
+ ghuraagra dhara ke vaahak kaa bhi kaary karata he
+ The current flows through the grating to the disc and thence through the mercury to the stationary terminal on the cell
+ is prakaar paripath paare main hokar puraa hota or chaalan chumbak kii uttejk kundali main se pravaahit hoti hui dhara discs par chaalan bal aropit karti he
+ Disk revolves around being self-sufficient for cruises
+ uskaa brake chumbak ke kshetra main paribhraman, usapar brake bal aropit karata he
+ By adjusting the position of the brake-magnet, the speed of the disc can be changed
+ yadi motor thik na chal rahaa ho, to roak chumbak kii sthiti kaa vyavasthaapan karke thik kiya ja saktaa he
+ In the second type of ampere hour scales, the current decomposition effect is used
+ kisi nishchit avadhi main, vidyut apghaty main se paarit hoti hui dhara jitna avshesh jamaa karti he, uskaa pariman paripath main upbhog kii gai urja ke anupaat main hota he
+ But the meters of this type do not have strong texture and have to be arranged repeatedly
+ at: is praroop ke meter adhik chalan main nahin hai
+ Power meters in direct current meters are similar to wattmeters
+ inamen vastut: do paripath hote hai, Being affected by the transient values of current and voltages of these two coils, the conductor of the fraction indicates the average power in the circuit
+ pra
+dha
+ meter, mukhyat:, do praroop ke hote hai : Both meters are actually based on their own type of wattmeter
+ shaktianshak ke saath kashenshak jod dene se hi unase urja kaa maapan kiya ja saktaa he
+ The calcimeter is actually like a clock, which integrates power over a certain period of time and directs energy
+ watametre main sanketak dwaara shakti kaa nirdesh hi kiya ja saktaa he
+ While counting the revolutions of the disc in the electric scale, energy is measured
+ discs athwa drum ke paribhraman ginaney ke liye ek ganaktantr hota he, jisase kul urja kaa maan padhaa ja saktaa he
+ In another type of meter, only the small part of the motor is used
+ isamen dhara kundali, uttejk ke rup main hoti he or voltata kundali, armechar ke rup main
+ The armature is also accompanied by a commutator and there are two burushes that touch
+ is prakaar vah meter, vastut: motor kaa chota rup hi he
+ It is called 'motor meter' for this reason, but due to its high cost and due to care difficulties, it is used very rarely
+ trifage paripathon main urja maapan bhi trifage shakti maapan ke aadhaar par hi kiya jaataa he
+ Like the triphase wattmeter, the power fraction is also divided into two parts and the combination is also done by two wattmeters on the basis of power efficiency
+ is prakaar isamen 6 terminal haate hai or unhen trifage watametre kii bhanti hi sanyojit kiya jaataa he
+ Only by adding the time fraction and counting system can it measure energy
+ sookshm electronic evam microcontrolar aadi ke vikaas ne electranik urjamitaron kaa vikaas sambhav bana diya he
+ Their display is based on LCD or LED
+ kuch meter paathyank ko duurastha sthanon par sanchaarit bhi karne kii kshamta rakhte hai
+ Apart from this, electronic energetics can record supply and some other parameters of load, such as maximum demand, voltage, power coefficient, reactive power, etc
+ nirdeshaank: 27°13′N 79°30′E / 27
+22°N 79
+50°E / 27
+22; 79
+50 Palahar is a village located in Chhibramau, Kannauj, Uttar Pradesh
+ baadbais afghanistan kaa ek praant he jo us desh ke uttar-pashchimi bhaag main muranaab nadi or hari nadi ke bich sthit he or uttar main sarks ke registan ke chor se lagata he
+ 
+ iskaa kshetrafal 20,591 varg kimi he or isaki aabaadi san 2010 main lagbhag 5 lakh anumaanit kii gai thi
+ The capital of Badghis is a city named qala-i-nau
+ 'baadbais' kaa naam farsi ke 'baadakez' shabd kaa bigadaa rup he
+ 'baad' means 'moving wind' - In old Hindi, high windows were called 'badgir' because they catch the wind
+ 'kez' kaa matlab hota he 'utpatti kii jagah' yaa 'ghar'
+ It is found in Hindi in words like 'sensation'
+ 'baadbais' kaa arth hota he 'hawaaon kii god' yaa 'hawaaon kaa ghar'
+ Note the pronunciation of the letter 'G' in 'badgis' as it is slightly different from 'c' without any point
+ iskaa uccharan 'galati' or 'garib' shabdon ke 'ga' se miltaa he
+ Kajal Ojha Vaidya is a Gujarati litterateur who has played varied roles in media, theater and television
+ unhone saat lokapriy naatak tathaa teraa upanyaas bhi likhe hai
+ Apart from 'relation 
+
+
+ So Akash' and 'shesh Yatra' many TV
+ Serials and 'ek dalna paankhi', 'maa', 'saat Tadi', 'ek Moti Eklavune', 'dhabkar', 'talaash', 'apne Paraye', 'koi dreams ke lit lamp', 'kuch kabwab kuch reality' And has also written 'mahasati Savitri'
+ bal vivaah nishedh adhinium 2006 bharat kaa ek adhinium he jo 01 navambar 2007 se lagu hua
+ According to this act, child marriage is one in which the age of the boy is less than 21 years or that of the girl is less than 18 years
+ aise vivaah ko bal vivaah nishedh adhiyim 2006 dwaara pratibandhit kiya gaya he
+ Ashok Gehlot was born on 3 May 1951 in Jodhpur Rajasthan
+ swa shri lakshmana singh gahalot ke ghar janme ashok gahalot ne vigyaan or kanoon main snaatak degree praapt kii tathaa arthshaastra vishay lekar snatakottar degree praapt kii
+ Gehlot was married on November 27, 1977 to Mrs
+ Sunita Gehlot
+ gahalot ke ek putr vaibhav gahalot or ek putree sonia gahalot hai
+ Mr
+ Gehlot likes magic and travel
+ vidhyaarthee jivan se hi raajnneeti or samajaseva main sakriy rahe gahalot 7veen loksabhaa ke liye varsh 1980 main pehali baar jodhpur sansadeey kshetra se nirvaachit hue
+ He represented Jodhpur Lok Sabha constituency in 8th Lok Sabha, 10th Lok Sabha, 11th Lok Sabha and 12th Lok Sabha
+ sardarpura vidhansabha kshetra se nirvaachit hone ke baad gahalot farvari, 1999 main 11veen rajasthan vidhansabha ke sadsy bane
+ Gehlot was re-elected on 12 / 12 / 2003 for the 12th Rajasthan Legislative Assembly from the same assembly constituency and on 8 / 12 / 2008 for the 13th Rajasthan Legislative Assembly from Sardarpura constituency
+ unhone swa shrimati indira gandhi, swa shri rajeev gandhi tathaa swa shri pi
+ve
+narsimha raav ke mantrimandal main kendriya mantri ke rup main kaary kiya
+ He became the Union Minister thrice
+ jab swa shrimati indira gandhi bharat kii pradhanmantri thim us samay ashok gahalot 2 sitambar, 1982 se 7 farvari 1984 kii avadhi main shrimati indira gandhi ke mantrimandal main paryaton or naagarik uddyan upamantri rahe
+ After this, Gehlot became the Deputy Minister of Sports
+ unhone 7 farvari 1984 se 31 oktober 1984 kii avadhi main khel mantralay main kaary kiya tathaa pun: 12 navambar, 1984 se 31 disambar, 1984 kii avadhi main isi mantralay main kaary kiya
+ In view of this style of his work, he was made Minister of State in the Central Government
+ 31 disambar, 1984 se 26 sitambar, 1985 kii avadhi main shri gahalot ne kendriya paryaton or naagarik uddyan rajya mantri ke rup main kaary kiya
+ Subsequently, he was made Union Minister of State for Textiles
+ yah mantralay purv pradhanmantri ke paas tha tathaa shri gahalot ko iskaa swatantra prabhaar diya gaya
+ Shri Gehlot was the Minister of this Ministry from 21 June 1991 to 18 January 1993
+ june, 1989 se navambar, 1989 kii alp avadhi ke bich shri gahalot rajasthan sarkaar main grih tathaa jan swasthya abhiyantriki vibhaag ke mantri rahe
+ From January 2004 to July 16, 2004, Gehlot served as a special invitee to the All India Congress Committee and successfully held the responsibility as Himachal Pradesh and Chhattisgarh Pradesh incharge while holding this post
+ 17 july 2004 se 18 farvari 2009 tak gahalot ne akhil bhartiya congress cameti ke mahasachiv ke rup main kaary kiya
+ During this time, Mr
+ Gehlot discharged his responsibility as in-charge of all frontal units and service teams in Uttar Pradesh, Delhi
+ mahatma gandhi ke aitihaasik dandi march ke 75 varsh puure hone par congress evam mahatma gandhi foundation kii ore se yojit dhadi yatra ke samanvayak ke rup main kaary karte hue safalataa purvak sampann karaayaa
+ Mr
+ Gehlot has the distinction of being the President of the State Congress Committee 3 times
+ pehali baar shri gahalot 34 varsh kii yuva avasthaa main hi rajasthan pradesh congress cameti ke adhyaksh ban gayi the
+ His first term as the Chairman of the Rajasthan Pradesh Congress Committee was in the period between September 1985 to June 1989
+ 1 disambar, 1994 se june, 1997 tak dwitiya baar va june, 1997 se 14 april 1999 tak tritiy baar ve pun: rajasthan pradesh congress cameti ke adhyaksh pad par rahe
+ Between 1973 and 1979, Mr
+ Gehlot was the President of Rajasthan NSUI and he strengthened this youth wing of the Congress Party
+ shri gahalot varsh 1979 se 1982 ke bich jodhpur shahar kii jila congress cameti ke adhyaksh rahe
+ Apart from this, Shri Gehlot was also the General Secretary of Rajasthan Pradesh Congress Committee in the year 1982
+ garibon or pichde varg kii seva ko tatpar shri gahalot ne pashchim bengal ke bangaanw or 24 pargana jilon main varsh 1971 main bangladesh yuddh ke dauraan yojit sharnaarthi shiviron main kaam kiya
+ a keen interest in social service, Mr
+ Gehlot actively worked in camps organized by Tarun Shanti Sena at Sevagram, Wardha Aurangabad, Indore and many other places and served for the development of raw hamlets and slum areas
+ nehru yuva kendra ke madhyam se unhone prauji shiksha ke vistaar main unhone apana mahatvapurn yogadan diya
+ Mr
+ Gehlot is actively associated with the Kumar Sahitya Parishad and the Rajiv Gandhi Memorial book-bank
+ shri gahalot bharat seva santhaan ke sansthaapak adhyaksh bhi hai
+ These institutions are dedicated to social service and provide ambulance service
+ iske alaava yah santhaan rajeev gandhi memorial book bank ke madhyam se garib chaatro ke liye ni:shulk pustaken uplabdh karwaati he
+ The institute has also set up a reading room at the Rajiv Gandhi Seva Sadan in Jodhpur
+ gahalot rajeev gandhi study cirkil, nai dilli ke bhi adhyaksh hai
+ This institution looks after the interests of the students and teachers of universities / colleges across the country
+ gahalot ne bhartiya pratinidhimandal ke sadsy ke rup main videshon main bhi bharat kaa pratinidhitiv kiya he
+ He visited China in January 1994 as a member of the All India Congress Committee delegation
+ shri gahalot ne komanwealth youth afares counsil ke bhartiya pratinidhimandal ke netaa ke rup main cyprus kii yatra kii
+ He also led the Indian delegation to Bulgaria
+ shri gahalot ne bangkok, ireland, frencfort, america, canada, honkong, euke, italy tathaa france deshon kii yatra kii
+ These visits gave him an opportunity to know the international relations and development work of these countries
+ shri ashok gahalot swayan ko hameshaa janata ke dhan ore sampatti kaa trustee maanate hai
+ Between 1980 and 1982, Mr
+ Gehlot was a member of the Public Accounts Committee
+ shri gahalot sanchaar mantralay kii paramarshdatri samiti ke sadsy bhi rah chuke hai
+ He served as a member of the Standing Committee of the Ministry of Railways
+ iske alaava shri gahalot videsh mantralay se sambaddh salaahkaar samiti ke sadsy bhi rahe hai
+ Shri Ashok Gehlot was the Chief Minister of Rajasthan from 01 / 12 / 1998 to 08 / 12 / 2003
+ unka yah kaarykaal anya mahatvapurn uplabdhiyon ke alaava abhootpurv sookhaa prabandhan, vidyut utpaadan, sansadhano kaa vikaas, rojgaar srijan, audyogic or paryaton vikaas, kushal vittiya prabandhan or sushasan ke liye janaa jaataa he
+ This century saw a famine famine in Rajasthan during Mr
+ Gehlot's first term as Chief Minister
+ unhone atyant hi prabhavi or kushal bhang se akaal prabandhan kaa kaary kiya
+ At that time, the famine affected people were transported as much grain as these people could not get from their crops
+ pratipaksh bhi khadyann or chaare kii anuplabdhta ke sambandh main sarkaar kii taraf anguli tak nahin uthaa sake kyonki shri gahalot ne vyaktigat rup se akaal raahat kaaryon kii monitering kii thi
+ Mr
+ Gehlot is known as a politician who feels the pain and pain of the poor
+ unhone 'pani bachaao, bijli bachaao, sabko padhaao' kaa naaraa diya jise rajya kii janata ne purna manoyog se angikaar kiya
+ Shri Ashok Gehlot was sworn in as Chief Minister of Rajasthan on December 13, 2008 for the second time
+ 8 disambar, 2013 ke chunavi nateezon ke baad unhone apane pad se istipha ke diya
+ Bhaskararaoopat is a village in Krishna district under the state of Andhra Pradesh, India
+ jagannatha prasad das oriya ke prasiddh kavi va naatakkaar hai
+ His first collection of poems First Men was published in 1971
+ unhone oriya chitrakala par shodh kiya he
+ His other Sabu Murti j Jahar, Niranjata, Saba Sesha Loka and inconsistent plays have been published
+ 1919 main aahnik kavita sangrah par unhen sahitya academy dwaara sammanit kiya gaya he
+ This article is translated from this edition of the Wikipedia article Giovanni Schiaparelli
+ jiovani virginio scaparelli ek italvi khagolgy or vaigyanik itihaaskaar the
+ He studied at the University of Turin and the Berlin Observatory
+ 1859-1860 main unhone pulakovo vedhashala main kaam kiya or baad main brera vedhashala main chalis varshon se upar kaam kiya
+ He was also a member of the Kingdom of Italy, a member of Akademia di Linci, The Academia delle Scienze di Torino and The Regio Istithutho Lombardo and is particularly known for his study of Mars
+ unki bhatiji, elsa scaparelli, ek prasiddh faishneble vastra-nirmaataa bani
+ Sciparelli's contributions also include his telescopic observations about Mars
+ apane praarambhik anuvikshan main unhone mangal ke "samudron" or "mahadwipon" ko naam diya
+ During the "great opposition" state of the planet in 1877, he noticed dense webs of linear structures on the surface of Mars, which he called "kanali" in Italian, meaning "channels" in English, but incorrectly translated "kanals"
+ Has been made
+ yadhyapi dwitiya shabd kritrim nirmaan ko suchit karata he, purvavarti shabd yah sanketarth detaa he ki yah bhoomi kaa prakritik vinyas bhi ho saktaa he
+ This mistranslation led to various beliefs about life on Mars, as the "canals" of Mars soon became well-known, causing waves of hypothesis, speculation and folklore about the possibility of life on Mars
+ in kritrim naharon ke sabase utkar samarthakon main prasiddh america ke khagolgy persival lowell the, jinhone apana adhikansh jivan is laal grah par budhimaan-jivan ke astitv ko sabit karne main vyateet kiya tha
+ But later, with the observation of the Italian astronomer Visonzo Sarulli, the scientists ensured that the famous channels were in fact mere sight
+ apni pustak, life on mars main scaparelli likhte hai ki: "ham jin sahi channelon ko jaanate hai, unke bajaay hamen mitti main aise garton kii kalpana kerani chahie, jo adhik gahare naa hon, hajaaron mile sidhi disha main 100, 200 kilo meter yaa adhik chaude hon
+ i have already mentioned that in the absence of rainfall on Mars, these channels may have been the main systems through which water can spread on the dry surface of the planet
+ " As an observer of the solar system's bodies, Schaparelli discovered the asteroid 69 Hesperia on April 26, 1861, while working on the pair constellations, and demonstrated that the Percids and Leonids are associated with meteorite comets
+ udhaaharan ke liye, unhone sabit kiya ki leonids ulkapaat kaa parikrama-path, dhoomaketu temple-tatal se mail khaataa he
