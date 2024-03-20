@@ -1,0 +1,1047 @@
+1
+00:00:00,040 --> 00:00:02,399
+yo yo yo welcome to another episode
+
+2
+00:00:02,399 --> 00:00:04,359
+before we start the episode I have some
+
+3
+00:00:04,359 --> 00:00:06,120
+killer news forly those who are
+
+4
+00:00:06,120 --> 00:00:08,280
+interested in building for web 3 it is
+
+5
+00:00:08,280 --> 00:00:11,400
+hackathon season Once Again the Solana
+
+6
+00:00:11,400 --> 00:00:13,280
+Renaissance hackathon is around the
+
+7
+00:00:13,280 --> 00:00:15,280
+corner and this time the best projects
+
+8
+00:00:15,280 --> 00:00:17,240
+and developers stand a chance to win up
+
+9
+00:00:17,240 --> 00:00:20,320
+to half a million in prize money and
+
+10
+00:00:20,320 --> 00:00:22,880
+there's $150,000 in prize money for all
+
+11
+00:00:22,880 --> 00:00:24,680
+the sidetracks as well this includes
+
+12
+00:00:24,680 --> 00:00:27,560
+deepin payments consumer apps gaming
+
+13
+00:00:27,560 --> 00:00:29,199
+infrastructure and all the selected
+
+14
+00:00:29,199 --> 00:00:31,279
+Winners Get accept into the colosium
+
+15
+00:00:31,279 --> 00:00:33,559
+accelerator where you get a $250,000
+
+16
+00:00:33,559 --> 00:00:35,360
+check along with mentorship from other
+
+17
+00:00:35,360 --> 00:00:37,120
+web3 Founders so if you have a killer
+
+18
+00:00:37,120 --> 00:00:39,120
+startup idea this is your special chance
+
+19
+00:00:39,120 --> 00:00:40,440
+and if you don't have an idea and you're
+
+20
+00:00:40,440 --> 00:00:42,800
+looking for an idea go to build.up team.
+
+21
+00:00:42,800 --> 00:00:44,840
+fun 200 plus ideas on what you can
+
+22
+00:00:44,840 --> 00:00:47,000
+potentially build at the hackathon all
+
+23
+00:00:47,000 --> 00:00:48,480
+right there or if you're just looking to
+
+24
+00:00:48,480 --> 00:00:50,039
+join a team that's participating in the
+
+25
+00:00:50,039 --> 00:00:51,760
+hackathon you can do that as well join
+
+26
+00:00:51,760 --> 00:00:54,640
+colosium use their team finder over a,
+
+27
+00:00:54,640 --> 00:00:56,640
+Indian developers have already joined it
+
+28
+00:00:56,640 --> 00:00:58,320
+so you can find a team there or if you
+
+29
+00:00:58,320 --> 00:01:00,000
+have a team and you have an idea and
+
+30
+00:01:00,000 --> 00:01:01,640
+you're looking to build check out super
+
+31
+00:01:01,640 --> 00:01:03,519
+team India on Twitter they're doing in
+
+32
+00:01:03,519 --> 00:01:05,400
+real life build stations across the
+
+33
+00:01:05,400 --> 00:01:06,960
+country so you can meet other people who
+
+34
+00:01:06,960 --> 00:01:08,320
+are participating in the hackathon and
+
+35
+00:01:08,320 --> 00:01:09,920
+get whatever help you need by the way
+
+36
+00:01:09,920 --> 00:01:13,000
+this time especially for India onc has a
+
+37
+00:01:13,000 --> 00:01:15,640
+special track onc is basically UPI but
+
+38
+00:01:15,640 --> 00:01:17,320
+for e-commerce and they want to find
+
+39
+00:01:17,320 --> 00:01:19,200
+startups that can increase order volume
+
+40
+00:01:19,200 --> 00:01:20,799
+on the network so maybe you can build an
+
+41
+00:01:20,799 --> 00:01:22,400
+interoperable product like an ads
+
+42
+00:01:22,400 --> 00:01:24,960
+exchange a negotiation engine coupon
+
+43
+00:01:24,960 --> 00:01:27,200
+system there's $10,000 in additional
+
+44
+00:01:27,200 --> 00:01:29,400
+prices for all submissions to the onc
+
+45
+00:01:29,400 --> 00:01:30,759
+track previous winners from this
+
+46
+00:01:30,759 --> 00:01:32,200
+hackathon have gone on to raise about
+
+47
+00:01:32,200 --> 00:01:34,520
+$600 million in funding so what are you
+
+48
+00:01:34,520 --> 00:01:36,479
+waiting for think of an idea and go sign
+
+49
+00:01:36,479 --> 00:01:38,560
+up or go to colosium find a team and
+
+50
+00:01:38,560 --> 00:01:40,560
+make your startup idea come true all the
+
+51
+00:01:40,560 --> 00:01:42,119
+links are in the description all the
+
+52
+00:01:42,119 --> 00:01:43,680
+best if you're participating let's start
+
+53
+00:01:43,680 --> 00:01:45,119
+the video yo yo yo welcome to the
+
+54
+00:01:45,119 --> 00:01:47,320
+episode the OG gang is here with us we
+
+55
+00:01:47,320 --> 00:01:50,680
+got priser op writer op Banker op and
+
+56
+00:01:50,680 --> 00:01:52,799
+making his debut on the show we got
+
+57
+00:01:52,799 --> 00:01:56,960
+rapper op AKA jasm baa why you called
+
+58
+00:01:56,960 --> 00:01:58,840
+rapper op
+
+59
+00:01:58,840 --> 00:02:02,840
+because passionately everyday rap sun
+
+60
+00:02:02,840 --> 00:02:05,479
+and I have a name also MC Jizzy and MC
+
+61
+00:02:05,479 --> 00:02:07,399
+is for middle class that's how it roll
+
+62
+00:02:07,399 --> 00:02:08,759
+and I don't want to know what Jizzy is
+
+63
+00:02:08,759 --> 00:02:09,750
+for yeah
+
+64
+00:02:09,750 --> 00:02:13,320
+[Laughter]
+
+65
+00:02:13,400 --> 00:02:17,480
+bro okay
+
+66
+00:02:20,110 --> 00:02:25,420
+[Laughter]
+
+67
+00:02:28,840 --> 00:02:31,840
+hard
+
+68
+00:02:32,700 --> 00:02:36,610
+[Music]
+
+69
+00:02:40,400 --> 00:02:42,640
+hello I don't know how to say this
+
+70
+00:02:42,640 --> 00:02:45,360
+without sounding
+
+71
+00:02:48,480 --> 00:02:52,440
+rude reminds me of my
+
+72
+00:02:52,760 --> 00:02:56,270
+ex hello hello
+
+73
+00:02:56,270 --> 00:02:58,840
+[Laughter]
+
+74
+00:02:58,840 --> 00:03:00,760
+hi
+
+75
+00:03:00,760 --> 00:03:03,120
+already
+
+76
+00:03:07,319 --> 00:03:10,319
+funny
+
+77
+00:03:13,120 --> 00:03:16,159
+yes now I can't wait to see like a
+
+78
+00:03:16,159 --> 00:03:18,280
+slightly older Child Called Elvish and
+
+79
+00:03:18,280 --> 00:03:22,440
+then basically like a fetus yelling
+
+80
+00:03:23,080 --> 00:03:27,280
+El and a gynecologist named
+
+81
+00:03:28,760 --> 00:03:31,760
+Raj
+
+82
+00:03:32,200 --> 00:03:36,040
+isolated G
+
+83
+00:03:43,080 --> 00:03:46,840
+at they teaching Y in how to say [ __ ]
+
+84
+00:03:46,840 --> 00:03:48,280
+why are they teaching y' how to say
+
+85
+00:03:48,280 --> 00:03:51,760
+[ __ ] in India that's not physics how
+
+86
+00:03:51,760 --> 00:03:54,680
+the hell is a [ __ ] how am I physics how
+
+87
+00:03:54,680 --> 00:03:55,599
+am I
+
+88
+00:03:55,599 --> 00:03:58,720
+science your name is literally
+
+89
+00:03:58,720 --> 00:04:00,799
+speed
+
+90
+00:04:00,799 --> 00:04:03,560
+smooth R by
+
+91
+00:04:19,950 --> 00:04:27,759
+[Laughter]
+
+92
+00:04:27,759 --> 00:04:30,160
+Smooths has done engineering from MBA
+
+93
+00:04:30,160 --> 00:04:31,530
+college of Commerce
+
+94
+00:04:31,530 --> 00:04:35,920
+[Laughter]
+
+95
+00:04:38,000 --> 00:04:43,520
+physics Spiderman crash oh my
+
+96
+00:04:43,720 --> 00:04:48,000
+God okay this was like ra F Khan on the
+
+97
+00:04:48,000 --> 00:04:51,320
+bike oh my God man I will make weap for
+
+98
+00:04:51,320 --> 00:04:52,320
+you
+
+99
+00:04:52,320 --> 00:04:56,800
+man I will for you
+
+100
+00:04:56,800 --> 00:05:01,639
+manad sper Al
+
+101
+00:05:02,360 --> 00:05:07,230
+[Laughter]
+
+102
+00:05:07,820 --> 00:05:12,479
+[Music]
+
+103
+00:05:12,479 --> 00:05:18,320
+jok I did man I did oh my God R's
+
+104
+00:05:18,880 --> 00:05:21,800
+entertainment 21st half Century
+
+105
+00:05:21,800 --> 00:05:25,800
+[Laughter]
+
+106
+00:05:25,800 --> 00:05:28,639
+Fox
+
+107
+00:05:28,639 --> 00:05:31,639
+unbre
+
+108
+00:05:32,350 --> 00:05:34,880
+[Laughter]
+
+109
+00:05:34,880 --> 00:05:36,720
+my last
+
+110
+00:05:36,720 --> 00:05:39,440
+relationship Max turn after meeting
+
+111
+00:05:39,440 --> 00:05:44,190
+[Laughter]
+
+112
+00:05:44,190 --> 00:05:47,039
+[Music]
+
+113
+00:05:47,039 --> 00:05:50,520
+Elish masan
+
+114
+00:05:51,520 --> 00:05:55,240
+ending please box
+
+115
+00:05:58,639 --> 00:06:01,639
+office
+
+116
+00:06:03,430 --> 00:06:07,400
+[Laughter]
+
+117
+00:06:07,400 --> 00:06:09,500
+guys thank you for bringing my
+
+118
+00:06:09,500 --> 00:06:14,530
+[Laughter]
+
+119
+00:06:15,180 --> 00:06:15,550
+[Music]
+
+120
+00:06:15,550 --> 00:06:22,900
+[Laughter]
+
+121
+00:06:25,160 --> 00:06:28,160
+father
+
+122
+00:06:28,560 --> 00:06:30,080
+pap
+
+123
+00:06:30,080 --> 00:06:32,400
+today we announce liberalization of
+
+124
+00:06:32,400 --> 00:06:33,980
+Indian
+
+125
+00:06:33,980 --> 00:06:35,650
+[Music]
+
+126
+00:06:35,650 --> 00:06:40,600
+[Laughter]
+
+127
+00:06:55,080 --> 00:06:58,520
+economy by the way and
+
+128
+00:06:58,520 --> 00:07:01,520
+okay
+
+129
+00:07:05,870 --> 00:07:11,620
+[Laughter]
+
+130
+00:07:13,870 --> 00:07:17,199
+[Laughter]
+
+131
+00:07:17,199 --> 00:07:19,919
+this uh flute version of Titanic music
+
+132
+00:07:19,919 --> 00:07:22,960
+in a meme has never disappointed no yes
+
+133
+00:07:22,960 --> 00:07:24,039
+such
+
+134
+00:07:24,039 --> 00:07:26,140
+Titanic it would have been a
+
+135
+00:07:26,140 --> 00:07:28,520
+[Laughter]
+
+136
+00:07:28,520 --> 00:07:31,520
+comedy
+
+137
+00:07:40,000 --> 00:07:43,599
+sunk by priad jahaj
+
+138
+00:07:43,919 --> 00:07:46,919
+Masala
+
+139
+00:07:50,080 --> 00:07:54,160
+h no get down get
+
+140
+00:07:54,160 --> 00:07:57,539
+[Music]
+
+141
+00:07:58,440 --> 00:08:01,440
+down
+
+142
+00:08:01,460 --> 00:08:11,990
+[Music]
+
+143
+00:08:20,120 --> 00:08:22,879
+infant that's amazing always wanted to
+
+144
+00:08:22,879 --> 00:08:25,720
+go to a g to Table
+
+145
+00:08:25,720 --> 00:08:28,440
+Restaurant when zato plans to deliver in
+
+146
+00:08:28,440 --> 00:08:31,440
+10 minutes
+
+147
+00:08:33,820 --> 00:08:38,479
+[Music]
+
+148
+00:08:38,919 --> 00:08:41,880
+not a toothbrush it's
+
+149
+00:08:41,880 --> 00:08:46,839
+a brush I love that you did
+
+150
+00:08:46,839 --> 00:08:49,839
+theit
+
+151
+00:08:58,440 --> 00:09:00,920
+commit
+
+152
+00:09:00,920 --> 00:09:03,519
+oral bee or vaginal
+
+153
+00:09:03,519 --> 00:09:06,160
+be not worth you know what I want to
+
+154
+00:09:06,160 --> 00:09:09,000
+change that to you know guys over each
+
+155
+00:09:09,000 --> 00:09:11,600
+other
+
+156
+00:09:11,600 --> 00:09:14,110
+over brush you have
+
+157
+00:09:14,110 --> 00:09:24,220
+[Laughter]
+
+158
+00:09:24,220 --> 00:09:28,360
+[Music]
+
+159
+00:09:28,360 --> 00:09:31,360
+toate
+
+160
+00:09:31,420 --> 00:09:35,530
+[Music]
+
+161
+00:09:35,530 --> 00:09:41,440
+[Laughter]
+
+162
+00:09:41,440 --> 00:09:44,120
+find the seconds in
+
+163
+00:09:44,120 --> 00:09:47,120
+which
+
+164
+00:09:51,250 --> 00:09:53,730
+[Laughter]
+
+165
+00:09:53,730 --> 00:09:57,760
+[Music]
+
+166
+00:09:57,760 --> 00:10:00,120
+yes customer has been delivered to
+
+167
+00:10:00,120 --> 00:10:02,519
+delivery
+
+168
+00:10:04,240 --> 00:10:07,480
+boy your location has reached you your
+
+169
+00:10:07,480 --> 00:10:10,640
+location has reached
+
+170
+00:10:11,360 --> 00:10:15,640
+you it blink it
+
+171
+00:10:15,640 --> 00:10:18,240
+blink your delivery partner has picked
+
+172
+00:10:18,240 --> 00:10:20,480
+up
+
+173
+00:10:21,079 --> 00:10:24,160
+you notification have you been
+
+174
+00:10:24,160 --> 00:10:27,040
+delivered shaal is no longer driving
+
+175
+00:10:27,040 --> 00:10:29,279
+safely to your location you're deliv
+
+176
+00:10:29,279 --> 00:10:32,040
+dely boy has been
+
+177
+00:10:32,940 --> 00:10:36,619
+[Music]
+
+178
+00:10:44,639 --> 00:10:48,760
+delivered going from Oral B to vaginal
+
+179
+00:10:48,760 --> 00:10:51,639
+B when I order power bank from China
+
+180
+00:10:51,639 --> 00:10:53,810
+your charger is now fully
+
+181
+00:10:53,810 --> 00:10:58,240
+[Laughter]
+
+182
+00:10:58,240 --> 00:11:01,240
+charged
+
+183
+00:11:01,279 --> 00:11:04,360
+working model in fifth
+
+184
+00:11:06,680 --> 00:11:09,639
+class game guy who made the
+
+185
+00:11:09,639 --> 00:11:13,440
+charger technical shishu
+
+186
+00:11:15,079 --> 00:11:18,079
+ging
+
+187
+00:11:19,240 --> 00:11:21,639
+after I'm imagining steepen haing going
+
+188
+00:11:21,639 --> 00:11:24,320
+around around like
+
+189
+00:11:28,240 --> 00:11:29,350
+this
+
+190
+00:11:29,350 --> 00:11:34,120
+[Laughter]
+
+191
+00:11:42,880 --> 00:11:43,570
+think
+
+192
+00:11:43,570 --> 00:11:48,600
+[Laughter]
+
+193
+00:11:53,980 --> 00:11:55,839
+[Music]
+
+194
+00:11:55,839 --> 00:11:58,240
+soan sh first
+
+195
+00:11:58,240 --> 00:12:01,240
+d
+
+196
+00:12:05,120 --> 00:12:08,360
+um thanks
+
+197
+00:12:08,360 --> 00:12:13,240
+to thanks too thanks Lord thank
+
+198
+00:12:14,839 --> 00:12:17,700
+you thanks to everyone for all the
+
+199
+00:12:17,700 --> 00:12:21,340
+[Laughter]
+
+200
+00:12:26,250 --> 00:12:28,160
+[Music]
+
+201
+00:12:28,160 --> 00:12:31,160
+wishes
+
+202
+00:12:32,199 --> 00:12:33,639
+you become so free when you know you're
+
+203
+00:12:33,639 --> 00:12:36,279
+going to fail an
+
+204
+00:12:40,279 --> 00:12:45,399
+exam why should only College reject me
+
+205
+00:12:49,360 --> 00:12:53,920
+yeah situation in heaven
+
+206
+00:12:54,030 --> 00:12:58,000
+[Music]
+
+207
+00:12:58,120 --> 00:13:01,120
+yeah
+
+208
+00:13:11,399 --> 00:13:13,370
+me trying to jell at ran by's house
+
+209
+00:13:13,370 --> 00:13:17,630
+[Laughter]
+
+210
+00:13:18,440 --> 00:13:21,040
+party I've never seen someone be so
+
+211
+00:13:21,040 --> 00:13:24,760
+despasito to sing despasito
+
+212
+00:13:25,060 --> 00:13:28,120
+[Music]
+
+213
+00:13:28,120 --> 00:13:31,120
+bro
+
+214
+00:13:31,550 --> 00:13:37,639
+[Laughter]
+
+215
+00:13:37,639 --> 00:13:38,740
+he's a true
+
+216
+00:13:38,740 --> 00:13:43,550
+[Laughter]
+
+217
+00:13:49,440 --> 00:13:53,440
+[Music]
+
+218
+00:13:53,440 --> 00:13:57,639
+Swifty why they put a flute in his mouth
+
+219
+00:13:57,639 --> 00:14:01,040
+bro or
+
+220
+00:14:01,680 --> 00:14:04,279
+Chia wow you really took 20 seconds with
+
+221
+00:14:04,279 --> 00:14:07,270
+that one I took my
+
+222
+00:14:07,270 --> 00:14:19,780
+[Laughter]
+
+223
+00:14:22,360 --> 00:14:26,040
+time the big yawn yeah okay wake up wake
+
+224
+00:14:26,040 --> 00:14:28,240
+up have a glass of water the cricket's
+
+225
+00:14:28,240 --> 00:14:30,279
+getting interesting
+
+226
+00:14:30,279 --> 00:14:31,880
+wake up old
+
+227
+00:14:31,880 --> 00:14:35,920
+boy yeah yeah yeah yeah Steve Smith in
+
+228
+00:14:35,920 --> 00:14:39,560
+South Africa you a ball
+
+229
+00:14:39,600 --> 00:14:45,920
+boy balls pampering balls balls
+
+230
+00:14:46,000 --> 00:14:48,560
+pampering sorry
+
+231
+00:14:48,560 --> 00:14:54,680
+[Music]
+
+232
+00:14:54,680 --> 00:14:57,199
+sorry
+
+233
+00:14:57,199 --> 00:14:59,170
+yeah this was Co
+
+234
+00:14:59,170 --> 00:15:04,220
+[Laughter]
+
+235
+00:15:07,110 --> 00:15:09,560
+[Laughter]
+
+236
+00:15:09,560 --> 00:15:11,639
+the Nika
+
+237
+00:15:11,639 --> 00:15:13,800
+3350 iPhone
+
+238
+00:15:13,800 --> 00:15:16,519
+filters MAC Cosmetics
+
+239
+00:15:16,519 --> 00:15:19,040
+oh
+
+240
+00:15:19,040 --> 00:15:22,040
+wow
+
+241
+00:15:23,390 --> 00:15:26,500
+[Music]
+
+242
+00:15:27,959 --> 00:15:30,519
+wow
+
+243
+00:15:30,519 --> 00:15:33,519
+imagine cancelling cement bro
+
+244
+00:15:33,519 --> 00:15:38,590
+like [ __ ] cement man
+
+245
+00:15:38,590 --> 00:15:49,399
+[Music]
+
+246
+00:15:52,980 --> 00:15:56,980
+[Laughter]
+
+247
+00:15:57,920 --> 00:15:59,880
+like
+
+248
+00:15:59,880 --> 00:16:01,120
+all right that for today's episode if
+
+249
+00:16:01,120 --> 00:16:02,440
+you enjoy that hit that like button
+
+250
+00:16:02,440 --> 00:16:05,279
+follow the panel on Instagram and before
+
+251
+00:16:05,279 --> 00:16:08,160
+we go by rapper op Nam so you know what
+
+252
+00:16:08,160 --> 00:16:09,880
+you need to
+
+253
+00:16:09,880 --> 00:16:12,830
+do see you the
+
+254
+00:16:12,830 --> 00:16:15,899
+[Music]
+
+255
+00:16:20,400 --> 00:16:27,920
+[Laughter]
+
+256
+00:16:27,920 --> 00:16:32,399
+next middle class first
+
+257
+00:16:36,470 --> 00:16:39,519
+[Music]
+
+258
+00:16:44,800 --> 00:16:48,319
+CL middle
+
+259
+00:16:48,440 --> 00:16:51,920
+CL middle
+
+260
+00:16:52,000 --> 00:16:55,519
+CL middle class drip
+
+261
+00:16:55,519 --> 00:17:00,800
+sh middle class DP freestyle
+
+262
+00:17:00,800 --> 00:17:03,800
+he
