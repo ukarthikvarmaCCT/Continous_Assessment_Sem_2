@@ -1,0 +1,255 @@
+1
+00:00:00,000 --> 00:00:03,400
+Subscribe to the Technical Guruji channel
+
+2
+00:00:03,400 --> 00:00:07,200
+And press the bell icon to get latest technology videos everyday.
+
+3
+00:00:07,200 --> 00:00:09,620
+Friends, all of you often talk about
+
+4
+00:00:09,760 --> 00:00:16,500
+your laptops, computers , mobile phones about the type of processor, display , battery.
+
+5
+00:00:16,500 --> 00:00:18,420
+how much storage and RAM it has.
+
+6
+00:00:18,960 --> 00:00:22,200
+and think that increasing RAM and storage will make it great.
+
+7
+00:00:22,660 --> 00:00:26,820
+But, here comes the question that we are going to discuss today in this video.
+
+8
+00:00:27,360 --> 00:00:34,560
+that whether increasing the size of RAM has any real practical benefit or should we also take a look at the speed of the RAM
+
+9
+00:00:34,800 --> 00:00:39,940
+Hello friends, my name is Gaurav. You are watching Technical Guruji. Lets begin.
+
+10
+00:00:46,960 --> 00:00:51,400
+Friends, RAM is something which we are able to discuss very easily with our friends.
+
+11
+00:00:51,900 --> 00:00:55,480
+because it is easy to understand like 1GB, 2GB , 5GB.
+
+12
+00:00:55,720 --> 00:01:00,940
+but if it is a complex term, which a common man can't understand then maybe people won't talk about it so much.
+
+13
+00:01:01,460 --> 00:01:04,660
+For example, people don't generally talk about the Cache memory because
+
+14
+00:01:05,380 --> 00:01:08,800
+a common person doesn't know the role of a Cache memory
+
+15
+00:01:09,020 --> 00:01:11,900
+Now whether it is 2MB Cache or 4MB Cache, he doesn't really care.
+
+16
+00:01:12,220 --> 00:01:16,740
+Yes. But people understand RAM. 1GB, 2GB, 3GB, the more the better.
+
+17
+00:01:16,740 --> 00:01:22,240
+and on the basis of this thinking we keep deciding about the devices
+
+18
+00:01:22,980 --> 00:01:27,040
+I remember my first android phone , which was Samsung Galaxy S2, it only had 1 GB RAM
+
+19
+00:01:27,780 --> 00:01:33,200
+There were many phones available in the market below this as well at the time
+
+20
+00:01:33,940 --> 00:01:42,120
+And now we have 2,3,4,5,6 and now we even hear the rumors that upcoming phone will be 8GB RAM, 16GB RAM
+
+21
+00:01:42,140 --> 00:01:49,000
+And all we are focusing on is to increase this number further. But have you ever thought,
+
+22
+00:01:49,060 --> 00:01:52,280
+whether we practically need this much RAM or not?
+
+23
+00:01:52,440 --> 00:02:02,060
+Suppose today if you want to build a PC at home to play games, 8 GB RAM is all you need. All the games work smoothly on that
+
+24
+00:02:02,260 --> 00:02:06,020
+But as we are always looking for the best, so despite it costing more
+
+25
+00:02:06,220 --> 00:02:09,620
+we will go for 32 GB RAM, 64 GB RAM.
+
+26
+00:02:09,840 --> 00:02:14,620
+does the RAM whether 8GB or 32 GB play any role in the performance of the game?
+
+27
+00:02:14,680 --> 00:02:16,040
+Not really.
+
+28
+00:02:16,660 --> 00:02:19,920
+So guys, there is a thing called RAM capacity.
+
+29
+00:02:20,280 --> 00:02:29,640
+Suppose I am the processor and the table is the RAM and whatever I am working on, I have already called it here.
+
+30
+00:02:30,380 --> 00:02:33,260
+Everything else is stored in the cupboard which is actually the Hard Drive.
+
+31
+00:02:33,780 --> 00:02:39,160
+Now suppose if this table was very large, still my hands can reach this space only.
+
+32
+00:02:39,840 --> 00:02:42,000
+so only this RAM is of my use.
+
+33
+00:02:43,060 --> 00:02:49,040
+Or if suppose the jobs at my hand are small enough to fit this space, then I don't really need a table that big.
+
+34
+00:02:49,500 --> 00:02:55,380
+So, after a limit, the remaining RAM is a waste and you are not really able to use that resource.
+
+35
+00:02:56,180 --> 00:03:07,520
+but if suppose, this table starts throwing object that I need in the job towards me, so that I am able to work with more speed
+
+36
+00:03:07,780 --> 00:03:11,400
+that is in simple language, the RAM has become fast
+
+37
+00:03:11,880 --> 00:03:16,140
+the data transfer between the RAM and Processor is taking place faster
+
+38
+00:03:16,400 --> 00:03:20,860
+so this will be beneficial to you instead of just increasing the size of the table again and again
+
+39
+00:03:21,440 --> 00:03:27,700
+4,6,8,15,25 , people keep on increasing RAM and then think that their device is faster.
+
+40
+00:03:27,980 --> 00:03:37,600
+So here we need to think a bit practically. I understand that the table/ RAM is sufficient for you today
+
+41
+00:03:38,120 --> 00:03:44,000
+but it might not be enough in 2 years time with improvement in the softwares.
+
+42
+00:03:46,040 --> 00:03:58,440
+I understand that after sometime you need to upgrade your phone or PC whatever it is , but we need to see where we are getting the best value currently.
+
+43
+00:03:58,620 --> 00:04:03,820
+You need to see the specifications of the RAM. How many Mega Hertz is its speed, whether DDR3 stick is used or DDR4 stick is used.
+
+44
+00:04:04,400 --> 00:04:12,380
+Whether your phone has DDR3 RAM or DDR4 RAM or what does your processor supports best, where you will get the best optimization
+
+45
+00:04:12,700 --> 00:04:16,960
+We sometimes ignore these things and just keep running behind MORE.
+
+46
+00:04:17,220 --> 00:04:18,440
+Bro! I am using 64 GB RAM.
+
+47
+00:04:18,660 --> 00:04:20,380
+For what purpose? Games.
+
+48
+00:04:20,480 --> 00:04:22,560
+You could have played the same game on 8GB RAM as well
+
+49
+00:04:23,080 --> 00:04:25,680
+These are few things that we need to keep in mind.
+
+50
+00:04:25,980 --> 00:04:29,640
+You can tell me in the comment section below about your views on this blind race
+
+51
+00:04:30,240 --> 00:04:36,740
+I mean, we don't even know the finish point of this race. We don't even know why are we in this race. But we are just running behind the numbers
+
+52
+00:04:37,060 --> 00:04:38,900
+The same thing goes with the storage
+
+53
+00:04:39,320 --> 00:04:41,500
+People say , I have a hard drive of 2TB
+
+54
+00:04:42,640 --> 00:04:46,220
+Now if same person is told that I have a Solid State Drive (SSD) of 256 GB
+
+55
+00:04:46,680 --> 00:04:51,600
+capacity is less than Hard Drive but performance is many times better, then he might not be able to understand it
+
+56
+00:04:53,640 --> 00:05:03,500
+so, here we need to have these things in mind, that not only we choose the best possible technology for ourselves but also understand why are we choosing it
+
+57
+00:05:03,980 --> 00:05:11,220
+Friends, you can tell me about any such experiences you have had faced with any friend or with some relative
+
+58
+00:05:11,220 --> 00:05:13,780
+where they were fighting over the numbers.
+
+59
+00:05:14,080 --> 00:05:15,780
+I hope you liked this video
+
+60
+00:05:15,980 --> 00:05:18,300
+Don't forget to comment any suggestions that you have
+
+61
+00:05:18,500 --> 00:05:21,380
+If you haven't liked and shared this video yet then please like it and share it
+
+62
+00:05:21,580 --> 00:05:23,900
+and don't forget to subscribe the channel
+
+63
+00:05:23,980 --> 00:05:26,240
+As I keep bringing such videos to you daily
+
+64
+00:05:26,840 --> 00:05:28,460
+Jai Hind. Vande Mataram

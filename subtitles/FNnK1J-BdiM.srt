@@ -1,0 +1,115 @@
+1
+00:00:00,000 --> 00:00:01,620
+all right so this is an iPhone 14 plus
+
+2
+00:00:01,620 --> 00:00:03,300
+pretty big phone but how big do you
+
+3
+00:00:03,300 --> 00:00:05,759
+think the biggest iPhone in the world is
+
+4
+00:00:05,759 --> 00:00:08,099
+so I wasn't expecting this but YouTuber
+
+5
+00:00:08,099 --> 00:00:09,660
+Matthew beam told me he was building the
+
+6
+00:00:09,660 --> 00:00:11,160
+world's biggest iPhone a few days ago
+
+7
+00:00:11,160 --> 00:00:12,960
+and then he showed up with it this thing
+
+8
+00:00:12,960 --> 00:00:15,780
+is fully functional seven feet tall and
+
+9
+00:00:15,780 --> 00:00:17,820
+weighs close to 500 pounds it has a
+
+10
+00:00:17,820 --> 00:00:19,140
+power button here there's also volume
+
+11
+00:00:19,140 --> 00:00:21,180
+buttons and a mute switch it's so tall
+
+12
+00:00:21,180 --> 00:00:22,859
+you have to get up on a ladder to take a
+
+13
+00:00:22,859 --> 00:00:24,300
+selfie with the camera because it's all
+
+14
+00:00:24,300 --> 00:00:26,039
+the way up here but you know I am the
+
+15
+00:00:26,039 --> 00:00:27,359
+tech YouTuber so I kind of had to
+
+16
+00:00:27,359 --> 00:00:28,920
+investigate a little bit into how he
+
+17
+00:00:28,920 --> 00:00:30,660
+made this and first of all watch his
+
+18
+00:00:30,660 --> 00:00:32,099
+video for my full reaction on the thing
+
+19
+00:00:32,099 --> 00:00:33,660
+but turns out there is no iPhone
+
+20
+00:00:33,660 --> 00:00:36,540
+actually in here at all it's actually a
+
+21
+00:00:36,540 --> 00:00:38,640
+Mac Mini in here which simulates running
+
+22
+00:00:38,640 --> 00:00:41,399
+a virtual Android phone and then that
+
+23
+00:00:41,399 --> 00:00:43,440
+Android phone is running a launcher that
+
+24
+00:00:43,440 --> 00:00:45,660
+makes it look like an iPhone all with
+
+25
+00:00:45,660 --> 00:00:47,340
+some jail rig Tech on the edges to make
+
+26
+00:00:47,340 --> 00:00:49,140
+it see where your finger is to make it
+
+27
+00:00:49,140 --> 00:00:51,300
+act like a touch screen all that to say
+
+28
+00:00:51,300 --> 00:00:53,100
+it's not an iPhone technically but it is
+
+29
+00:00:53,100 --> 00:00:56,480
+still pretty impressive

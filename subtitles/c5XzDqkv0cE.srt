@@ -1,1671 +1,1127 @@
 1
-00:00:00,040 --> 00:00:03,999
-झालरिया के यह फॉलो नहीं हो रहा इससे पीछे
+00:00:00,320 --> 00:00:06,660
+...This is not being followed. This poses a danger to the lives of the people sitting behind as well as my life
 
 2
-00:00:03,999 --> 00:00:06,250
-बैठे लोगों की जान को खतरा है इससे मेरी
+00:00:06,660 --> 00:00:08,900
+And when I go home, it becomes a danger for my family as well
 
 3
-00:00:06,250 --> 00:00:08,170
-जान को खतरा और भैया घर जाऊं तो मेरी
+00:00:08,900 --> 00:00:11,500
+This extremely important document that I am writing and handing in...
 
 4
-00:00:08,170 --> 00:00:10,120
-फैमिली को खतरा है इतना ही इंपोर्टेंट जो
+00:00:14,080 --> 00:00:15,040
+Greetings, friends!
 
 5
-00:00:10,120 --> 00:00:14,559
-मैं बॉक्स में लिखकर दे रहा हूं नमस्कार
+00:00:15,040 --> 00:00:19,000
+It has been more than 10 days since the you-tuber "Flying Beast",
 
 6
-00:00:14,559 --> 00:00:16,990
-दोस्तों करेंगे उस दिन से ज्यादा का समय
+00:00:19,000 --> 00:00:24,880
+that is, Gaurav Taneja raised some critical flight safety issues in Air Asia Airlines on his social media
 
 7
-00:00:16,990 --> 00:00:27,610
-गुजर चुका है जब स्कूल में वीरवार को भी
+00:00:24,940 --> 00:00:28,460
+Due to which, he was even suspended from his job as a pilot
 
 8
-00:00:27,610 --> 00:00:30,960
-सस्पेंड कर दिया गया लेकिन आज तक दोस्तों
+00:00:28,460 --> 00:00:34,960
+But even today, there has been no response from the airline regarding these specific issues
 
 9
-00:00:30,960 --> 00:00:34,480
-सब्सक्राइब करें की तरफ से कोई रिस्पांस
+00:00:34,960 --> 00:00:39,040
+Whether these issues persist or not and what the airline is doing to avoid them- nothing at all!
 
 10
-00:00:34,480 --> 00:00:40,210
-नहीं कर रही है करने के लिए कुछ ऐसी चीज
+00:00:39,320 --> 00:00:41,880
+This is something that concerns all of us
 
 11
-00:00:40,210 --> 00:00:45,010
-है दोस्तों आज के दिन में सवाल खड़ा होता
+00:00:41,880 --> 00:00:46,840
+If we book a flight on Air Asia today, a question arises- Is our safety in danger?
 
 12
-00:00:45,010 --> 00:00:48,670
-है कि क्या हमारी खतरे में हैं आइए जानते
+00:00:47,240 --> 00:00:49,240
+Come, let us understand these issues in detail
 
 13
-00:00:48,670 --> 00:00:52,360
-हैं उसको गौरव से बात करें और में से एक
+00:00:49,240 --> 00:00:50,740
+I spoke to Gaurav about these issues
 
 14
-00:00:52,360 --> 00:00:57,550
-है कि हो सकता है आज देश में बढ़ते वायरस
+00:00:51,040 --> 00:00:58,280
+One of these issues is so critical that it might be the reason behind the rising cases of corona virus in the country
 
 15
-00:00:57,550 --> 00:01:00,050
-कैसे देखते हैं
+00:00:58,640 --> 00:00:59,720
+Come, let us see
 
 16
-00:01:00,050 --> 00:01:02,260
-हुआ है
+00:01:03,700 --> 00:01:08,840
+-Gaurav,  coming straight to the point, the people that you are up against will try their best to divert the issue
 
 17
-00:01:02,260 --> 00:01:03,570
-[संगीत]
+00:01:08,840 --> 00:01:11,280
+But I would like to keep this to the point
 
 18
-00:01:03,570 --> 00:01:05,880
-कि गौरव सीधा पॉइंट पर आते हैं जिन लोगों
+00:01:11,280 --> 00:01:15,140
+Let us talk about the three safety issues that concern the people
 
 19
-00:01:05,880 --> 00:01:08,130
-के खिलाफ खड़े हैं वह आपके शुभ डाइवर्ट
+00:01:15,600 --> 00:01:17,980
+The first safety issue, as you had pointed out, was that of paid leave
 
 20
-00:01:08,130 --> 00:01:10,530
-करने की कोशिश करेंगे लेकिन मैं इसको टू द
+00:01:17,980 --> 00:01:20,680
+Could you please elaborate on that?
 
 21
-00:01:10,530 --> 00:01:12,900
-प्वाइंट रखना चाहूंगा उन तीन सेफ्टी शूज
+00:01:20,680 --> 00:01:27,400
+This issue is precisely about sick leave and how it has been made punitive
 
 22
-00:01:12,900 --> 00:01:14,520
-के बारे में बात करते हैं जो लोगों को
+00:01:27,760 --> 00:01:34,000
+If a pilot is sick, then how is he punished for taking a sick (leave)
 
 23
-00:01:14,520 --> 00:01:17,100
-कंडीशन करते हैं पहला सेव श्योर आपने कहा
+00:01:34,000 --> 00:01:39,360
+In most jobs you work for five days- from Monday to Friday- and Saturdays and Sundays are off
 
 24
-00:01:17,100 --> 00:01:19,530
-था पेट चिपका है आप थोड़ा और समझा सकते
+00:01:39,360 --> 00:01:43,460
+For pilots, they pilot the flight for 6 days and get the seventh day off
 
 25
-00:01:19,530 --> 00:01:22,020
-हैं कि इजरायली क्या है यह रोग यह इशू है
+00:01:43,460 --> 00:01:44,420
+These are the off days
 
 26
-00:01:22,020 --> 00:01:25,740
-सीख लिव का रिश्ता इसलिए और शेष लीव्स को
+00:01:44,420 --> 00:01:46,200
+On the other hand, there are sick leaves
 
 27
-00:01:25,740 --> 00:01:28,740
-कैसे प्रिमिटिव बनाया गया है अगर एक पायलट
+00:01:46,200 --> 00:01:49,200
+No matter which job you have, you can take a sick leave if you are unwell
 
 28
-00:01:28,740 --> 00:01:32,460
-से एक होता है तो उसको कैसे ऐप पनिशमेंट
+00:01:49,200 --> 00:01:53,440
+and there are a specified number of sick leaves in every job per year- for example, around 10-15
 
 29
-00:01:32,460 --> 00:01:34,950
-दी जाती है सीख लेने के लिए ज्यादातर जो
+00:01:53,680 --> 00:01:55,060
+The same goes for the pilots
 
 30
-00:01:34,950 --> 00:01:37,050
-अपने दोस्तों और 5 दिन काम करते हैं मंडे
+00:01:55,060 --> 00:02:01,660
+Now Gaurav says that if you take a sick leave in Air Asia, then it is counted as an off day
 
 31
-00:01:37,050 --> 00:01:39,420
-टू फ्राइडे और सेटरडे संडे आपको मिलते हैं
+00:02:01,780 --> 00:02:09,040
+-This is a normal month with the dates written. Assume a pilot had flights from the 4th until the 9th
 
 32
-00:01:39,420 --> 00:01:41,970
-पायलट के लिए यह इनसाइड जाते हैं और
+00:02:09,420 --> 00:02:10,560
+He flies for 6 days
 
 33
-00:01:41,970 --> 00:01:46,710
-सातवां दिन है और दूसरी तरफ होती है अगर
+00:02:10,840 --> 00:02:13,900
+He should get an off on the seventh day, as per the regulations
 
 34
-00:01:46,710 --> 00:01:48,600
-आप किसी भी जॉब में बीमार पड़ते हैं तो आप
+00:02:13,900 --> 00:02:15,600
+So, he got an off on the 10th
 
 35
-00:01:48,600 --> 00:01:53,490
-ले सकते हैं जॉब में कुछ नंबर 10 से 15
+00:02:15,600 --> 00:02:17,560
+And then, he can work again for 6 days
 
 36
-00:01:53,490 --> 00:01:58,710
-मिनट के लिए गौरव यह एग्जाम अगर आप
+00:02:17,560 --> 00:02:26,020
+Let me explain with the help of an example- Suppose, the pilot got sick on 9th, right before his off day
 
 37
-00:01:58,710 --> 00:02:02,970
-बोलेंगे तो उसे साफ किया जाता है यह मैंने
+00:02:26,020 --> 00:02:29,040
+and he got so sick that he was not in the condition to go to work
 
 38
-00:02:02,970 --> 00:02:03,580
-इग्नोर
+00:02:29,220 --> 00:02:34,400
+If he takes a sick leave on the 9th, then he would have a flight scheduled on 10th, despite it being an off day
 
 39
-00:02:03,580 --> 00:02:05,770
-कि मंथ लगा दिया अपडेट्स लगा दिया अब मान
+00:02:34,600 --> 00:02:38,380
+and the company would assume that 9th was your off day and that you were resting
 
 40
-00:02:05,770 --> 00:02:08,110
-लीजिए किसी पायलट की चार तारीख से लेकर 9
+00:02:38,560 --> 00:02:43,600
+So, counting six days from the 10th... it can make you fly again until the 15th
 
 41
-00:02:08,110 --> 00:02:11,230
-तक फ्लाइट थी पिछले दिनों फाइट करता है और
+00:02:43,980 --> 00:02:47,540
+A very important thing to understand here is that
 
 42
-00:02:11,230 --> 00:02:13,330
-सातवें दिन है जिस पर रेगुलेशन उसको ऑफ
+00:02:47,800 --> 00:02:52,220
+Are you taking a holiday when you are sick?
 
 43
-00:02:13,330 --> 00:02:15,910
-मिलना चाहिए तो उसका दस तारीख को ऑफ द और
+00:02:52,220 --> 00:02:53,740
+Are you enjoying?
 
 44
-00:02:15,910 --> 00:02:18,100
-फिर अगेन कैन वर्क फॉर सिक्सटीन अभी मैं
+00:02:53,960 --> 00:03:00,880
+On my off days, I do gym, I shoot my videos and edit them and I spend time with my family
 
 45
-00:02:18,100 --> 00:02:19,870
-एग्जांपल लेकर आपको समझाता हूं कि मान
+00:03:00,880 --> 00:03:03,980
+Basically, it is a time to let go off my fatigue
 
 46
-00:02:19,870 --> 00:02:24,220
-लीजिए नोट को जस्ट अपनी छुट्टी से पहले उस
+00:03:03,980 --> 00:03:08,640
+But when you are running high fever, are you recovering from fatigue?
 
 47
-00:02:24,220 --> 00:02:27,040
-पायलट को फिटनेस हो गई और वह बहुत बीमार
+00:03:08,880 --> 00:03:11,280
+You are suffering in your sickness
 
 48
-00:02:27,040 --> 00:02:29,710
-पड़ गए इस हालत में नहीं था कि हम वह नो
+00:03:11,280 --> 00:03:13,100
+You are not recovering from fatigue
 
 49
-00:02:29,710 --> 00:02:32,050
-तारीख को वह चेक मारता है से क्लियर है तो
+00:03:13,100 --> 00:03:15,720
+The company assumes that you are recovering
 
 50
-00:02:32,050 --> 00:02:34,120
-दस तारीख को जो फ्रॉम फीवर की फ्लाइट लग
+00:03:16,200 --> 00:03:19,680
+When in fact, sickness adds on to your fatigue
 
 51
-00:02:34,120 --> 00:02:36,880
-जाएगी और कंपनी यह मानने की नौ तारीख को
+00:03:19,680 --> 00:03:22,720
+Now, assume that when that pilot came to fly on the 15th,
 
 52
-00:02:36,880 --> 00:02:41,290
-आपका और सा प्रेस कर रहे थे तो 123456
+00:03:22,720 --> 00:03:26,900
+then he had no time to recover from his fatigue from the 4th until the 15th
 
 53
-00:02:41,290 --> 00:02:43,510
-पंद्रह तारीख तक आपको सिर्फ लेकर आ सकती
+00:03:27,100 --> 00:03:31,360
+Imagine how fatigued the pilot will be on the last day, if he is flying on 15th
 
 54
-00:02:43,510 --> 00:02:47,260
-है और बहुत जरूरी चीज यहां पर समझने की यह
+00:03:31,480 --> 00:03:36,280
+Imagine if he has to get up at 3 in the morning to report for a flight (and) do four sectors
 
 55
-00:02:47,260 --> 00:02:50,670
-है कि क्या जवाब सिक होते हैं तो आप
+00:03:36,460 --> 00:03:41,760
+Furthermore, if its a normal job and your're a little fatigued, then it's fine- it can be endured
 
 56
-00:02:50,670 --> 00:02:53,410
-छुट्टी मना रहे होते हैं कि पिंजड़े कर
+00:03:41,760 --> 00:03:45,400
+But if a pilot flies a plane for 15 days in a state of fatigue,
 
 57
-00:02:53,410 --> 00:02:55,660
-रहे होते अपने आप के दिन में क्या करता
+00:03:45,500 --> 00:03:49,260
+then it becomes a safety risk for all the passengers on board that plane
 
 58
-00:02:55,660 --> 00:02:58,510
-हूं मैं जिम करता हूं मैं अपने वीडियो शूट
+00:03:49,260 --> 00:03:51,080
+if he is unable to fly the plane properly
 
 59
-00:02:58,510 --> 00:03:00,490
-करता हूं रिपोर्ट करता हूं फैमिली के साथ
+00:03:51,080 --> 00:03:56,020
+-And here, I'd like to show you a study by the FAA- the Federal Aviation Administration, which is
 
 60
-00:03:00,490 --> 00:03:02,560
-टाइम सेट करो वैसा टाइम जिससे मेरी फटी
+00:03:56,020 --> 00:03:59,500
+the regulatory body in the US, akin to the DGCA here
 
 61
-00:03:02,560 --> 00:03:03,560
-हुई
+00:03:59,500 --> 00:04:01,060
+It was quite a significant study
 
 62
-00:03:03,560 --> 00:03:07,280
-आपके बट जब आप बुखार है आपको तेज बुखार तो
+00:04:01,060 --> 00:04:08,640
+The first page on it reads, "Fatigue threatens aviation safety because it increases the risk of pilot error
 
 63
-00:03:07,280 --> 00:03:10,489
-क्या फिक्स रिकवर कर रहे हैं यू आर सफरिंग
+00:04:08,640 --> 00:04:10,880
+that could lead to an accident."
 
 64
-00:03:10,489 --> 00:03:12,739
-इन यूएसए ऐड्रेस यू नॉट रिकवरिंग फ्रॉम
+00:04:14,240 --> 00:04:17,520
+Let me give you some background information regarding the second issue
 
 65
-00:03:12,739 --> 00:03:15,080
-फटी तो कंपनियों को ऐसा बना दिया कि आप
+00:04:17,520 --> 00:04:20,780
+If you've ever seen outside the window of your aeroplane while landing.
 
 66
-00:03:15,080 --> 00:03:17,390
-रिकवर कर रहे हैं सीन जिससे आपको एक
+00:04:20,780 --> 00:04:24,420
+then you might have observed that the portion beneath the wings starts to tilt
 
 67
-00:03:17,390 --> 00:03:20,569
-ट्रैफिक और एडिट और एडवोकेट तो मान लीजिए
+00:04:24,420 --> 00:04:26,040
+This part is called a flap
 
 68
-00:03:20,569 --> 00:03:22,670
-कि वह पायलट जब पंद्रह तारीख को फ्लाइट है
+00:04:26,040 --> 00:04:31,480
+You can control several aspects of landing by determining how open or how closed the flap is
 
 69
-00:03:22,670 --> 00:03:25,760
-तो वह चार से 15 उसके पास कोई भी टाइम हिस
+00:04:31,480 --> 00:04:35,160
+If the flaps are open all the way, then it is called a full flap position
 
 70
-00:03:25,760 --> 00:03:28,099
-आफ थिस रिकवर करने के लिए इमेजिन हाउ मच
+00:04:35,160 --> 00:04:38,800
+If they're not open all the way, there's a position in between- the flap 3 position
 
 71
-00:03:28,099 --> 00:03:32,180
-जाएगी पायलट विपक्षी दल आज देश 0 इमेजेस
+00:04:39,140 --> 00:04:42,420
+Using the flaps, you can control two main aspects of landing
 
 72
-00:03:32,180 --> 00:03:34,340
-टो गेट अप अर्ली इन द मॉर्निंग रिपोर्ट
+00:04:42,740 --> 00:04:46,540
+The first is, you can control your descent angle if your speed is constant
 
 73
-00:03:34,340 --> 00:03:37,340
-फॉर अप्लाइड फॉर सेक्टर्स ऊपर से दोस्तों
+00:04:46,740 --> 00:04:50,700
+In the full flap position, the descent angle is more steep- that is, the plane lands in this manner
 
 74
-00:03:37,340 --> 00:03:40,250
-कुंठाओं होती है जब तक यह तो ठीक है थोड़ा
+00:04:51,020 --> 00:04:54,960
+In the half flap position, that is, the flap 3 position,  the plane lands in this manner
 
 75
-00:03:40,250 --> 00:03:42,620
-से लेकर थोड़ी परेशानी होगी लेकिन अगर एक
+00:04:54,960 --> 00:04:56,980
+You can clearly see this in the diagram
 
 76
-00:03:42,620 --> 00:03:46,069
-पायलट 15 दिन तक प्लेन वड़ा थका हुआ तो यह
+00:04:56,980 --> 00:05:00,860
+But another very important point which happens in the commercial airlines is that
 
 77
-00:03:46,069 --> 00:03:48,140
-प्लेट में बैठे सारी पैसेंजर्स के लिए
+00:05:00,860 --> 00:05:06,360
+If your descent angle is constant, then you can control the speed of the aeroplane by using flaps
 
 78
-00:03:48,140 --> 00:03:50,930
-स्पिरिट अगर रूखे ढंग से नहीं उठा पा रहा
+00:05:06,360 --> 00:05:09,580
+In the full flap position, the aeroplane would descend slowly
 
 79
-00:03:50,930 --> 00:03:53,540
-था और यहां पर आपको मिलेंगे एक स्टडी लिखा
+00:05:09,580 --> 00:05:14,280
+You would have more time and more control over the aeroplane because of the slow descent
 
 80
-00:03:53,540 --> 00:03:56,120
-डैडी फेडरल एविएशन एडमिनिस्ट्रेशन जो कि
+00:05:14,280 --> 00:05:16,920
+In the half flap position/flap three position,
 
 81
-00:03:56,120 --> 00:03:59,239
-यूएस की रेगुलेटरी बॉडी जैसे यहां पर डीसी
+00:05:17,020 --> 00:05:19,820
+the speed of the aeroplane would be slightly more during the descent
 
 82
-00:03:59,239 --> 00:04:01,430
-है अब बहुत अच्छी सर्विस की इसमें
+00:05:19,940 --> 00:05:26,540
+-Both Flap 3 and Flap Full are recommended configurations for landing
 
 83
-00:04:01,430 --> 00:04:03,569
-उन्होंने फर्स्ट पेज में लिखा हुआ है
+00:05:26,780 --> 00:05:30,160
+by the operator/manufacturer, which is the Airbus
 
 84
-00:04:03,569 --> 00:04:06,420
-खटीक रिटर्न्स एविएशन सेफ्टी बिग बॉस-8
+00:05:30,360 --> 00:05:37,880
+Both are safe. But the pilot needs to evaluate the conditions for both before he makes a landing
 
 85
-00:04:06,420 --> 00:04:10,530
-इंक्रीज थे रिस्क आफ पायलट को d2h
+00:05:38,240 --> 00:05:41,500
+The fact of the matter is that a Flap 3 landing saves fuel
 
 86
-00:04:10,530 --> 00:04:13,160
-एक्सीडेंट ओं
+00:05:41,500 --> 00:05:45,660
+It saves fuel because you're not landing the plane at a steep angle and bringing it down gradually
 
 87
-00:04:13,160 --> 00:04:14,230
-[संगीत]
+00:05:45,660 --> 00:05:47,660
+and all the airlines recommend it
 
 88
-00:04:14,230 --> 00:04:16,329
-एक दूसरे को लेकर पहले थोड़ी बैक जाऊं
+00:05:47,660 --> 00:05:53,080
+But there are some conditions that call for a full flap landing, for example, in case of a short runway
 
 89
-00:04:16,329 --> 00:04:18,280
-इंफार्मेशन आपको देता हूं दोस्तों लैंडिंग
+00:05:53,080 --> 00:05:56,280
+or if there are mountains around the runway in a hilly region
 
 90
-00:04:18,280 --> 00:04:20,350
-करते समय कभी आपने रोकने की खिड़की से
+00:05:56,280 --> 00:05:58,960
+then there is not enough space for the plane to descend gradually
 
 91
-00:04:20,350 --> 00:04:22,360
-बाहर देखा हो तो जूमिंग के नीचे वाला
+00:05:59,120 --> 00:06:02,620
+In such cases, a steep descent is required with full flap landings
 
 92
-00:04:22,360 --> 00:04:24,970
-पार्ट होता है आपने देखा वह टिंटो राव इस
+00:06:02,620 --> 00:06:10,140
+Now, Gaurav says that Air Asia forces its pilots to ensure that 98% of their landings are flap 3 landings
 
 93
-00:04:24,970 --> 00:04:27,490
-पाठ को कहते हैं फ्लैट यह लाइफ इतने खुले
+00:06:10,140 --> 00:06:11,380
+if they want a bonus
 
 94
-00:04:27,490 --> 00:04:30,130
-हैं और कितने बंद है इसको लेकर आप लैंडिंग
+00:06:11,620 --> 00:06:15,900
+So, pressure is mounted on them subconsciously to encourage them to opt for Flap 3 landings
 
 95
-00:04:30,130 --> 00:04:31,870
-के कई एक्सपेक्ट टो कंट्रोल कर सकते हो और
+00:06:16,120 --> 00:06:18,520
+If the pilots do not do this, they would lose out on their bonus
 
 96
-00:04:31,870 --> 00:04:34,570
-पूरे खुले हैं यानी ऐसे हैं तो उसे फुसला
+00:06:18,520 --> 00:06:23,860
+which is a risk for the safety of the passengers in the airports where a Flap 3 landing would not be the right choice
 
 97
-00:04:34,570 --> 00:04:37,060
-पोजीशन क्या है पूरे नहीं होने पर बीच में
+00:06:24,160 --> 00:06:27,300
+-We got an e-mail from the company that we should opt for Flap 3 landings 98% of the times
 
 98
-00:04:37,060 --> 00:04:42,630
-कुछ विघ्न की पोजीशन दो महीने सब्सक्राइब
+00:06:27,300 --> 00:06:32,560
+I had received a specific e-mail in the month of May
 
 99
-00:04:42,630 --> 00:04:50,470
-अगर आप स्पीड कंट्रोल कर सकते सब्सक्राइब
+00:06:32,560 --> 00:06:38,300
+that in the month of March, 71% of my landings were Flap 3
 
 100
-00:04:50,470 --> 00:04:58,090
-कर लें पोजीशन यानि कि सब्सक्राइब दूसरा
+00:06:38,440 --> 00:06:41,180
+which is a non-compliance of SOP
 
 101
-00:04:58,090 --> 00:05:04,660
-पॉइंट जो कि अगर डिफरेंट एंगल की स्पीड को
+00:06:41,260 --> 00:06:45,820
+Everything in aviation runs via these Standard Operating Procedures
 
 102
-00:05:04,660 --> 00:05:14,240
-कंट्रोल कर सब्सक्राइब करें
+00:06:45,820 --> 00:06:51,680
+If any pilot deviates from this then he becomes liable for an enquiry or questioning by the company
 
 103
-00:05:14,240 --> 00:05:16,759
-है और हाफ डेफिनेशन में प्लेन की पोजीशन
+00:06:51,680 --> 00:06:53,080
+And...
 
 104
-00:05:16,759 --> 00:05:18,800
-में थोड़ा सा ज्यादा तेज होगी Aeroplane
+00:06:53,260 --> 00:07:00,940
+So, I first got this email in March and a follow up on 31st of May,2020
 
 105
-00:05:18,800 --> 00:05:21,500
-की Speed डिफरेंट करते वक्त ब्लैक-3 और
+00:07:00,940 --> 00:07:06,140
+where my head of operations told me in written/in black and white that
 
 106
-00:05:21,500 --> 00:05:24,169
-फ्लावर फ्लावर दोनों ही रिकमेंड एक
+00:07:06,360 --> 00:07:13,560
+this is a punitive policy and that I, as a pilot, am indulging in non compliance of SOP
 
 107
-00:05:24,169 --> 00:05:28,520
-लैंडिंग के कंफीग्रेशंस है बांधी ऑपरेटर
+00:07:13,560 --> 00:07:17,220
+and this SOP is approved by the DGCA
 
 108
-00:05:28,520 --> 00:05:31,490
-पद मैन्युफैक्चर विजय बस अब दोनों ही से
+00:07:17,520 --> 00:07:23,380
+and that the company would be happy to retrain me as I was not following the SOP
 
 109
-00:05:31,490 --> 00:05:34,280
-है बट दोनों को करने की कंडीशन से एक
+00:07:23,380 --> 00:07:28,120
+and in order to make this more punitive, my bonus would be deducted as well
 
 110
-00:05:34,280 --> 00:05:36,560
-पायलट को इवेलुएट करनी पड़ती है जब वह
+00:07:28,120 --> 00:07:35,740
+-Could you show proof for our viewers? Any document of Air Asia with their policy written down
 
 111
-00:05:36,560 --> 00:05:38,930
-लैंडिंग करता है उससे पहले अब बात है
+00:07:36,080 --> 00:07:40,140
+which reads that one needs 98% flap landings to secure a bonus?
 
 112
-00:05:38,930 --> 00:05:41,479
-दोस्तों कि f3 लैंडिंग करने से चूर्ण बचता
+00:07:40,940 --> 00:07:48,600
+-So, I have an email, Dhruv, which is was sent by Head of operations- Captain Manish Uppal
 
 113
-00:05:41,479 --> 00:05:45,410
-है क्योंकि एयरप्लेन को सीरवी इस लेफ्ट
+00:07:48,600 --> 00:07:51,260
+It is dated 17th January, 2020
 
 114
-00:05:45,410 --> 00:05:47,330
-बचता है और सारी एयरलाइंस वहीं रेकमेंड
+00:07:52,060 --> 00:07:55,200
+Before I show you this email, let me tell you what is a green operating procedure
 
 115
-00:05:47,330 --> 00:05:49,490
-करती थी लेकिन कुछ कंडीशन कैसी होती है
+00:07:55,200 --> 00:08:01,720
+Airbus provides some operating cost saving techniques
 
 116
-00:05:49,490 --> 00:05:51,139
-यहां पर फ्लाइट लैंडिंग करनी पड़ती है
+00:08:01,720 --> 00:08:05,000
+and Flap 3 landing comes under green operating procedures as well
 
 117
-00:05:51,139 --> 00:05:53,569
-जैसे कि रनवे छोटा हो किसी एयरपोर्ट का या
+00:08:05,260 --> 00:08:10,080
+So, this heading is- Flap 3 landing and idle reverse SOP non compliance
 
 118
-00:05:53,569 --> 00:05:55,849
-फिर रनवे के आसपास पहाड़ियां माउंटेनस
+00:08:10,080 --> 00:08:15,480
+and it clearly states that if you do not do this, then it amounts to non compliance of SOP
 
 119
-00:05:55,849 --> 00:05:57,979
-रीजन होता तो इतनी जगह नहीं होती प्लेन को
+00:08:15,900 --> 00:08:21,560
+..that your compliance rate for green operating procedure will improve after this email
 
 120
-00:05:57,979 --> 00:06:00,169
-दूसरे से डिफरेंट करने की सीट डिफरेंट
+00:08:21,640 --> 00:08:25,800
+and we won't have to apply demerits for the non compliance of SOP
 
 121
-00:06:00,169 --> 00:06:02,090
-करना पड़ता है वहां पर फ्लाइट लैंडिंग यूज
+00:08:25,840 --> 00:08:30,280
+What are these demerits? Everybody's points are collected at the end of the year
 
 122
-00:06:02,090 --> 00:06:04,490
-करनी पड़ती अब गौरव यह कह रहे हैं कि
+00:08:30,280 --> 00:08:32,460
+and the ones with more points get more bonus
 
 123
-00:06:04,490 --> 00:06:08,419
-एग्जाम अपने पायलट को पोस्ट करती है कि 80
+00:08:32,460 --> 00:08:34,320
+and those with lesser points get lesser bonus
 
 124
-00:06:08,419 --> 00:06:10,789
-साल की प्ले लिस्ट सुननी चाहिए अगर आपको
+00:08:34,320 --> 00:08:37,700
+So if you make lesser Flap 3 landings, then fewer points would be accumulated
 
 125
-00:06:10,789 --> 00:06:13,880
-चाहिए तो सबकॉन्शियसली प्रेशर डाला जाता
+00:08:37,700 --> 00:08:39,820
+and you would get lesser bonus at the end of the year
 
 126
-00:06:13,880 --> 00:06:14,249
-है कि
+00:08:39,820 --> 00:08:43,240
+So, Dhruv, I am sending you one more email which shows that the pilots have a target of 98%
 
 127
-00:06:14,249 --> 00:06:17,099
-टेक्निक्स आफ क्लांस करो और पायलट नहीं
+00:08:43,240 --> 00:08:46,800
+The heading of this email is- Non compliance to SOP and Fuel Efficiency Procedures
 
 128
-00:06:17,099 --> 00:06:18,869
-करेंगे तुम कब होना शुरू हो जाएगा जो कि
+00:08:46,800 --> 00:08:49,580
+I received this mail from the management on the 4th of May
 
 129
-00:06:18,869 --> 00:06:20,489
-पैसेंजर्स की सेफ्टी के लिए खतरा है
+00:08:50,000 --> 00:08:54,400
+"Our Key Performance Index (KPI) takes into account all scenarios" -
 
 130
-00:06:20,489 --> 00:06:22,709
-उन्हें एयरपोर्ट पर यहां पर फ्री लर्निंग
+00:08:54,400 --> 00:09:01,220
+be it the environmental conditions or steep approach or tail wind or wet runway or pilot fatigue
 
 131
-00:06:22,709 --> 00:06:25,289
-सही नहीं है यूज करने हमें मिला था कंपनी
+00:09:01,540 --> 00:09:03,580
+The KPI has been formulated keeping all things into consideratio
 
 132
-00:06:25,289 --> 00:06:27,659
-से के में 98% साथ ही करनी है और मुझे
+00:09:03,580 --> 00:09:08,100
+".. and is on par with other AOCs in our group and other Leading world Airlines
 
 133
-00:06:27,659 --> 00:06:31,649
-स्पेसिफिकली यह ईमेल था खाओ मई के महीने
+00:09:08,220 --> 00:09:13,400
+Based on our data for the month of your compliance for reduced flap landings was 71% versus
 
 134
-00:06:31,649 --> 00:06:35,489
-में कि हमने कि मैंने मई के मार्च में
+00:09:13,820 --> 00:09:16,340
+target KPI of 98%."
 
 135
-00:06:35,489 --> 00:06:39,029
-मैंने 721 परसेंट रफी की है जो कि
+00:09:16,620 --> 00:09:21,880
+-I have a question. Is this the case with only Air Asia or the other airlines as well?
 
 136
-00:06:39,029 --> 00:06:42,329
-non-compliance आफ एसओपी है अननोन कमरा
+00:09:22,080 --> 00:09:28,800
+As far as my experience goes, there was no number given to the pilots where I worked before
 
 137
-00:06:42,329 --> 00:06:45,089
-Amazing रन समय स्टैंडर्ड ऑपरेटिंग
+00:09:32,580 --> 00:09:35,060
+Now, I will tell you how this affects flight safety
 
 138
-00:06:45,089 --> 00:06:47,879
-प्रोसीजर अगर कोई पायलट इसे डिबेट करता है
+00:09:35,060 --> 00:09:41,740
+The report of the investigation of the Air India crash in Mangalore in 2010
 
 139
-00:06:47,879 --> 00:06:49,349
-तो उसकी इंक्वायरी या फिर उससे
+00:09:41,740 --> 00:09:46,700
+recommended that this could be a contributing factor
 
 140
-00:06:49,349 --> 00:06:53,610
-क्वेश्चनिंग कर सकते हैं अ कंपनी और तो
+00:09:46,700 --> 00:09:51,580
+that their pilots were repeatedly counselled for hard landings
 
 141
-00:06:53,610 --> 00:06:57,119
-मुझे ईमेल आया था मार्च में पहले फिर उसको
+00:09:51,580 --> 00:09:58,200
+Boeing states that if the impact is lesser than 2.1G while landing, then you do not require counselling
 
 142
-00:06:57,119 --> 00:07:00,659
-फॉलो फीमेल आया था थर्टी फर्स्ट मैच 2020
+00:09:58,200 --> 00:10:03,900
+But their pilots were counselled even if they had a landing impact of 1.9G
 
 143
-00:07:00,659 --> 00:07:03,449
-को यहां पर मैंने मेरे हेड आफ ऑपरेशंस ने
+00:10:04,020 --> 00:10:09,780
+So, they probably felt that hard landings could invite counselling
 
 144
-00:07:03,449 --> 00:07:05,339
-मुझे ब्रिटेन में ब्लैक एंड व्हाइट में
+00:10:09,980 --> 00:10:14,540
+So, in order to smoothen their landing, they were floating over the runway
 
 145
-00:07:05,339 --> 00:07:09,179
-कहा था कि यह एक ब्रिटिश पॉलिसी है एंड
+00:10:14,540 --> 00:10:18,140
+and they used another 500-800 feet of extra runway
 
 146
-00:07:09,179 --> 00:07:13,079
-यहां मैं ए पायलट non-compliance आफ ए पी
+00:10:18,460 --> 00:10:22,240
+There were several other problems in the approach
 
 147
-00:07:13,079 --> 00:07:14,230
-कर रहा हूं और यह जो
+00:10:22,240 --> 00:10:28,820
+But in this specific problem, they used up another very useful portion of the runway which was about 500-800 feet
 
 148
-00:07:14,230 --> 00:07:19,300
-तो पी है यह डीजीसीए से अप्रूव है और द
+00:10:28,820 --> 00:10:30,860
+So all these things keep accumulating at the back of the mind
 
 149
-00:07:19,300 --> 00:07:22,540
-कंपनी विल बी हैप्पी टो रिट्रीव थम नॉट
+00:10:30,860 --> 00:10:35,240
+And one day, when all the things keep going wrong, everything will align
 
 150
-00:07:22,540 --> 00:07:26,200
-फॉलिंग इसे सोपी और इसको और यह बनाने के
+00:10:35,240 --> 00:10:36,940
+and then that leads to an accident
 
 151
-00:07:26,200 --> 00:07:28,510
-लिए मेरा भी नेट स्पीड किया जाए हमारे
+00:10:36,940 --> 00:10:43,540
+-Another thing Dhruv- Ever since this issue has been raised, the pilots of some other companies..
 
 152
-00:07:28,510 --> 00:07:30,670
-व्यूअर्स के लिए आप इस चीज का एक रूप दिखा
+00:10:43,920 --> 00:10:46,320
+some people develop a "macho" attitude
 
 153
-00:07:30,670 --> 00:07:33,250
-सकते हैं कि इनका जो डॉक्यूमेंट होगा कोई
+00:10:46,320 --> 00:10:50,440
+So, someone sent a post on social media which was very disturbing for me
 
 154
-00:07:33,250 --> 00:07:35,320
-अरे यू कैन सी पॉलिसी लिखी होगी यहां पर
+00:10:50,740 --> 00:10:55,800
+Some people are saying that they would stick to the 98% even in Imphal
 
 155
-00:07:35,320 --> 00:07:39,430
-की 98% फ्री लर्निंग होनी चाहिए तभी आपको
+00:10:55,800 --> 00:10:58,440
+So, this type of an attitude which only few pilots have
 
 156
-00:07:39,430 --> 00:07:44,140
-बोनस मिलेगा अशोक यह एक ईमेल है अमरुद
+00:10:58,440 --> 00:11:00,880
+has become into a "this vs this" issue
 
 157
-00:07:44,140 --> 00:07:47,680
-मेरे पास जो कि अ आप ऑपरेशन से आया था
+00:11:00,880 --> 00:11:03,560
+It has not been made into an ego issue which is very dangerous
 
 158
-00:07:47,680 --> 00:07:50,580
-क्या फिर मनीष ऊपर से इसकी डेट है 17जनवरी
+00:11:04,060 --> 00:11:05,060
+Now, imagine
 
 159
-00:07:50,580 --> 00:07:51,889
-2020
+00:11:05,640 --> 00:11:11,280
+that pilot is committing to landing in an airport like Imphal, which has a steep glide slope
 
 160
-00:07:51,889 --> 00:07:54,080
-कि यह में दिखाने से पहले बता दो कि व्हाट
+00:11:11,620 --> 00:11:14,820
+without even considering the environmental conditions on that day,
 
 161
-00:07:54,080 --> 00:07:56,300
-इस ग्रीन ऑपरेटिंग प्रोसीजर विच कहता है
+00:11:14,820 --> 00:11:17,600
+without considering anything
 
 162
-00:07:56,300 --> 00:07:58,759
-कि थोड़ी पॉलिटेक्निक देता है बस कि जिससे
+00:11:17,900 --> 00:11:20,720
+they're saying that no matter when they go to Imphal, they'd opt for a Flap 3 landing
 
 163
-00:07:58,759 --> 00:08:01,520
-आप थोड़ा बहुत कॉस्ट ऑपरेटिंग कॉस्ट सेव
+00:11:20,720 --> 00:11:26,960
+Now, imagine a heavy aircraft. Imagine tail winds at Imphal.
 
 164
-00:08:01,520 --> 00:08:03,319
-कर सकता है फ्लेक्सीस लैंडिंग करना भी
+00:11:26,960 --> 00:11:31,200
+Imagine (that) its raining and its a bad weather day and the runway is wet
 
 165
-00:08:03,319 --> 00:08:04,969
-ग्रीन ऑपरेटिंग प्रोसीजर्स के अंदर आता है
+00:11:31,200 --> 00:11:37,680
+The drainage conditions in Indian airport and the grooving specifications...
 
 166
-00:08:04,969 --> 00:08:07,759
-तो यह थे डिस्पले आफ थ्री लेंडिंग एंड
+00:11:37,680 --> 00:11:40,900
+I will not go into too much detail about that
 
 167
-00:08:07,759 --> 00:08:10,729
-डिपॉजिट सोपी non-compliance आफ लिखा है
+00:11:40,900 --> 00:11:45,880
+Imagine all the environmental conditions are against this flap 3
 
 168
-00:08:10,729 --> 00:08:13,279
-कि अगर आप यह नहीं करेंगे तो आप एसओपी का
+00:11:45,880 --> 00:11:50,640
+and still the pilot decides to do flap 3 because he has already committed that he would do so
 
 169
-00:08:13,279 --> 00:08:15,139
-non-compliance कर रहे हैं साफ-साफ लिखा
+00:11:50,640 --> 00:11:53,800
+because he wants to achieve the target of 98% and also,
 
 170
-00:08:15,139 --> 00:08:17,629
-है यहां पर बैठकर कंप्लायंस रेट फॉर
+00:11:54,700 --> 00:11:58,040
+if that pilot is not rested well and he is fatigued
 
 171
-00:08:17,629 --> 00:08:19,849
-इग्नोर ऑपरेटिंग प्रोसीजर विल इंप्रूव
+00:11:58,300 --> 00:12:03,880
+he is operating on the 15th, because he had applied for a sick and his off day was cancelled
 
 172
-00:08:19,849 --> 00:08:22,460
-आफ्टर दिस क्रीम एंड ई डोंट एंड ई डोंट
+00:12:03,900 --> 00:12:07,640
+Imagine all these factors combined and now think where we are going
 
 173
-00:08:22,460 --> 00:08:25,340
-हैव अप्लाइड रिसर्च फॉर non-compliance आफ
+00:12:07,640 --> 00:12:10,460
+In aviation, no accident happens just because of one factor
 
 174
-00:08:25,340 --> 00:08:27,650
-स्पीच एंड डिमैरिट्स क्या होता है कि साल
+00:12:10,460 --> 00:12:13,020
+It is never going to happen solely because of one flap 3 factor
 
 175
-00:08:27,650 --> 00:08:30,500
-के अंत में सबके पॉइंट्स इकट्ठा की है तब
+00:12:13,020 --> 00:12:17,520
+This will be a combination of all the factors and one day, all the things will align
 
 176
-00:08:30,500 --> 00:08:32,510
-जिसकी ज्यादा ₹500 उसको ज्यादा बोनस मिलता
+00:12:17,520 --> 00:12:19,880
+and a mishap will occur
 
 177
-00:08:32,510 --> 00:08:34,459
-है इससे कंपनी को है उसको कम बोनस मिलता
+00:12:19,880 --> 00:12:24,200
+We should be proactive in rectifying mistakes right where they are
 
 178
-00:08:34,459 --> 00:08:36,829
-तो अगर आप ब्लैक से कम करेंगे तो आपके
+00:12:24,200 --> 00:12:28,860
+It has been our habit since forever that we wait for something to happen and then find out why that happened
 
 179
-00:08:36,829 --> 00:08:38,750
-पॉइंट्स का मैक्रम मिनट होंगे आपको इस साल
+00:12:32,560 --> 00:12:36,160
+-The third issue that you raised is the most critical in my opinion because
 
 180
-00:08:38,750 --> 00:08:40,789
-के अंत में कम बोनस मिलेगा प्रोगाम एंड
+00:12:36,500 --> 00:12:41,480
+basically, if the DGCA circulars on COVID19 were ignored,
 
 181
-00:08:40,789 --> 00:08:48,589
-गिव विमेन अधिमिलन सब्सक्राइब यह मेरे को
+00:12:41,860 --> 00:12:45,960
+then I think that the exponential rise of the COVID cases in our country today
 
 182
-00:08:48,589 --> 00:08:50,110
-मैनेजमेंट की तरफ से इस
+00:12:46,460 --> 00:12:49,620
+could be because the airlines did not follow the rules
 
 183
-00:08:50,110 --> 00:08:53,649
-कि आखिर अपॉइंटमेंट इंडेक्स के पीछे गिनीज
+00:12:49,940 --> 00:12:53,620
+They cases that were coming in, those that could have been stopped right at the airport itself,
 
 184
-00:08:53,649 --> 00:09:01,950
-बुक ऑफ़ प्रेसिडेंट हो गई थी चैनल को
+00:12:53,620 --> 00:12:58,620
+if there were sound rules at the airport, maybe this situation could have been avoided
 
 185
-00:09:16,680 --> 00:09:24,730
-सब्स्क्राइब नहीं है कि एयरलाइंस से पहले
+00:12:58,820 --> 00:13:00,160
+Do you also feel the same way?
 
 186
-00:09:24,730 --> 00:09:29,910
-वहां पर ऐसा कुछ नंबर दिया था ना
+00:13:00,160 --> 00:13:03,060
+-Dhruv, when these talks were ongoing in March,
 
 187
-00:09:29,910 --> 00:09:32,420
-[संगीत]
+00:13:03,060 --> 00:13:07,320
+then there were several times when these procedures were not being followed
 
 188
-00:09:32,420 --> 00:09:34,670
-कि अब यह लाइफ को कैसे इफेक्ट करता हूं
+00:13:07,560 --> 00:13:13,860
+I always intimated the company. We also have a WhatsApp group of pilots
 
 189
-00:09:34,670 --> 00:09:36,889
-आपको बताता हूं और 2010 में जो एयर इंडिया
+00:13:13,860 --> 00:13:17,620
+that is run by management pilots.  Now  calingl it official or unofficial is upto you
 
 190
-00:09:36,889 --> 00:09:40,070
-का मेंगलूर प्रेस हुआ था उसमें जो रिपोर्ट
+00:13:17,900 --> 00:13:19,120
+So, I notified this there as well
 
 191
-00:09:40,070 --> 00:09:43,300
-आई थी इन्वेस्टिगेशन आई थी उसमें यह
+00:13:19,120 --> 00:13:23,740
+The others raised similar concerns. But it was on 23rd of March, specifically, when I saw
 
 192
-00:09:43,300 --> 00:09:45,920
-रिकमेंडेशन था कि यह एक कंट्रीब्यूटिंग
+00:13:23,940 --> 00:13:28,900
+that a lot of procedures were not being followed and carelessness was on the rise
 
 193
-00:09:45,920 --> 00:09:48,110
-फैक्टर हो सकता है कि जोन के पायलट से
+00:13:29,060 --> 00:13:34,140
+Then I documented it. We have a report called the "Voyage Report"
 
 194
-00:09:48,110 --> 00:09:51,079
-उनको बार-बार काउंसलिंग दी गई थी हॉट
+00:13:34,140 --> 00:13:36,840
+which is read by the captain/PIC of the flight
 
 195
-00:09:51,079 --> 00:09:53,690
-लैंडिंग के लिए वहीं कहता है कि जब ब्लेंड
+00:13:37,080 --> 00:13:43,400
+I specifically wrote there that DGCA circular number so-and-so is not being followed
 
 196
-00:09:53,690 --> 00:09:56,720
-करते हैं तो 2.1 जी से कम का अगर इंपैक्ट
+00:13:43,560 --> 00:13:47,880
+And I, being the captain and the PIC of the flight, I have the full responsibility
 
 197
-00:09:56,720 --> 00:09:58,610
-तो आपको काम करने की जरूरत नहीं है बट वह
+00:13:47,880 --> 00:13:54,180
+Until I ensure the safety of the passengers sitting behind me,
 
 198
-00:09:58,610 --> 00:10:02,180
-विज्ञापन से उनको 1.9 जी की भी लैंडिंग
+00:13:54,320 --> 00:13:58,040
+I have the full authority to sign(or not sign) the document...
 
 199
-00:10:02,180 --> 00:10:04,790
-करने पर उनको पवन चली गई थी तो उनके दिमाग
+00:13:58,040 --> 00:14:03,220
+And whenever we sign the document stating that we accept this flight,
 
 200
-00:10:04,790 --> 00:10:07,550
-में बैठ गया था कि हां यार ज्यादा ऐड
+00:14:03,220 --> 00:14:05,420
+We take full responsibility of that aircraft
 
 201
-00:10:07,550 --> 00:10:09,680
-करेंगे तो कुंठुनाथ जाए बुला लिया जाएगा
+00:14:05,420 --> 00:14:12,140
+So when I know that there is such a glaring shortcoming, how do I accept it without doing anything about it?
 
 202
-00:10:09,680 --> 00:10:13,459
-का यश सो उस चक्कर में टू संबोधन लैंडिंग
+00:14:12,140 --> 00:14:18,520
+-Did you, as a pilot, have authority to delay the flight if the rules were not being followed?
 
 203
-00:10:13,459 --> 00:10:18,339
-और रोटिंग होरमोन रनवे एंड यूजर नजर फेज़
+00:14:19,000 --> 00:14:23,860
+-Yes, Dhruv. The PIC has full authority to do that. And I did delay a flight on 23rd of March
 
 204
-00:10:18,339 --> 00:10:21,860
-लॉर्ड आफ प्रॉब्लम्स टो अप्रोच कि इसमें
+00:14:23,860 --> 00:14:27,840
+and I did write down the reason that the circulars were not being followed. There were other points as well
 
 205
-00:10:21,860 --> 00:10:24,100
-बहुत ही जाती बट यह पश्चिम प्रॉब्लम्स में
+00:14:27,840 --> 00:14:34,220
+The document that I signed required me to fill in the flight arrival and departure time (as for all the flights)
 
 206
-00:10:24,100 --> 00:10:27,410
-देगा आफ अनदर वेरी यूजफुल पोषण रनवे
+00:14:34,220 --> 00:14:38,300
+That document is extremely important and the management reviews it very carefully
 
 207
-00:10:27,410 --> 00:10:30,680
-नंबर-28 यह बैक अप द माइंड में तो जाती
+00:14:38,840 --> 00:14:44,760
+If any flight gets delayed by a minute and we write down that it was delayed, then we get a call the next day
 
 208
-00:10:30,680 --> 00:10:32,430
-हैं चीज है यह एक दिन जब
+00:14:45,260 --> 00:14:47,740
+asking, "Captain, what was the reason for the delay of the flight?
 
 209
-00:10:32,430 --> 00:10:34,680
-चीज खराब जारी होगी ना एवरीथिंग विल
+00:14:47,740 --> 00:14:50,500
+Can you give us any explanation or how can we improve it?"
 
 210
-00:10:34,680 --> 00:10:37,140
-अल्लादीन एंड अट लीस्ट वन एक्सीडेंट
+00:14:51,220 --> 00:14:52,060
+So...
 
 211
-00:10:37,140 --> 00:10:40,440
-बाथरूम एक और चीज अभी जैसे जब तक यह झूठा
+00:14:52,540 --> 00:14:58,360
+OTP is such an important matter for us that we keep stressing on being on time
 
 212
-00:10:40,440 --> 00:10:44,970
-है तो कुछ कंपनी के पायलट जजों की एक कि
+00:14:58,360 --> 00:15:01,580
+But when a captain writes it down and tells you that some rules are not being followed
 
 213
-00:10:44,970 --> 00:10:47,550
-कुछ लोग म्यूचुअल टू रहता तो बोलो मेरे को
+00:15:01,580 --> 00:15:05,700
+which is risking the lives of the people sitting behind as well as his life
 
 214
-00:10:47,550 --> 00:10:49,230
-किसी ने सोशल मीडिया पर पोस्ट भेजी विच
+00:15:05,700 --> 00:15:07,840
+and it would be a risk to his family when he goes back home
 
 215
-00:10:49,230 --> 00:10:51,270
-वास वेरी डिस्टरबेट फॉर्मिंग कि मैं कुछ
+00:15:07,980 --> 00:15:10,260
+This extremely important document that I am writing down and handing in,
 
 216
-00:10:51,270 --> 00:10:53,580
-तो बोल रहा है कि हां हम 98% ही करेंगे
+00:15:10,560 --> 00:15:14,020
+I never got an email or a call regarding it yet
 
 217
-00:10:53,580 --> 00:10:55,709
-इंफाल में क्या करेंगे इंवाल्विंग 98%
+00:15:14,020 --> 00:15:20,140
+asking the details of what was not being followed as per his complaint
 
 218
-00:10:55,709 --> 00:10:57,779
-करेंगे सब्जी स्टेप अट विच ओनली फ़्यू
+00:15:20,140 --> 00:15:23,780
+and how could it be improved in the future
 
 219
-00:10:57,779 --> 00:11:00,270
-प्वाइंट्स आफ अब उन्होंने इसको 10 वर्सेस
+00:15:24,060 --> 00:15:25,740
+I was never contacted regarding this
 
 220
-00:11:00,270 --> 00:11:02,970
-बना दिया वह इसको एक योजना बना रही है विच
+00:15:25,740 --> 00:15:31,760
+We always try and be on time because being on time is company's PR
 
 221
-00:11:02,970 --> 00:11:06,390
-वेरी डेंजरस ना इमेजिन थे पाइरेट्स
+00:15:31,760 --> 00:15:33,700
+Which I agree, is extremely important
 
 222
-00:11:06,390 --> 00:11:09,240
-कमिटिंग टो लैंड इन एयरपोर्ट लाइक हिम फॉर
+00:15:33,780 --> 00:15:36,060
+And we contribute fully to make that happen
 
 223
-00:11:09,240 --> 00:11:12,510
-ऑल विलेजर्स पेंटेड स्टोर्क विदाउट इवन
+00:15:36,440 --> 00:15:37,280
+But
 
 224
-00:11:12,510 --> 00:11:14,910
-कंसीडरिंग थे एनवायरमेंटल कंजर्वेशन डे
+00:15:37,400 --> 00:15:39,400
+there's something more important than that- safety.
 
 225
-00:11:14,910 --> 00:11:18,630
-विदाउट कंसीडरिंग एनीथिंग वह कहना है कि
+00:15:39,800 --> 00:15:43,700
+-Dhruv, let me explain it with an example. Say there are a 100 employees in a company
 
 226
-00:11:18,630 --> 00:11:20,940
-हमें ओमपाल कभी भी जो में फेल करूंगा
+00:15:43,700 --> 00:15:47,100
+50 out of them would not be concerned with what is happening around them
 
 227
-00:11:20,940 --> 00:11:23,840
-हमारी मार्जिन हैवी एयरक्राफ्ट
+00:15:47,240 --> 00:15:52,840
+40 out of them would take cognizance of the wrongs being done and would whisper amongst themselves
 
 228
-00:11:23,840 --> 00:11:27,590
-थे हिमालयन तेल वेइंस एंड इनफार्मेशन इन
+00:15:53,000 --> 00:15:55,000
+but they will not take this up
 
 229
-00:11:27,590 --> 00:11:30,320
-इट्स रेनिंग उस बैड वेदर टुडे एंड ऑलवेज
+00:15:55,240 --> 00:16:02,380
+8 out of those would tell the boss about the wrongdoings in written
 
 230
-00:11:30,320 --> 00:11:33,860
-वेट फॉर इंडियन एयरपोर्ट्स पर जो रनवे पर
+00:16:02,640 --> 00:16:04,740
+The boss says that necessary steps would be taken
 
 231
-00:11:33,860 --> 00:11:36,290
-एनएच कंडीशन होती है जो गुरु विक्की
+00:16:04,740 --> 00:16:08,260
+Then those 8 employees would eventually take a back seat thinking this is how it happens in India
 
 232
-00:11:36,290 --> 00:11:38,210
-विक्की स्पेसिफिकेशन को हैं उसके बारे में
+00:16:08,260 --> 00:16:12,100
+But only 1 out of those would stand up and say
 
 233
-00:11:38,210 --> 00:11:40,970
-डुमिनी जाऊं मैं आपको मालिक नहीं जाऊंगा
+00:16:12,100 --> 00:16:15,800
+that he has had it enough and has brought things to the attention of the authorities enough times
 
 234
-00:11:40,970 --> 00:11:44,000
-इमेजिन ऑल रोशनलाल मेंटल कंडीशन अगेंस्ट
+00:16:15,800 --> 00:16:17,320
+and that he has taken it up enough number of times
 
 235
-00:11:44,000 --> 00:11:47,630
-थिस फैक्ट्री एंड स्टिल पायलट सुसाइड
+00:16:17,320 --> 00:16:18,760
+But yet, nothing is done about it
 
 236
-00:11:47,630 --> 00:11:50,780
-डिफिकल्ट सीनियर स्कूल मिडकैप तरफ करूंगा
+00:16:18,760 --> 00:16:22,740
+and he refuses to work in those conditions because that would endanger the lives of everyone
 
 237
-00:11:50,780 --> 00:11:53,180
-बिकॉज यह मेरे को अच्छी करना नेट पर सेंट
+00:16:22,860 --> 00:16:25,400
+and endanger the lives of his family and him
 
 238
-00:11:53,180 --> 00:11:57,290
-एंड आफ्टर इफेक्ट पायलट इज नॉट रेस्ट इवन
+00:16:25,500 --> 00:16:30,080
+I stand up and I refuse to work till all these things continue and till negligence reigns
 
 239
-00:11:57,290 --> 00:12:01,340
-हिस फटी हुई ऑपरेटिंग कौन है को दे जब
+00:16:30,080 --> 00:16:37,800
+So that was my attitude. I stood up and on 23rd of March, I wrote it down and refused to work on 24th
 
 240
-00:12:01,340 --> 00:12:03,920
-उसने मनुष्य किया था उसको ऑफ हटा दिया था
+00:16:37,800 --> 00:16:46,500
+I said that a lot of negligence was taking place and that it was putting everyone's lives at risk- passengers, crew, and my family
 
 241
-00:12:03,920 --> 00:12:07,390
-इमेजिन ऑल द फेक्टर्स अमेज्ड व्हेन थिंग्स
+00:16:46,500 --> 00:16:47,840
+That is why I took this step
 
 242
-00:12:07,390 --> 00:12:10,130
-वेरिफिकेशन में कोई भी एक्सेंट हेग फैक्टर
+00:16:47,840 --> 00:16:51,280
+And all these policies- regarding COVID, flap 3...
 
 243
-00:12:10,130 --> 00:12:13,130
-से नहीं होता कभी भी अफ्रीका110 नहीं हुआ
+00:16:51,440 --> 00:16:55,960
+In the case of sickness, their man days are being saved if they relabel sick as an off
 
 244
-00:12:13,130 --> 00:12:16,070
-इसलिए कोंबिनेशन ऑल दर फैक्टर्स एंड वन डे
+00:16:55,960 --> 00:16:58,580
+then they are able to get extra work done and are able to save up on man days
 
 245
-00:12:16,070 --> 00:12:19,460
-ऑल थिंग्स लाइंस और यह हमारे साथ एक हादसा
+00:16:58,660 --> 00:17:03,840
+If you do not follow the COVID guidelines because it would incur more costs in the form of  more staffs
 
 246
-00:12:19,460 --> 00:12:21,920
-हो जाएगा और हमें प्रोएक्टिव होना चाहिए
+00:17:03,840 --> 00:17:09,620
+and extra equipment- they would have to get sanitizers installed and arrange for PPEs
 
 247
-00:12:21,920 --> 00:12:23,850
-कि अगर कुछ गलती है तो उसको वही पकड़
+00:17:09,620 --> 00:17:11,200
+Everything comes at a cost
 
 248
-00:12:23,850 --> 00:12:26,550
-शुरू करें हमारी हमेशा स्वागत है कि हम
+00:17:11,600 --> 00:17:15,340
+And as you know that there is direct fuel saving in the case of Flap 3
 
 249
-00:12:26,550 --> 00:12:28,380
-वेट करते हैं कुछ हो जाए फिर हम भूनने के
+00:17:15,480 --> 00:17:20,560
+All these policies that I stood up against are the profit making policies of the company
 
 250
-00:12:28,380 --> 00:12:30,050
-वह क्या हुआ है
+00:17:20,560 --> 00:17:27,040
+And the company was noticing that time and again this person was standing up and pointing fingers at policies that
 
 251
-00:12:30,050 --> 00:12:32,480
-[संगीत]
+00:17:27,040 --> 00:17:29,720
+hamper our profit
 
 252
-00:12:32,480 --> 00:12:34,670
-है तीसरा श्योर आपने उठाया वह सबसे
+00:17:29,720 --> 00:17:31,920
+Even though it was safety that I stood up for
 
 253
-00:12:34,670 --> 00:12:37,300
-क्रिटिकल मेरी राय में क्योंकि बेसिकली
+00:17:32,160 --> 00:17:37,880
+So when there was requirement for pilots, the company kept taking in complaints without saying anything
 
 254
-00:12:37,300 --> 00:12:40,130
-अगर डीजीसीए के सर्कुलर को इग्नोर किया
+00:17:37,880 --> 00:17:40,360
+But as soon as the COVID time arrived and their operations slumped
 
 255
-00:12:40,130 --> 00:12:43,220
-गया 2019 के ऊपर तो मुझे लगता है आज के
+00:17:40,360 --> 00:17:42,680
+and  they were aware that even when things opened up, they would not need so many pilots
 
 256
-00:12:43,220 --> 00:12:45,649
-दिन जो को बनेंगे इतने ज्यादा बढ़ रहे
+00:17:42,680 --> 00:17:45,900
+They directly targeted me and then threw me out of the country
 
 257
-00:12:45,649 --> 00:12:48,050
-हमारे देश में उसके पीछे यही रीजन है कि
+00:17:46,220 --> 00:17:50,040
+-I saw "boycott Air Asia" trending on Twitter
 
 258
-00:12:48,050 --> 00:12:50,899
-एयरलाइंस ने रूस को फॉलो नहीं किया जो के
+00:17:50,040 --> 00:17:52,040
+The media also took up your issue
 
 259
-00:12:50,899 --> 00:12:52,850
-मैसेज आ रहे थे जिन्हें रोका जा सकता था
+00:17:52,040 --> 00:17:55,740
+The Minister of Aviation also responded to that tweet
 
 260
-00:12:52,850 --> 00:12:55,010
-एयरपोर्ट पर ही अगर एयरपोर्ट प्रेशर रूस
+00:17:55,740 --> 00:17:59,340
+But there has been no progress regarding this. What do you think is
 
 261
-00:12:55,010 --> 00:12:58,220
-होते तो आज के दिन हमें यह हालत नहीं होती
+00:17:59,820 --> 00:18:03,880
+being done by the Ministry and the Airlines in the meantime?
 
 262
-00:12:58,220 --> 00:13:02,120
-चाहिए कि आप भी मानते हैं साधु जब यह बात
+00:18:03,880 --> 00:18:10,580
+-I saw that this was trending on Twitter the day I put up this video but I had no idea that this would trend
 
 263
-00:13:02,120 --> 00:13:04,880
-चल रही थी मार्च में तो बहुत टाइम ऐसा था
+00:18:10,580 --> 00:18:13,140
+and who made this trend. The people took this upon themselves to make it trend
 
 264
-00:13:04,880 --> 00:13:08,389
-कि यह प्रोसीजर्स फॉलो नहीं हो रहे थे अब
+00:18:13,380 --> 00:18:18,380
+After that, DGCI also made a public tweet that they would take this up
 
 265
-00:13:08,389 --> 00:13:10,459
-मैंने Company हमेशा बोला एक व्हाट्सएप
+00:18:18,380 --> 00:18:20,420
+that somebody has raised a complaint against some airline
 
 266
-00:13:10,459 --> 00:13:12,589
-ग्रुप होता हमारा जो कि पायलटों और
+00:18:20,420 --> 00:18:28,120
+But I never got a specific acknowledgement from the DGCA or any communication from the aviation Minister
 
 267
-00:13:12,589 --> 00:13:14,690
-मैनेजमेंट फॉर इवेंट्स हो तरफ टे्रन में
+00:18:28,120 --> 00:18:31,580
+I have not yet received an official confirmation or communication from anywhere
 
 268
-00:13:14,690 --> 00:13:16,970
-मैनेजमेंट है उसका ऑफिशियल बोला ऑफिशल
+00:18:31,580 --> 00:18:37,900
+Dhruv, I'd only like to point out that this is a fact based case and I would request the authorities
 
 269
-00:13:16,970 --> 00:13:18,920
-ब्लॉग आपके ऊपर है तो वहां पर भी मैंने
+00:18:37,900 --> 00:18:39,720
+to conduct a fair investigation into this
 
 270
-00:13:18,920 --> 00:13:20,930
-बुलाया और भी लोगों ने बहुत सारा बोला व
+00:18:39,720 --> 00:18:42,720
+I want nothing else. All I want is a fair investigation
 
 271
-00:13:20,930 --> 00:13:23,209
-23 मार्च के दिन स्पेसिफिक ऐसा हुआ था जब
+00:18:42,720 --> 00:18:47,580
+The most important thing is that Air Asia should respond to these questions
 
 272
-00:13:23,209 --> 00:13:25,790
-मुझे दिखा कि बहुत सारे प्रोसीजर है जहां
+00:18:47,580 --> 00:18:51,560
+What answer does Air Asia have to the three safety issues that have been raised
 
 273
-00:13:25,790 --> 00:13:28,639
-पर फॉलो नहीं हो रहे और लापरवाही बरती जा
+00:18:51,560 --> 00:18:54,680
+The Air Asia must say something- either accept or deny these allegations
 
 274
-00:13:28,639 --> 00:13:30,980
-रही है तब मैंने उसको डॉक्यूमेंट कर दिया
+00:18:54,680 --> 00:18:59,100
+Share this video so that it reaches more and more people and that it mounts pressure on Air Asia
 
 275
-00:13:30,980 --> 00:13:32,490
-और सिर्फ हमारे पास एक रिपोर्ट
+00:18:59,100 --> 00:19:03,880
+to respond to the question of whether our safety is in danger or not
 
 276
-00:13:32,490 --> 00:13:35,220
-क्विज बॉडी वॉइस रिपोर्ट जो कि कैप्टन ऑफ
+00:19:04,120 --> 00:19:08,060
+If you like my work, you can support me on Patreon.com/DhruvRathee
 
 277
-00:13:35,220 --> 00:13:37,529
-द वाइट पी यादव राइट पड़ते हैं मैंने
+00:19:08,060 --> 00:19:10,280
+or by becoming a member on YouTube by clicking on the join button
 
 278
-00:13:37,529 --> 00:13:40,080
-स्पेसिफिकली वहां पर लिख दिया कि डीजीसीए
+00:19:10,280 --> 00:19:12,780
+so that I may continue to make such videos for you in the future
 
 279
-00:13:40,080 --> 00:13:43,980
-सर्कुलर नंबर श्योर इज नॉट बीन फॉलोवड एंड
+00:19:13,060 --> 00:19:16,340
+And you would get access to several exclusive things upon becoming a member. For example,
 
 280
-00:13:43,980 --> 00:13:47,370
-ए बिगर कैप्टन एसपी यादव फ्लाइट है फूल
+00:19:16,580 --> 00:19:20,480
+you can watch, unedited, full and raw interviews by becoming a member on the channel
 
 281
-00:13:47,370 --> 00:13:48,899
-रिस्पॉन्सिबिलिटी कि जब तक मैं नहीं
+00:19:20,740 --> 00:19:22,740
+We will meet again in the next video
 
 282
-00:13:48,899 --> 00:13:50,880
-इंस्टॉल कर ले ताकि मेरे पीछे जो
-
-283
-00:13:50,880 --> 00:13:53,250
-पैसेंजर्स बैठे हैं उनकी सेफ्टी में
-
-284
-00:13:53,250 --> 00:13:55,410
-इंस्टॉल नहीं कर लेता तब तक मेरी पूरी
-
-285
-00:13:55,410 --> 00:13:57,990
-अथॉरिटी है कि मैं उसपर डॉक्यूमेंट पर
-
-286
-00:13:57,990 --> 00:14:00,720
-साईं और जैसे कि हम लोग जब कोई भी साइड
-
-287
-00:14:00,720 --> 00:14:02,399
-एक्सेप्ट करते हैं डॉक्युमेंट सेंड करने
-
-288
-00:14:02,399 --> 00:14:04,320
-के वृक्ष अपनी डिसाइड भी टेक फुल
-
-289
-00:14:04,320 --> 00:14:06,330
-रिस्पांसिबिलिटी आफ ठेर का पूजा मुझे पता
-
-290
-00:14:06,330 --> 00:14:08,580
-है कि कुछ वहां पर इतनी बड़ी खामी और यह
-
-291
-00:14:08,580 --> 00:14:11,670
-तो मैं कैसे उसको फ्लाइट को बिना कुछ
-
-292
-00:14:11,670 --> 00:14:14,940
-एक्सेप्ट कर कि आपकी अथॉरिटी थी जब पायलट
-
-293
-00:14:14,940 --> 00:14:17,550
-कि आप लाइट को डिलीट कर सकते अगर रूल्स
-
-294
-00:14:17,550 --> 00:14:20,010
-फॉलो नहीं हो रहे थे तो आज यंत्रों में
-
-295
-00:14:20,010 --> 00:14:22,200
-पैसे की पूरी अथॉरिटी होती है और उस दिन
-
-296
-00:14:22,200 --> 00:14:23,970
-मैंने 23 मार्च के दिन फ्लाइट डिलीवरी की
-
-297
-00:14:23,970 --> 00:14:25,709
-थी और मैंने लिख दिया रीजन यह है क्योंकि
-
-298
-00:14:25,709 --> 00:14:27,420
-सर्कुलर कॉलोनी और अ बहुत सारे ऐसे
-
-299
-00:14:27,420 --> 00:14:29,820
-पॉइंट्स और वह जो डॉक्यूमेंट मैंने साइन
-
-300
-00:14:29,820 --> 00:14:31,709
-किया था ना फिर उसमें क्या होता है कि हर
-
-301
-00:14:31,709 --> 00:14:32,499
-फ्लाइट का डिपॉजिट
-
-302
-00:14:32,499 --> 00:14:34,479
-तुम्हारा टाइम सब कुछ हम लोग फील करते हुए
-
-303
-00:14:34,479 --> 00:14:36,519
-वह डोकोमेंट बहुत इंपोर्टेंट डॉक्यूमेंट
-
-304
-00:14:36,519 --> 00:14:38,229
-और मैनें इसको बहुत अच्छे से रिमूव करता
-
-305
-00:14:38,229 --> 00:14:41,769
-है कोई भी फ्लाइट अगर 1 मिनट की डीईओ जब
-
-306
-00:14:41,769 --> 00:14:43,959
-हम हृदय की इसलिए मेडिकल तो हमें नेक्स्ट
-
-307
-00:14:43,959 --> 00:14:46,299
-डे कॉल आता है कि कैप्टन व्हाट वास थे
-
-308
-00:14:46,299 --> 00:14:48,429
-रीजन फॉर डिले फॉर द फ्लाइट कैन यू गिव
-
-309
-00:14:48,429 --> 00:14:50,049
-सैनी एक्सप्लेनेशन और हाउ कैन बे
-
-310
-00:14:50,049 --> 00:14:55,119
-इंप्रूव्ड तो एक OTP इतना इंपोर्टेंट मैटर
-
-311
-00:14:55,119 --> 00:14:57,519
-हमारे लिए कि हमेशा ऑन टाइम माउंटेन
-
-312
-00:14:57,519 --> 00:14:59,259
-माउंटेन करते रहते हैं पर जब एक कैप्टन
-
-313
-00:14:59,259 --> 00:15:01,809
-आपको लिखकर दिया कि यह फॉलो नहीं हो रहा
-
-314
-00:15:01,809 --> 00:15:04,599
-इससे पीछे बैठे लोगों की जान को खतरा है
-
-315
-00:15:04,599 --> 00:15:06,819
-इससे मेरी जान को खतरा और ब्रह्मनगर जाऊं
-
-316
-00:15:06,819 --> 00:15:08,589
-तो मेरी फैमिली को खतरा है इतना
-
-317
-00:15:08,589 --> 00:15:10,269
-इंपोर्टेंट जो मैं डेफिनेटली कर दे रहा
-
-318
-00:15:10,269 --> 00:15:12,999
-हूं उसके लिए मेरे पास आज तक कोई ईमेल आया
-
-319
-00:15:12,999 --> 00:15:14,709
-कोई में पास कॉल आया कि टाइपिंग यह
-
-320
-00:15:14,709 --> 00:15:16,839
-अमेंडमेंट सर्कुलर नॉट फॉलो करेंगे अब हम
-
-321
-00:15:16,839 --> 00:15:19,119
-डिटेल व्हाट वास नॉट बीन फॉर लॉर्ड बुद्ध
-
-322
-00:15:19,119 --> 00:15:21,489
-शेयर एंड हाउ हाउ कैन वी इंप्रूविंग
-
-323
-00:15:21,489 --> 00:15:23,289
-सूचकांक क्रमश हम और डीटेल्स अरे
-
-324
-00:15:23,289 --> 00:15:25,659
-इंप्रूवमेंट उसके लिए मेरे पास कुछ नहीं
-
-325
-00:15:25,659 --> 00:15:28,179
-आया हम लोग हमेशा है कि ऑन टाइम कर दें
-
-326
-00:15:28,179 --> 00:15:30,089
-लाइट को ऑन टाइम बच्चों को ऑन टाइम इट्स
-
-327
-00:15:30,089 --> 00:15:32,480
-कंपनीज प्यार होती है ज़री
-
-328
-00:15:32,480 --> 00:15:34,910
-अ मानता हूं उसको और हम लोग भी पूरा
-
-329
-00:15:34,910 --> 00:15:38,209
-योगदान दे तो करने के लिए बट उससे जरूरी
-
-330
-00:15:38,209 --> 00:15:41,000
-भी कोई चीज है वह है rs.60 होता है एक
-
-331
-00:15:41,000 --> 00:15:42,500
-बहुत ही अच्छा एग्जांपल है कि आपको समझाते
-
-332
-00:15:42,500 --> 00:15:44,180
-है कंपनी है मानो एम्पलाइज आफ थे
-
-333
-00:15:44,180 --> 00:15:46,100
-पंचाक्षरा में इनको फर्क नहीं पड़ेगा कि
-
-334
-00:15:46,100 --> 00:15:47,810
-वहां पर उसके आसपास क्या हो रहा है उनमें
-
-335
-00:15:47,810 --> 00:15:50,000
-से चालू सॉन्ग को फर्क पड़ेगा वह सोचेंगे
-
-336
-00:15:50,000 --> 00:15:51,800
-जाए तो गलत हो रहा पर से बात करें कुछ
-
-337
-00:15:51,800 --> 00:15:54,350
-करें यहां पर मैंने होना चाहिए मजबूर इसको
-
-338
-00:15:54,350 --> 00:15:57,949
-एक अपने करेंगे उसके बाद आठ या नौ ऐसे
-
-339
-00:15:57,949 --> 00:16:00,079
-इंप्लाइज होंगे जिनको लगेगा हां भाई कुछ
-
-340
-00:16:00,079 --> 00:16:01,670
-गलत हो रहा है बॉस को बोलना चाहिए वह
-
-341
-00:16:01,670 --> 00:16:03,440
-बोलता है रिटर्न में पोस्ट करता हां
-
-342
-00:16:03,440 --> 00:16:05,990
-करेंगे देखेंगे कि वह यार बोल दिया आप
-
-343
-00:16:05,990 --> 00:16:08,089
-इंडिया में चलता है चलता है उनका वैसा
-
-344
-00:16:08,089 --> 00:16:10,970
-दिलवा मुसाफिर एक बंदा ऐसा होगा ना जो
-
-345
-00:16:10,970 --> 00:16:13,339
-खड़ा होगा वह कहेगा मैंने बहुत बार यह
-
-346
-00:16:13,339 --> 00:16:15,680
-नोटिस कर लिया मैंने बहुत बार आपके नोटिस
-
-347
-00:16:15,680 --> 00:16:17,750
-मिला दिया मैंने इसको लेकर यह बहुत बार
-
-348
-00:16:17,750 --> 00:16:19,670
-फिर भी कुछ नहीं हो रहा है और मैं ऐसी
-
-349
-00:16:19,670 --> 00:16:21,709
-कंडीशन में काम नहीं करूंगी इस कंडीशन में
-
-350
-00:16:21,709 --> 00:16:24,079
-सब की जान को खतरा है मेरी जान को खतरा है
-
-351
-00:16:24,079 --> 00:16:26,420
-और मेरी फैमिली की जब हज़रत आयशा एंड
-
-352
-00:16:26,420 --> 00:16:29,029
-डेफिनेशन आफ ट्रू आफ ऑल थिंग्स कंटिन्यू
-
-353
-00:16:29,029 --> 00:16:32,490
-और की लापरवाही चलेगी तो वह एटीट्यूड मेरा
-
-354
-00:16:32,490 --> 00:16:35,190
-खड़ा हो गया मेरे काटेज तारीख को मैं लिख
-
-355
-00:16:35,190 --> 00:16:36,870
-रहा हूं और 24 तारीख को फिर मैं काम पर
-
-356
-00:16:36,870 --> 00:16:38,520
-जाने से मना कर दिया मैंने बहुत लापरवाह
-
-357
-00:16:38,520 --> 00:16:41,610
-हो रही है सब की जान को खतरा है पैसेंजर्स
-
-358
-00:16:41,610 --> 00:16:43,620
-की जान को खतरा है गुरु की जान को खतरा
-
-359
-00:16:43,620 --> 00:16:45,240
-मेरे को की जान को खतरा और सबसे बड़ा कि
-
-360
-00:16:45,240 --> 00:16:47,610
-वह मैं घर पर लेकर आ रहा हूं डेट है तो
-
-361
-00:16:47,610 --> 00:16:50,040
-डिस्टर्ब और जितने भी पॉलिसी देखेंगे को
-
-362
-00:16:50,040 --> 00:16:52,200
-वैट क्योंकि फिक्स हो गई सीक्वेंस में
-
-363
-00:16:52,200 --> 00:16:55,740
-क्या है रिमाइंड एक बच्चन है 100 से 150
-
-364
-00:16:55,740 --> 00:16:57,750
-सौ तो एक्स्ट्रा काम करवा रहे हैं यस्मिन
-
-365
-00:16:57,750 --> 00:17:01,050
-उद्देश अगर आपको कोर्ट की गाइडलाइंस फॉर
-
-366
-00:17:01,050 --> 00:17:02,760
-मनी करें क्योंकि वहां खर्चा होता है वहां
-
-367
-00:17:02,760 --> 00:17:05,250
-पर पिस्ता लगाना पड़ेगा एक सिक्वेंस लगाने
-
-368
-00:17:05,250 --> 00:17:07,679
-पड़ेंगे सेंटेंस लगाना पड़ेगा पी लगवाना
-
-369
-00:17:07,679 --> 00:17:09,420
-पड़ेगा हर करना पड़ेगा प्रोयोग करना
-
-370
-00:17:09,420 --> 00:17:12,030
-पड़ेगा एवरीथिंग कम सेट अप कॉस्ट और
-
-371
-00:17:12,030 --> 00:17:14,010
-फैक्ट्री की बात आती है तो आपको पता है कि
-
-372
-00:17:14,010 --> 00:17:16,170
-इंटरएक्टिव से भिन्न होता है उसमें तो यह
-
-373
-00:17:16,170 --> 00:17:18,600
-ऑल हिस पॉलिसीज विच स्टूड अप अगेंस्ट यार
-
-374
-00:17:18,600 --> 00:17:21,089
-प्रॉफिट मेकिंग फॉल्स इन थे कंपनी एंड
-
-375
-00:17:21,089 --> 00:17:25,020
-कंपनी वास नॉट थिंक यह बंदा बार-बार खड़े
-
-376
-00:17:25,020 --> 00:17:26,880
-होकर ऐसी पॉलिसी अपॉइंट करता है जो कि
-
-377
-00:17:26,880 --> 00:17:30,090
-हमारे प्रॉफिट को यहां पर करती है जब यह
-
-378
-00:17:30,090 --> 00:17:32,500
-शेट्टी के लिए मैं खड़ा हुआ था और
-
-379
-00:17:32,500 --> 00:17:34,840
-अरे उसी के वजह है कि मुझे क्या हुआ है जब
-
-380
-00:17:34,840 --> 00:17:36,760
-रिक्वायरमेंट की तो कुछ नहीं बोलूंगा
-
-381
-00:17:36,760 --> 00:17:39,220
-कंपनी लेती कर देती कि वह जैसी कमेंट का
-
-382
-00:17:39,220 --> 00:17:41,830
-टाइम आया उनके ऑपरेशन को बता चुके थे
-
-383
-00:17:41,830 --> 00:17:44,410
-पायलेट्स नहीं चाहिए होंगे डेडीकेटेड एंड
-
-384
-00:17:44,410 --> 00:17:47,530
-पैट्रोलियम से कंपनी मैंने ट्विटर पर देखा
-
-385
-00:17:47,530 --> 00:17:50,320
-कि यह ब्वॉय गोट ए ग्रैंड उन्हें लग रहा
-
-386
-00:17:50,320 --> 00:17:52,150
-था मीडिया ने भी आपके शो को बहुत उठाया
-
-387
-00:17:52,150 --> 00:17:54,700
-मिनिस्टर ऑफ़ सीबीएसई ने भी रिस्पोंड किया
-
-388
-00:17:54,700 --> 00:17:57,400
-था उस अटूट पर तो अभी तक कोई प्रोग्रेस
-
-389
-00:17:57,400 --> 00:17:58,990
-नहीं हुआ इस चीज को लेकर आपको क्या लगता
-
-390
-00:17:58,990 --> 00:18:01,990
-है कि मिनिस्टर की तरफ से और एयरलाइन की
-
-391
-00:18:01,990 --> 00:18:03,610
-तरफ से क्या एक्शन लिया जा रहा है इस
-
-392
-00:18:03,610 --> 00:18:06,130
-द्वारा आइए ट्विटर पर ट्रेंड हो गया था
-
-393
-00:18:06,130 --> 00:18:08,890
-मैंने देखा था जिस मिला था वीडियो बट मेरा
-
-394
-00:18:08,890 --> 00:18:11,140
-उसमें पता था कि ट्रेंड हो जाएगा और किसने
-
-395
-00:18:11,140 --> 00:18:12,580
-ट्रेंड का जो लोगों ने अपने आप इसको
-
-396
-00:18:12,580 --> 00:18:14,890
-फ्रेंड बना दिया उसके बाद जब दीदी से नहीं
-
-397
-00:18:14,890 --> 00:18:16,690
-इस पर ट्वीट किया था पब्लिक में कि हां
-
-398
-00:18:16,690 --> 00:18:19,720
-इसको हम टेप करेंगे सर्बिया से कंप्लेंट
-
-399
-00:18:19,720 --> 00:18:21,780
-अगेंस्ट समय लाइन फट मुझे आज तक पर्सनली
-
-400
-00:18:21,780 --> 00:18:24,430
-स्पेसिफिक नॉलेज ही नहीं आया कि हां की
-
-401
-00:18:24,430 --> 00:18:26,860
-विधि से टेक्नोलॉजी बनाया वह या फिर निवेश
-
-402
-00:18:26,860 --> 00:18:28,780
-मैनेजर से कोई इंडिकेशन आफ मेरे पास अभी
-
-403
-00:18:28,780 --> 00:18:31,090
-तक कोई ऑफिशल कंफर्मेशन एप्लीकेशन कहां से
-
-404
-00:18:31,090 --> 00:18:32,480
-नहीं है यह ग्रुप मेंबर
-
-405
-00:18:32,480 --> 00:18:35,630
-चीजों की यह एक पैक बेस्ट के है और इसमें
-
-406
-00:18:35,630 --> 00:18:37,400
-मैं वर्षीय रिक्वेस्ट करना चाहूंगा हमारी
-
-407
-00:18:37,400 --> 00:18:38,870
-अथॉरिटी से कि इसमें एक फेयर
-
-408
-00:18:38,870 --> 00:18:41,390
-इन्वेस्टिगेशन हो बस में कुछ नहीं था जस्ट
-
-409
-00:18:41,390 --> 00:18:43,309
-अवॉइड आफ्टर इन्वेस्टिगेशन सबसे
-
-410
-00:18:43,309 --> 00:18:45,200
-इंपोर्टेंट सवाल यह उठता है दोस्तों कि
-
-411
-00:18:45,200 --> 00:18:48,410
-एग्जाम सवालों को लेकर जवाब दे दो तीन
-
-412
-00:18:48,410 --> 00:18:53,570
-सेफ्टी शूज रेट में ऐसा लग रहा है नहीं तो
-
-413
-00:18:53,570 --> 00:18:59,210
-आप इस वीडियो को शेयर कीजिए दोस्तों बने
-
-414
-00:18:59,210 --> 00:19:01,850
-इन सवालों के जवाब दें और बताएं कि हमारी
-
-415
-00:19:01,850 --> 00:19:10,220
-सेवक संघ के सपोर्ट कर सकते हैं पर क्लिक
-
-416
-00:19:10,220 --> 00:19:19,070
-करके ऐसे और इसके बाद जैसे कि आप देख सकते
-
-417
-00:19:19,070 --> 00:19:23,590
-हैं तो दोस्तों मिलते हैं अगले वीडियो में
-
-418
-00:19:23,590 --> 00:19:26,590
-दो
+00:19:22,900 --> 00:19:23,860
+Thank you

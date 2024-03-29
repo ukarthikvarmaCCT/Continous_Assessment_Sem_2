@@ -1,1691 +1,1356 @@
 1
-00:00:00,280 --> 00:00:02,480
-नमस्कार दोस्तों इमेजिन करो आप समुद्र में
+00:00:00,000 --> 00:00:01,276
+Hello, friends!
 
 2
-00:00:02,480 --> 00:00:05,319
-एक नाव पर खड़े हो समुद्र की साफ सुहानी
+00:00:01,276 --> 00:00:03,776
+Picture yourself on a ship at sea,
 
 3
-00:00:05,319 --> 00:00:08,719
-हवा का आनंद उठा रहे हो तभी अचानक से आपको
+00:00:03,776 --> 00:00:07,250
+relishing the fresh and invigorating sea breeze.
 
 4
-00:00:08,719 --> 00:00:11,480
-यह दिखाई देता
+00:00:07,250 --> 00:00:10,023
+Suddenly, a remarkable sight unfolds before you
 
 5
-00:00:13,719 --> 00:00:17,000
-है एक भयंकर मिसाइल पानी के अंदर से बाहर
+00:00:14,789 --> 00:00:17,821
+a colossal missile emerges from the water.
 
 6
-00:00:17,000 --> 00:00:19,199
-निकलती है और यह कोई छोटी मोटी मिसाइल
+00:00:17,821 --> 00:00:19,522
+Not just any missile,
 
 7
-00:00:19,199 --> 00:00:21,359
-नहीं है ये एक न्यूक्लियर मिसाइल है जो
+00:00:19,522 --> 00:00:21,655
+but a nuclear missile
 
 8
-00:00:21,359 --> 00:00:23,720
-धरती के दूसरे कोने में एक न्यूक्लियर
+00:00:21,655 --> 00:00:25,100
+with the capability to reach a target 
+on the other side of the globe,
 
 9
-00:00:23,720 --> 00:00:26,519
-स्ट्राइक कर सकती है हजारों किलोमीटर दूर
+00:00:25,100 --> 00:00:26,652
+spanning thousands of kilometers.
 
 10
-00:00:26,519 --> 00:00:28,599
-इमेजिन करने की जरूरत नहीं क्योंकि आज के
+00:00:26,652 --> 00:00:28,282
+This isn't a mere imagination;
 
 11
-00:00:28,599 --> 00:00:31,240
-दिन पॉसिबल है सब मरींस की वजह से यह जो
+00:00:28,282 --> 00:00:31,158
+it's a reality today, thanks to submarines.
 
 12
-00:00:31,240 --> 00:00:33,520
-वीडियो आपने देखा यह यूएस नेवी के द्वारा
+00:00:31,158 --> 00:00:32,786
+The footage you just witnessed
 
 13
-00:00:33,520 --> 00:00:35,800
-कंडक्ट किया गया ट्राइडेंट टू मिसाइल का
+00:00:32,786 --> 00:00:36,550
+was a test of a Trident 2 missile 
+conducted by the US Navy,
 
 14
-00:00:35,800 --> 00:00:38,559
-टेस्ट था जिसे लॉन्च किया गया एक यूएस
+00:00:36,550 --> 00:00:40,431
+launched from a US Ohio-class submarine.
 
 15
-00:00:38,559 --> 00:00:41,680
-ओहायो क्लास सबमरीन से डन 2 की ये मिसाइल
+00:00:40,431 --> 00:00:42,340
+The Trident 2 falls under the category of
 
 16
-00:00:41,680 --> 00:00:43,840
-सबमरीन लॉन्च बैलिस्टिक मिसाइल्स यानी
+00:00:42,340 --> 00:00:46,006
+submarine-launched ballistic missiles (SLBMs),
 
 17
-00:00:43,840 --> 00:00:46,120
-एसएल बीएम की कैटेगरी में आती है ये
+00:00:46,006 --> 00:00:48,792
+representing one of the most formidable weapons globally.
 
 18
-00:00:46,120 --> 00:00:48,320
-दुनिया के सबसे खतरनाक हथियारों में से एक
+00:00:48,792 --> 00:00:53,195
+These SLBMs boast an estimated yield of 475 kilotons,
 
 19
-00:00:48,320 --> 00:00:52,199
-है इन एसएल बीएस की एस्टीमेट यील्ड 475
+00:00:53,195 --> 00:00:59,243
+a stark contrast to the 12-13 kiloton yield of 
+the nuclear bomb dropped on Hiroshima.
 
 20
-00:00:52,199 --> 00:00:54,800
-किलो टन है इसे आप कंपेयर करो हिरोशिमा पर
+00:00:59,243 --> 00:01:00,832
+Presently, these potent weapons
 
 21
-00:00:54,800 --> 00:00:57,160
-गिराए गए न्यूक्लियर बॉम से जिसकी यील्ड
+00:01:00,832 --> 00:01:02,258
+are housed within submarines,
 
 22
-00:00:57,160 --> 00:01:00,079
-12 से 13 किलो टन थी आज के जमाने में ऐसे
+00:01:02,258 --> 00:01:05,408
+stealthily traversing the world's oceans
 
 23
-00:01:00,079 --> 00:01:02,199
-हथियारों को सबमरींस में रखा जाता है और
+00:01:05,408 --> 00:01:08,237
+in highly classified, undisclosed locations.
 
 24
-00:01:02,199 --> 00:01:04,720
-यह सबमरींस घूम रही है दुनिया के समुद्रों
+00:01:08,237 --> 00:01:11,470
+In today's video, let's delve into 
+the intricacies of these submarines
 
 25
-00:01:04,720 --> 00:01:08,320
-में हाईली क्लासिफाइड सीक्रेट लोकेशंस पर
+00:01:11,470 --> 00:01:13,538
+understanding the technology that propels them
 
 26
-00:01:08,320 --> 00:01:10,280
-आज के इस वीडियो में आइए इन सब मरींस को
+00:01:13,538 --> 00:01:15,867
+and unravelling their operational mechanisms.
 
 27
-00:01:10,280 --> 00:01:12,520
-गहराई से समझते हैं क्या है इनके पीछे की
+00:01:27,769 --> 00:01:30,807
+Fundamentally, all submarines operate based on
 
 28
-00:01:12,520 --> 00:01:17,439
-टेक्नोलॉजी और यह एगजैक्टली कैसे काम करती
+00:01:30,807 --> 00:01:33,126
+Archimedes' principle,
 
 29
-00:01:22,520 --> 00:01:26,560
-[संगीत]
+00:01:33,126 --> 00:01:36,205
+a concept likely familiar from school.
 
 30
-00:01:26,560 --> 00:01:29,680
-है दोस्तों सभी सबमरीन एक बेसिक प्रिंसिपल
+00:01:36,205 --> 00:01:38,416
+As an object sinks,
 
 31
-00:01:29,680 --> 00:01:32,159
-पर काम करती हैं जिसे आर्कमिडीज प्रिंसिपल
+00:01:38,416 --> 00:01:41,731
+it experiences a buoyant force
 
 32
-00:01:32,159 --> 00:01:34,320
-कहा जाता है बड़ा सिंपल कांसेप्ट है आपने
+00:01:41,731 --> 00:01:46,390
+equivalent to the weight of the fluid displaced
 
 33
-00:01:34,320 --> 00:01:36,200
-इसके बारे में स्कूल में भी पढ़ा होगा जब
+00:01:46,390 --> 00:01:48,038
+due to this object's sinking.
 
 34
-00:01:36,200 --> 00:01:38,439
-भी कोई ऑब्जेक्ट पानी के अंदर डूबता है
+00:01:48,038 --> 00:01:52,057
+When a submarine's weight 
+matches that of the water it displaces,
 
 35
-00:01:38,439 --> 00:01:41,079
-उसके ऊपर एक फोर्स लगता है जिसे बंट फर्स
+00:01:52,057 --> 00:01:54,633
+it achieves a level of neutral buoyancy.
 
 36
-00:01:41,079 --> 00:01:43,399
-कहा जाता है और यह फर्स उतना ही होता है
+00:01:54,633 --> 00:01:57,596
+Allowing it to maintain a constant depth.
 
 37
-00:01:43,399 --> 00:01:46,360
-जितना वजन इस फ्लूइड का डिस्प्लेस हुआ इस
+00:01:57,596 --> 00:01:59,892
+When the objective is to submerge,
 
 38
-00:01:46,360 --> 00:01:49,000
-ऑब्जेक्ट के डूबने से जब सबमरीन का खुद का
+00:01:59,892 --> 00:02:02,817
+the gravitational force applied must exceed
 
 39
-00:01:49,000 --> 00:01:50,840
-वजन उतना ही होता है जितना पानी उसने
+00:02:02,817 --> 00:02:03,759
+the buoyant force,
 
 40
-00:01:50,840 --> 00:01:53,000
-डिस्प्लेस किया तो सबमरीन एक न्यूट्रल
+00:02:03,759 --> 00:02:07,125
+prompting the use of ballast tanks.
 
 41
-00:01:53,000 --> 00:01:55,399
-बंसी के लेवल पर होती है इसका मतलब पानी
+00:02:07,125 --> 00:02:10,491
+Typically, these two tanks are located at the submarine's ends,
 
 42
-00:01:55,399 --> 00:01:57,799
-में वो एक कांस्टेंट डेप्थ पर रहेगी जब
+00:02:10,491 --> 00:02:13,733
+they are filled with air at the surface,
 
 43
-00:01:57,799 --> 00:02:00,000
-सबमरीन को पानी के अंदर डुबाना हो तो उस
+00:02:13,733 --> 00:02:15,530
+enabling the vessel to float.
 
 44
-00:02:00,000 --> 00:02:01,880
-पर लगने वाला ग्रेविटेशन फोर्स ज्यादा
+00:02:15,530 --> 00:02:17,020
+To descend into the water,
 
 45
-00:02:01,880 --> 00:02:04,240
-होना चाहिए बॉट फोर्स से इसके लिए
+00:02:17,020 --> 00:02:19,598
+these ballast tanks are flooded with water,
 
 46
-00:02:04,240 --> 00:02:07,200
-इस्तेमाल किया जाता है बैले टैंक्स का ये
+00:02:19,598 --> 00:02:21,188
+increasing the submarine's weight
 
 47
-00:02:07,200 --> 00:02:09,319
-दो टैंक्स हैं जो आमतौर पर सबमरीन के दो
+00:02:21,188 --> 00:02:23,004
+and initiating the descent.
 
 48
-00:02:09,319 --> 00:02:11,720
-एंड्स में लगे होते हैं जब सबमरीन सरफेस
+00:02:23,004 --> 00:02:25,971
+Such scenarios are labelled to have negative buoyancy.
 
 49
-00:02:11,720 --> 00:02:13,560
-पर होती है तो इनमें हवा भरी जाती है
+00:02:25,971 --> 00:02:28,859
+It indicates the control of a submarine's depth
 
 50
-00:02:13,560 --> 00:02:16,040
-जिसकी मदद से वो फ्लोट कर पाती है और पानी
+00:02:28,859 --> 00:02:31,714
+by adjusting the water level in its ballast tanks.
 
 51
-00:02:16,040 --> 00:02:17,760
-के अंदर ले जाने के लिए इन्हीं बैलेस
+00:02:31,714 --> 00:02:34,524
+This mechanism governs vertical 
+movement for ascending and descending.
 
 52
-00:02:17,760 --> 00:02:19,519
-टैंक्स को पानी से भरा जाता है ताकि
+00:02:34,524 --> 00:02:36,775
+For lateral movement, 
+such as turning sideways in the water,
 
 53
-00:02:19,519 --> 00:02:22,840
-सबमरीन का वजन बढ़े और वो अंदर डूबने लगे
+00:02:36,775 --> 00:02:39,388
+a Rudder is employed.
 
 54
-00:02:22,840 --> 00:02:25,040
-ऐसे केस में हम कहेंगे यहां पर नेगेटिव
+00:02:39,388 --> 00:02:41,096
+It looks like this.
 
 55
-00:02:25,040 --> 00:02:27,640
-बंसी है तो एक सबमरीन की डेप्थ यहां पर
+00:02:41,096 --> 00:02:43,208
+It is known as a Vertical Rudder.
 
 56
-00:02:27,640 --> 00:02:29,920
-कंट्रोल करी जाती है बैलेस टैंक्स में
+00:02:43,208 --> 00:02:46,648
+This facilitates horizontal movement in the water.
 
 57
-00:02:29,920 --> 00:02:32,200
-वाटर लेवल एडजस्ट करके यह तो हो गई
+00:02:46,648 --> 00:02:50,480
+Similar rudders are used in boats, ships, and aircraft.
 
 58
-00:02:32,200 --> 00:02:34,560
-वर्टिकल मूवमेंट ऊपर नीचे जाने के लिए अब
+00:02:50,480 --> 00:02:54,298
+Additionally, forward and backward motion 
+is achieved through the use of a propeller,
 
 59
-00:02:34,560 --> 00:02:36,720
-पानी के अंदर अगर साइड में मुड़ना है तो
+00:02:54,298 --> 00:02:56,320
+essentially a fan.
 
 60
-00:02:36,720 --> 00:02:39,519
-इसके लिए एक रडर का इस्तेमाल किया जाता है
+00:02:59,849 --> 00:03:01,681
+While navigating underwater,
 
 61
-00:02:39,519 --> 00:02:42,440
-जो कुछ ऐसा दिखता है इसे वर्टिकल रडर कहा
+00:03:01,681 --> 00:03:03,542
+a reliable means of orientation is essential.
 
 62
-00:02:42,440 --> 00:02:45,000
-जाता है और इससे हॉरिजॉन्टल मूवमेंट
+00:03:03,542 --> 00:03:06,030
+Sonar technology serves this purpose.
 
 63
-00:02:45,000 --> 00:02:47,319
-पॉसिबल है पानी के अंदर एक सिमिलर रडर
+00:03:06,030 --> 00:03:09,840
+It operates based on sound.
 
 64
-00:02:47,319 --> 00:02:49,680
-लगाया जाता है बोट्स शिप्स और इवन हवाई
+00:03:09,840 --> 00:03:12,366
+There are two main types of sonar technologies:
 
 65
-00:02:49,680 --> 00:02:52,200
-जहाज में भी इसके बाद आगे पीछे जाने के
+00:03:12,366 --> 00:03:14,448
+active sonar and passive sonar.
 
 66
-00:02:52,200 --> 00:02:54,519
-लिए इस्तेमाल किया जाता है प्रोपेलर का जो
+00:03:14,448 --> 00:03:17,486
+Active sonar involves emitting sound from the submarine.
 
 67
-00:02:54,519 --> 00:02:58,280
-कि बेसिकली यह पंखा है घूमने
+00:03:17,486 --> 00:03:20,334
+The sound travels through the water,
 
 68
-00:02:58,760 --> 00:03:01,560
-वाला अब पानी के अंदर घूमते हुए रास्ता
+00:03:20,334 --> 00:03:24,156
+collides with objects, and upon 
+reflection back to the submarine,
 
 69
-00:03:01,560 --> 00:03:03,560
-ढूंढने की भी जरूरत होती है और उसके लिए
+00:03:24,156 --> 00:03:27,094
+the time and distance calculations
 
 70
-00:03:03,560 --> 00:03:06,040
-इस्तेमाल किया जाता है सोना टेक्नोलॉजी का
+00:03:27,094 --> 00:03:30,882
+provide information about the submarine's 
+location and the surrounding environment.
 
 71
-00:03:06,040 --> 00:03:08,799
-सोना टेक्नोलॉजी साउंड पर रिलाई करती है
+00:03:30,882 --> 00:03:33,723
+In contrast, passive sonar does not emit sound
 
 72
-00:03:08,799 --> 00:03:11,120
-आवाज पर मोटे-मोटे तौर पर दो तरीके की
+00:03:33,723 --> 00:03:36,960
+but rather detects sounds from other 
+sources, such as enemy submarines,
 
 73
-00:03:11,120 --> 00:03:13,360
-सोनार टेक्नोलॉजीज होती हैं एक्टिव सोनर
+00:03:36,960 --> 00:03:41,305
+by listening to their engine and propeller noises 
 
 74
-00:03:13,360 --> 00:03:16,000
-और पैसिव सोनर एक्टिव सनर में सबमरीन की
+00:03:41,305 --> 00:03:44,952
+to determine their distance.
 
 75
-00:03:16,000 --> 00:03:17,799
-तरफ से साउंड निकाली जाती है और जब वो
+00:03:44,952 --> 00:03:48,785
+However, the use of sonar technology 
+has adverse effects on marine life,
 
 76
-00:03:17,799 --> 00:03:20,440
-आवाज पानी के अंदर ट्रेवल करके किसी चीज
+00:03:48,785 --> 00:03:50,872
+impacting creatures like whales and dolphins,
 
 77
-00:03:20,440 --> 00:03:23,400
-से टकरा कर वापस रिफ्लेक्ट होकर सबमरीन तक
+00:03:50,872 --> 00:03:54,638
+which also rely on sonar for communication.
 
 78
-00:03:23,400 --> 00:03:26,000
-पहुंचती है उस टाइम से डिस्टेंस कैलकुलेट
+00:03:54,638 --> 00:03:59,261
+To address this concern, some submarines 
+are exploring alternative technologies
 
 79
-00:03:26,000 --> 00:03:27,920
-किया जाता है जिससे अंदाजा लग पाता है कि
+00:03:59,261 --> 00:04:01,250
+such as LiDAR,
 
 80
-00:03:27,920 --> 00:03:30,599
-सबमरीन कहां पर है आगे क्या चीज मौजूद है
+00:04:01,250 --> 00:04:03,501
+Light Detection and Ranging.
 
 81
-00:03:30,599 --> 00:03:32,680
-पैसिव सोनर में सबमरीन अपनी तरफ से कोई
+00:04:03,501 --> 00:04:07,229
+LiDAR employs light to estimate distance
 
 82
-00:03:32,680 --> 00:03:35,000
-आवाज नहीं निकालती बल्कि बाकी और एनेमी
+00:04:07,229 --> 00:04:11,059
+and is already integrated into many modern smartphones.
 
 83
-00:03:35,000 --> 00:03:37,799
-सबमरींस को डिटेक्ट करने के लिए उनकी इंजन
+00:04:11,059 --> 00:04:13,484
+Another alternative is using RADAR
 
 84
-00:03:37,799 --> 00:03:40,680
-की साउंड उनके प्रोपेलर की आवाज को पकड़ा
+00:04:13,484 --> 00:04:15,603
+Radio Detection and Ranging,
 
 85
-00:03:40,680 --> 00:03:42,840
-जाता है और उससे अंदाजा लगाया जाता है कि
+00:04:15,603 --> 00:04:18,899
+it is effective above water and in aircrafts
 
 86
-00:03:42,840 --> 00:03:45,280
-वो एनेमी सबमरीन कितनी दूर है इस सोना
+00:04:18,899 --> 00:04:21,952
+which utilizes radio waves to calculate distances.
 
 87
-00:03:45,280 --> 00:03:47,400
-टेक्नोलॉजी से पानी के अंदर मौजूद मरीन
+00:04:21,952 --> 00:04:28,201
+but is limited underwater due to the 
+restricted transmission of radio waves.
 
 88
-00:03:47,400 --> 00:03:49,519
-लाइफ वेल्स और डॉल्फिंस पर एक बुरा असर
+00:04:28,201 --> 00:04:31,103
+Lastly, emerging technologies are being 
+explored as potential alternatives like
 
 89
-00:03:49,519 --> 00:03:51,319
-पड़ता है क्योंकि वेल्स और डॉल्फिंस भी
+00:04:31,103 --> 00:04:34,337
+MRS 
+Magnetic Anomaly Detection System
 
 90
-00:03:51,319 --> 00:03:53,159
-सोनार का इस्तेमाल करती हैं एक दूसरे से
+00:04:34,337 --> 00:04:36,019
+or Gravitational Anomaly Detection System.
 
 91
-00:03:53,159 --> 00:03:55,439
-कम्युनिकेट करने के लिए तो इसी के चलते
+00:04:36,019 --> 00:04:39,364
+However, the bottom line is that today,
 
 92
-00:03:55,439 --> 00:03:57,680
-कुछ सबमरींस में नई टेक्नोलॉजीज यूज करने
+00:04:39,364 --> 00:04:41,385
+the predominant technology employed 
+in submarines is Sonar.
 
 93
-00:03:57,680 --> 00:04:00,239
-की भी कोशिश करी जा रही है जैसे कि लाइडर
+00:04:41,385 --> 00:04:46,286
+Multiple Sonar sensors are strategically 
+installed around submarines
 
 94
-00:04:00,239 --> 00:04:02,079
-की टेक्नोलॉजी इसका फुल फॉर्म है लाइट
+00:04:46,286 --> 00:04:49,330
+to continuously collect and monitor data,
 
 95
-00:04:02,079 --> 00:04:04,439
-डिटेक्शन एंड रेंजिन बेसिकली लाइट का
+00:04:49,330 --> 00:04:53,266
+ensuring there are no obstacles or hazards in their path.
 
 96
-00:04:04,439 --> 00:04:06,720
-इस्तेमाल किया जाता है डिस्टेंस एस्टिमेटर
+00:04:53,266 --> 00:04:56,528
+This underscores the vital role of data science,
 
 97
-00:04:06,720 --> 00:04:08,760
-के लिए यह टेक्नोलॉजी कई लेटेस्ट
+00:04:56,528 --> 00:04:59,799
+whether in space, on ground or underwater,
 
 98
-00:04:08,760 --> 00:04:10,760
-स्मार्टफोंस पर भी आपको मिल जाएगी आज के
+00:04:59,799 --> 00:05:02,878
+it is a necessity in almost every domain.
 
 99
-00:04:10,760 --> 00:04:13,360
-दिन दूसरा एक ऑप्शन है रेडर की टेक्नोलॉजी
+00:05:02,878 --> 00:05:08,230
+Unsurprisingly, data science has emerged 
+as one of the most lucrative career options.
 
 100
-00:04:13,360 --> 00:04:16,120
-रेडियो डिटेक्शन एंड रेंजिन पानी के ऊपर
+00:05:08,230 --> 00:05:11,649
+If you're keen on upskilling in this field,
 
 101
-00:04:16,120 --> 00:04:18,440
-और एरोप्लेंस के द्वारा इसी का इस्तेमाल
+00:05:11,649 --> 00:05:16,168
+Scaler.com, our video sponsor, 
+is an excellent choice.
 
 102
-00:04:18,440 --> 00:04:20,359
-किया जाता है रेडियो वेव्स के जरिए
+00:05:16,510 --> 00:05:18,503
+Scaler is an online tech learning academy
 
 103
-00:04:20,359 --> 00:04:22,280
-डिस्टेंस डिटेक्ट किया जाता है लेकिन पानी
+00:05:18,503 --> 00:05:22,819
+offering programs in software development, 
+data science, and machine learning.
 
 104
-00:04:22,280 --> 00:04:24,479
-के अंदर ये अनफॉर्चूनेटली काम नहीं करता
+00:05:22,819 --> 00:05:25,762
+Collaborating with top tech companies, 
+Scaler provides guidance from industry experts,
 
 105
-00:04:24,479 --> 00:04:26,040
-क्योंकि रेडियो बेस पानी के अंदर
+00:05:25,762 --> 00:05:27,780
+to guide and mentor the learners.
 
 106
-00:04:26,040 --> 00:04:28,240
-अनफॉर्चूनेटली ज्यादा ट्रेवल नहीं कर पाती
+00:05:27,780 --> 00:05:32,102
+If you enroll with them, you will get access 
+to three-hours worth of learning daily
 
 107
-00:04:28,240 --> 00:04:30,240
-तीसरा कुछ नई टेक्नोलॉजीज है जिन पर काम
+00:05:32,102 --> 00:05:34,657
+and to over 80 real-world case studies.
 
 108
-00:04:30,240 --> 00:04:32,560
-चलने लग रहा है जैसे कि एमआरएस मैग्नेटिक
+00:05:34,657 --> 00:05:39,076
+Scaler reports that those who work hard and complete these programs
 
 109
-00:04:32,560 --> 00:04:35,360
-एनमल डिटेक्शन सिस्टम या ग्रेविटेशनल एनमल
+00:05:39,076 --> 00:05:42,654
+report an average salary increase of 126%,
 
 110
-00:04:35,360 --> 00:04:37,680
-डिटेक्शन लेकिन कुल मिलाकर बात यह है कि
+00:05:42,654 --> 00:05:46,336
+and an impressive 93.5% of learners
 
 111
-00:04:37,680 --> 00:04:39,759
-आज के दिन ज्यादातर सबमरीन सर की
+00:05:46,336 --> 00:05:48,380
+secure placements in leading tech firms
 
 112
-00:04:39,759 --> 00:04:41,759
-टेक्नोलॉजी पर काम करती है और इसके लिए
+00:05:48,380 --> 00:05:50,351
+such as Google, Facebook, Flipkart, Myntra,
 
 113
-00:04:41,759 --> 00:04:43,840
-किसी भी सबमरीन पर एक नहीं बल्कि ढेर सारे
+00:05:50,351 --> 00:05:51,526
+Amazon, and Zomato.
 
 114
-00:04:43,840 --> 00:04:46,199
-सर सेंसर्स लगे होते हैं उसके चारों तरफ
+00:05:51,526 --> 00:05:54,808
+Scaler also offers an easy 2-year EMI option
 
 115
-00:04:46,199 --> 00:04:48,160
-कंटीन्यूअसली उन सब से डेटा कलेक्ट करके
+00:05:54,808 --> 00:05:56,375
+with 0% interest.
 
 116
-00:04:48,160 --> 00:04:49,880
-मॉनिटर किया जाता है ये इंश्योर करने के
+00:05:56,375 --> 00:06:00,439
+If you think this can be useful to you
+to give a boost to your career
 
 117
-00:04:49,880 --> 00:04:51,880
-लिए कि सबमरीन के आगे कोई ऑब्स्ट कल्स या
+00:06:00,439 --> 00:06:02,006
+you can check out Scaler's website
 
 118
-00:04:51,880 --> 00:04:54,560
-हैज तो नहीं है इससे आपको इंपॉर्टेंस पता
+00:06:02,006 --> 00:06:04,578
+using the link in the description below.
 
 119
-00:04:54,560 --> 00:04:57,400
-चल जानी चाहिए डेटा साइंस की चाहे स्पेस
+00:06:04,578 --> 00:06:06,786
+You can also attend a free live class to
 
 120
-00:04:57,400 --> 00:05:00,400
-हो धरती हो या पानी के अंदर हो डेटा साइंस
+00:06:06,786 --> 00:06:08,460
+experience their offerings firsthand.
 
 121
-00:05:00,400 --> 00:05:02,720
-की जरूरत ऑलमोस्ट हर फील्ड में पड़ती है
+00:06:08,460 --> 00:06:10,798
+The link is in the description below.
 
 122
-00:05:02,720 --> 00:05:04,440
-इसलिए कोई हैरानी की बात नहीं कि डेटा
+00:06:10,798 --> 00:06:13,988
+Now, let's delve into the inner workings of a submarine.
 
 123
-00:05:04,440 --> 00:05:06,280
-साइंस आज के दिन वन ऑफ द मोस्ट लुक्रेटिव
+00:06:13,988 --> 00:06:18,676
+Typically, an armed military submarine 
+consists of three levels or decks.
 
 124
-00:05:06,280 --> 00:05:09,080
-करियर ऑप्शंस बन चुका है और इस डटा साइंस
+00:06:18,676 --> 00:06:21,957
+This video will mostly focus on military submarines,
 
 125
-00:05:09,080 --> 00:05:10,759
-की फील्ड में अगर आप अपने आप को ऑ स्किल
+00:06:21,957 --> 00:06:26,463
+as they constitute the majority of submarines worldwide.
 
 126
-00:05:10,759 --> 00:05:13,000
-करना चाहते हैं तो scor.com एक बहुत ही
+00:06:26,463 --> 00:06:30,105
+It's worth noting that the designs of 
+research and tourism submarines may differ.
 
 127
-00:05:13,000 --> 00:05:15,039
-बढ़िया ऑप्शन है जो कि आज के वीडियो के
+00:06:30,105 --> 00:06:33,734
+For instance, the Titan submersible gained attention a few months ago
 
 128
-00:05:15,039 --> 00:05:17,520
-स्पंस पर भी है स्केलर एक ऑनलाइन टेक
+00:06:33,734 --> 00:06:35,250
+due to its accident,
 
 129
-00:05:17,520 --> 00:05:19,680
-लर्निंग एकेडमी है जो सॉफ्टवेयर डेवलपमेंट
+00:06:35,250 --> 00:06:37,762
+and I've covered it in a separate video if you're interested in learning more.
 
 130
-00:05:19,680 --> 00:05:21,199
-डेटा साइंस और मशीन लर्निंग में
+00:06:37,762 --> 00:06:38,930
+If you're interested, you can check out the 
+detailed video.
 
 131
-00:05:21,199 --> 00:05:24,000
-प्रोग्राम्स ऑफर करती है ये टॉप टेक कंपनी
+00:06:38,930 --> 00:06:40,218
+The link is in the description.
 
 132
-00:05:24,000 --> 00:05:25,680
-से इंडस्ट्री एक्सपर्ट्स लेकर आते हैं
+00:06:40,218 --> 00:06:41,831
+Now, turning our attention to military submarines.
 
 133
-00:05:25,680 --> 00:05:27,960
-लर्नर्स को गाइड और मेंटर करने के लिए और
+00:06:41,831 --> 00:06:44,873
+The topmost deck of a military submarine 
+is typically outfitted with torpedoes,
 
 134
-00:05:27,960 --> 00:05:30,120
-अगर आप इनके थ्रू पढ़ेंगे तो आप आपको डेली
+00:06:44,873 --> 00:06:46,511
+which serve as weapons.
 
 135
-00:05:30,120 --> 00:05:32,240
-3 घंटे की लर्निंग मिलेगी विद एक्सेस टू
+00:06:46,511 --> 00:06:48,466
+The lowest deck houses battery rooms
 
 136
-00:05:32,240 --> 00:05:35,080
-ओवर 80 रियल वर्ल्ड केस स्टडीज स्केलर का
+00:06:48,466 --> 00:06:50,487
+that supply electricity to the submarine,
 
 137
-00:05:35,080 --> 00:05:36,720
-दावा है कि जिन लर्नर्स ने मेहनत करके
+00:06:50,487 --> 00:06:52,917
+and sandwiched in between are the diesel machine,
 
 138
-00:05:36,720 --> 00:05:38,479
-अपना कोर्स कंप्लीट किया स्केलर के साथ
+00:06:52,917 --> 00:06:57,153
+motor room, and the nerve center 
+known as the control room.
 
 139
-00:05:38,479 --> 00:05:40,199
-उन्होंने ऑन एवरेज
+00:06:57,153 --> 00:07:00,465
+Positioned above the control room, 
+you'll usually find a conning tower
 
 140
-00:05:40,199 --> 00:05:43,360
-126 का सैलरी हाइक देखा और ये ये भी कहते
+00:07:00,465 --> 00:07:03,813
+an essential component serving as 
+the submarine's attack center.
 
 141
-00:05:43,360 --> 00:05:46,479
-हैं कि 93.5 स्केलर के लर्नर्स को प्लेस
+00:07:03,813 --> 00:07:05,761
+The conning tower is equipped with various instruments,
 
 142
-00:05:46,479 --> 00:05:49,199
-किया गया है टॉप टेक कंपनीज में जैसे कि
+00:07:05,761 --> 00:07:09,704
+including periscopes for observing the surroundings,
 
 143
-00:05:49,199 --> 00:05:53,160
-google3 amazon2 ये एक इजी ईएमआई ऑप्शन भी
+00:07:09,704 --> 00:07:12,870
+electronic antennas, and access points for arms.
 
 144
-00:05:53,160 --> 00:05:55,560
-ऑफर करते हैं 2 साल के लिए जिसमें 0 पर
+00:07:12,870 --> 00:07:17,779
+It also serves as the main entry and exit point
 
 145
-00:05:55,560 --> 00:05:57,560
-इंटरेस्ट है तो अगर आपको लगता है कि आपके
+00:07:17,779 --> 00:07:21,478
+for individuals entering or leaving the submarine.
 
 146
-00:05:57,560 --> 00:05:59,120
-लिए यूज़फुल हो सकता है आपके करियर को
+00:07:21,478 --> 00:07:24,366
+Torpedoes are stored in torpedo tubes.
 
 147
-00:05:59,120 --> 00:06:01,199
-ग्रो करने के लिए इनकी वेबसाइट जाकर चेक
+00:07:24,366 --> 00:07:27,701
+These are basically self-propelled underwater missiles.
 
 148
-00:06:01,199 --> 00:06:03,680
-आउट करिए इसका लिंक नीचे डिस्क्रिप्शन में
+00:07:27,701 --> 00:07:31,841
+These tubes are cylindrical containers 
+designed to house these cylindrical missiles.
 
 149
-00:06:03,680 --> 00:06:06,160
-मिल जाएगा आप एक फ्री लाइव क्लास लेकर भी
+00:07:35,870 --> 00:07:39,630
+In modern submarines, torpedoes 
+are typically placed at the front.
 
 150
-00:06:06,160 --> 00:06:08,440
-देख सकते हैं खुद ही से ही जज करने के लिए
+00:07:39,630 --> 00:07:43,685
+However, in the 2017 Bollywood film 'Ghazi Attack,'
 
 151
-00:06:08,440 --> 00:06:10,840
-उसका भी लिंक नीचे डिस्क्रिप्शन में है अब
+00:07:43,685 --> 00:07:48,414
+the depiction of a submarine featured 
+torpedoes at both the front and back.
 
 152
-00:06:10,840 --> 00:06:12,919
-सबमरीन के अंदर एक नजर डालते हैं अंदर
+00:07:48,414 --> 00:07:51,819
+This was historically accurate as powerful submarines back then
 
 153
-00:06:12,919 --> 00:06:15,199
-क्या कुछ मौजूद है टिपिकली एक आम मिलिट्री
+00:07:51,819 --> 00:07:54,276
+indeed had torpedoes at both ends
 
 154
-00:06:15,199 --> 00:06:17,280
-सबमरींस में तीन लेवल्स होते हैं जिन्हें
+00:07:54,276 --> 00:07:57,680
+because torpedoes could only travel 
+in a straight line at the time.
 
 155
-00:06:17,280 --> 00:06:19,360
-तीन डेक्स कहा जाता है मैं इस वीडियो में
+00:08:02,341 --> 00:08:04,073
+An intriguing aspect is that
 
 156
-00:06:19,360 --> 00:06:21,360
-मोस्टली मिलिट्री सबमरींस पर ही फोकस
+00:08:04,073 --> 00:08:08,417
+these torpedo tubes can also be used as 
+emergency escape routes from submarines.
 
 157
-00:06:21,360 --> 00:06:23,280
-करूंगा क्योंकि ज्यादातर सबमरींस आज के
+00:08:08,417 --> 00:08:11,543
+Nevertheless, escaping through them is no easy feat.
 
 158
-00:06:23,280 --> 00:06:24,880
-दिन जो दुनिया में एजिस्ट करती है वो
+00:08:11,543 --> 00:08:17,197
+The tubes have a narrow diameter, 
+measuring only 12.75 inches for light torpedoes
 
 159
-00:06:24,880 --> 00:06:27,039
-मिलिट्री सबमरींस है बाकी जो रिसर्च और
+00:08:17,197 --> 00:08:20,092
+and 21 inches for heavy torpedoes.
 
 160
-00:06:27,039 --> 00:06:28,639
-टूरिज्म के लिए सबमरींस होती है उनके
+00:08:20,092 --> 00:08:21,730
+First of all, this is an extremely narrow space.
 
 161
-00:06:28,639 --> 00:06:30,479
-डिजाइन अलग-अलग हो सकते हैं जैसे कि ये
+00:08:21,730 --> 00:08:25,063
+Additionally, individuals attempting to escape 
+must wear a 23 kg escape
 
 162
-00:06:30,479 --> 00:06:33,120
-टाइटन सबमरीन थी कुछ महीने पहले फेमस हुई
+00:08:25,063 --> 00:08:27,487
+suit due to the immense water pressure at those depths.
 
 163
-00:06:33,120 --> 00:06:36,080
-थी अपने हादसे की वजह से इसको समझना है तो
+00:08:27,487 --> 00:08:31,926
+One can't simply exit the submarine at those depths.
 
 164
-00:06:36,080 --> 00:06:37,759
-इस पर मैंने एक अलग से वीडियो बनाया था उस
+00:08:31,926 --> 00:08:34,544
+The immense pressure of the water 
+would crush the unprepared instantly.
 
 165
-00:06:37,759 --> 00:06:39,080
-वीडियो को जाकर देख सकते हो लिंक
+00:08:34,544 --> 00:08:36,988
+Officers working in submarines
 
 166
-00:06:39,080 --> 00:06:40,599
-डिस्क्रिप्शन में है लेकिन मिलिट्री
+00:08:36,988 --> 00:08:39,859
+undergo rigorous training for six months.
 
 167
-00:06:40,599 --> 00:06:42,680
-सबमरींस पर आए तो सबसे ऊपर के डेक पर
+00:08:44,994 --> 00:08:47,962
+India's sole military submarine training establishment,
 
 168
-00:06:42,680 --> 00:06:45,560
-यूजुअली रखे होते हैं टोरपीडो जो कि है
+00:08:47,962 --> 00:08:52,322
+INS Satavahana, 
+is located in Vishakhapatnam city.
 
 169
-00:06:45,560 --> 00:06:48,400
-हथियार सबसे नीचे बैटरी रूम्स होते हैं
+00:08:52,322 --> 00:08:55,794
+At this training facility, numerous replicas 
+of torpedo tubes are available
 
 170
-00:06:48,400 --> 00:06:50,960
-जिससे बिजली मिलती है सबमरीन को और बीच
+00:08:55,794 --> 00:08:59,202
+for officers to practice emergency escapes.
 
 171
-00:06:50,960 --> 00:06:54,280
-में डीजल मशीन होती है मोटर रूम और एक
+00:08:59,202 --> 00:09:00,715
+Now, let's delve into the submarine's power source
 
 172
-00:06:54,280 --> 00:06:56,960
-नर्फ सेंटर जिसे कंट्रोल रूम कहा जाता है
+00:09:00,715 --> 00:09:03,041
+where does it get the energy to operate?
 
 173
-00:06:56,960 --> 00:06:59,039
-टिपिकली कंट्रोल रूम के ऊपर एक कॉर्निंग
+00:09:03,041 --> 00:09:05,362
+The answer depends on the type of submarine,
 
 174
-00:06:59,039 --> 00:07:01,599
-टावर भी मिलेगा आपको कॉनिंग टावर क्या है
+00:09:05,362 --> 00:09:07,842
+with two primary categories in India:
 
 175
-00:07:01,599 --> 00:07:04,080
-ये एक सबमरीन का अटैक सेंटर है बहुत सी
+00:09:07,842 --> 00:09:10,134
+conventional submarines and nuclear submarines.
 
 176
-00:07:04,080 --> 00:07:05,800
-इक्विपमेंट यहां पर मौजूद है जैसे कि
+00:09:10,134 --> 00:09:14,177
+Conventional submarines utilize large electrical batteries,
 
 177
-00:07:05,800 --> 00:07:08,840
-पेरिस्कोप जिसके थ्रू देखा जा सकता है आगे
+00:09:14,177 --> 00:09:21,193
+akin to car batteries, but these 
+require recharging every 2-3 days.
 
 178
-00:07:08,840 --> 00:07:10,840
-की तरफ इलेक्ट्रॉनिक एंटीनास यहां से
+00:09:21,193 --> 00:09:23,193
+To recharge these batteries,
 
 179
-00:07:10,840 --> 00:07:12,520
-गुजरते हैं आर्म्स यहां से गुजरती है और
+00:09:23,193 --> 00:09:24,966
+a diesel engine is needed.
 
 180
-00:07:12,520 --> 00:07:15,720
-यूजुअली इस कॉनिंग टावर को ही एंट्रेंस और
+00:09:24,966 --> 00:09:27,799
+However, operating a diesel engine
 
 181
-00:07:15,720 --> 00:07:17,599
-एग्जिट के लिए इस्तेमाल किया जाता है
+00:09:27,799 --> 00:09:30,271
+necessitates oxygen from the air.
 
 182
-00:07:17,599 --> 00:07:19,520
-लोगों को सबमरीन के अंदर जाना है और बाहर
+00:09:30,271 --> 00:09:33,632
+Since submarines operate underwater,
 
 183
-00:07:19,520 --> 00:07:22,199
-निकलना है तो यहीं से ही होता है टोरपीडो
+00:09:33,632 --> 00:09:41,676
+they must resurface to run the 
+diesel engine and recharge the batteries.
 
 184
-00:07:22,199 --> 00:07:24,560
-रखे जाते हैं टोरपीडो ट्यूब्स के अंदर और
+00:09:45,126 --> 00:09:47,916
+In contrast, nuclear submarines don't have this problem. 
 
 185
-00:07:24,560 --> 00:07:26,800
-ये बेसिकली सेल्फ प्रोपेल्ड अंडरवाटर
+00:09:47,916 --> 00:09:53,517
+They employ a nuclear reactor instead 
+of a diesel engine to generate electricity.
 
 186
-00:07:26,800 --> 00:07:29,680
-मिसाइल्स है ऐसी सिलेंडर कल सी मिसाइल
+00:09:53,517 --> 00:09:57,237
+This allows them to remain submerged for extended periods,
 
 187
-00:07:29,680 --> 00:07:31,199
-जिन्हें इन सिलेंडर कल ट्यूब्स के अंदर
+00:09:57,237 --> 00:10:00,334
+limited only by the human factors,
 
 188
-00:07:31,199 --> 00:07:33,680
-रखा जा रहा
+00:10:00,334 --> 00:10:03,248
+such as the availability of food 
+and provisions for the crew.
 
 189
-00:07:34,639 --> 00:07:38,120
-है मॉडर्न सबमरींस में टोरपीडो सबमरींस के
+00:10:03,248 --> 00:10:07,923
+The submarines can remained submerged 
+as long as there's sufficient provisions for the crew.
 
 190
-00:07:38,120 --> 00:07:40,280
-आगे फ्रंट में रखे जाते हैं लेकिन अगर
+00:10:07,923 --> 00:10:10,068
+Examining the structure of a submarine,
 
 191
-00:07:40,280 --> 00:07:42,840
-आपको याद हो 2017 की बॉलीवुड फिल्म गाजी
+00:10:10,068 --> 00:10:13,607
+the outer layer is typically composed of rubber.
 
 192
-00:07:42,840 --> 00:07:45,400
-अटैक जो आई थी जिसमें सबमरीन दिखाई गई थी
+00:10:13,607 --> 00:10:15,262
+This reason for strategic choice is quite simple actually.
 
 193
-00:07:45,400 --> 00:07:47,919
-जहां पर टोरपीडो फ्रंट में भी थे और बैक
+00:10:15,262 --> 00:10:18,223
+Because rubber effectively absorbs sound,
 
 194
-00:07:47,919 --> 00:07:49,879
-में भी थे ऐसा क्यों क्योंकि उस जमाने में
+00:10:18,223 --> 00:10:21,855
+making it challenging to detect submarines in the water.
 
 195
-00:07:49,879 --> 00:07:52,039
-जो पावरफुल सबमरींस होती थी उनमें टोरपीडो
+00:10:21,855 --> 00:10:24,290
+Military submarines are designed to be elusive,
 
 196
-00:07:52,039 --> 00:07:53,960
-दोनों जगह लगाए जाते थे आगे और पीछे
+00:10:24,290 --> 00:10:27,906
+ensuring they are not easily spotted by enemy counterparts.
 
 197
-00:07:53,960 --> 00:07:55,840
-क्योंकि उस जमाने में टोरपीडो सिर्फ
+00:10:27,906 --> 00:10:31,563
+The black layer visible in submarine photos
 
 198
-00:07:55,840 --> 00:07:58,319
-स्ट्रेट लाइन में ट्रेवल कर सकते
+00:10:31,563 --> 00:10:32,992
+is made of rubber.
 
 199
-00:07:58,319 --> 00:08:01,319
-थे
+00:10:32,992 --> 00:10:35,436
+Moving to the interior, the primary body 
+of the submarine within the rubber layer
 
 200
-00:08:02,120 --> 00:08:03,840
-एक इंटरेस्टिंग चीज यहां पर यह है कि इन
+00:10:35,436 --> 00:10:36,831
+is referred to as the Hull.
 
 201
-00:08:03,840 --> 00:08:05,680
-टोरपीडो ट्यूब्स का इस्तेमाल किया जाता है
+00:10:36,831 --> 00:10:38,796
+There are two common types of hulls:
 
 202
-00:08:05,680 --> 00:08:08,440
-इमरजेंसी एस्केप करने के लिए सबमरीन से
+00:10:38,796 --> 00:10:40,877
+single hull and double hull.
 
 203
-00:08:08,440 --> 00:08:10,319
-लेकिन एक्चुअली में इनके थ्रू एस्केप करना
+00:10:40,877 --> 00:10:44,380
+Single hull submarines have only one layer of the main body,
 
 204
-00:08:10,319 --> 00:08:12,159
-कोई आसान काम नहीं है क्योंकि इन ट्यूब्स
+00:10:44,380 --> 00:10:47,238
+while double hull submarines consist of two layers of the main body.
 
 205
-00:08:12,159 --> 00:08:15,680
-का डायमीटर सिर्फ 12.75 इंच होता है आमतौर
+00:10:47,238 --> 00:10:48,748
+In the double hull design,
 
 206
-00:08:15,680 --> 00:08:17,840
-पर लाइट टोरपीडो के लिए और बड़े जो हैवी
+00:10:48,748 --> 00:10:51,488
+the ballast tank is integrated,
 
 207
-00:08:17,840 --> 00:08:19,879
-टोरपीडो होते हैं उनके लिए 21 इंच होता है
+00:10:51,488 --> 00:10:53,811
+with water filling the space between the two layers,
 
 208
-00:08:19,879 --> 00:08:22,039
-तो पहली चीज तो जगह ही इतनी कम है दूसरा
+00:10:53,811 --> 00:10:56,500
+effectively serving as a ballast tank.
 
 209
-00:08:22,039 --> 00:08:24,400
-आपको एक 23 किलो का एस्केप सूट भी पहनना
+00:10:56,500 --> 00:10:58,518
+The clear advantage of a double hull configuration
 
 210
-00:08:24,400 --> 00:08:26,720
-होता है क्योंकि जब समुद्र के इतने नीचे
+00:10:58,518 --> 00:11:00,546
+lies in providing an additional layer of protection.
 
 211
-00:08:26,720 --> 00:08:29,440
-मौजूद हो गे अगर ऐसे ही बाहर निकल के परर
+00:11:00,546 --> 00:11:02,045
+In the event of a collision,
 
 212
-00:08:29,440 --> 00:08:31,280
-तैरने की सोच रहे हो तो यह मत सोचना
+00:11:02,045 --> 00:11:03,668
+a double hull submarine offers enhanced security.
 
 213
-00:08:31,280 --> 00:08:33,440
-क्योंकि पूरा जो पानी का प्रेशर है वही
+00:11:03,668 --> 00:11:05,588
+Most modern military submarines
 
 214
-00:08:33,440 --> 00:08:35,760
-आपको कुचल देगा इसलिए जो ऑफिसर्स एक्चुअली
+00:11:05,588 --> 00:11:07,815
+adopt the double hull design,
 
 215
-00:08:35,760 --> 00:08:37,479
-में इन सबमरींस में काम करते हैं उन्हें 6
+00:11:07,815 --> 00:11:10,403
+not only for added protection 
+but also to better withstand water pressure
 
 216
-00:08:37,479 --> 00:08:41,399
-महीने की बड़ी रिगस ट्रेनिंग करनी पड़ती
+00:11:10,403 --> 00:11:12,054
+as illustrated by the incident involving the Titan submersible's
 
 217
-00:08:43,720 --> 00:08:46,680
-है इंडिया का इकलौता मिलिट्री सबमरीन
+00:11:12,054 --> 00:11:14,930
+implosion under water pressure.
 
 218
-00:08:46,680 --> 00:08:48,360
-ट्रेनिंग एस्टेब्लिशमेंट मौजूद है
+00:11:14,930 --> 00:11:18,272
+At the water's surface, the atmospheric pressure is 1 atmosphere,
 
 219
-00:08:48,360 --> 00:08:50,560
-विशाखापट्टनम के शहर में जिसका नाम है
+00:11:18,272 --> 00:11:21,351
+equivalent to 1 kilogram per square centimeter.
 
 220
-00:08:50,560 --> 00:08:53,880
-आईएनएस सत वाहना यहां पे कई रेप्स बनाए गए
+00:11:21,351 --> 00:11:24,306
+As one descends underwater, pressure increases.
 
 221
-00:08:53,880 --> 00:08:55,360
-हैं टोरपीडो ट्यूब्स के जहां पर हमारे
+00:11:24,306 --> 00:11:26,152
+For every 10 meters of depth,
 
 222
-00:08:55,360 --> 00:08:57,160
-ऑफिसर्स ट्रेनिंग करते हैं और प्रैक्टिस
+00:11:26,152 --> 00:11:28,488
+there's an additional 1 kilogram per square meter of pressure.
 
 223
-00:08:57,160 --> 00:08:59,480
-करते हैं ये इमरजेंसी एस्केप की अब अब बात
+00:11:28,488 --> 00:11:34,641
+Military submarines are typically designed 
+to operate at depths of 300-400 meters,
 
 224
-00:08:59,480 --> 00:09:01,519
-करते हैं पावर सोर्स की सबमरींस को चलने
+00:11:34,641 --> 00:11:38,314
+with some capable of reaching depths of 500 meters.
 
 225
-00:09:01,519 --> 00:09:03,519
-के लिए कहां से एनर्जी मिलती है ये डिपेंड
+00:11:38,314 --> 00:11:41,714
+At this depth, the pressure reaches 50 atmospheres
 
 226
-00:09:03,519 --> 00:09:05,800
-करता है सबमरीन की टाइप पर मेनली दो
+00:11:41,714 --> 00:11:44,437
+50 times greater than at the surface.
 
 227
-00:09:05,800 --> 00:09:07,480
-टाइप्स हैं सबमरींस की इंडिया में
+00:11:44,437 --> 00:11:48,208
+Obviously, constructing submarine 
+hulls requires robust materials.
 
 228
-00:09:07,480 --> 00:09:10,120
-कन्वेंशनल सबमरींस और न्यूक्लियर सबमरींस
+00:11:48,208 --> 00:11:50,717
+Not using the right materials
 
 229
-00:09:10,120 --> 00:09:12,480
-कन्वेंशनल सबमरींस में बड़ी इलेक्ट्रिकल
+00:11:50,717 --> 00:11:52,589
+might cause failures or accidents. 
 
 230
-00:09:12,480 --> 00:09:14,600
-बैटरीज का इस्तेमाल किया जाता है जिन्हें
+00:11:52,589 --> 00:11:54,658
+As with the Titan submersible.
 
 231
-00:09:14,600 --> 00:09:17,000
-हर दो-तीन दिन में रिचार्ज करना पड़ता है
+00:11:55,764 --> 00:11:59,759
+Military submarines use high-quality steel alloys,
 
 232
-00:09:17,000 --> 00:09:18,959
-जैसे कि गाड़ी की जो बैटरीज होती है
+00:11:59,759 --> 00:12:04,725
+blending steel with titanium, carbon, 
+aluminium, and other elements.
 
 233
-00:09:18,959 --> 00:09:20,519
-गाड़ियों में जो इलेक्ट्रिक बैटरीज लगी
+00:12:04,725 --> 00:12:07,511
+The complexity of designing a submarine is underscored
 
 234
-00:09:20,519 --> 00:09:22,880
-होती हैं इस बैटरी को रिचार्ज करने के लिए
+00:12:07,511 --> 00:12:11,602
+by the fact that it takes approximately 
+10 years to design a diesel-electric submarine,
 
 235
-00:09:22,880 --> 00:09:25,480
-एक डीजल इंजन की जरूरत होती है लेकिन एक
+00:12:11,602 --> 00:12:16,420
+while a nuclear submarine demands a 
+minimum of 15-17 years at the designing stage.
 
 236
-00:09:25,480 --> 00:09:28,160
-डीजल इंजन को काम करने के लिए ऑक्सीजन की
+00:12:16,420 --> 00:12:21,160
+This intricacy is why India often outsources submarine design
 
 237
-00:09:28,160 --> 00:09:30,519
-जरूरत पड़ती है जो कि हवा में मौजूद है अब
+00:12:21,160 --> 00:12:27,413
+to other countries, such as Russia, Germany, or France.
 
 238
-00:09:30,519 --> 00:09:32,360
-आप सोचोगे कि लेकिन सबमरींस तो पानी के
+00:12:27,413 --> 00:12:30,585
+However, India manufactures its own submarines.
 
 239
-00:09:32,360 --> 00:09:34,680
-अंदर ऑपरेट करती हैं बिल्कुल सही बात है
+00:12:30,585 --> 00:12:34,101
+India's first domestically manufactured 
+submarine was INS Shalki,
 
 240
-00:09:34,680 --> 00:09:37,880
-इसलिए जब भी सबमरीन को अपनी बैटरी रिचार्ज
+00:12:34,101 --> 00:12:39,234
+launched in 1987 during 
+Prime Minister Rajiv Gandhi's tenure.
 
 241
-00:09:37,880 --> 00:09:40,000
-करनी पड़ती है तो इन्हें डीजल इंजन चलाने
+00:12:39,234 --> 00:12:43,173
+and commissioned by the Indian Navy in 1992.
 
 242
-00:09:40,000 --> 00:09:43,480
-के लिए पानी के ऊपर आना पड़ता
+00:12:43,173 --> 00:12:46,005
+On Indian Navy's website, you will see that
 
 243
-00:09:43,959 --> 00:09:47,040
-है लेकिन ये प्रॉब्लम न्यूक्लियर सबमरींस
+00:12:46,005 --> 00:12:48,919
+there are different categories of submarines,
 
 244
-00:09:47,040 --> 00:09:48,880
-में नहीं होती क्योंकि न्यूक्लियर सबमरींस
+00:12:48,919 --> 00:12:50,745
+which are divided into classes.
 
 245
-00:09:48,880 --> 00:09:50,920
-डीजल इंजन की जगह एक न्यूक्लियर रिएक्टर
+00:12:50,745 --> 00:12:52,586
+In India, there are four classes.
 
 246
-00:09:50,920 --> 00:09:53,360
-का इस्तेमाल करती हैं बिजली जनरेट करने के
+00:12:52,586 --> 00:12:57,665
+Sindhughosh, Shishumar, Kalvari, and Arihant.
 
 247
-00:09:53,360 --> 00:09:55,519
-लिए तो न्यूक्लियर सबमरींस पानी के अंदर
+00:12:57,665 --> 00:12:59,653
+The first three classes
 
 248
-00:09:55,519 --> 00:09:57,399
-काफी हफ्तों तक रह सकती हैं लेकिन वहां
+00:12:59,653 --> 00:13:01,545
+are of conventional submarines:
 
 249
-00:09:57,399 --> 00:09:59,640
-फिर लिमिटेशन आ जाती है ह्यूमन फैक्टर की
+00:13:01,545 --> 00:13:04,741
+the Sindhughosh class comprises Russian diesel-powered EKMs,
 
 250
-00:09:59,640 --> 00:10:01,720
-वजह से सबमरीन के अंदर जो लोग हैं उन्हें
+00:13:04,741 --> 00:13:08,289
+the Shishumar class features German SSKs,
 
 251
-00:10:01,720 --> 00:10:03,880
-खाने की जरूरत होती है तो जितना खाना और
+00:13:08,289 --> 00:13:12,812
+and the Kalvari class showcases new French-designed and Indian-built SCORPENEs.
 
 252
-00:10:03,880 --> 00:10:06,000
-राशन उस सबमरीन के अंदर मौजूद है उतने ही
+00:13:12,812 --> 00:13:15,627
+Here, EKMs, SSKs, and SCORPENEs
 
 253
-00:10:06,000 --> 00:10:08,120
-टाइम तक वो पानी के अंदर रह सकती है अब एक
+00:13:15,627 --> 00:13:18,436
+are the nomenclature used for submarines in other countries.
 
 254
-00:10:08,120 --> 00:10:10,519
-सबमरीन की बनावट को देखें तो बाहर की जो
+00:13:18,436 --> 00:13:22,391
+But we classify these submarines into these classes,
 
 255
-00:10:10,519 --> 00:10:12,920
-लेयर होती है सबमरीन पर वो यूजुअली रबर की
+00:13:22,391 --> 00:13:24,371
+These classes of submarines
 
 256
-00:10:12,920 --> 00:10:15,240
-होती है इसके पीछे कारण बड़ा सिंपल है कि
+00:13:24,371 --> 00:13:26,503
+can be compared to the models of cars.
 
 257
-00:10:15,240 --> 00:10:17,040
-रबर साउंड को बड़ी अच्छी तरीके से
+00:13:26,503 --> 00:13:28,512
+Specifically, Sindhughosh comprises 7 submarines,
 
 258
-00:10:17,040 --> 00:10:19,240
-अब्जॉर्ब करती है इससे होता क्या है पानी
+00:13:28,512 --> 00:13:29,940
+Shishumar has 4,
 
 259
-00:10:19,240 --> 00:10:21,360
-के अंदर सबमरींस को डिटेक्ट करना मुश्किल
+00:13:29,940 --> 00:13:32,639
+and the Kalvari class has 5 operational submarines.
 
 260
-00:10:21,360 --> 00:10:23,399
-हो जाता है और यूजुअली कोई भी मिलिट्री
+00:13:32,639 --> 00:13:36,886
+Detailed information about each submarine, 
+including names, can be found on the Indian Navy website,
 
 261
-00:10:23,399 --> 00:10:26,399
-यही चीज चाहेगी कि हमारी सबमरीन दुश्मनों
+00:13:36,886 --> 00:13:39,080
+and the link is provided in the description below.
 
 262
-00:10:26,399 --> 00:10:28,320
-की सबमरींस को ना दिख सके तो जो भी आप
+00:13:39,080 --> 00:13:41,933
+Moving to the category of nuclear submarines,
 
 263
-00:10:28,320 --> 00:10:30,519
-फोटोज देख हो सबमरींस की बाहर की ये जो
+00:13:41,933 --> 00:13:44,829
+India has named its class Arihant,
 
 264
-00:10:30,519 --> 00:10:32,720
-ब्लैक ब्लैक की लेयर है ये रबर की बनी है
+00:13:45,212 --> 00:13:49,253
+Currently, there are two active nuclear submarines in this class,
 
 265
-00:10:32,720 --> 00:10:35,120
-अब रबर के अंदर जो सबमरीन की मेन बॉडी है
+00:13:49,253 --> 00:13:52,383
+with two more under construction in Vishakhapatnam.
 
 266
-00:10:35,120 --> 00:10:37,760
-उसे हल कहा जाता है और टिपिकली दो टाइप के
+00:13:52,383 --> 00:13:55,772
+The Arihant-class submarines have the 
+capability to carry ballistic missiles,
 
 267
-00:10:37,760 --> 00:10:41,040
-हल्स होते हैं सिंगल हल और डबल हल सिंगल
+00:13:55,772 --> 00:13:58,511
+Ballistic missiles are self-guided missiles
 
 268
-00:10:41,040 --> 00:10:43,680
-हल सबमरींस में सिर्फ एक लेयर होती है मेन
+00:13:58,511 --> 00:14:00,658
+that can be equipped with nuclear bombs.
 
 269
-00:10:43,680 --> 00:10:46,000
-बॉडी की और डबल हल सबमरींस में दो मेन
+00:14:00,658 --> 00:14:06,927
+INS Arihant is presently armed with 
+K-15 submarine-launched ballistic missile,
 
 270
-00:10:46,000 --> 00:10:48,360
-बॉडी की लेयर्स होती हैं इस डबल हल डिजाइन
+00:14:06,927 --> 00:14:10,109
+an SLBM like the one I mentioned earlier in the video.
 
 271
-00:10:48,360 --> 00:10:50,440
-में अक्सर जो बैलेस टैंक होता है वो अलग
+00:14:10,794 --> 00:14:14,818
+The range of the K-15 missile is 
+between 750 km and 1,900 km.
 
 272
-00:10:50,440 --> 00:10:52,200
-से नहीं होता बल्कि इन दो लेयर्स के बीच
+00:14:14,818 --> 00:14:17,111
+Talking about the other developed countries,
 
 273
-00:10:52,200 --> 00:10:54,240
-में ही पानी भर दिया जाता है तो यही
+00:14:17,111 --> 00:14:19,764
+the American Navy's Ohio-class submarines
 
 274
-00:10:54,240 --> 00:10:56,839
-बैलेंस टैंक की तरह एक्ट करता है डबल हल
+00:14:19,764 --> 00:14:22,549
+are considered among the most powerful in the world.
 
 275
-00:10:56,839 --> 00:10:58,480
-का ओबवियस फायदा ये है कि एक एक्स्ट्रा
+00:14:22,549 --> 00:14:25,463
+The U.S. possesses a total of 18 Ohio-class submarines,
 
 276
-00:10:58,480 --> 00:11:00,440
-लेयर है प्रोटेक्शन के लिए अगर सबमरीन
+00:14:25,463 --> 00:14:31,434
+each capable of carrying 24 Trident 2 ballistic missiles.
 
 277
-00:11:00,440 --> 00:11:02,720
-किसी चीज से टकराती है तो ज्यादा सिक्योर
+00:14:31,434 --> 00:14:37,373
+Furthermore, each Trident 2 missile can 
+potentially accommodate 14 nuclear bombs.
 
 278
-00:11:02,720 --> 00:11:05,120
-रहेगी जितनी भी मॉडर्न मिलिट्री सबमरींस
+00:14:37,373 --> 00:14:39,175
+When the United States and Russia
 
 279
-00:11:05,120 --> 00:11:07,440
-हैं वो ज्यादातर डबल हल सबमरींस ही होती
+00:14:39,175 --> 00:14:42,358
+aimed to decrease the number of nuclear weapons they had,
 
 280
-00:11:07,440 --> 00:11:09,800
-है इससे वटर प्रेशर से बचने में भी फायदा
+00:14:42,358 --> 00:14:44,452
+they entered into the START 1 agreement.
 
 281
-00:11:09,800 --> 00:11:11,880
-मिलता है टाइटन सबमरीन का हादसा याद है
+00:14:44,452 --> 00:14:48,982
+The terms of the agreement specified 
+a reduction limit from 14 to 8.
 
 282
-00:11:11,880 --> 00:11:13,959
-जिसमें सबमरीन बिल्कुल पूरी क्रश हो गई थी
+00:14:48,982 --> 00:14:51,914
+This START I treaty, officially known 
+as the Strategic Arms Reduction Treaty,
 
 283
-00:11:13,959 --> 00:11:15,959
-वटर प्रेशर में पानी के सरफेस पर जो
+00:14:51,914 --> 00:14:54,867
+was the first treaty between the U.S. and the Soviet Union
 
 284
-00:11:15,959 --> 00:11:18,320
-प्रेशर होता है वो वन एटमॉस्फेयर होता है
+00:14:54,867 --> 00:14:57,353
+to reduce strategic nuclear weapons.
 
 285
-00:11:18,320 --> 00:11:21,320
-बेसिकली 1 किग्रा पर सेंटीमीटर स्क्वा
+00:14:57,506 --> 00:15:01,147
+Beyond these, the U.S. Navy features other submarine classes,
 
 286
-00:11:21,320 --> 00:11:22,920
-लेकिन जैसे-जैसे आप पानी के नीचे जाते
+00:15:01,147 --> 00:15:04,633
+such as Los Angeles, Columbia, and Virginia classes.
 
 287
-00:11:22,920 --> 00:11:25,440
-रहते हो प्रेशर बढ़ता है हर 10 मीटर डेप्थ
+00:15:04,633 --> 00:15:10,267
+In Russia, the Yasen class stands out as the 
+most powerful nuclear attack submarine.
 
 288
-00:11:25,440 --> 00:11:27,680
-पर प्रेशर 1 किग्रा पर स्क्वायर मीटर से
+00:15:10,267 --> 00:15:12,784
+Besides India, Russia, and the U.S., other countries like
 
 289
-00:11:27,680 --> 00:11:30,240
-बढ़ता है आमतौर पर ट्री सबमरींस डिजाइन
+00:15:12,784 --> 00:15:17,323
+China, the UK, France, and Germany 
+also possess similar submarines.
 
 290
-00:11:30,240 --> 00:11:33,079
-करी गई है अप टू 300 टू 400 मीटर डेप्थस
+00:15:17,323 --> 00:15:20,315
+The actual capacity of these submarines in terms of personnel
 
 291
-00:11:33,079 --> 00:11:35,519
-में ट्रेवल करने के लिए कुछ सबमरींस पानी
+00:15:20,315 --> 00:15:23,290
+varies between submarines
 
 292
-00:11:35,519 --> 00:11:37,720
-के अंदर 500 मीटर की गहराई पर भी ऑपरेट कर
+00:15:23,290 --> 00:15:26,451
+and the actual data is confidential in these countries
 
 293
-00:11:37,720 --> 00:11:40,000
-सकती है इस डेप्थ पर प्रेशर 50
+00:15:26,451 --> 00:15:28,094
+due to military reasons.
 
 294
-00:11:40,000 --> 00:11:42,880
-एटमॉस्फियर्स हो जाता है यानी 50 गुना
+00:15:28,094 --> 00:15:31,329
+The estimated capacity of a submarine 
+generally ranges between 50 and 80 people,
 
 295
-00:11:42,880 --> 00:11:45,360
-ज्यादा सरफेस से जाहिर सी बात है बड़े
+00:15:31,329 --> 00:15:34,328
+50 to 80 people can be onboard these submaries.
 
 296
-00:11:45,360 --> 00:11:47,240
-मजबूत मैटेरियल्स की जरूरत होगी हल्स
+00:15:34,328 --> 00:15:36,773
+With nuclear submarines being even larger,
 
 297
-00:11:47,240 --> 00:11:49,480
-बनाने के लिए और सही मटेरियल का ना
+00:15:36,773 --> 00:15:40,152
+it can accommodate approximately 100 individuals.
 
 298
-00:11:49,480 --> 00:11:52,000
-इस्तेमाल किया जाना कारण बन सकता है हादसे
+00:15:40,152 --> 00:15:44,636
+The size of these submarines is truly 
+remarkable, as depicted in the video.
 
 299
-00:11:52,000 --> 00:11:55,519
-के पीछे जैसा टाइटन सबमरीन के साथ हुआ था
+00:15:44,636 --> 00:15:46,006
+It's unbelievable.
 
 300
-00:11:55,519 --> 00:11:57,959
-तो मिलिट्री सबमरींस हाई क्वालिटी स्टील
+00:15:46,006 --> 00:15:49,100
+For those eager to witness these marvels in person,
 
 301
-00:11:57,959 --> 00:12:00,200
-एलॉयज का इस्तेमाल करती हैं जिसमें स्टील
+00:15:49,100 --> 00:15:53,119
+a visit to Vishakhapatnam, home to a 
+submarine museum, is recommended.
 
 302
-00:12:00,200 --> 00:12:02,240
-मिक्स किया जाता है टाइटेनियम कार्बन
+00:15:53,119 --> 00:15:57,960
+The museum features INS Kursura, 
+a retired Indian Navy submarine
 
 303
-00:12:02,240 --> 00:12:04,720
-एलुमिनियम और बाकी और एलिमेंट्स के साथ एक
+00:15:57,960 --> 00:16:00,227
+commissioned in 1969.
 
 304
-00:12:04,720 --> 00:12:06,880
-सबमरीन को डिजाइन करना बहुत ही
+00:16:00,227 --> 00:16:04,045
+Notably, the museum was inaugurated in 2002
 
 305
-00:12:06,880 --> 00:12:09,240
-कॉम्प्लेक्शन इलेक्ट्रिक सबमरीन को डिजाइन
+00:16:04,045 --> 00:16:06,777
+by the then Chief Minister of Andhra Pradesh,
 
 306
-00:12:09,240 --> 00:12:11,600
-करने में टिपिकली 10 साल का समय लगता है
+00:16:06,777 --> 00:16:08,427
+Mr Chandra Babu Naidu.
 
 307
-00:12:11,600 --> 00:12:14,279
-और न्यूक्लियर सबमरीन को मिनिमम 15 से 17
+00:16:08,427 --> 00:16:12,421
+If you desire the firsthand experience 
+of being inside a submarine,
 
 308
-00:12:14,279 --> 00:12:16,399
-साल का समय लगता है डिजाइनिंग में सिर्फ
+00:16:12,421 --> 00:16:16,577
+tourism submarines or research 
+submarines offer such opportunities.
 
 309
-00:12:16,399 --> 00:12:18,600
-यही कारण है कि इंडिया में अभी भी हम अपनी
+00:16:16,577 --> 00:16:20,099
+Typically, non-military submarines do not 
+venture too deep into the water.
 
 310
-00:12:18,600 --> 00:12:20,800
-सबमरींस को खुद से डिजाइन नहीं करते हैं
+00:16:20,099 --> 00:16:22,156
+The Titan submersible was an exception.
 
 311
-00:12:20,800 --> 00:12:23,000
-डिजाइन को आउटसोर्स किया जाता है बाकी और
+00:16:22,156 --> 00:16:25,597
+Such deep-sea submarines are 
+rare in the tourism sector.
 
 312
-00:12:23,000 --> 00:12:25,000
-देशों को जैसे कि रशिया जर्मनी या फ्रांस
+00:16:25,597 --> 00:16:28,964
+A few companies in Europe, the USA, and the UK,
 
 313
-00:12:25,000 --> 00:12:27,639
-के डिजाइंस का हम इस्तेमाल करते हैं लेकिन
+00:16:28,964 --> 00:16:31,392
+provide submarine and submersible dives.
 
 314
-00:12:27,639 --> 00:12:30,120
-बनाने का काम सबमरीन को हम खुद से जरूर
+00:16:31,392 --> 00:16:34,893
+Such as the companies Atlantis and Seabourn.
 
 315
-00:12:30,120 --> 00:12:32,440
-करते हैं इंडिया की पहली मेड इन इंडिया
+00:16:34,893 --> 00:16:38,978
+They offer expeditions to locations like Alaska.
 
 316
-00:12:32,440 --> 00:12:35,000
-सबमरीन थी आईएनएस शाल की जिसे लॉन्च किया
+00:16:38,978 --> 00:16:41,652
+I trust you've gained valuable insights from this video.
 
 317
-00:12:35,000 --> 00:12:38,160
-गया था साल 1987 में अंडर प्राइम मिनिस्टर
+00:16:41,652 --> 00:16:44,396
+Check out Scaler with the link in the description below.
 
 318
-00:12:38,160 --> 00:12:40,480
-राजीव गांधी इस सबमरीन को इंडियन नेवी ने
+00:16:44,396 --> 00:16:48,638
+Additionally, for a detailed account 
+of the Titan submersible accident,
 
 319
-00:12:40,480 --> 00:12:43,560
-कमीशन कर लिया था साल 1992 में अब अगर आप
+00:16:48,638 --> 00:16:51,383
+you can watch this video by clicking here.
 
 320
-00:12:43,560 --> 00:12:45,440
-इंडियन नेवी की वेबसाइट पर जाएंगे तो आपको
+00:16:51,383 --> 00:16:53,527
+It's a truly heart-wrenching story.
 
 321
-00:12:45,440 --> 00:12:47,399
-दिखेगा कि सबमरींस की अलग-अलग कैटेगरी
-
-322
-00:12:47,399 --> 00:12:49,519
-एजिस्ट करती हैं जिन्हें क्लासेस में
-
-323
-00:12:49,519 --> 00:12:51,760
-डिवाइड किया गया है इंडिया में टोटल में
-
-324
-00:12:51,760 --> 00:12:55,440
-चार क्लासेस हैं सिंधु घोष शिशुमार
-
-325
-00:12:55,440 --> 00:12:59,160
-कलवरी और अरिहंत इनमें से पहली तीन
-
-326
-00:12:59,160 --> 00:13:01,720
-क्लासेस कन्वेंशनल सबमरींस की है सिंधु
-
-327
-00:13:01,720 --> 00:13:05,120
-गोश क्लास रशियन डीजल पावर्ड ईकेएम है
-
-328
-00:13:05,120 --> 00:13:08,199
-शिशुमार क्लास में जर्मन एसएस केज हैं और
-
-329
-00:13:08,199 --> 00:13:11,279
-कलवारी क्लास नई फ्रेंच डिजाइंड और इंडियन
-
-330
-00:13:11,279 --> 00:13:13,880
-बिल्ट स्कॉर्पियंस है यहां पर ईकेएम
-
-331
-00:13:13,880 --> 00:13:16,160
-एसएसके और स्कॉर्पियंस ये वो नाम है जो
-
-332
-00:13:16,160 --> 00:13:18,519
-बाकी और देश इन सबमरींस को देते हैं लेकिन
-
-333
-00:13:18,519 --> 00:13:20,959
-हम इन सबमरींस के लिए इन तीन क्लासेस का
-
-334
-00:13:20,959 --> 00:13:23,079
-नाम इस्तेमाल करते हैं तो ये जो क्लासेस
-
-335
-00:13:23,079 --> 00:13:24,920
-है सबमरींस की इन्हें गाड़ियों के अलग-अलग
-
-336
-00:13:24,920 --> 00:13:27,360
-मॉडल्स की तरह समझ लो सिंधुघोष में सात
-
-337
-00:13:27,360 --> 00:13:29,920
-सबमरींस है शिशु में चार सबमरींस है और
-
-338
-00:13:29,920 --> 00:13:32,880
-कलवरी क्लास में पांच ऑपरेशनल सबमरींस हैं
-
-339
-00:13:32,880 --> 00:13:35,360
-इन सबके नाम और डिटेल्स आप इंडियन नेवी की
-
-340
-00:13:35,360 --> 00:13:37,360
-वेबसाइट पर चेक कर सकते हैं इसका लिंक मैं
-
-341
-00:13:37,360 --> 00:13:39,279
-नीचे डिस्क्रिप्शन में डाल दूंगा और इनके
-
-342
-00:13:39,279 --> 00:13:41,720
-बाद आती है न्यूक्लियर सबमरीन की कैटेगरी
-
-343
-00:13:41,720 --> 00:13:44,839
-जिसे इंडिया ने नाम दिया है अरिहंत क्लास
-
-344
-00:13:44,839 --> 00:13:46,600
-और इस वक्त हमारे पास दो एक्टिव
-
-345
-00:13:46,600 --> 00:13:48,920
-न्यूक्लियर सबमरींस हैं इस क्लास में और
-
-346
-00:13:48,920 --> 00:13:51,120
-दो और सबमरींस हैं जो बनाई जा रही हैं
-
-347
-00:13:51,120 --> 00:13:53,600
-विशाखापट्टनम में अरिहंत क्लास की सबमरींस
-
-348
-00:13:53,600 --> 00:13:55,600
-एक बैलिस्टिक मिसाइल को कैरी कर सकती है
-
-349
-00:13:55,600 --> 00:13:58,120
-बैलिस्टिक मिसाइल सेल्फ गाइडेड मिसाइल है
-
-350
-00:13:58,120 --> 00:14:00,399
-जिस पर एक न्यूक्लियर बम भी लगाया जा सकता
-
-351
-00:14:00,399 --> 00:14:03,519
-है आईएस अरिहंत इस वक्त प्रेजेंटली आर्म्ड
-
-352
-00:14:03,519 --> 00:14:06,880
-है k15 सबमरीन लॉन्च बैलिस्टिक मिसाइल से
-
-353
-00:14:06,880 --> 00:14:09,040
-ये एक एसएलबीएम है जिसकी बात मैंने शुरू
-
-354
-00:14:09,040 --> 00:14:12,000
-में करी थी वीडियो के इसकी रेंज है 750
-
-355
-00:14:12,000 --> 00:14:15,800
-किमी टू 1900 किमी अगर हम बाकी डेवलप्ड
-
-356
-00:14:15,800 --> 00:14:17,959
-कंट्रीज की बात करें अमेरिकन नेवी की
-
-357
-00:14:17,959 --> 00:14:20,759
-ओहायो क्लास सबमरींस दुनिया की सबसे
-
-358
-00:14:20,759 --> 00:14:23,000
-पावरफुल सबमरींस में से हैं अमेरिका के
-
-359
-00:14:23,000 --> 00:14:25,800
-पास टोटल में 18 ओहायो क्लास सबमरींस हैं
-
-360
-00:14:25,800 --> 00:14:28,959
-जिनमें हर एक सबमरीन में 24 ट्रायड टू
-
-361
-00:14:28,959 --> 00:14:31,240
-बैलिस्टिक मिसाइल्स कैरी करी जा सकती हैं
-
-362
-00:14:31,240 --> 00:14:33,639
-और एक-एक ट्राइड एंड टू मिसाइल में
-
-363
-00:14:33,639 --> 00:14:36,680
-पोटेंशियली 14 न्यूक्लियर बॉम्ब्स रखे जा
-
-364
-00:14:36,680 --> 00:14:38,880
-सकते हैं इसलिए जब अमेरिका और रशिया ने
-
-365
-00:14:38,880 --> 00:14:40,800
-कोशिश करी थी कि हम न्यूक्लियर बॉम्ब्स
-
-366
-00:14:40,800 --> 00:14:43,079
-अपने पास कम करेंगे तो स्टार्ट वन
-
-367
-00:14:43,079 --> 00:14:45,759
-एग्रीमेंट करी गई थी जिसमें कहा गया कि ये
-
-368
-00:14:45,759 --> 00:14:48,480
-14 की जगह इस लिमिट को कम करके आठ तक लाया
-
-369
-00:14:48,480 --> 00:14:50,720
-जाए स्टार्ट वन यानी स्ट्रेटेजिक आर्म्स
-
-370
-00:14:50,720 --> 00:14:53,160
-रिडक्शन ट्रीटी पहली ट्रीटी थी अमेरिका और
-
-371
-00:14:53,160 --> 00:14:55,279
-सोवियत यूनियन के बीच में स्ट्रेटेजिक
-
-372
-00:14:55,279 --> 00:14:57,480
-न्यूक्लियर हथियारों को कम करने के लिए
-
-373
-00:14:57,480 --> 00:14:59,600
-इसके अलावा यूएस नेवी के पास बाकी और
-
-374
-00:14:59,600 --> 00:15:01,880
-क्लासेस है सबमरींस की जैसे कि लॉस एंजलिस
-
-375
-00:15:01,880 --> 00:15:04,480
-क्लास कोलंबिया क्लास वर्जिनिया क्लास
-
-376
-00:15:04,480 --> 00:15:06,279
-रशिया की बात करी जाए तो रशिया के पास
-
-377
-00:15:06,279 --> 00:15:09,079
-सबसे ताकतवर न्यूक्लियर अटैक सबमरीन है
-
-378
-00:15:09,079 --> 00:15:11,839
-येसन क्लास इंडिया रशिया और यूएस के अलावा
-
-379
-00:15:11,839 --> 00:15:14,079
-कई और देश हैं जिनके पास सिमिलर सबमरींस
-
-380
-00:15:14,079 --> 00:15:16,600
-मौजूद हैं जैसे कि चाइना यूके फ्रांस और
-
-381
-00:15:16,600 --> 00:15:19,360
-जर्मनी इन सबमरींस के अंदर कितने लोग फिट
-
-382
-00:15:19,360 --> 00:15:21,600
-बैठ सकते हैं यह एक्चुअली सबमरीन टू
-
-383
-00:15:21,600 --> 00:15:24,519
-सबमरीन पर डिपेंड करता है और एक्चुअल डाटा
-
-384
-00:15:24,519 --> 00:15:26,240
-इन देशों ने कॉन्फिडेंशियल रखा है
-
-385
-00:15:26,240 --> 00:15:28,959
-मिलिट्री रीजंस की वजह से लेकिन आम तौर पर
-
-386
-00:15:28,959 --> 00:15:31,600
-जो एस्टीमेट है वो 50 से 80 तक का है 50
-
-387
-00:15:31,600 --> 00:15:34,279
-से 80 लोग एक सबमरीन के अंदर रह सकते हैं
-
-388
-00:15:34,279 --> 00:15:36,720
-एक न्यूक्लियर सबमरीन और भी बड़ी होती है
-
-389
-00:15:36,720 --> 00:15:39,120
-न्यूक्लियर सबमरीन में रफल 100 लोगों की
-
-390
-00:15:39,120 --> 00:15:41,079
-कैपेसिटी होती है यहां वीडियो में आप देख
-
-391
-00:15:41,079 --> 00:15:43,440
-सकते हो कि कितना बड़ा साइज हो सकता है इन
-
-392
-00:15:43,440 --> 00:15:46,240
-सबमरींस का अनबिलीवर्स
-
-393
-00:15:46,240 --> 00:15:49,000
-को असल जिंदगी में देखना चाहते हैं तो
-
-394
-00:15:49,000 --> 00:15:51,720
-विशाखापट्टनम जाइए क्योंकि वहां पर है एक
-
-395
-00:15:51,720 --> 00:15:54,319
-सबमरीन म्यूजियम इस म्यूजियम में आप एक
-
-396
-00:15:54,319 --> 00:15:56,639
-एक्स इंडियन नेवी सबमरीन देख सकते हैं
-
-397
-00:15:56,639 --> 00:16:00,000
-आईएनएस कुसूर जिसे कमीशन किया गया था 1969
-
-398
-00:16:00,000 --> 00:16:01,759
-में इस म्यूजियम की बात करें तो इसे
-
-399
-00:16:01,759 --> 00:16:04,360
-इनग्रेट किया गया था साल 2002 में बाय दी
-
-400
-00:16:04,360 --> 00:16:07,199
-देन चीफ मिनिस्टर ऑफ आंध्र प्रदेश मिस्टर
-
-401
-00:16:07,199 --> 00:16:09,319
-चंद्रबाबू नायडू लेकिन इसके अलावा अगर
-
-402
-00:16:09,319 --> 00:16:11,600
-आपको सबमरीन के अंदर बैठने का एक्सपीरियंस
-
-403
-00:16:11,600 --> 00:16:13,759
-चाहिए तो यह किया जा सकता है टूरिज्म
-
-404
-00:16:13,759 --> 00:16:16,519
-सबमरीन सया रिसर्च सबमरींस के द्वारा
-
-405
-00:16:16,519 --> 00:16:18,759
-आमतौर पर ये नॉन मिलिट्री सबमरींस पानी के
-
-406
-00:16:18,759 --> 00:16:20,560
-इतना अंदर तक जाती नहीं है वो टाइटन
-
-407
-00:16:20,560 --> 00:16:23,000
-सबमरीन एक एक्सेप्शनल केस था डीप सी
-
-408
-00:16:23,000 --> 00:16:25,360
-सबमरीन टूरिज्म के लिए बहुत रेयर होती है
-
-409
-00:16:25,360 --> 00:16:27,480
-कुछ गिनी चुनी कंपनीज ही हैं यूरोप यूएसए
-
-410
-00:16:27,480 --> 00:16:30,160
-और यूके में जो ऑफर करती है सबमरीन और
-
-411
-00:16:30,160 --> 00:16:33,040
-सबमर्सिबल्स एक है यह अटलांटिस कंपनी एक
-
-412
-00:16:33,040 --> 00:16:36,199
-है यह सी बोन कंपनी इसमें आप अलास्का जैसी
-
-413
-00:16:36,199 --> 00:16:38,720
-जगहों पर जाकर एक्सपीडिशंस ले सकते हैं
-
-414
-00:16:38,720 --> 00:16:40,279
-उम्मीद करता हूं कई सारी नई चीजें इस
-
-415
-00:16:40,279 --> 00:16:42,319
-वीडियो से आपने सीखी होंगी लर को चेक आउट
-
-416
-00:16:42,319 --> 00:16:43,880
-करने का लिंक नीचे डिस्क्रिप्शन में मिल
-
-417
-00:16:43,880 --> 00:16:46,560
-जाएगा और अब अगर आप टाइटन सबमरीन के हादसे
-
-418
-00:16:46,560 --> 00:16:49,160
-की कहानी डिटेल में जानना चाहते हैं तो इस
-
-419
-00:16:49,160 --> 00:16:51,279
-वीडियो को देख सकते हैं यहां क्लिक करके
-
-420
-00:16:51,279 --> 00:16:53,480
-बड़ी ही दिल दहला देने वाली कहानी है
-
-421
-00:16:53,480 --> 00:16:55,880
-बहुत-बहुत
-
-422
-00:16:57,480 --> 00:17:00,480
-धन्यवाद
-
-423
-00:17:04,520 --> 00:17:07,520
-h
+00:16:53,527 --> 00:16:54,825
+Thank you very much!

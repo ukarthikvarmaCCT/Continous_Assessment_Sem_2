@@ -1,0 +1,279 @@
+1
+00:00:00,630 --> 00:00:03,000
+WE'VE ALL VISITED WEBSITES
+
+2
+00:00:03,000 --> 00:00:04,400
+THAT OFFER SPECIAL DEALS IN
+
+3
+00:00:04,400 --> 00:00:05,810
+EXCHANGE FOR YOUR EMAIL
+
+4
+00:00:05,810 --> 00:00:07,410
+ADDRESS, THAT'S NOT ALWAYS
+
+5
+00:00:07,410 --> 00:00:09,410
+SOMETHING YOU WANT TO DO.
+
+6
+00:00:09,410 --> 00:00:11,080
+WE'RE ALL GETTING MORE EMAIL
+
+7
+00:00:11,080 --> 00:00:15,220
+THAN WE CAN HANDLE. OUR
+
+8
+00:00:15,220 --> 00:00:16,420
+CONSUMER TECHNOLOGY REPORTER
+
+9
+00:00:16,420 --> 00:00:17,820
+JAMEY TUCKER HAS FOUND A
+
+10
+00:00:17,820 --> 00:00:18,950
+SOLUTION THAT HELPS PROTECT
+
+11
+00:00:18,950 --> 00:00:21,190
+YOUR EMAIL ADDRESS.
+
+12
+00:00:21,190 --> 00:00:22,460
+3
+
+13
+00:00:22,460 --> 00:00:24,220
+((--JAMEY TUCKER REPORTING--))
+
+14
+00:00:24,220 --> 00:00:24,920
+It's important to protect your
+
+15
+00:00:24,920 --> 00:00:26,730
+primary email address. Bad
+
+16
+00:00:26,730 --> 00:00:28,230
+guys can, and do, use email
+
+17
+00:00:28,230 --> 00:00:28,830
+addresses to bombard people
+
+18
+00:00:28,830 --> 00:00:31,370
+with malware and even steal
+
+19
+00:00:31,370 --> 00:00:33,430
+identies. You've heard of
+
+20
+00:00:33,430 --> 00:00:35,700
+burner phones, those phones
+
+21
+00:00:35,700 --> 00:00:37,900
+used, often by people who want
+
+22
+00:00:37,900 --> 00:00:38,840
+to hide their tracks. If you
+
+23
+00:00:38,840 --> 00:00:40,340
+don't like giving away your
+
+24
+00:00:40,340 --> 00:00:42,740
+email address...you'll love
+
+25
+00:00:42,740 --> 00:00:45,250
+burner email. You're visiting
+
+26
+00:00:45,250 --> 00:00:46,210
+a website that offers a
+
+27
+00:00:46,210 --> 00:00:47,180
+special deal in exchange for
+
+28
+00:00:47,180 --> 00:00:49,220
+your information, specifically
+
+29
+00:00:49,220 --> 00:00:50,920
+your email address. Sometimes
+
+30
+00:00:50,920 --> 00:00:52,090
+you're okay with that, but a
+
+31
+00:00:52,090 --> 00:00:53,750
+lot of times you don't want to
+
+32
+00:00:53,750 --> 00:00:54,590
+be bothered, AFTER you get the
+
+33
+00:00:54,590 --> 00:00:56,320
+special deal. Burner email is
+
+34
+00:00:56,320 --> 00:00:57,020
+an extension for both the
+
+35
+00:00:57,020 --> 00:00:58,690
+Chrome and Firefox browser
+
+36
+00:00:58,690 --> 00:01:00,890
+that creates a secret email
+
+37
+00:01:00,890 --> 00:01:02,060
+address. Here's how it works:
+
+38
+00:01:02,060 --> 00:01:02,860
+Install the burner email
+
+39
+00:01:02,860 --> 00:01:04,630
+extension, you'll find it in
+
+40
+00:01:04,630 --> 00:01:06,030
+the Chrome Store or as a
+
+41
+00:01:06,030 --> 00:01:07,900
+Firefox plugin. Now, when
+
+42
+00:01:07,900 --> 00:01:09,040
+you're asked to sign up for
+
+43
+00:01:09,040 --> 00:01:11,470
+something, look for the flames
+
+44
+00:01:11,470 --> 00:01:13,470
+in the signup box...get it,
+
+45
+00:01:13,470 --> 00:01:14,880
+burner? Click on it and the
+
+46
+00:01:14,880 --> 00:01:15,810
+extension will create an email
+
+47
+00:01:15,810 --> 00:01:17,580
+address for that specific
+
+48
+00:01:17,580 --> 00:01:18,580
+newsletter or site. When the
+
+49
+00:01:18,580 --> 00:01:20,180
+company sends you one of their
+
+50
+00:01:20,180 --> 00:01:22,250
+emails, it goes to burner
+
+51
+00:01:22,250 --> 00:01:23,220
+email first, and gets
+
+52
+00:01:23,220 --> 00:01:25,250
+forwarded on to you. The
+
+53
+00:01:25,250 --> 00:01:26,950
+company or website never gets
+
+54
+00:01:26,950 --> 00:01:28,650
+your primary email address.
+
+55
+00:01:28,650 --> 00:01:30,290
+You'll get the newsletters for
+
+56
+00:01:30,290 --> 00:01:31,860
+as long as you want them.
+
+57
+00:01:31,860 --> 00:01:33,160
+Getting too many, you can turn
+
+58
+00:01:33,160 --> 00:01:34,830
+it off, or if you're done with
+
+59
+00:01:34,830 --> 00:01:36,730
+them, delete or burn it the
+
+60
+00:01:36,730 --> 00:01:38,530
+secret email address. Using a
+
+61
+00:01:38,530 --> 00:01:39,470
+burner or disposable email
+
+62
+00:01:39,470 --> 00:01:40,530
+address will protect the one
+
+63
+00:01:40,530 --> 00:01:42,000
+you use for important things.
+
+64
+00:01:42,000 --> 00:01:42,740
+That's What the Tech? I'm
+
+65
+00:01:42,740 --> 00:01:45,510
+Jamey Tucker
+
+66
+00:01:45,510 --> 00:01:45,870
+3
+
+67
+00:01:45,870 --> 00:01:50,810
+3
+
+68
+00:01:50,810 --> 00:01:54,750
+(--DARRELL--)
+
+69
+00:01:54,750 --> 00:01:57,380
+3
+
+70
+00:01:57,380 --> 00:01:59,730
+TOBIN IS NEXT WITH SPORTS.

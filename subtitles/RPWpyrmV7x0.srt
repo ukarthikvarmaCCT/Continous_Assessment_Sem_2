@@ -1,0 +1,814 @@
+1
+00:00:00,160 --> 00:00:02,640
+- Hey, what's up guys,
+MKBHD here on Super Saf TV.
+
+2
+00:00:02,640 --> 00:00:04,420
+- This is iJustine on Super Saf TV.
+
+3
+00:00:04,420 --> 00:00:06,285
+- Hey guys, this is
+Gaurav, better known as
+
+4
+00:00:06,285 --> 00:00:08,070
+Technical Guruji on Super Saf TV.
+
+5
+00:00:08,070 --> 00:00:10,310
+- Hi I'm Michael Josh for Super Saf TV.
+
+6
+00:00:10,310 --> 00:00:13,170
+- What's going on guys, I am
+Jenna Ezarik on Super Saf TV.
+
+7
+00:00:13,170 --> 00:00:14,130
+- Hey there guys its Mr. Q, friendly
+
+8
+00:00:14,130 --> 00:00:16,870
+neighborhood Qatari on Super Saf TV.
+
+9
+00:00:16,870 --> 00:00:19,230
+- Hey guys, its Krystal on Super Saf TV.
+
+10
+00:00:19,230 --> 00:00:21,670
+- Hey guys, this is
+Austin Evens on Super Saf,
+
+11
+00:00:21,670 --> 00:00:23,763
+and it is dub dub DC my friends.
+
+12
+00:00:23,763 --> 00:00:25,590
+Which is apparently like
+what the cool kids call it.
+
+13
+00:00:25,590 --> 00:00:26,423
+I don't know.
+
+14
+00:00:26,423 --> 00:00:28,070
+- What's up guys, Saf here on SuperSaf TV
+
+15
+00:00:28,070 --> 00:00:30,750
+and we've just finished WWDC which was
+
+16
+00:00:30,750 --> 00:00:32,780
+crazy packed with lots and lots of stuff.
+
+17
+00:00:32,780 --> 00:00:34,600
+Lets go and find out what the reactions
+
+18
+00:00:34,600 --> 00:00:35,770
+from some of my friends have been.
+
+19
+00:00:35,770 --> 00:00:38,299
+- Man that was a lot, that
+was a lot of, of a lot of
+
+20
+00:00:38,299 --> 00:00:40,190
+announcements in a short amount of,
+
+21
+00:00:40,190 --> 00:00:42,290
+not even a short amount
+of time, it was two hours.
+
+22
+00:00:42,290 --> 00:00:45,211
+- It was rapid fire, like
+every single time like
+
+23
+00:00:45,211 --> 00:00:47,380
+a new screen popped up it would disappear
+
+24
+00:00:47,380 --> 00:00:48,430
+in like two seconds
+because they would have
+
+25
+00:00:48,430 --> 00:00:50,650
+so much information that was
+just happening so quickly.
+
+26
+00:00:50,650 --> 00:00:54,030
+- Dub, dub, dub, dub, dub, dub, dub, dub.
+
+27
+00:00:54,030 --> 00:00:56,170
+- Well you know, "dub
+dub" is a software show,
+
+28
+00:00:56,170 --> 00:00:58,050
+but I was always excited,
+its always exciting
+
+29
+00:00:58,050 --> 00:01:00,153
+when there hardware and we got that today.
+
+30
+00:01:01,513 --> 00:01:03,334
+I mean after how many years?
+
+31
+00:01:03,334 --> 00:01:04,930
+13, 14, 15, 16, 17, 18,
+six years of waiting!?
+
+32
+00:01:04,930 --> 00:01:08,460
+We now have a new, Mac pro so that's
+
+33
+00:01:08,460 --> 00:01:10,870
+pretty exciting, for creators especially.
+
+34
+00:01:10,870 --> 00:01:12,500
+- Okay not gonna lie, when I first saw it,
+
+35
+00:01:12,500 --> 00:01:13,660
+it looked like a cheese grader.
+
+36
+00:01:13,660 --> 00:01:15,450
+I was like, is this a
+new kitchen appliance?
+
+37
+00:01:15,450 --> 00:01:17,240
+But the power behind the Mac Pro
+
+38
+00:01:17,240 --> 00:01:18,870
+is absolutely incredible.
+
+39
+00:01:18,870 --> 00:01:21,300
+- Everything man, but I
+liked the Mac Pro of course.
+
+40
+00:01:21,300 --> 00:01:23,730
+Like being the hardware guy,
+that's the one that excites me.
+
+41
+00:01:23,730 --> 00:01:25,887
+- That Mac Pro, mmm mmmm.
+
+42
+00:01:27,230 --> 00:01:29,409
+- And you, made a little Instagram video.
+
+43
+00:01:29,409 --> 00:01:30,900
+It was like: "do you think
+their gonna show the Mac Pro?"
+
+44
+00:01:30,900 --> 00:01:32,370
+I was like of course not.
+
+45
+00:01:32,370 --> 00:01:35,270
+Well they did and it is
+absolutely fantastic.
+
+46
+00:01:35,270 --> 00:01:37,410
+I am so excited to spec this thing out
+
+47
+00:01:37,410 --> 00:01:39,667
+because I feel it'll probably be like
+
+48
+00:01:39,667 --> 00:01:43,530
+$75,000 like by the time
+you spec that thing out.
+
+49
+00:01:43,530 --> 00:01:46,002
+Maybe even more because if you
+wanna get multiple monitors.
+
+50
+00:01:46,002 --> 00:01:47,830
+I don't even know, oh my gosh.
+
+51
+00:01:47,830 --> 00:01:49,040
+Am I gonna be doing an unboxing of
+
+52
+00:01:49,040 --> 00:01:50,290
+a hundred thousand dollar Mac Pro?
+
+53
+00:01:50,290 --> 00:01:51,920
+- Has everybody been
+talking about the Mac Pro?
+
+54
+00:01:51,920 --> 00:01:54,120
+- Mac Pro modularity
+we've been asking for this
+
+55
+00:01:54,120 --> 00:01:56,750
+for ages, and now we have a computer
+
+56
+00:01:56,750 --> 00:02:00,880
+which basically we can keep
+for lets say 5, 6, 7, 8 years
+
+57
+00:02:00,880 --> 00:02:03,800
+without worry of having to
+throw away and buy a new one.
+
+58
+00:02:03,800 --> 00:02:06,100
+- But like that Mac Pro
+looked really dope, right.
+
+59
+00:02:06,100 --> 00:02:07,760
+And what I really appreciate
+is that they actually
+
+60
+00:02:07,760 --> 00:02:09,110
+gone sort of above and beyond
+
+61
+00:02:09,110 --> 00:02:10,880
+to make sure this is super modulate.
+
+62
+00:02:10,880 --> 00:02:12,500
+So its not one of those things
+where, oh you have to buy
+
+63
+00:02:12,500 --> 00:02:14,160
+like the Apple adding parts all the time.
+
+64
+00:02:14,160 --> 00:02:15,040
+Or anything like that.
+
+65
+00:02:15,040 --> 00:02:17,240
+Obviously the offer
+though is a nice sort of
+
+66
+00:02:17,240 --> 00:02:18,453
+as a feature to have, but you could
+
+67
+00:02:18,453 --> 00:02:20,680
+also just buy your own
+graphics card and throw it in.
+
+68
+00:02:20,680 --> 00:02:22,680
+As long as you have the
+drivers, it should work.
+
+69
+00:02:22,680 --> 00:02:24,470
+And so I was able to take
+a look on the inside.
+
+70
+00:02:24,470 --> 00:02:25,670
+The cooling seems to be solid,
+
+71
+00:02:25,670 --> 00:02:27,310
+its got a huge power supply, but
+
+72
+00:02:27,310 --> 00:02:29,152
+importantly you just got a
+bunch of PCI slots, right.
+
+73
+00:02:29,152 --> 00:02:30,540
+Put whatever you want in there.
+
+74
+00:02:30,540 --> 00:02:31,700
+And it even seems like that zion,
+
+75
+00:02:31,700 --> 00:02:33,630
+even though I wasn't able to
+actually take off heat sinc,
+
+76
+00:02:33,630 --> 00:02:35,740
+is also fairly user upgradable.
+
+77
+00:02:35,740 --> 00:02:37,140
+So its one of those things where its like,
+
+78
+00:02:37,140 --> 00:02:39,972
+imagine if Apple makes a
+super high end desk top
+
+79
+00:02:39,972 --> 00:02:42,932
+with all the features of
+a super high end desk top,
+
+80
+00:02:42,932 --> 00:02:46,570
+and the price of a
+super high end desk top.
+
+81
+00:02:46,570 --> 00:02:48,670
+- Oh my gosh, there's so much stuff,
+
+82
+00:02:48,670 --> 00:02:52,100
+like just where do we even, watch OS
+
+83
+00:02:52,100 --> 00:02:56,200
+I mean the IOS, oh gosh
+I'm just, new maps.
+
+84
+00:02:56,200 --> 00:02:57,990
+The new maps looked actually amazing.
+
+85
+00:02:57,990 --> 00:02:59,683
+Oh, and also Siri, she has new voice.
+
+86
+00:02:59,683 --> 00:03:02,438
+- The photo and video editing on IOS 13
+
+87
+00:03:02,438 --> 00:03:04,810
+was really cool, because
+I feel like for me
+
+88
+00:03:04,810 --> 00:03:06,240
+that will replace that
+extra step that I do
+
+89
+00:03:06,240 --> 00:03:08,122
+in visco for videos at least, like
+
+90
+00:03:08,122 --> 00:03:10,480
+Instagram videos you know
+like editing on there,
+
+91
+00:03:10,480 --> 00:03:12,669
+but straight on the
+camera app is really cool.
+
+92
+00:03:12,669 --> 00:03:14,510
+- Think that I've been
+looking forward to the most
+
+93
+00:03:14,510 --> 00:03:15,790
+of course is dark mode.
+
+94
+00:03:15,790 --> 00:03:18,530
+I'm a simple man, I just
+want to save my battery life.
+
+95
+00:03:18,530 --> 00:03:20,090
+- Actually, I lied my first highlight
+
+96
+00:03:20,090 --> 00:03:21,371
+is gonna be dark mode IOS.
+
+97
+00:03:21,371 --> 00:03:23,200
+That's what we wanted,
+I feel like we've been
+
+98
+00:03:23,200 --> 00:03:25,840
+wanting this for the longest
+time and its finally here.
+
+99
+00:03:25,840 --> 00:03:27,460
+- Dark mode, hello?
+
+100
+00:03:27,460 --> 00:03:29,094
+- The dark mode like we were expecting
+
+101
+00:03:29,094 --> 00:03:30,841
+that more to come and its happened.
+
+102
+00:03:30,841 --> 00:03:34,310
+Also the new watch faces
+of course and the new maps.
+
+103
+00:03:34,310 --> 00:03:35,330
+So like a few things.
+
+104
+00:03:35,330 --> 00:03:37,910
+- Well obviously dark
+mode, like its a favorite.
+
+105
+00:03:37,910 --> 00:03:40,030
+I was waiting for it
+for the longest time so
+
+106
+00:03:40,030 --> 00:03:42,550
+I use dark mode on twitter, on my Mac Book
+
+107
+00:03:42,550 --> 00:03:44,400
+on everything so definitely dark mode.
+
+108
+00:03:44,400 --> 00:03:46,470
+- Yo dude, this is
+actually, there was a lot of
+
+109
+00:03:46,470 --> 00:03:48,810
+stuff here, right so its cool to see like
+
+110
+00:03:48,810 --> 00:03:50,620
+watch OS updates, I'm actually like
+
+111
+00:03:50,620 --> 00:03:52,840
+low-key excited to see all the iPad stuff.
+
+112
+00:03:52,840 --> 00:03:55,940
+Like, for me the iPad Pro is
+so close to being a machine
+
+113
+00:03:55,940 --> 00:03:58,980
+which can really be like a
+good for almost everything
+
+114
+00:03:58,980 --> 00:04:00,640
+besides editing sort of thing.
+
+115
+00:04:00,640 --> 00:04:02,047
+Like its super lightweight,
+I love the software
+
+116
+00:04:02,047 --> 00:04:03,820
+I love the hardware, its just nice
+
+117
+00:04:03,820 --> 00:04:05,510
+its actually getting
+some more Pro features.
+
+118
+00:04:05,510 --> 00:04:09,310
+- So I'm a big fan of
+the iPad Pro, last year.
+
+119
+00:04:09,310 --> 00:04:12,410
+And that's really like the tablet getting
+
+120
+00:04:12,410 --> 00:04:15,132
+closer to the laptop and you know
+
+121
+00:04:15,132 --> 00:04:18,510
+Apple has tried to keep
+those two worlds separate,
+
+122
+00:04:18,510 --> 00:04:19,981
+but we're seeing over the last two years
+
+123
+00:04:19,981 --> 00:04:24,389
+Mac OS and IOS kind of merge
+the two worlds together
+
+124
+00:04:24,389 --> 00:04:28,162
+and that new iPad OS is
+probably a step in the
+
+125
+00:04:28,162 --> 00:04:31,240
+right direction, I'm pretty
+excited as an iPad Pro user
+
+126
+00:04:31,240 --> 00:04:34,344
+because that's really going
+to increase my productivity
+
+127
+00:04:34,344 --> 00:04:37,620
+and be able to use that
+tool to do more things.
+
+128
+00:04:37,620 --> 00:04:38,850
+- Oh, Side Car?
+
+129
+00:04:38,850 --> 00:04:40,610
+The iPad is a second display and also
+
+130
+00:04:40,610 --> 00:04:42,280
+you can use it as a
+tablet, which is amazing
+
+131
+00:04:42,280 --> 00:04:43,970
+because I love using tablets.
+
+132
+00:04:43,970 --> 00:04:45,100
+- Obviously the Mac Pro is the
+
+133
+00:04:45,100 --> 00:04:46,730
+one we're all excited about.
+
+134
+00:04:46,730 --> 00:04:50,370
+That stand and that
+monitor got my attention.
+
+135
+00:04:50,370 --> 00:04:53,830
+The $5,000 monitor with
+an extra $1,000 stand,
+
+136
+00:04:53,830 --> 00:04:55,882
+I don't know if a lot
+of people caught that,
+
+137
+00:04:55,882 --> 00:04:59,544
+and then there's another
+$1,000 for the matte finish.
+
+138
+00:04:59,544 --> 00:05:02,010
+So that's an exciting
+display, but its very pricey.
+
+139
+00:05:02,010 --> 00:05:03,690
+But its for the pros so
+we'll see how that goes.
+
+140
+00:05:03,690 --> 00:05:05,710
+And then there's a ton
+of features in Mac OS
+
+141
+00:05:05,710 --> 00:05:08,553
+in watch OS, in IOS, in iPad OS.
+
+142
+00:05:09,946 --> 00:05:11,109
+Its all good stuff.
+
+143
+00:05:11,109 --> 00:05:12,950
+- There's so much stuff,
+I don't even know.
+
+144
+00:05:12,950 --> 00:05:14,000
+This made no sense.
+
+145
+00:05:14,000 --> 00:05:15,820
+- And there we go guys, highlights from
+
+146
+00:05:15,820 --> 00:05:19,472
+DubDub, its been absolutely
+awesome, so much stuff.
+
+147
+00:05:19,472 --> 00:05:22,430
+For me personally, dark
+mode, something that I was
+
+148
+00:05:22,430 --> 00:05:23,410
+definitely looking forward to, you
+
+149
+00:05:23,410 --> 00:05:25,840
+guys have hear me say
+"dark mode all things"
+
+150
+00:05:25,840 --> 00:05:27,830
+so its great that we now have that.
+
+151
+00:05:27,830 --> 00:05:30,260
+And also, sidecar, being
+able to use your iPad Pro
+
+152
+00:05:30,260 --> 00:05:33,610
+with the Apple pencil,
+that should be really cool.
+
+153
+00:05:33,610 --> 00:05:35,680
+I know somebody who uses
+that Wacom bamboo tablet
+
+154
+00:05:35,680 --> 00:05:37,979
+so it will be nice to be
+able to experience that.
+
+155
+00:05:37,979 --> 00:05:41,680
+And Mac Pro, I mean that thing is a beast.
+
+156
+00:05:41,680 --> 00:05:43,780
+I know there's going to be a
+lot of cheese grater jokes,
+
+157
+00:05:43,780 --> 00:05:47,130
+but how powerful it is, is pretty crazy.
+
+158
+00:05:47,130 --> 00:05:48,650
+And that's it for this video.
+
+159
+00:05:48,650 --> 00:05:50,230
+Make sure you subscribe
+to all of my friends.
+
+160
+00:05:50,230 --> 00:05:52,380
+Big shout out to them for joining in.
+
+161
+00:05:52,380 --> 00:05:54,480
+Their channels will be linked
+in the description below.
+
+162
+00:05:54,480 --> 00:05:55,530
+And if you enjoyed this video,
+
+163
+00:05:55,530 --> 00:05:57,800
+then be sure to smash that like button.
+
+164
+00:05:57,800 --> 00:06:00,400
+Thanks for watching this
+is Saf on SuperSaf TV.
+
+165
+00:06:00,400 --> 00:06:01,630
+I'll see you next time.
+
+166
+00:06:01,630 --> 00:06:03,663
+Also don't forget to
+subscribe to me as well.
+
+167
+00:06:06,230 --> 00:06:07,250
+- I'm just gonna ramble and hope you
+
+168
+00:06:07,250 --> 00:06:08,340
+make me look good in post.
+
+169
+00:06:08,340 --> 00:06:11,823
+- I *gibberish* okay hold on sorry
+
+170
+00:06:11,823 --> 00:06:13,337
+*laughter*
+
+171
+00:06:13,337 --> 00:06:16,640
+- *laughter* stop you're messing me, its
+
+172
+00:06:16,640 --> 00:06:18,030
+its been too long of a day.
+
+173
+00:06:18,030 --> 00:06:19,610
+- I don't actually have one, that
+
+174
+00:06:19,610 --> 00:06:21,122
+sounds dumb, don't use that.
+
+175
+00:06:21,122 --> 00:06:21,955
+I love that you're able to actually...
+
+176
+00:06:21,955 --> 00:06:22,788
+I'm definitely gonna use that
+
+177
+00:06:23,930 --> 00:06:27,265
+- It's about three kidneys,
+is the rough, rough price.
+
+178
+00:06:27,265 --> 00:06:29,110
+The display is cool
+
+179
+00:06:29,110 --> 00:06:30,732
+- Two of yours one of mine.
+
+180
+00:06:30,732 --> 00:06:33,293
+- I only have two, so I
+think I can only give up one.
+
+181
+00:06:33,293 --> 00:06:35,200
+- We all throw one in
+
+182
+00:06:35,200 --> 00:06:37,506
+- I'm good, I'm good.
+
+183
+00:06:37,506 --> 00:06:40,089
+(upbeat music)

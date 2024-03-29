@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:03,478
+Google launched a new update
+
+2
+00:00:03,478 --> 00:00:05,478
+Now You can change its Language to Hinglish
+
+3
+00:00:05,478 --> 00:00:07,478
+and Your language will look like this 
+
+4
+00:00:07,478 --> 00:00:09,802
+QR Scan Karein
+
+5
+00:00:09,802 --> 00:00:12,238
+Contact ko Payment Karein
+
+6
+00:00:12,238 --> 00:00:16,101
+It is like you talk normally on social media
+
+7
+00:00:16,101 --> 00:00:18,910
+Transaction History Dekhein
+
+8
+00:00:21,534 --> 00:00:26,256
+TO change this you need to go to profille
+
+9
+00:00:26,256 --> 00:00:28,256
+Then Go to Setting 
+
+10
+00:00:28,256 --> 00:00:31,605
+Then Personal Info
+
+11
+00:00:32,633 --> 00:00:37,267
+Now you can see Option Language 
+
+12
+00:00:37,717 --> 00:00:43,702
+Simply change it to Hinglish 

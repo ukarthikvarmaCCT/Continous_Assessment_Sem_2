@@ -1,0 +1,1040 @@
+1
+00:00:02,190 --> 00:00:07,190
+In September of 2009, a critical event unfolded
+in the rugged terrains of the Shuryak Valley
+
+2
+00:00:07,190 --> 00:00:09,730
+in Kunar province, Afghanistan.
+
+3
+00:00:09,730 --> 00:00:14,330
+A powerful Blackhawk helicopter, on its mission
+to rescue wounded Marines, found itself under
+
+4
+00:00:14,330 --> 00:00:16,630
+intense fire from Taliban militiamen.
+
+5
+00:00:16,630 --> 00:00:21,260
+The situation on the ground was dire; the
+defending forces were outnumbered, and the
+
+6
+00:00:21,260 --> 00:00:25,949
+Blackhawk's position became increasingly perilous
+amid the escalating firefight.
+
+7
+00:00:25,949 --> 00:00:30,580
+In this tense moment, pilot Patrick Benson
+made a sudden and unexpected appearance in
+
+8
+00:00:30,580 --> 00:00:34,700
+the most surprising of helicopters, barely
+suited for the situation.
+
+9
+00:00:34,700 --> 00:00:39,680
+His Bell OH-58, typically used for light reconnaissance,
+entered the fray.
+
+10
+00:00:39,680 --> 00:00:44,041
+Despite its compact size, the OH-58 was no
+stranger to combat.
+
+11
+00:00:44,041 --> 00:00:48,820
+It could be armed with an array of weapons,
+including Stinger air-to-air missiles, a .50-caliber
+
+12
+00:00:48,820 --> 00:00:55,250
+machine gun, podded 70mm Hydra rockets, and
+AGM-114 Hellfire air-to-ground missiles.
+
+13
+00:00:55,250 --> 00:00:59,590
+It was a bold move, and Benson drew the enemy's
+fire towards the small helicopter, risking
+
+14
+00:00:59,590 --> 00:01:02,220
+his life to protect the wounded Marines.
+
+15
+00:01:02,220 --> 00:01:06,900
+The OH-58 took several hits, with its nose
+being punctured by small arms fire, injuring
+
+16
+00:01:06,900 --> 00:01:09,380
+both Benson and his co-pilot.
+
+17
+00:01:09,380 --> 00:01:13,200
+Despite his injuries, Benson persisted in
+his efforts, ensuring the Blackhawk could
+
+18
+00:01:13,200 --> 00:01:15,369
+safely evacuate the area.
+
+19
+00:01:15,369 --> 00:01:19,220
+This act of bravery and dedication to his
+fellow soldiers would later earn Benson and
+
+20
+00:01:19,220 --> 00:01:22,090
+his co-pilot the accolades they rightly deserved.
+
+21
+00:01:22,090 --> 00:01:26,230
+Moreover, this incident showcased the resilience
+and dependability of the OH-58, aptly nicknamed
+
+22
+00:01:26,230 --> 00:01:38,580
+the Kiowa Warrior…"
+
+23
+00:01:38,580 --> 00:01:43,450
+The Ugly Duckling
+Following the success of the American-made
+
+24
+00:01:43,450 --> 00:01:48,280
+helicopters deployed during the Far East campaigns
+of World War 2, the military envisioned and
+
+25
+00:01:48,280 --> 00:01:52,549
+developed several types of rotary wing aircraft
+tailored for different uses.
+
+26
+00:01:52,549 --> 00:01:56,649
+Besides providing transport for troops and
+carrying supplies for logistical support,
+
+27
+00:01:56,649 --> 00:02:01,149
+such as the Korean War era Sioux, or the future
+Chinook, helicopters began to be employed
+
+28
+00:02:01,149 --> 00:02:05,420
+for retrieving other helicopters and aircraft
+and even delivering artillery and ground vehicles
+
+29
+00:02:05,420 --> 00:02:07,020
+across difficult terrain.
+
+30
+00:02:07,020 --> 00:02:11,830
+Others, such as the future Bell AH-1 Cobra,
+would find their purpose as gunships armed
+
+31
+00:02:11,830 --> 00:02:16,120
+to the teeth, ready to provide immediate fire
+support to allied ground troops and effectively
+
+32
+00:02:16,120 --> 00:02:18,239
+decimate the enemy.
+
+33
+00:02:18,239 --> 00:02:22,750
+As American involvement in Vietnam increased,
+the United States Navy commenced looking for
+
+34
+00:02:22,750 --> 00:02:27,489
+a replacement for the Bell OH-13 Sioux and
+Hiller OH-23 Raven for the reconnaissance
+
+35
+00:02:27,489 --> 00:02:28,720
+role.
+
+36
+00:02:28,720 --> 00:02:32,660
+Both helicopters had been successfully used
+during the Korean War for MEDVAC or medical
+
+37
+00:02:32,660 --> 00:02:33,660
+evacuation.
+
+38
+00:02:33,660 --> 00:02:38,810
+However, they struggled with their piston
+engines, offering a maximum output of 250
+
+39
+00:02:38,810 --> 00:02:41,200
+shaft horsepower.
+
+40
+00:02:41,200 --> 00:02:46,080
+On behalf of the Army, the US Navy approached
+over 20 helicopter manufacturers for the submission
+
+41
+00:02:46,080 --> 00:02:50,110
+of proposals for a Light Observation Helicopter
+or LOH.
+
+42
+00:02:50,110 --> 00:02:55,120
+The designs had to be powered by an Allison
+250C-20B free turbine engine, and their primary
+
+43
+00:02:55,120 --> 00:02:59,060
+role was to be the eyes in the skies for military
+intelligence.
+
+44
+00:02:59,060 --> 00:03:03,890
+Besides reconnaissance, the rotary-wing aircraft
+had to be capable of ground attack, transport,
+
+45
+00:03:03,890 --> 00:03:05,910
+and medical evacuation roles.
+
+46
+00:03:05,910 --> 00:03:10,940
+Of the twelve helicopter manufacturers that
+entered the competition, only three were shortlisted.
+
+47
+00:03:10,940 --> 00:03:19,020
+Bell presented the YOH-4A or Model 206, Hughes
+the YOH-6A Model 369, and Hiller the YOH-5A
+
+48
+00:03:19,020 --> 00:03:20,330
+FH1100.
+
+49
+00:03:20,330 --> 00:03:24,629
+Bell produced five prototypes of its helicopter
+that were tested thoroughly in 1962.
+
+50
+00:03:24,629 --> 00:03:30,879
+During its maiden flight, Army and Navy personnel
+referred to the YOH-4A as the Ugly Duckling
+
+51
+00:03:30,879 --> 00:03:33,020
+when compared to the competitors.
+
+52
+00:03:33,020 --> 00:03:37,659
+It was not a good omen.
+
+53
+00:03:37,659 --> 00:03:43,340
+Ranger to the Rescue
+After testing the Bell, Hiller, and Hughes
+
+54
+00:03:43,340 --> 00:03:47,750
+helicopters, the Army ultimately settled for
+the Hughes OH-6 Cayuse “Loach” in May
+
+55
+00:03:47,750 --> 00:03:49,600
+1965.
+
+56
+00:03:49,600 --> 00:03:55,120
+Despite the Army's decision, Dave Ostrowski,
+an Army aeronautical engineer in the LOH contest,
+
+57
+00:03:55,120 --> 00:03:59,310
+said in issue 10 of Take Off magazine that
+Bell's model: (QUOTE) “Sprang off the ground
+
+58
+00:03:59,310 --> 00:04:00,849
+like a homesick angel.
+
+59
+00:04:00,849 --> 00:04:03,020
+It had power, speed, and maneuverability.
+
+60
+00:04:03,020 --> 00:04:04,799
+It felt good.
+
+61
+00:04:04,799 --> 00:04:07,049
+It was a super ship to fly.”
+
+62
+00:04:07,049 --> 00:04:09,819
+Nevertheless, it was not over yet for Bell.
+
+63
+00:04:09,819 --> 00:04:14,170
+They knew their helicopter had potential,
+and the company decided to market it for civilian
+
+64
+00:04:14,170 --> 00:04:15,170
+use.
+
+65
+00:04:15,170 --> 00:04:19,359
+But first, the engineers had to redesign the
+Ugly Duckling to attract customers.
+
+66
+00:04:19,359 --> 00:04:24,360
+The displeasing bubble face canopy and small
+fuselage had to be reshaped to be easier on
+
+67
+00:04:24,360 --> 00:04:28,270
+the eye, provide more space for the cramped
+quarters of the three passengers, and ample
+
+68
+00:04:28,270 --> 00:04:30,190
+cargo space.
+
+69
+00:04:30,190 --> 00:04:35,380
+In January 1966, Bell presented a redesigned
+fuselage and dubbed the new helicopter the
+
+70
+00:04:35,380 --> 00:04:38,110
+Model 206A Jet Ranger.
+
+71
+00:04:38,110 --> 00:04:42,340
+The fuselage was more aesthetically pleasing,
+added over 16 cubic feet of cargo space for
+
+72
+00:04:42,340 --> 00:04:46,340
+luggage, and made the passenger compartment
+more pleasing, providing enough space for
+
+73
+00:04:46,340 --> 00:04:48,030
+up to five people.
+
+74
+00:04:48,030 --> 00:04:51,600
+Furthermore, the Jet Ranger was also modified
+internally.
+
+75
+00:04:51,600 --> 00:04:54,479
+It was now powered by a 317 horsepower Allison
+250-C18 engine.
+
+76
+00:04:54,479 --> 00:05:00,090
+The Ranger had its maiden flight the same
+month and experienced no issues.
+
+77
+00:05:00,090 --> 00:05:04,139
+It became a best seller in the coming months,
+becoming a familiar sight around the United
+
+78
+00:05:04,139 --> 00:05:05,139
+States.
+
+79
+00:05:05,139 --> 00:05:10,660
+The Jet Ranger was adopted by the government,
+forest services, law enforcement, news broadcasters,
+
+80
+00:05:10,660 --> 00:05:12,560
+and tour companies.
+
+81
+00:05:12,560 --> 00:05:16,930
+Bell's Jet Ranger became so recognizable that
+even Italian manufacturer Agusta acquired
+
+82
+00:05:16,930 --> 00:05:20,700
+the production rights to fly the Jet Ranger
+over the skies of Europe.
+
+83
+00:05:20,700 --> 00:05:25,910
+In January 1968, Bell scored big when the
+Jet Ranger was solicited by the US Navy to
+
+84
+00:05:25,910 --> 00:05:28,950
+come up with a modified variant for flight
+training.
+
+85
+00:05:28,950 --> 00:05:32,370
+Over 40 TH-57 Sea Rangers were produced.
+
+86
+00:05:32,370 --> 00:05:36,850
+And there was more to come for Model 206.
+
+87
+00:05:36,850 --> 00:05:44,660
+The Kiowa
+While Bell's Jet Ranger flew thousands of
+
+88
+00:05:44,660 --> 00:05:50,919
+people across the US without incidents, Hughes’
+OH-6A Cayuse struggled in Southeast Asia.
+
+89
+00:05:50,919 --> 00:05:54,000
+The fighting in Vietnam had turned into a
+meat grinder.
+
+90
+00:05:54,000 --> 00:05:59,010
+In January 1968, the North Vietnamese launched
+a mass offensive during the Tet New Year festivities,
+
+91
+00:05:59,010 --> 00:06:02,880
+and dozens of cities were sieged by the Communist
+forces.
+
+92
+00:06:02,880 --> 00:06:06,160
+Thanks to the effectiveness of the Ho Chi
+Minh Trail, the North Vietnamese Army was
+
+93
+00:06:06,160 --> 00:06:10,690
+now supplied and equipped with modern Soviet
+and Chinese equipment, including anti-aircraft
+
+94
+00:06:10,690 --> 00:06:14,470
+countermeasures that were making quick work
+of the American OH-6A Cayuses.
+
+95
+00:06:14,470 --> 00:06:20,060
+The Cayuse was exposed to enemy fire during
+scouting and artillery fire correction missions,
+
+96
+00:06:20,060 --> 00:06:23,660
+making it an easy target for hidden Viet Cong
+or NVA troops.
+
+97
+00:06:23,660 --> 00:06:27,599
+Casualties for Hughes’ helicopter were piling
+up, and the company could not keep up with
+
+98
+00:06:27,599 --> 00:06:30,320
+production and its costs.
+
+99
+00:06:30,320 --> 00:06:35,020
+The Army reopened the LOH competition because
+Hughes could not meet production demands.
+
+100
+00:06:35,020 --> 00:06:39,460
+Bell submitted its upgraded Model 206 Jet
+Ranger and won the contract.
+
+101
+00:06:39,460 --> 00:06:44,759
+It was designated OH-58A and named the Kiowa,
+following the Army's tradition of honoring
+
+102
+00:06:44,759 --> 00:06:46,889
+Native American tribes.
+
+103
+00:06:46,889 --> 00:06:52,389
+The OH-59 Kiowa was delivered to Army inventories
+in May 1969.
+
+104
+00:06:52,389 --> 00:06:57,650
+It had a length of 34 feet, a width of 35
+feet, and a height of 12.9 feet.
+
+105
+00:06:57,650 --> 00:07:02,139
+The scout helicopter had a weight of 3,289
+pounds.
+
+106
+00:07:02,139 --> 00:07:06,780
+Compared to its civilian variant, the Kiowa
+featured military instruments, multiple radios,
+
+107
+00:07:06,780 --> 00:07:11,260
+Army olive drab livery, and deflecting blades
+above the canopy and belove the nose to avoid
+
+108
+00:07:11,260 --> 00:07:12,919
+crashes with electrical wires.
+
+109
+00:07:12,919 --> 00:07:19,900
+The Kiowa was also powered by an Allison T63-A-700
+engine rated at 315 horsepower mounted atop
+
+110
+00:07:19,900 --> 00:07:21,660
+and to the rear of the passenger cabin.
+
+111
+00:07:21,660 --> 00:07:26,610
+The cockpit was well-forward and provided
+all-around visibility for the pilot and co-pilot
+
+112
+00:07:26,610 --> 00:07:34,150
+thanks to the large windscreens and the option
+to remove hinged side doors.
+
+113
+00:07:34,150 --> 00:07:39,620
+Changing the Mission
+Behind the cockpit, the passenger cabin featured
+
+114
+00:07:39,620 --> 00:07:44,009
+entry-exit doors and enough room for three
+soldiers or two medical litters.
+
+115
+00:07:44,009 --> 00:07:47,750
+The first Kiowa variant featured a flexible
+twin-bladed main rotor that would later be
+
+116
+00:07:47,750 --> 00:07:50,470
+replaced with a four-bladed one with the OH-58D
+model.
+
+117
+00:07:50,470 --> 00:07:57,639
+The first batch of Kiowas arrived in Vietnam
+in August 1969 to support the Hughes Cayuse
+
+118
+00:07:57,639 --> 00:08:01,389
+in the reconnaissance, observation, and medical
+evacuation roles.
+
+119
+00:08:01,389 --> 00:08:06,389
+The Kiowas were lightly armed with either
+an M129 40-millimeter automatic grenade launcher
+
+120
+00:08:06,389 --> 00:08:12,900
+or a powerful 7.62-millimeter M134 Minigun
+that could fire up to 4,000 rounds per minute.
+
+121
+00:08:12,900 --> 00:08:18,449
+During a North Vietnamese offensive in April
+1972, John Paul Vann, a US civilian advisor
+
+122
+00:08:18,449 --> 00:08:24,240
+who often piloted Kiowas, directly coordinated
+the attack of AC130s, jet fighters, Cobras,
+
+123
+00:08:24,240 --> 00:08:29,349
+and Hueys to destroy enemy formations trying
+to overrun Firebase Delta in the Highlands.
+
+124
+00:08:29,349 --> 00:08:34,919
+In his book, A Bright Shining Lie, Author
+Neil Sheehan recalls that Vann, unsatisfied
+
+125
+00:08:34,919 --> 00:08:39,241
+with providing guidance for US aircraft, began
+stocking his Kiowa with as many supplies as
+
+126
+00:08:39,241 --> 00:08:43,190
+the helicopter could handle to deliver them
+to Firebase Delta.
+
+127
+00:08:43,190 --> 00:08:47,660
+Six times the brave man and his Kiowa delivered
+ammunition and other supplies to the besieged
+
+128
+00:08:47,660 --> 00:08:50,140
+troops under enemy ground fire.
+
+129
+00:08:50,140 --> 00:08:55,269
+Weeks later, Vann and his Kiowa were landed
+in a ravine to extract US and South Vietnamese
+
+130
+00:08:55,269 --> 00:08:57,800
+advisors while enemy tanks approached.
+
+131
+00:08:57,800 --> 00:09:00,200
+The helicopter escaped unscratched.
+
+132
+00:09:00,200 --> 00:09:02,750
+But Vann's luck soon ran out.
+
+133
+00:09:02,750 --> 00:09:08,840
+On June 9, 1972, he and his entire crew were
+lost when his Kiowa crashed into a hill due
+
+134
+00:09:08,840 --> 00:09:10,850
+to low visibility and light rain.
+
+135
+00:09:10,850 --> 00:09:17,370
+Over 310 Kiowas served in Vietnam between
+1969 and 1973.
+
+136
+00:09:17,370 --> 00:09:22,820
+More than 50 of them were combat losses.
+
+137
+00:09:22,820 --> 00:09:28,390
+The Warrior
+Following the end of the Vietnam War, the
+
+138
+00:09:28,390 --> 00:09:33,360
+US and NATO prepared for a possible large-scale
+Soviet Invasion of Western Europe.
+
+139
+00:09:33,360 --> 00:09:37,940
+The Soviets had AA defenses that were far
+more effective than the highly effective Strela
+
+140
+00:09:37,940 --> 00:09:40,040
+2-man portable air defense system.
+
+141
+00:09:40,040 --> 00:09:44,660
+This led to an improved variant of the Kiowa
+equipped with an AN/APR-39A Radar Warning
+
+142
+00:09:44,660 --> 00:09:49,959
+Receiver to inform the crew about enemy radars
+and night vision goggles for night operations.
+
+143
+00:09:49,959 --> 00:09:53,960
+A more powerful engine made the helicopter
+faster and more maneuverable.
+
+144
+00:09:53,960 --> 00:09:57,010
+This was the Charlie variant or OH-58C.
+
+145
+00:09:57,010 --> 00:10:02,779
+Nevertheless, this variant did not solve the
+armament issue the Kiowa faced since Vietnam.
+
+146
+00:10:02,779 --> 00:10:09,019
+Meanwhile, the Army was hard at work introducing
+the iconic UH-60 Blackhawk and the AH-64 Apache.
+
+147
+00:10:09,019 --> 00:10:14,990
+In 1981, the Army Helicopter Program upgraded
+the Kiowa with sophisticated sensors, a thermal
+
+148
+00:10:14,990 --> 00:10:20,510
+imager, a laser designator, and the iconic
+MMS or Mast Mounted Sight that made the Kiowa
+
+149
+00:10:20,510 --> 00:10:21,510
+easily recognizable.
+
+150
+00:10:21,510 --> 00:10:28,440
+The Kiowa Warrior, or the OH-58D variant,
+was fitted with a Rolls-Royce T703-AD-700A
+
+151
+00:10:28,440 --> 00:10:34,550
+turboshaft engine providing 650 horsepower
+and a top speed of 149 miles per hour.
+
+152
+00:10:34,550 --> 00:10:39,940
+It had a range of 345 miles and a service
+ceiling of over 15,000 feet.
+
+153
+00:10:39,940 --> 00:10:44,329
+The Warrior packed some punch and was armed
+with 12.7-millimeter machine guns in either
+
+154
+00:10:44,329 --> 00:10:50,640
+M296 or M3P mounts, Hellfire-guided anti-tank
+missiles, Hydra 70 high-explosive unguided
+
+155
+00:10:50,640 --> 00:10:54,519
+rockets, and AIMS-92 Stinger air-to-air missiles.
+
+156
+00:10:54,519 --> 00:10:59,730
+During the 1980s and 1990s, over 400 Kiowas
+were upgraded to the Warrior variant, becoming
+
+157
+00:10:59,730 --> 00:11:03,440
+crucial for their new armed light scout role
+during the conflicts of the Middle East in
+
+158
+00:11:03,440 --> 00:11:05,880
+the same decade.
+
+159
+00:11:05,880 --> 00:11:10,070
+Iraq and Iran were engulfed in a power struggle
+that resulted in US involvement in providing
+
+160
+00:11:10,070 --> 00:11:12,779
+escort services to merchant ships in the Persian
+Gulf.
+
+161
+00:11:12,779 --> 00:11:17,960
+The Kiowas were bound for the Persian Gulf.
+
+162
+00:11:17,960 --> 00:11:23,510
+Reagan's War on Drugs
+Kiowa Warriors replaced other helicopters
+
+163
+00:11:23,510 --> 00:11:26,700
+for Operation Prime Chance during the Iran-Iraq
+War.
+
+164
+00:11:26,700 --> 00:11:29,149
+The objective was to escort oil tankers.
+
+165
+00:11:29,149 --> 00:11:33,670
+From February to September 1988, the Kiowas
+patrolled the Persian Gulf but were never
+
+166
+00:11:33,670 --> 00:11:36,019
+engaged by the Iranian Navy.
+
+167
+00:11:36,019 --> 00:11:40,660
+During these operations, the Kiowas cooperated
+with Task Force 118 Little Birds, locating
+
+168
+00:11:40,660 --> 00:11:42,899
+and evading enemy vessels.
+
+169
+00:11:42,899 --> 00:11:47,550
+One year later, in 1989, they returned to
+the Middle East when Iraq invaded Kuwait.
+
+170
+00:11:47,550 --> 00:11:53,750
+As Operation Desert Shield turned into Operation
+Desert Storm, over 115 Kiowas were deployed
+
+171
+00:11:53,750 --> 00:11:55,870
+for different combat roles.
+
+172
+00:11:55,870 --> 00:12:00,310
+Like in Vietnam, the Kiowas spotted Iraqi
+objectives for Apache helicopters and other
+
+173
+00:12:00,310 --> 00:12:02,329
+attack aircraft to hunt them down.
+
+174
+00:12:02,329 --> 00:12:06,280
+They also provided artillery fire correction
+to properly strike the enemy.
+
+175
+00:12:06,280 --> 00:12:12,160
+No Kiowa Warrior was lost in combat during
+the war against Iraq during the Gulf War.
+
+176
+00:12:12,160 --> 00:12:17,070
+During this time, the Kiowas were also dispatched
+to the US following Reagan's War on Drugs
+
+177
+00:12:17,070 --> 00:12:18,570
+Policy.
+
+178
+00:12:18,570 --> 00:12:23,290
+The National Guard Bureau created Reconnaissance
+and Aerial Interdiction Detachments or RAIDs,
+
+179
+00:12:23,290 --> 00:12:27,519
+of which over 80 were Kiowas that conducted
+more than 1,200 counterdrug reconnaissance
+
+180
+00:12:27,519 --> 00:12:29,360
+and interdiction operations.
+
+181
+00:12:29,360 --> 00:12:33,740
+At the dawn of the XXI century, the Kiowas
+were again deployed to the Middle East as
+
+182
+00:12:33,740 --> 00:12:36,110
+part of the War on Terror.
+
+183
+00:12:36,110 --> 00:12:41,079
+The OH-58D became part of the air units participating
+in Operation Iraqi Freedom and Operation Enduring
+
+184
+00:12:41,079 --> 00:12:43,139
+Freedom in Afghanistan.
+
+185
+00:12:43,139 --> 00:12:49,170
+According to Bell, the Kiowas flew over 820,000
+combat hours by April 2013.
+
+186
+00:12:49,170 --> 00:12:54,160
+Over 35 helicopters were lost in combat operations
+and accidents before American retirement from
+
+187
+00:12:54,160 --> 00:12:59,709
+Afghanistan.
+
+188
+00:12:59,709 --> 00:13:05,199
+Drawing Enemy Fire
+While in Afghanistan, Chief Warrant Officer
+
+189
+00:13:05,199 --> 00:13:09,730
+Patrick Benson flew numerous reconnaissance
+and security missions on a Kiowa, becoming
+
+190
+00:13:09,730 --> 00:13:13,300
+the eyes in the sky for American attack helicopters.
+
+191
+00:13:13,300 --> 00:13:17,850
+In September 2009, Benson and his co-pilot
+were providing security and reconnaissance
+
+192
+00:13:17,850 --> 00:13:22,640
+for infantry attacking Taliban troops in a
+mountain in what is known today as the Shuriak
+
+193
+00:13:22,640 --> 00:13:23,640
+Valley.
+
+194
+00:13:23,640 --> 00:13:28,230
+Benson left the area for a refuel, and minutes
+later, the Marines left behind were ambushed.
+
+195
+00:13:28,230 --> 00:13:33,330
+During the fight, two Marines were hurt, and
+Benson was called again to provide Medevac
+
+196
+00:13:33,330 --> 00:13:34,330
+security.
+
+197
+00:13:34,330 --> 00:13:37,940
+The Blackhawk helicopter dispatched to hoist
+up the wounded Marines was immediately attacked
+
+198
+00:13:37,940 --> 00:13:40,209
+by the enemy, threatening the extraction.
+
+199
+00:13:40,209 --> 00:13:44,470
+The men on the ground did what they could
+to fight off the enemy attack, but they were
+
+200
+00:13:44,470 --> 00:13:49,519
+outnumbered, and the Blackhawk’s safety
+turned precarious with every second that passed.
+
+201
+00:13:49,519 --> 00:13:53,290
+It was then when Benson’s Kiowa appeared
+out of nowhere and did the unbelievable for
+
+202
+00:13:53,290 --> 00:13:58,130
+a light reconnaissance helicopter of its class:
+it began to draw enemy fire away from the
+
+203
+00:13:58,130 --> 00:13:59,130
+Blackhawk.
+
+204
+00:13:59,130 --> 00:14:04,040
+Soon, the small helicopter’s nose was punctured
+by small arms fire, wounding Benson and leaving
+
+205
+00:14:04,040 --> 00:14:05,910
+his co-pilot unconscious.
+
+206
+00:14:05,910 --> 00:14:11,470
+Nevertheless, Benson did not falter and continued
+to assist until the Blackhawk safely evacuated
+
+207
+00:14:11,470 --> 00:14:13,160
+the area.
+
+208
+00:14:13,160 --> 00:14:17,420
+With his aircraft failing and his best-man
+Adam Stead wounded, Benson landed at the nearest
+
+209
+00:14:17,420 --> 00:14:20,320
+base to save his co-pilot and his Kiowa.
+
+210
+00:14:20,320 --> 00:14:25,220
+Due to his extreme bravery shown in combat,
+Benson was awarded the American Legion Valor
+
+211
+00:14:25,220 --> 00:14:29,080
+Award, proving that even a small helicopter,
+such as the Kiowa, can change the tide of
+
+212
+00:14:29,080 --> 00:14:31,019
+battle if used properly.
+
+213
+00:14:31,019 --> 00:14:35,340
+The Army officially retired the Kiowa from
+service in July 2020 after it selected the
+
+214
+00:14:35,340 --> 00:14:40,260
+Bell 360 Invictus and Sikorsky's Raider X
+as possible replacements for the Future Attack
+
+215
+00:14:40,260 --> 00:14:42,610
+Reconnaissance Aircraft program.
+
+216
+00:14:42,610 --> 00:14:47,740
+Nevertheless, the Kiowa remains in operation
+with several allied nations across the globe,
+
+217
+00:14:47,740 --> 00:14:52,190
+proving that after more than 50 years of service,
+it continues to excel as a reconnaissance
+
+218
+00:14:52,190 --> 00:14:58,570
+helicopter.
+
+219
+00:14:58,570 --> 00:15:00,490
+Thank you for watching our video!
+
+220
+00:15:00,490 --> 00:15:04,160
+Please like and subscribe to our Dark Skies
+channel to watch more videos about American
+
+221
+00:15:04,160 --> 00:15:05,930
+helicopters during the Vietnam War.
+
+222
+00:15:05,930 --> 00:15:10,069
+Don't forget to hit the bell icon to be notified
+of our newest videos!
